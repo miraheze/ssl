@@ -158,4 +158,7 @@
   reviwiki:
     url: 'reviwiki.info'
     ca: 'LetsEncrypt'
+  embobada:
+    url: 'embobada.com'
+    ca: 'LetsEncrypt'
     
