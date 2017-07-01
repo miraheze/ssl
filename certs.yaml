@@ -158,4 +158,8 @@
   embobada:
     url: 'embobada.com'
     ca: 'LetsEncrypt'
+  bp:
+    url: 'bebaskanpengetahuan.org'
+    ca: 'LetsEncrypt'
+
     
