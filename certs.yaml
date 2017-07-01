@@ -152,9 +152,6 @@
   nenawiki:
     url: 'nenawiki.org'
     ca: 'LetsEncrypt'
-  denverkr:
-    url: 'wiki.denverkr.cf'
-    ca: 'LetsEncrypt'
   reviwiki:
     url: 'reviwiki.info'
     ca: 'LetsEncrypt'
