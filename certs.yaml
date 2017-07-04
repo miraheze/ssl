@@ -163,6 +163,4 @@
     ca: 'LetsEncrypt'
   tulpa:
     url: 'wiki.tulpa.info'
-    ca: 'CloudFlare'
-
-    
+    ca: 'LetsEncrypt'
