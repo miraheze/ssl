@@ -164,3 +164,6 @@
   tulpa:
     url: 'wiki.tulpa.info'
     ca: 'LetsEncrypt'
+  marinebiodiversitymatrix:
+    url: 'marinebiodiversitymatrix.org'
+    ca: 'LetsEncrypt'
