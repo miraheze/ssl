@@ -167,3 +167,6 @@
   marinebiodiversitymatrix:
     url: 'marinebiodiversitymatrix.org'
     ca: 'LetsEncrypt'
+  lodgejsnydr:
+    url: 'lodge.jsnydr.com'
+    ca: 'LetsEncrypt'
