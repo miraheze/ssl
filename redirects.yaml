@@ -53,5 +53,5 @@
   metaorain:
     url: 'meta.orain.org'
     redirect: 'meta.miraheze.org'
-    sslname: 'miraheze.orain.org'
+    sslname: 'meta.orain.org'
     ca: 'LetsEncrypt'
