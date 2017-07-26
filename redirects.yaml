@@ -45,3 +45,13 @@
     redirect: 'reviwiki.info'
     sslname: 'www.reviwiki.info'
     ca: 'LetsEncrypt'
+  allthetropesorain:
+    url: 'allthetropes.orain.org'
+    redirect: 'allthetropes.org'
+    sslname: 'allthetropes.orain.org'
+    ca: 'LetsEncrypt'
+  metaorain:
+    url: 'meta.orain.org'
+    redirect: 'meta.miraheze.org'
+    sslname: 'miraheze.orain.org'
+    ca: 'LetsEncrypt'
