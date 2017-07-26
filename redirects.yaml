@@ -59,4 +59,4 @@
     url: 'dp.miraheze.org'
     redirect: 'dakhilcommunity.miraheze.org'
     sslname: 'wildcard.miraheze.org'
-    ca: 'LetsEncrypt'
+    ca: 'GlobalSign'
