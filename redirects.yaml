@@ -55,8 +55,3 @@
     redirect: 'meta.miraheze.org'
     sslname: 'meta.orain.org'
     ca: 'LetsEncrypt'
-  dakhilcommunity:
-    url: 'dc.miraheze.org'
-    redirect: 'dakhilcommunity.miraheze.org'
-    sslname: 'wildcard.miraheze.org'
-    ca: 'GlobalSign'
