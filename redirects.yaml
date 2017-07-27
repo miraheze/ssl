@@ -45,6 +45,8 @@
     redirect: 'reviwiki.info'
     sslname: 'www.reviwiki.info'
     ca: 'LetsEncrypt'
+    
+# orain.org to miraheze.org wiki redirects
   allthetropesorain:
     url: 'allthetropes.orain.org'
     redirect: 'allthetropes.org'
@@ -54,4 +56,9 @@
     url: 'meta.orain.org'
     redirect: 'meta.miraheze.org'
     sslname: 'meta.orain.org'
+    ca: 'LetsEncrypt'
+  allthetropesorain:
+    url: 'poserdazfreebies.orain.org'
+    redirect: 'poserdazfreebies.miraheze.org'
+    sslname: 'poserdazfreebies.orain.org'
     ca: 'LetsEncrypt'
