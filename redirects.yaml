@@ -57,7 +57,7 @@
     redirect: 'meta.miraheze.org'
     sslname: 'meta.orain.org'
     ca: 'LetsEncrypt'
-  allthetropesorain:
+  poserdazfreebiessorain:
     url: 'poserdazfreebies.orain.org'
     redirect: 'poserdazfreebies.miraheze.org'
     sslname: 'poserdazfreebies.orain.org'
