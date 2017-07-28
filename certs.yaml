@@ -25,9 +25,6 @@
   grottocenter:
     url: 'wiki.grottocenter.org'
     ca: 'LetsEncrypt'
-  metatrek:
-    url: 'meta.trek.tk'
-    ca: 'LetsEncrypt'
   wikikaisaga:
     url: 'wiki.kaisaga.com'
     ca: 'LetsEncrypt'
