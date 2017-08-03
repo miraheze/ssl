@@ -170,6 +170,3 @@
   scientiawiki:
     url: 'scientiawiki.tk'
     ca: 'LetsEncrypt'
-  modelusgov:
-    url: 'www.modelusgov.us'
-    ca: 'LetsEncrypt'
