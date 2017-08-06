@@ -77,7 +77,7 @@
     url: 'takethatwiki.com'
     ca: 'LetsEncrypt'
   alwiki:
-    url: 'alwiki.net'
+    url: 'www.alwiki.net'
     ca: 'LetsEncrypt'
   evelopedia:
     url: 'evelopedia.tk'
