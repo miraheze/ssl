@@ -170,3 +170,6 @@
   scientiawiki:
     url: 'scientiawiki.tk'
     ca: 'LetsEncrypt'
+  worlduniversityandschool:
+    url: 'wiki.worlduniversityandschool.org'
+    ca: 'LetsEncrypt'
