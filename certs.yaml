@@ -34,9 +34,6 @@
   aenasan:
     url: 'wiki.aenasan.com'
     ca: 'LetsEncrypt'
-  garyjohnsonmeetups:
-    url: 'wiki.garyjohnsonmeetups.com'
-    ca: 'LetsEncrypt'
   irc:
     url: 'ircwiki.cf'
     ca: 'LetsEncrypt'
