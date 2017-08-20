@@ -170,3 +170,6 @@
   worlduniversityandschool:
     url: 'wiki.worlduniversityandschool.org'
     ca: 'LetsEncrypt'
+  nonbinary:
+    url: 'nonbinary.wiki'
+    ca: 'LetsEncrypt'
