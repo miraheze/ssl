@@ -45,6 +45,11 @@
     redirect: 'reviwiki.info'
     sslname: 'www.reviwiki.info'
     ca: 'LetsEncrypt'
+  wwwwikiescola.com:   
+    url: 'www.wikiescola.com.br'
+    redirect: 'wikiescola.com.br'
+    sslname: 'www.wikiescola.com.br'
+    ca: 'LetsEncrypt'
     
 # orain.org to miraheze.org wiki redirects
   allthetropesorain:
