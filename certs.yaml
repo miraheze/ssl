@@ -34,9 +34,6 @@
   aenasan:
     url: 'wiki.aenasan.com'
     ca: 'LetsEncrypt'
-  irc:
-    url: 'ircwiki.cf'
-    ca: 'LetsEncrypt'
   sandboxwisdom:
     url: 'sandbox.wisdomwiki.org'
     ca: 'LetsEncrypt'
