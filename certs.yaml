@@ -170,3 +170,6 @@
   nonbinary:
     url: 'nonbinary.wiki'
     ca: 'LetsEncrypt'
+  froggy:
+    url: 'froggy.info'
+    ca: 'LetsEncrypt'
