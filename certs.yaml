@@ -137,9 +137,6 @@
   prueba:
     url: 'es.publictestwiki.com'
     ca: 'LetsEncrypt'
-  livesnowmap:
-    url: 'wiki.livesnowmap.com'
-    ca: 'LetsEncrypt'
   nenawiki:
     url: 'nenawiki.org'
     ca: 'LetsEncrypt'
