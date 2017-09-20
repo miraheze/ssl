@@ -170,3 +170,7 @@
   froggy:
     url: 'froggy.info'
     ca: 'LetsEncrypt'
+  inebriationconfederation:
+    url: 'wiki.inebriation-confederation.com'
+    ca: 'LetsEncrypt'
+
