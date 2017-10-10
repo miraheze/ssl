@@ -182,3 +182,6 @@
   autocountsoft:
     url: 'wiki.autocountsoft.com'
     ca: 'LetsEncrypt'
+  madgenderscience:
+    url: 'madgenderscience.wiki'
+    ca: 'LetsEncrypt'
