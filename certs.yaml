@@ -179,3 +179,6 @@
   oecumene:
     url: 'oecumene.wiki'
     ca: 'LetsEncrypt'
+  autocountsoft:
+    url: 'wiki.autocountsoft.com'
+    ca: 'LetsEncrypt'
