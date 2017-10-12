@@ -185,3 +185,6 @@
   madgenderscience:
     url: 'madgenderscience.wiki'
     ca: 'LetsEncrypt'
+  gamergeeked: 
+    url: 'wiki.gamergeeked.us'
+    ca: 'LetsEncrypt'
