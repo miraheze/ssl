@@ -31,9 +31,6 @@
   wisdomwiki:
     url: 'wisdomwiki.org'
     ca: 'LetsEncrypt'
-  aenasan:
-    url: 'wiki.aenasan.com'
-    ca: 'LetsEncrypt'
   sandboxwisdom:
     url: 'sandbox.wisdomwiki.org'
     ca: 'LetsEncrypt'
