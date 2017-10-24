@@ -185,3 +185,6 @@
   gamergeeked: 
     url: 'wiki.gamergeeked.us'
     ca: 'LetsEncrypt'
+  kourouklides:
+    url: 'wiki.kourouklides.com'
+    ca: 'LetsEncrypt'
