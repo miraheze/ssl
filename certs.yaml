@@ -110,9 +110,6 @@
   jacksonheights:
     url: 'wiki.jacksonheights.nyc'
     ca: 'LetsEncrypt'
-  bootlegged:
-    url: 'bootlegged.questionable.photography'
-    ca: 'LetsEncrypt'
   kstartups:
     url: 'wiki.besuccess.com'
     ca: 'LetsEncrypt'
