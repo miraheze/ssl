@@ -185,3 +185,6 @@
   kourouklides:
     url: 'wiki.kourouklides.com'
     ca: 'LetsEncrypt'
+  lspdfr:
+    url: 'wiki.lspdfr.de'
+    ca: 'LetsEncrypt'
