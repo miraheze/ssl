@@ -9,7 +9,7 @@
     ca: 'LetsEncrypt'
   revi:
     url: 'private.revi.wiki'
-    ca: 'GeoTrust'
+    ca: 'Comodo'
   test:
     url: 'publictestwiki.com'
     ca: 'LetsEncrypt'
