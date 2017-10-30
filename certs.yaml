@@ -152,9 +152,6 @@
   lodgejsnydr:
     url: 'lodge.jsnydr.com'
     ca: 'LetsEncrypt'
-  scientiawiki:
-    url: 'scientiawiki.tk'
-    ca: 'LetsEncrypt'
   worlduniversityandschool:
     url: 'wiki.worlduniversityandschool.org'
     ca: 'LetsEncrypt'
