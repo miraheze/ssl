@@ -185,3 +185,6 @@
   lspdfr:
     url: 'wiki.lspdfr.de'
     ca: 'LetsEncrypt'
+  ldmsys:
+    url: 'wiki.ldmsys.net'
+    ca: 'LetsEncrypt'
