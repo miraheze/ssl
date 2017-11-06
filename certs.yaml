@@ -70,9 +70,6 @@
   alwiki:
     url: 'www.alwiki.net'
     ca: 'LetsEncrypt'
-  evelopedia:
-    url: 'evelopedia.tk'
-    ca: 'LetsEncrypt'
   meeusen:
     url: 'wiki.meeusen.net'
     ca: 'LetsEncrypt'
