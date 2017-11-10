@@ -60,7 +60,7 @@
     hsts: 'strict'
   unmadewiki:
     url: 'unmade.miraheze.org'
-    redirect: 'podpedia.miraheze.org/wiki/Portal:HelloInternet'
+    redirect: 'podpedia.miraheze.org/wiki/Portal:Unmade'
     sslname: 'wildcard.miraheze.org'
     ca: 'GlobalSign'
     hsts: 'strict'
