@@ -18,12 +18,6 @@
     redirect: 'meta.miraheze.org'
     sslname: 'miraheze.wiki'
     ca: 'LetsEncrypt'
-  studynotekr:
-    url: 'studynotekr.miraheze.org'
-    redirect: 'jayuwiki.miraheze.org'
-    sslname: 'wildcard.miraheze.org'
-    ca: 'GlobalSign'
-    hsts: 'strict'
   wwwchangemy:
     url: 'www.changemy.org'
     redirect: 'changemy.org'
@@ -50,6 +44,26 @@
     redirect: 'wikiescola.com.br'
     sslname: 'www.wikiescola.com.br'
     ca: 'LetsEncrypt'
+    
+# *.miraheze.org to *.miraheze.org wiki redirects
+  studynotekr:
+    url: 'studynotekr.miraheze.org'
+    redirect: 'jayuwiki.miraheze.org'
+    sslname: 'wildcard.miraheze.org'
+    ca: 'GlobalSign'
+    hsts: 'strict'
+  hellointernetwiki:
+    url: 'hellointernet.miraheze.org'
+    redirect: 'podpedia.miraheze.org/wiki/Portal:HelloInternet'
+    sslname: 'wildcard.miraheze.org'
+    ca: 'GlobalSign'
+    hsts: 'strict'
+  unmadewiki:
+    url: 'unmade.miraheze.org'
+    redirect: 'podpedia.miraheze.org/wiki/Portal:HelloInternet'
+    sslname: 'wildcard.miraheze.org'
+    ca: 'GlobalSign'
+    hsts: 'strict'
     
 # orain.org to miraheze.org wiki redirects
   allthetropesorain:
