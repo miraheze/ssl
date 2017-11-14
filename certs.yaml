@@ -185,3 +185,6 @@
   ldmsys:
     url: 'wiki.ldmsys.net'
     ca: 'LetsEncrypt'
+  ameciclo:
+    url: 'wiki.ameciclo.org'
+    ca: 'LetsEncrypt'
