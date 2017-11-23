@@ -165,7 +165,7 @@
     url: 'wiki.clonedeploy.org'
     ca: 'LetsEncrypt'
   oecumene:
-    url: 'oecumene.wiki'
+    url: 'oecumene.org'
     ca: 'LetsEncrypt'
   autocountsoft:
     url: 'wiki.autocountsoft.com'
