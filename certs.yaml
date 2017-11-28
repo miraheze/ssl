@@ -188,3 +188,6 @@
   ameciclo:
     url: 'wiki.ameciclo.org'
     ca: 'LetsEncrypt'
+  adadevelopersacademy:
+    url: 'adadevelopersacademy.wiki'
+    ca: 'LetsEncrypt'
