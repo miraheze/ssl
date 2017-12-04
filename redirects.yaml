@@ -44,6 +44,11 @@
     redirect: 'wikiescola.com.br'
     sslname: 'www.wikiescola.com.br'
     ca: 'LetsEncrypt'
+  wwwsdiyinfo:
+    url: 'www.sdiy.info'
+    redirect: 'sdiy.info'
+    sslname: 'www.sdiy.info'
+    ca: 'LetsEncrypt'
     
 # *.miraheze.org to *.miraheze.org wiki redirects
   studynotekr:
