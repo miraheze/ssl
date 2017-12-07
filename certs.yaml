@@ -200,4 +200,6 @@
   sdiy:
     url: 'sdiy.info'
     ca: 'LetsEncrypt'
-    
+  reviwbwiki:
+    url: 'wikibase.revi.wiki'
+    ca: 'LetsEncrypt'
