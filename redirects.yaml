@@ -49,6 +49,11 @@
     redirect: 'sdiy.info'
     sslname: 'www.sdiy.info'
     ca: 'LetsEncrypt'
+  wwwprogrammingred:
+    url: 'www.programming.red'
+    redirect: 'programming.red'
+    sslname: 'www.programming.red'
+    ca: 'LetsEncrypt'
     
 # *.miraheze.org to *.miraheze.org wiki redirects
   studynotekr:
