@@ -203,3 +203,6 @@
   reviwbwiki:
     url: 'wikibase.revi.wiki'
     ca: 'LetsEncrypt'
+  programmingred:
+    url: 'programming.red'
+    ca: 'LetsEncrypt'
