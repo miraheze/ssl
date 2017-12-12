@@ -206,3 +206,6 @@
   programmingred:
     url: 'programming.red'
     ca: 'LetsEncrypt'
+  jcs:
+    url: 'wiki.gesamtschule-nordkirchen.de'
+    ca: 'LetsEncrypt'
