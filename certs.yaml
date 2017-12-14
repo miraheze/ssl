@@ -209,3 +209,6 @@
   jcs:
     url: 'wiki.gesamtschule-nordkirchen.de'
     ca: 'LetsEncrypt'
+  teamwizardry:
+    url: 'wiki.teamwizardry.com'
+    ca: 'LetsEncrypt'
