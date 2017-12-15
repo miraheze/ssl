@@ -215,3 +215,6 @@
   maktaba:
     url: 'en.maktaba.co.in'
     ca: 'LetsEncrypt'
+  ciptamedia:
+    url: 'wiki.ciptamedia.org'
+    ca: 'LetsEncrypt'
