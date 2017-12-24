@@ -54,6 +54,12 @@
     redirect: 'programming.red'
     sslname: 'www.programming.red'
     ca: 'LetsEncrypt'
+  publicreviwiki:
+    url: 'public.revi.wiki'
+    redirect: 'reviwiki.info'
+    sslname: 'public.revi.wiki'
+    ca: 'LetsEncrypt'
+
     
 # *.miraheze.org to *.miraheze.org wiki redirects
   studynotekr:
