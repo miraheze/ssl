@@ -221,3 +221,6 @@
   b1tes:
     url: 'b1tes.org'
     ca: 'LetsEncrypt'
+  athenapedia:
+    url: 'athenapedia.org'
+    ca: 'LetsEncrypt'
