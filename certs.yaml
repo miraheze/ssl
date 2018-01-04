@@ -221,3 +221,6 @@
   athenapedia:
     url: 'athenapedia.org'
     ca: 'LetsEncrypt'
+  podpedia:
+    url: 'podpedia.org'
+    ca: 'LetsEncrypt'
