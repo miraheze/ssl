@@ -224,3 +224,6 @@
   podpedia:
     url: 'podpedia.org'
     ca: 'LetsEncrypt'
+  dariawiki:
+    url: 'dariawiki.org'
+    ca: 'LetsEncrypt'
