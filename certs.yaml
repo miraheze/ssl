@@ -191,9 +191,6 @@
   maccnyc:
     url: 'wiki.macc.nyc'
     ca: 'LetsEncrypt'
-  lingnlang:
-    url: 'wiki.lingnlang.club'
-    ca: 'LetsEncrypt'
   sdiy:
     url: 'sdiy.info'
     ca: 'LetsEncrypt'
