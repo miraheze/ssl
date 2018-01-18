@@ -224,3 +224,6 @@
   dariawiki:
     url: 'dariawiki.org'
     ca: 'LetsEncrypt'
+  pwiki:
+    url: 'pwiki.arkcls.com'
+    ca: 'LetsEncrypt'
