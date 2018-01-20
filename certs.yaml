@@ -230,3 +230,6 @@
   benchaseyt:
     url: 'www.benchaseyt-wiki.tk'
     ca: 'LetsEncrypt'
+  kunwok:
+    url: 'kunwok.org'
+    ca: 'LetsEncrypt'
