@@ -233,3 +233,6 @@
   kunwok:
     url: 'kunwok.org'
     ca: 'LetsEncrypt'
+  plnonbinary:
+    url: 'pl.nonbinary.wiki'
+    ca: 'LetsEncrypt'
