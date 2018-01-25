@@ -236,3 +236,6 @@
   plnonbinary:
     url: 'pl.nonbinary.wiki'
     ca: 'LetsEncrypt'
+  penalwiki:
+    url: 'penalwiki.awiki.org'
+    ca: 'LetsEncrypt'
