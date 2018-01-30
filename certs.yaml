@@ -239,3 +239,6 @@
   penalwiki:
     url: 'penalwiki.awiki.org'
     ca: 'LetsEncrypt'
+  splatteams:
+    url: 'www.splat-teams.com'
+    ca: 'LetsEncrypt'
