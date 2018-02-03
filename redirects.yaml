@@ -59,6 +59,11 @@
     redirect: 'dariawiki.org'
     sslname: 'www.dariawiki.org'
     ca: 'LetsEncrypt'
+  wwwsaveta:
+    url: 'www.saveta.org'
+    redirect: 'saveta.org'
+    sslname: 'www.saveta.org'
+    ca: 'LetsEncrypt'
 
     
 # *.miraheze.org to *.miraheze.org wiki redirects
