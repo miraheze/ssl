@@ -239,3 +239,6 @@
   karagash:
     url: 'karagash.info'
     ca: 'LetsEncrypt'
+  lab612:
+    url: 'www.lab612.at'
+    ca: 'LetsEncrypt'
