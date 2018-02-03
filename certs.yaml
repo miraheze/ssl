@@ -242,3 +242,6 @@
   splatteams:
     url: 'www.splat-teams.com'
     ca: 'LetsEncrypt'
+  saveta:
+    url: 'saveta.org'
+    ca: 'LetsEncrypt'
