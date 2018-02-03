@@ -245,3 +245,6 @@
   saveta:
     url: 'saveta.org'
     ca: 'LetsEncrypt'
+  karagash:
+    url: 'karagash.info'
+    ca: 'LetsEncrypt'
