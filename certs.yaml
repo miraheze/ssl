@@ -243,7 +243,7 @@
     url: 'www.splat-teams.com'
     ca: 'LetsEncrypt'
   saveta:
-    url: 'saveta.org'
+    url: 'www.saveta.org'
     ca: 'LetsEncrypt'
   karagash:
     url: 'karagash.info'
