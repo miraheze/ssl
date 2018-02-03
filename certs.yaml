@@ -95,9 +95,6 @@
   changemy:
     url: 'changemy.org'
     ca: 'LetsEncrypt'
-  betermedia:
-    url: 'bettermedia.info'
-    ca: 'LetsEncrypt'
   gamdug:
     url: 'gamdug.tk'
     ca: 'LetsEncrypt'
