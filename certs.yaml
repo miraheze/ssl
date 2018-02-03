@@ -92,9 +92,6 @@
     url: 'histories.wiki'
     ca: 'LetsEncrypt'
     hsts: 'strict'
-  changemy:
-    url: 'changemy.org'
-    ca: 'LetsEncrypt'
   gamdug:
     url: 'gamdug.tk'
     ca: 'LetsEncrypt'
