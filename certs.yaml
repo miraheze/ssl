@@ -218,9 +218,6 @@
   pwiki:
     url: 'pwiki.arkcls.com'
     ca: 'LetsEncrypt'
-  benchaseyt:
-    url: 'www.benchaseyt-wiki.tk'
-    ca: 'LetsEncrypt'
   kunwok:
     url: 'kunwok.org'
     ca: 'LetsEncrypt'
