@@ -239,3 +239,6 @@
   lab612:
     url: 'www.lab612.at'
     ca: 'LetsEncrypt'
+  papelor:
+    url: 'papelor.io'
+    ca: 'LetsEncrypt'
