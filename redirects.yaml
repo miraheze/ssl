@@ -33,7 +33,7 @@
     url: 'www.reviwiki.info'
     redirect: 'reviwiki.info'
     sslname: 'www.reviwiki.info'
-    ca: 'LetsEncrypt'
+    ca: 'Comodo'
   wwwwikiescola.com:   
     url: 'www.wikiescola.com.br'
     redirect: 'wikiescola.com.br'
