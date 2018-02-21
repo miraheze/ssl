@@ -245,3 +245,6 @@
   exnihilolinux:
     url: 'wiki.exnihilolinux.org'
     ca: 'LetsEncrypt'
+  fikcyjnatv: 
+    url: 'fikcyjnatv.pl'
+    ca: 'LetsEncrypt'
