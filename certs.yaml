@@ -85,10 +85,6 @@
   rizalespe:
     url: 'wiki.rizalespe.com'
     ca: 'LetsEncrypt'
-  histories:
-    url: 'histories.wiki'
-    ca: 'LetsEncrypt'
-    hsts: 'strict'
   gamdug:
     url: 'gamdug.tk'
     ca: 'LetsEncrypt'

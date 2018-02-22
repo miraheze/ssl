@@ -18,12 +18,6 @@
     redirect: 'meta.miraheze.org'
     sslname: 'miraheze.wiki'
     ca: 'LetsEncrypt'
-  wwwhistories:
-    url: 'www.histories.wiki'
-    redirect: 'histories.wiki'
-    sslname: 'www.histories.wiki'
-    ca: 'LetsEncrypt'
-    hsts: 'strict'
   mirahezecom:
     url: 'miraheze.com'
     redirect: 'meta.miraheze.org'
