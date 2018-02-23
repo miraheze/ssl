@@ -241,3 +241,6 @@
   fikcyjnatv: 
     url: 'fikcyjnatv.pl'
     ca: 'LetsEncrypt'
+  bconnected:
+    url: 'bconnected.aidanmarkham.com'
+    ca: 'LetsEncrypt'
