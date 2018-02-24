@@ -3,11 +3,6 @@
     redirect: 'allthetropes.org'
     sslname: 'allthetropes.org'
     ca: 'LetsEncrypt'
-  wwwfibromyalgiaengineer:
-    url: 'www.fibromyalgia-engineer.com'
-    redirect: 'fibromyalgia-engineer.com'
-    sslname: 'fibromyalgia-engineer.com'
-    ca: 'LetsEncrypt'
   wwwpermanentfuturelab:
     url: 'www.permanentfuturelab.wiki'
     redirect: 'permanentfuturelab.wiki'
