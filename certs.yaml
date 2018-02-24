@@ -22,9 +22,6 @@
   grottocenter:
     url: 'wiki.grottocenter.org'
     ca: 'LetsEncrypt'
-  wikikaisaga:
-    url: 'wiki.kaisaga.com'
-    ca: 'LetsEncrypt'
   wisdomwiki:
     url: 'wisdomwiki.org'
     ca: 'LetsEncrypt'
