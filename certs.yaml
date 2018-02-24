@@ -13,9 +13,6 @@
   test:
     url: 'publictestwiki.com'
     ca: 'LetsEncrypt'
-  dottorconte:
-    url: 'wiki.dottorconte.eu'
-    ca: 'LetsEncrypt'
   valentinaproject:
     url: 'wiki.valentinaproject.org'
     ca: 'LetsEncrypt'
@@ -31,23 +28,14 @@
   wisdomwiki:
     url: 'wisdomwiki.org'
     ca: 'LetsEncrypt'
-  sandboxwisdom:
-    url: 'sandbox.wisdomwiki.org'
-    ca: 'LetsEncrypt'
   make717:
     url: 'wiki.make717.org'
     ca: 'LetsEncrypt'
   thelonsdalebattalion:
     url: 'thelonsdalebattalion.co.uk'
     ca: 'LetsEncrypt'
-  labby:
-    url: 'wiki.labby.io'
-    ca: 'LetsEncrypt'
   allthetropes:
     url: 'allthetropes.org'
-    ca: 'LetsEncrypt'
-  fibromyaligaengineer:
-    url: 'fibromyalgia-engineer.com'
     ca: 'LetsEncrypt'
   amaninfotm:
     url: 'aman.info.tm'
@@ -81,9 +69,6 @@
     ca: 'RapidSSL'
   wikipuc:
     url: 'wikipuk.cl'
-    ca: 'LetsEncrypt'
-  rizalespe:
-    url: 'wiki.rizalespe.com'
     ca: 'LetsEncrypt'
   gamdug:
     url: 'gamdug.tk'
@@ -154,9 +139,6 @@
   autocountsoft:
     url: 'wiki.autocountsoft.com'
     ca: 'LetsEncrypt'
-  madgenderscience:
-    url: 'madgenderscience.wiki'
-    ca: 'LetsEncrypt'
   gamergeeked: 
     url: 'wiki.gamergeeked.us'
     ca: 'LetsEncrypt'
@@ -210,9 +192,6 @@
     ca: 'LetsEncrypt'
   pwiki:
     url: 'pwiki.arkcls.com'
-    ca: 'LetsEncrypt'
-  kunwok:
-    url: 'kunwok.org'
     ca: 'LetsEncrypt'
   plnonbinary:
     url: 'pl.nonbinary.wiki'
