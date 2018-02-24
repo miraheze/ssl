@@ -139,6 +139,9 @@
   autocountsoft:
     url: 'wiki.autocountsoft.com'
     ca: 'LetsEncrypt'
+  madgenderscience:
+    url: 'madgenderscience.wiki'
+    ca: 'LetsEncrypt'
   gamergeeked: 
     url: 'wiki.gamergeeked.us'
     ca: 'LetsEncrypt'
@@ -193,6 +196,9 @@
   pwiki:
     url: 'pwiki.arkcls.com'
     ca: 'LetsEncrypt'
+  kunwok:
+    url: 'kunwok.org'
+    ca: 'LetsEncrypt'
   plnonbinary:
     url: 'pl.nonbinary.wiki'
     ca: 'LetsEncrypt'
@@ -223,3 +229,4 @@
   bconnected:
     url: 'bconnected.aidanmarkham.com'
     ca: 'LetsEncrypt'
+    
