@@ -226,4 +226,7 @@
   bconnected:
     url: 'bconnected.aidanmarkham.com'
     ca: 'LetsEncrypt'
+  lostminecraftminers:
+    url: 'wiki.lostminecraftminers.org'
+    ca: 'LetsEncrypt'
     
