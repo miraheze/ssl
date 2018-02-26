@@ -82,9 +82,6 @@
   speleo:
     url: 'speleo.wiki'
     ca: 'LetsEncrypt'
-  aksaray:
-    url: 'www.aksaraywiki.com'
-    ca: 'Comodo'
   disabledlife:
     url: 'disabled.life'
     ca: 'LetsEncrypt'
