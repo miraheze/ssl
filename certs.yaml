@@ -238,3 +238,6 @@
   zymonic:
     url: 'wiki.zymonic.com'
     ca: 'LetsEncrypt'
+  tensorflow:
+    url: 'wiki.tensorflow.community'
+    ca: 'LetsEncrypt'
