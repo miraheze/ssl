@@ -232,3 +232,6 @@
   eerstelijnszones:
     url: 'www.eerstelijnszones.be'
     ca: 'LetsEncrypt'
+  iceposeidonwiki:
+    url: 'iceposeidonwiki.com'
+    ca: 'LetsEncrypt'
