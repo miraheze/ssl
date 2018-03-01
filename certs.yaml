@@ -229,4 +229,6 @@
   consentcraft:
     url: 'wiki.consentcraft.uk'
     ca: 'LetsEncrypt'
-    
+  eerstelijnszones:
+    url: 'www.eerstelijnszones.be'
+    ca: 'LetsEncrypt'
