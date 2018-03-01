@@ -233,5 +233,5 @@
     url: 'www.eerstelijnszones.be'
     ca: 'LetsEncrypt'
   iceposeidonwiki:
-    url: 'iceposeidonwiki.com'
+    url: 'www.iceposeidonwiki.com'
     ca: 'LetsEncrypt'
