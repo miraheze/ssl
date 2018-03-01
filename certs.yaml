@@ -226,4 +226,7 @@
   lostminecraftminers:
     url: 'wiki.lostminecraftminers.org'
     ca: 'LetsEncrypt'
+  consentcraft:
+    url: 'wiki.consentcraft.uk'
+    ca: 'LetsEncrypt'
     
