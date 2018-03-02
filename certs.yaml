@@ -241,3 +241,6 @@
   tensorflow:
     url: 'wiki.tensorflow.community'
     ca: 'LetsEncrypt'
+  staravesno:
+    url: 'wiki.staraves-no.cz'
+    ca: 'LetsEncrypt'
