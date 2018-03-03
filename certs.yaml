@@ -244,3 +244,6 @@
   staravesno:
     url: 'wiki.staraves-no.cz'
     ca: 'LetsEncrypt'
+  meregos:
+    url: 'meregos.com'
+    ca: 'LetsEncrypt'
