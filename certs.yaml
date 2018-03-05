@@ -247,3 +247,6 @@
   meregos:
     url: 'meregos.com'
     ca: 'LetsEncrypt'
+  morfarkulten:
+    url: 'morfarkulten.tk'
+    ca: 'LetsEncrypt'
