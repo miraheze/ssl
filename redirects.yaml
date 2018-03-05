@@ -53,6 +53,11 @@
     redirect: 'saveta.org'
     sslname: 'www.saveta.org'
     ca: 'LetsEncrypt'
+  eerstelijnszones:
+    url: 'eerstelijnszones.be'
+    redirect: 'www.eerstelijnszones.be'
+    sslname: 'eerstelijnszones.be'
+    ca: 'LetsEncrypt'
 
     
 # *.miraheze.org to *.miraheze.org wiki redirects
