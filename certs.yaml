@@ -67,9 +67,6 @@
   wikipuc:
     url: 'wikipuk.cl'
     ca: 'LetsEncrypt'
-  gamdug:
-    url: 'gamdug.tk'
-    ca: 'LetsEncrypt'
   wikiescola:
     url: 'wikiescola.com.br'
     ca: 'LetsEncrypt'
