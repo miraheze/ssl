@@ -247,3 +247,6 @@
   morfarkulten:
     url: 'morfarkulten.tk'
     ca: 'LetsEncrypt'
+  garrettcountyguide:
+    url: 'garrettcountyguide.com'
+    ca: 'LetsEncrypt'
