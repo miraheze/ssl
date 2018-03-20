@@ -250,3 +250,6 @@
   garrettcountyguide:
     url: 'garrettcountyguide.com'
     ca: 'LetsEncrypt'
+  wikitransparency:
+    url: 'en.wikitransparency.org'
+    ca: 'LetsEncrypt'
