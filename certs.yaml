@@ -253,3 +253,6 @@
   wikitransparency:
     url: 'en.wikitransparency.org'
     ca: 'LetsEncrypt'
+  cornetto:
+    url: 'cornetto.online'
+    ca: 'LetsEncrypt'
