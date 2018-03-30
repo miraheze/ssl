@@ -256,3 +256,6 @@
   cornetto:
     url: 'cornetto.online'
     ca: 'LetsEncrypt'
+  wikigtsc:
+    url: 'wiki.gtsc.vn'
+    ca: 'LetsEncrypt'
