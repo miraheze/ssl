@@ -262,3 +262,6 @@
   giveeffectively:
     url: 'give.effectively.to'
     ca: 'LetsEncrypt'
+  safsongcontests:
+    url: 'saf.songcontests.eu'
+    ca: 'LetsEncrypt'
