@@ -268,3 +268,6 @@
   itspugle:
     url: 'wiki.itspugle.ga'
     ca: 'LetsEncrypt'
+  reviworkwiki:
+    url: 'work.revi.wiki'
+    ca: 'LetsEncrypt'
