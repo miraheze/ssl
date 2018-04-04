@@ -139,9 +139,6 @@
   kourouklides:
     url: 'wiki.kourouklides.com'
     ca: 'LetsEncrypt'
-  lspdfr:
-    url: 'wiki.lspdfr.de'
-    ca: 'LetsEncrypt'
   ldmsys:
     url: 'wiki.ldmsys.net'
     ca: 'LetsEncrypt'
