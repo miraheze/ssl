@@ -265,3 +265,6 @@
   itspugle:
     url: 'wiki.itspugle.ga'
     ca: 'LetsEncrypt'
+  studentwikiddns:
+    url: 'studentwiki.ddns.net'
+    ca: 'LetsEncrypt'
