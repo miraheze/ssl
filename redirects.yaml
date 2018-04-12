@@ -53,7 +53,7 @@
     redirect: 'saveta.org'
     sslname: 'www.saveta.org'
     ca: 'LetsEncrypt'
-  eerstelijnszones:
+  wwweerstelijnszones:
     url: 'eerstelijnszones.be'
     redirect: 'www.eerstelijnszones.be'
     sslname: 'eerstelijnszones.be'
