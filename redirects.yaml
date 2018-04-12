@@ -43,7 +43,7 @@
     redirect: 'reviwiki.info'
     sslname: 'public.revi.wiki'
     ca: 'LetsEncrypt'
-  dariawiki:
+  wwwdariawiki:
     url: 'www.dariawiki.org'
     redirect: 'dariawiki.org'
     sslname: 'www.dariawiki.org'
