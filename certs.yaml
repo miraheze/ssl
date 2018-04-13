@@ -93,7 +93,7 @@
     ca: 'LetsEncrypt'
   reviwiki:
     url: 'reviwiki.info'
-    ca: 'Comodo'
+    ca: 'PositiveSSLDV'
   embobada:
     url: 'embobada.com'
     ca: 'LetsEncrypt'
