@@ -21,7 +21,7 @@
   wwwreviwiki:
     url: 'www.reviwiki.info'
     redirect: 'reviwiki.info'
-    sslname: 'www.reviwiki.info'
+    sslname: 'reviwiki.info'
     ca: 'PositiveSSLDV'
   wwwwikiescola.com:   
     url: 'www.wikiescola.com.br'
