@@ -274,3 +274,6 @@
   wwwschulwikide:
     url: 'www.schulwiki.de'
     ca: 'LetsEncrypt'
+  holonetpw:
+    url: 'holonet.pw'
+    ca: 'LetsEncrypt'
