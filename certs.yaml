@@ -268,3 +268,6 @@
   studentwikiddns:
     url: 'studentwiki.ddns.net'
     ca: 'LetsEncrypt'
+  svenskabriardklubbense:
+    url: 'wiki.svenskabriardklubben.se'
+    ca: 'LetsEncrypt'
