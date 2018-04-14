@@ -271,3 +271,6 @@
   svenskabriardklubbense:
     url: 'wiki.svenskabriardklubben.se'
     ca: 'LetsEncrypt'
+  wwwschulwikide:
+    url: 'www.schulwiki.de'
+    ca: 'LetsEncrypt'
