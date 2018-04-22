@@ -277,6 +277,3 @@
   holonetpw:
     url: 'holonet.pw'
     ca: 'LetsEncrypt'
-  wwwradviserorg:
-    url: 'www.radviser.org'
-    ca: 'LetsEncrypt'
