@@ -286,6 +286,6 @@
   phabmirahezewiki:
     url: 'phab.miraheze.wiki'
     ca: 'LetsEncrypt'
-  wiki.ombre.io:
+  wikiombreio:
     url: 'wiki.ombre.io'
     ca: 'LetsEncrypt'
