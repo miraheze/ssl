@@ -280,3 +280,6 @@
   wwwradviserorg:
     url: 'www.radviser.org'
     ca: 'LetsEncrypt'
+  ngscott:
+    url: 'wiki.ngscott.net'
+    ca: 'LetsEncrypt'
