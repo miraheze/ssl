@@ -283,3 +283,6 @@
   ngscott:
     url: 'wiki.ngscott.net'
     ca: 'LetsEncrypt'
+  phabmirahezewiki
+    url: 'phab.miraheze.wiki'
+    ca: 'LetsEncrypt'
