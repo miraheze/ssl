@@ -289,3 +289,6 @@
   wikiombreio:
     url: 'wiki.ombre.io'
     ca: 'LetsEncrypt'
+  dobots:
+    url: 'wiki.dobots.nl'
+    ca: 'LetsEncrypt'
