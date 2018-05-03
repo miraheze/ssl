@@ -292,3 +292,6 @@
   dobots:
     url: 'wiki.dobots.nl'
     ca: 'LetsEncrypt'
+decrypted:
+    url: 'decrypted.wiki'
+    ca: 'LetsEncrypt'
