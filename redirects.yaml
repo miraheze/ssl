@@ -31,7 +31,7 @@
   wwwsdiyinfo:
     url: 'www.sdiy.info'
     redirect: 'sdiy.info'
-    sslname: 'www.sdiy.info'
+    sslname: 'sdiy.info'
     ca: 'LetsEncrypt'
   wwwprogrammingred:
     url: 'www.programming.red'
