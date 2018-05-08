@@ -101,3 +101,8 @@
     redirect: 'poserdazfreebies.miraheze.org'
     sslname: 'poserdazfreebies.orain.org'
     ca: 'LetsEncrypt'
+  wwwbconnectedaidanmarkhamcom:
+    url: 'www.bconnected.aidanmarkham.com'
+    redirect: 'bconnected.aidanmarkham.com'
+    sslname: 'bconnected.aidanmarkham.com'
+    ca: 'LetsEncrypt'
