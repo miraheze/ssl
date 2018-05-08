@@ -36,7 +36,7 @@
   wwwprogrammingred:
     url: 'www.programming.red'
     redirect: 'programming.red'
-    sslname: 'www.programming.red'
+    sslname: 'programming.red'
     ca: 'LetsEncrypt'
   publicreviwiki:
     url: 'public.revi.wiki'
