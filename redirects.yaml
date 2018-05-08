@@ -6,7 +6,7 @@
   wwwpermanentfuturelab:
     url: 'www.permanentfuturelab.wiki'
     redirect: 'permanentfuturelab.wiki'
-    sslname: 'www.permanentfuturelab.wiki'
+    sslname: 'permanentfuturelab.wiki'
     ca: 'LetsEncrypt'
   mirahezewiki:
     url: 'miraheze.wiki'
