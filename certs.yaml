@@ -229,9 +229,6 @@
   iceposeidonwiki:
     url: 'www.iceposeidonwiki.com'
     ca: 'LetsEncrypt'
-  zymonic:
-    url: 'wiki.zymonic.com'
-    ca: 'LetsEncrypt'
   tensorflow:
     url: 'wiki.tensorflow.community'
     ca: 'LetsEncrypt'
