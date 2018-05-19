@@ -298,3 +298,6 @@
   guiasdobrasilcombr:
     url: 'guiasdobrasil.com.br'
     ca: 'LetsEncrypt'
+  prnet:
+    url: 'wiki.pablojprieto.com.es'
+    ca: 'LetsEncrypt'
