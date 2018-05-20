@@ -56,7 +56,7 @@
   wwweerstelijnszones:
     url: 'eerstelijnszones.be'
     redirect: 'www.eerstelijnszones.be'
-    sslname: 'eerstelijnszones.be'
+    sslname: 'www.eerstelijnszones.be'
     ca: 'LetsEncrypt'
   wwwguiasdobrasilcombr:
     url: 'www.guiasdobrasil.com.br'
