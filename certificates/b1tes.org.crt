@@ -1,5 +1,3 @@
-Re-generating a new SSL cert for b1tes.org
-LetsEncrypt certificate at: /root/ssl/b1tes.org.crt
 -----BEGIN CERTIFICATE-----
 MIIF/DCCBOSgAwIBAgISAwTq/d/8I0UvpT9qXQYiPpXdMA0GCSqGSIb3DQEBCwUA
 MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
