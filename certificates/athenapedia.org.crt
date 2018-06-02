@@ -1,5 +1,3 @@
-Re-generating a new SSL cert for athenapedia.org
-LetsEncrypt certificate at: /root/ssl/athenapedia.org.crt
 -----BEGIN CERTIFICATE-----
 MIIGCTCCBPGgAwIBAgISA1AStYuPb2dNUN+2f2TFgYqYMA0GCSqGSIb3DQEBCwUA
 MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
