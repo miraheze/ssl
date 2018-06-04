@@ -304,3 +304,6 @@
   wikimikrodevcom:
     url: 'wiki.mikrodev.com'
     ca: 'LetsEncrypt'
+  wikicampaignlabourorg:
+    url: 'wiki.campaign-labour.org'
+    ca: 'LetsEncrypt'
