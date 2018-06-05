@@ -307,3 +307,6 @@
   wikicampaignlabourorg:
     url: 'wiki.campaign-labour.org'
     ca: 'LetsEncrypt'
+  didapro:
+    url: 'encyclopedie.didactiqueprofessionnelle.org'
+    ca: 'LetsEncrypt'
