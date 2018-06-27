@@ -310,3 +310,6 @@
   didapro:
     url: 'encyclopedie.didactiqueprofessionnelle.org'
     ca: 'LetsEncrypt'
+  bonessdiving:
+    url: 'wiki.bonessdiving.club'
+    ca: 'LetsEncrypt'
