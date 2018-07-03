@@ -313,3 +313,6 @@
   bonessdiving:
     url: 'wiki.bonessdiving.club'
     ca: 'LetsEncrypt'
+  astrapedia:
+    url: 'astrapedia.ru'
+    ca: 'LetsEncrypt'
