@@ -316,3 +316,6 @@
   taotac:
     url: 'wiki.taotac.org'
     ca: 'LetsEncrypt'
+  wsm:
+    url: 'docs.websmart.media'
+    ca: 'LetsEncrypt'
