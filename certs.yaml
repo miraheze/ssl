@@ -316,3 +316,6 @@
   astrapedia:
     url: 'astrapedia.ru'
     ca: 'LetsEncrypt'
+  taotac:
+    url: 'wiki.taotac.org'
+    ca: 'LetsEncrypt'
