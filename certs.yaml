@@ -256,9 +256,6 @@
   safsongcontests:
     url: 'saf.songcontests.eu'
     ca: 'LetsEncrypt'
-  itspugle:
-    url: 'wiki.itspugle.ga'
-    ca: 'LetsEncrypt'
   studentwikiddns:
     url: 'studentwiki.ddns.net'
     ca: 'LetsEncrypt'
