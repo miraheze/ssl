@@ -319,3 +319,6 @@
   wsm:
     url: 'docs.websmart.media'
     ca: 'LetsEncrypt'
+  wikirmbrksl:
+    url: 'wiki.rmbrk.sk'
+    ca: 'LetsEncrypt'
