@@ -322,3 +322,6 @@
   wikirmbrksl:
     url: 'wiki.rmbrk.sk'
     ca: 'LetsEncrypt'
+  toonpedia:
+    url: 'toonpedia.cf'
+    ca: 'LetsEncrypt'
