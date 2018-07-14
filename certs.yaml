@@ -322,3 +322,6 @@
   toonpedia:
     url: 'toonpedia.cf'
     ca: 'LetsEncrypt'
+  russopedia:
+    url: 'russopedia.info'
+    ca: 'LetsEncrypt'
