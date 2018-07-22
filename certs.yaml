@@ -325,3 +325,6 @@
   russopedia:
     url: 'russopedia.info'
     ca: 'LetsEncrypt'
+  taotac:
+    url: 'taotac.info'
+    ca: 'LetsEncrypt'
