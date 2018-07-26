@@ -328,3 +328,6 @@
   ttinfo:
     url: 'taotac.info'
     ca: 'LetsEncrypt'
+  vsfannet:
+    url: 'vsfan.net'
+    ca: 'LetsEncrypt'
