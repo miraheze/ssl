@@ -121,9 +121,6 @@
   inebriationconfederation:
     url: 'wiki.inebriation-confederation.com'
     ca: 'LetsEncrypt'
-  clonedeploy:
-    url: 'wiki.clonedeploy.org'
-    ca: 'LetsEncrypt'
   oecumene:
     url: 'oecumene.org'
     ca: 'LetsEncrypt'
