@@ -328,3 +328,6 @@
   vsfannet:
     url: 'vsfan.net'
     ca: 'LetsEncrypt'
+  infectowiki:
+    url: 'infectowiki.com'
+    ca: 'LetsEncrypt'
