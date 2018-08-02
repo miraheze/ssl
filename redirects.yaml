@@ -63,6 +63,11 @@
     redirect: 'guiasdobrasil.com.br'
     sslname: 'guiasdobrasil.com.br'
     ca: 'LetsEncrypt'
+   wwwtaotacinfo:
+    url: 'www.taotac.info'
+    redirect: 'taotac.info'
+    sslname: 'www.taotac.info'
+    ca: 'LetsEncrypt'
 
     
 # *.miraheze.org to *.miraheze.org wiki redirects
