@@ -328,3 +328,6 @@
   ahmsaqibcf:
     url: 'ahmsaqib.cf'
     ca: 'LetsEncrypt'
+  wikiwhentheycryorg:
+    url: 'wiki.whentheycry.org'
+    ca: 'LetsEncrypt'
