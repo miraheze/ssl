@@ -325,3 +325,6 @@
   infectowiki:
     url: 'infectowiki.com'
     ca: 'LetsEncrypt'
+  ahmsaqibcf:
+    url: 'ahmsaqib.cf'
+    ca: 'LetsEncrypt'
