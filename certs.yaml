@@ -331,3 +331,6 @@
   wikiwhentheycryorg:
     url: 'wiki.whentheycry.org'
     ca: 'LetsEncrypt'
+  tensegritywiki:
+    url: 'tensegritywiki.com'
+    ca: 'LetsEncrypt'
