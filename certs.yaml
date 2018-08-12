@@ -334,3 +334,6 @@
   tensegritywiki:
     url: 'tensegritywiki.com'
     ca: 'LetsEncrypt'
+  openhatch:
+    url: 'wiki.openhatch.org'
+    ca: 'LetsEncrypt'
