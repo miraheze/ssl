@@ -337,3 +337,6 @@
   openhatch:
     url: 'wiki.openhatch.org'
     ca: 'LetsEncrypt'
+  scouts:
+    url: 'wiki.doverdistrictscouts.co.uk'
+    ca: 'LetsEncrypt'
