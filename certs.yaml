@@ -340,3 +340,6 @@
   scouts:
     url: 'wiki.doverdistrictscouts.co.uk'
     ca: 'LetsEncrypt'
+  tfwiki:
+    url: 'tf.wiki'
+    ca: 'LetsEncrypt'
