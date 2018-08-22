@@ -163,9 +163,6 @@
   ciptamedia:
     url: 'wiki.ciptamedia.org'
     ca: 'LetsEncrypt'
-  b1tes:
-    url: 'b1tes.org'
-    ca: 'LetsEncrypt'
   athenapedia:
     url: 'athenapedia.org'
     ca: 'LetsEncrypt'
