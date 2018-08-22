@@ -346,3 +346,6 @@
   veloren:
     url: 'wiki.veloren.net'
     ca: 'LetsEncrypt'
+  warfra:
+    url: 'wiki.warfra.ml'
+    ca: 'LetsEncrypt'
