@@ -111,3 +111,9 @@
     redirect: 'poserdazfreebies.miraheze.org'
     sslname: 'poserdazfreebies.orain.org'
     ca: 'LetsEncrypt'
+  piwik:
+    url: 'piwik.miraheze.org'
+    redirect: 'matomo.miraheze.org'
+    sslname: 'wildcard.miraheze.org'
+    ca: 'GlobalSign'
+    hsts: 'strict'
