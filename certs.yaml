@@ -343,3 +343,6 @@
   warfra:
     url: 'wiki.warfra.ml'
     ca: 'LetsEncrypt'
+  prfm:
+    url: 'prfm.wiki'
+    ca: 'LetsEncrypt'
