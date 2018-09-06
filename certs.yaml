@@ -271,9 +271,6 @@
   pupilliam:
     url: 'wiki.pupilliam.com'
     ca: 'LetsEncrypt'
-  nvdanl:
-    url: 'wiki.nvda-nl.org'
-    ca: 'LetsEncrypt'
   guiasdobrasilcombr:
     url: 'guiasdobrasil.com.br'
     ca: 'LetsEncrypt'
