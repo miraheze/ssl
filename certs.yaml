@@ -343,3 +343,6 @@
   prfm:
     url: 'prfm.wiki'
     ca: 'LetsEncrypt'
+  kkutu:
+    url: 'kkutu.wiki'
+    ca: 'LetsEncrypt'
