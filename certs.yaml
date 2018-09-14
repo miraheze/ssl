@@ -346,3 +346,6 @@
   kkutu:
     url: 'kkutu.wiki'
     ca: 'LetsEncrypt'
+  encyclopediaofastrobiologyorg:
+    url: 'encyclopediaofastrobiology.org'
+    ca: 'LetsEncrypt'
