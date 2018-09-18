@@ -349,3 +349,6 @@
   encyclopediaofastrobiologyorg:
     url: 'encyclopediaofastrobiology.org'
     ca: 'LetsEncrypt'
+  pcarchitecttk:
+    url: 'pc-architect.tk'
+    ca: 'LetsEncrypt'
