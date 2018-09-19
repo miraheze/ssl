@@ -355,3 +355,6 @@
   b1tcashorg:
     url: 'b1tcash.org'
     ca: 'LetsEncrypt'
+  hgwikiga:
+    url: 'hgwiki.ga'
+    ca: 'LetsEncrypt'
