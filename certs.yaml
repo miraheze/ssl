@@ -352,3 +352,6 @@
   pcarchitecttk:
     url: 'pc-architect.tk'
     ca: 'LetsEncrypt'
+  b1tcashorg:
+    url: 'b1tcash.org'
+    ca: 'LetsEncrypt'
