@@ -361,3 +361,6 @@
   wwwevanswikiorg:
     url: 'www.evanswiki.org'
     ca: 'LetsEncrypt'
+  electowikiorg:
+    url: 'electowiki.org'
+    ca: 'LetsEncrypt'
