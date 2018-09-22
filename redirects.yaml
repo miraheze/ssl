@@ -117,3 +117,8 @@
     sslname: 'wildcard.miraheze.org'
     ca: 'GlobalSign'
     hsts: 'strict'
+  piwik:
+    url: 'www.b1tcash.org'
+    redirect: 'b1tcash.org'
+    sslname: 'b1tcash.org'
+    ca: 'LetsEncrypt'
