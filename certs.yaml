@@ -361,6 +361,3 @@
   electowikiorg:
     url: 'electowiki.org'
     ca: 'LetsEncrypt'
-  wwwb1tcashorg:
-    url: 'www.b1tcash.org'
-    ca: 'LetsEncrypt'
