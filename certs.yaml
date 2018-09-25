@@ -361,3 +361,6 @@
   electowikiorg:
     url: 'electowiki.org'
     ca: 'LetsEncrypt'
+  wwwmywikiicu:
+    url: 'www.mywiki.icu'
+    ca: 'LetsEncrypt'
