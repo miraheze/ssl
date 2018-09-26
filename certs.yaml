@@ -49,9 +49,6 @@
   openonderwijsorg:
     url: 'www.openonderwijs.org'
     ca: 'LetsEncrypt'
-  takethatwiki:
-    url: 'takethatwiki.com'
-    ca: 'LetsEncrypt'
   alwiki:
     url: 'www.alwiki.net'
     ca: 'LetsEncrypt'
