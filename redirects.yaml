@@ -3,74 +3,100 @@
     redirect: 'allthetropes.org'
     sslname: 'allthetropes.org'
     ca: 'LetsEncrypt'
+    disable_event: true
   wwwpermanentfuturelab:
     url: 'www.permanentfuturelab.wiki'
     redirect: 'permanentfuturelab.wiki'
     sslname: 'permanentfuturelab.wiki'
     ca: 'LetsEncrypt'
+    disable_event: true
   mirahezewiki:
     url: 'miraheze.wiki'
     redirect: 'meta.miraheze.org'
     sslname: 'miraheze.wiki'
     ca: 'LetsEncrypt'
+    disable_event: false
   mirahezecom:
     url: 'miraheze.com'
     redirect: 'meta.miraheze.org'
     sslname: 'miraheze.com'
     ca: 'LetsEncrypt'
+    disable_event: false
   wwwreviwiki:
     url: 'www.reviwiki.info'
     redirect: 'reviwiki.info'
     sslname: 'reviwiki.info'
     ca: 'PositiveSSLDV'
+    disable_event: false
   wwwwikiescola.com:   
     url: 'www.wikiescola.com.br'
     redirect: 'wikiescola.com.br'
     sslname: 'www.wikiescola.com.br'
     ca: 'LetsEncrypt'
+    disable_event: false
   wwwsdiyinfo:
     url: 'www.sdiy.info'
     redirect: 'sdiy.info'
     sslname: 'sdiy.info'
     ca: 'LetsEncrypt'
+    disable_event: true
   wwwprogrammingred:
     url: 'www.programming.red'
     redirect: 'programming.red'
     sslname: 'programming.red'
     ca: 'LetsEncrypt'
+    disable_event: true
   publicreviwiki:
     url: 'public.revi.wiki'
     redirect: 'reviwiki.info'
     sslname: 'public.revi.wiki'
     ca: 'LetsEncrypt'
+    disable_event: false
   wwwdariawiki:
     url: 'www.dariawiki.org'
     redirect: 'dariawiki.org'
     sslname: 'www.dariawiki.org'
     ca: 'LetsEncrypt'
+    disable_event: false
   wwwsaveta:
     url: 'www.saveta.org'
     redirect: 'saveta.org'
     sslname: 'www.saveta.org'
     ca: 'LetsEncrypt'
+    disable_event: false
   wwweerstelijnszones:
     url: 'eerstelijnszones.be'
     redirect: 'www.eerstelijnszones.be'
     sslname: 'www.eerstelijnszones.be'
     ca: 'LetsEncrypt'
+    disable_event: true
   wwwguiasdobrasilcombr:
     url: 'www.guiasdobrasil.com.br'
     redirect: 'guiasdobrasil.com.br'
     sslname: 'guiasdobrasil.com.br'
     ca: 'LetsEncrypt'
+    disable_event: true
   wwwtaotacinfo:
     url: 'www.taotac.info'
     redirect: 'taotac.info'
     sslname: 'www.taotac.info'
     ca: 'LetsEncrypt'
+    disable_event: false
+  piwik:
+    url: 'piwik.miraheze.org'
+    redirect: 'matomo.miraheze.org'
+    sslname: 'wildcard.miraheze.org'
+    ca: 'GlobalSign'
+    hsts: 'strict'
+    disable_event: false
+  wwwb1tcashorg:
+    url: 'www.b1tcash.org'
+    redirect: 'b1tcash.org'
+    sslname: 'b1tcash.org'
+    ca: 'LetsEncrypt'
+    disable_event: true
 
-    
-# *.miraheze.org to *.miraheze.org wiki redirects
+  # *.miraheze.org to *.miraheze.org wiki redirects
   studynotekr:
     url: 'studynotekr.miraheze.org'
     redirect: 'jayuwiki.miraheze.org'
@@ -110,15 +136,4 @@
     url: 'poserdazfreebies.orain.org'
     redirect: 'poserdazfreebies.miraheze.org'
     sslname: 'poserdazfreebies.orain.org'
-    ca: 'LetsEncrypt'
-  piwik:
-    url: 'piwik.miraheze.org'
-    redirect: 'matomo.miraheze.org'
-    sslname: 'wildcard.miraheze.org'
-    ca: 'GlobalSign'
-    hsts: 'strict'
-  wwwb1tcashorg:
-    url: 'www.b1tcash.org'
-    redirect: 'b1tcash.org'
-    sslname: 'b1tcash.org'
     ca: 'LetsEncrypt'
