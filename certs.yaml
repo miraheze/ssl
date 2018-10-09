@@ -482,3 +482,8 @@
     url: 'www.mywiki.icu'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikikybermctk:
+    url: 'wiki.kybermc.tk'
+    ca: 'LetsEncrypt'
+    disable_event: false
+
