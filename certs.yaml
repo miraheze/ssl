@@ -494,3 +494,7 @@
     url: 'newsnow.wiki'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikivertepl:
+    url: 'wikiverte.pl'
+    ca: 'LetsEncrypt'
+    disable_event: false
