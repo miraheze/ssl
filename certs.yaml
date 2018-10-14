@@ -498,3 +498,11 @@
     url: 'wikiverte.pl'
     ca: 'LetsEncrypt'
     disable_event: false
+  nonciclopediaorg:
+    url: 'nonciclopedia.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  nonsensopediaorg:
+    url: 'nonsensopedia.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
