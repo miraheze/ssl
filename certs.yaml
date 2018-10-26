@@ -510,3 +510,7 @@
     url: 'monarchists.wiki'
     ca: 'LetsEncrypt'
     disable_event: false
+  stablestateorg:
+    url: 'stablestate.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
