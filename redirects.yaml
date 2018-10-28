@@ -128,18 +128,22 @@
     redirect: 'meta.miraheze.org'
     sslname: 'orain.org'
     ca: 'LetsEncrypt'
+    disable_event: false
   allthetropesorain:
     url: 'allthetropes.orain.org'
     redirect: 'allthetropes.org'
     sslname: 'allthetropes.orain.org'
     ca: 'LetsEncrypt'
+    disable_event: false
   metaorain:
     url: 'meta.orain.org'
     redirect: 'meta.miraheze.org'
     sslname: 'meta.orain.org'
     ca: 'LetsEncrypt'
+    disable_event: false
   poserdazfreebiessorain:
     url: 'poserdazfreebies.orain.org'
     redirect: 'poserdazfreebies.miraheze.org'
     sslname: 'poserdazfreebies.orain.org'
     ca: 'LetsEncrypt'
+    disable_event: false
