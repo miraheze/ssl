@@ -515,6 +515,6 @@
     ca: 'LetsEncrypt'
     disable_event: false
   runeasynl:
-    url: 'www.runeasy.nl
+    url: 'www.runeasy.nl'
     ca: 'LetsEncrypt'
     diasble_event: false
