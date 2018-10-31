@@ -514,3 +514,7 @@
     url: 'stablestate.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  runeasynl:
+    url: 'www.runeasy.nl
+    ca: 'LetsEncrypt'
+    diasble_event: false
