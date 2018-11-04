@@ -518,3 +518,7 @@
     url: 'www.runeasy.nl'
     ca: 'LetsEncrypt'
     disable_event: false
+  joustro:
+    url: 'wiki.joust.ro'
+    ca: 'LetsEncrypt'
+    disable_event: false
