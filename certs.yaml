@@ -522,3 +522,7 @@
     url: 'wiki.joust.ro'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikitranslatetk:
+    url: 'wikitranslate.tk'
+    ca: 'LetsEncrypt'
+    disable_event: false
