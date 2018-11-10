@@ -526,3 +526,7 @@
     url: 'wikitranslate.tk'
     ca: 'LetsEncrypt'
     disable_event: false
+  engyaanipedia:
+    url: 'en.gyaanipedia.co.in'
+    ca: 'LetsEncrypt'
+    disable_event: false
