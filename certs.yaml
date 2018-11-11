@@ -530,3 +530,7 @@
     url: 'en.gyaanipedia.co.in'
     ca: 'LetsEncrypt'
     disable_event: false
+  wwwapcwikiorg:
+    url: 'www.apcwiki.org'
+    ca: 'Comodo'
+    disable_event: false
