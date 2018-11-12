@@ -66,10 +66,6 @@
     url: 'www.openonderwijs.org'
     ca: 'LetsEncrypt'
     disable_event: false
-  alwiki:
-    url: 'www.alwiki.net'
-    ca: 'LetsEncrypt'
-    disable_event: false
   meeusen:
     url: 'wiki.meeusen.net'
     ca: 'LetsEncrypt'
