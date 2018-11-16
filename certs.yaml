@@ -538,3 +538,7 @@
     url: 'bn.gyaanipedia.co.in'
     ca: 'LetsEncrypt'
     disable_event: false
+  tegyaanipediacoin:
+    url: 'te.gyaanipedia.co.in'
+    ca: 'LetsEncrypt'
+    disable_event: false
