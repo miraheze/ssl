@@ -147,12 +147,6 @@
     sslname: 'orain.org'
     ca: 'LetsEncrypt'
     disable_event: true
-  poserdazfreebiessorain:
-    url: 'poserdazfreebies.orain.org'
-    redirect: 'poserdazfreebies.miraheze.org'
-    sslname: 'orain.org'
-    ca: 'LetsEncrypt'
-    disable_event: true
   wildcardorain:
     url: '*.orain.org'
     redirect: 'meta.miraheze.org'
