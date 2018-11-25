@@ -61,7 +61,7 @@
   wwwsaveta:
     url: 'www.saveta.org'
     redirect: 'saveta.org'
-    sslname: 'www.saveta.org'
+    sslname: 'saveta.org'
     ca: 'LetsEncrypt'
     disable_event: false
   wwweerstelijnszones:
