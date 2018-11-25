@@ -55,9 +55,9 @@
   wwwdariawiki:
     url: 'www.dariawiki.org'
     redirect: 'dariawiki.org'
-    sslname: 'www.dariawiki.org'
+    sslname: 'dariawiki.org'
     ca: 'LetsEncrypt'
-    disable_event: false
+    disable_event: true
   wwwsaveta:
     url: 'www.saveta.org'
     redirect: 'saveta.org'
