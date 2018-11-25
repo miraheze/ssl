@@ -79,9 +79,9 @@
   wwwtaotacinfo:
     url: 'www.taotac.info'
     redirect: 'taotac.info'
-    sslname: 'www.taotac.info'
+    sslname: 'taotac.info'
     ca: 'LetsEncrypt'
-    disable_event: false
+    disable_event: true
   piwik:
     url: 'piwik.miraheze.org'
     redirect: 'matomo.miraheze.org'
