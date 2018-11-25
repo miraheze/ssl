@@ -108,8 +108,9 @@
     disable_event: false
   prueba:
     url: 'es.publictestwiki.com'
+    sslname: 'publictestwiki.com'
     ca: 'LetsEncrypt'
-    disable_event: false
+    disable_event: true
   nenawiki:
     url: 'nenawiki.org'
     ca: 'LetsEncrypt'
