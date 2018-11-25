@@ -125,7 +125,7 @@
 # orain.org to miraheze.org wiki redirects
   orain:
     url: 'orain.org'
-    mobiledomain: '*.orain.org';
+    mobiledomain: '*.orain.org'
     redirect: 'meta.miraheze.org'
     sslname: 'orain.org'
     ca: 'LetsEncrypt'
