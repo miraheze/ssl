@@ -544,5 +544,6 @@
     disable_event: false
   mobilemirahezeorg:
     url: '*.m.miraheze.org'
+    sslname: 'm.miraheze.org'
     ca: 'LetsEncrypt'
     disable_event: false
