@@ -21,7 +21,7 @@
     redirect: 'meta.miraheze.org'
     sslname: 'miraheze.com'
     ca: 'LetsEncrypt'
-    disable_event: false
+    disable_event: true
   wwwreviwiki:
     url: 'www.reviwiki.info'
     redirect: 'reviwiki.info'
