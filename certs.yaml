@@ -520,6 +520,7 @@
     disable_event: false
   wikitranslatetk:
     url: 'wikitranslate.tk'
+    mobiledomain: 'm.wikitranslate.tk'
     ca: 'LetsEncrypt'
     disable_event: false
   engyaanipedia:
