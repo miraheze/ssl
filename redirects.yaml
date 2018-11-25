@@ -31,7 +31,7 @@
   wwwwikiescola.com:   
     url: 'www.wikiescola.com.br'
     redirect: 'wikiescola.com.br'
-    sslname: 'www.wikiescola.com.br'
+    sslname: 'wikiescola.com.br'
     ca: 'LetsEncrypt'
     disable_event: false
   wwwsdiyinfo:
