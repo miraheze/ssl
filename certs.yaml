@@ -230,7 +230,7 @@
   plnonbinary:
     url: 'pl.nonbinary.wiki'
     ca: 'LetsEncrypt'
-    disable_event: false
+    disable_event: true
   splatteams:
     url: 'www.splat-teams.com'
     ca: 'LetsEncrypt'
