@@ -229,6 +229,7 @@
     disable_event: false
   plnonbinary:
     url: 'pl.nonbinary.wiki'
+    sslname: 'nonbinary.wiki'
     ca: 'LetsEncrypt'
     disable_event: true
   splatteams:
