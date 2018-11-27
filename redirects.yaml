@@ -121,6 +121,12 @@
     sslname: 'wildcard.miraheze.org'
     ca: 'GlobalSign'
     hsts: 'strict'
+  marthaspeakswiki:
+    url: 'marthaspeaks.miraheze.org'
+    redirect: 'thesciencearchives.miraheze.org'
+    sslname: 'wildcard.miraheze.org'
+    ca: 'GlobalSign'
+    hsts: 'strict'
     
 # orain.org to miraheze.org wiki redirects
   orain:
