@@ -401,10 +401,6 @@
     url: 'russopedia.info'
     ca: 'LetsEncrypt'
     disable_event: false
-  ttinfo:
-    url: 'taotac.info'
-    ca: 'LetsEncrypt'
-    disable_event: false
   vsfannet:
     url: 'vsfan.net'
     ca: 'LetsEncrypt'
