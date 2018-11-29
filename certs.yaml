@@ -151,10 +151,6 @@
     url: 'wiki.inebriation-confederation.com'
     ca: 'LetsEncrypt'
     disable_event: false
-  oecumene:
-    url: 'oecumene.org'
-    ca: 'LetsEncrypt'
-    disable_event: false
   autocountsoft:
     url: 'wiki.autocountsoft.com'
     ca: 'LetsEncrypt'
