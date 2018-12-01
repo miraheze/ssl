@@ -528,14 +528,17 @@
     disable_event: false
   higyaanipediacoin:
     url: 'hi.gyaanipedia.co.in'
+    sslname: 'en.gyaanipedia.co.in'
     ca: 'LetsEncrypt'
     disable_event: false
   bngyaanipediacoin:
     url: 'bn.gyaanipedia.co.in'
+    sslname: 'en.gyaanipedia.co.in'
     ca: 'LetsEncrypt'
     disable_event: false
   tegyaanipediacoin:
     url: 'te.gyaanipedia.co.in'
+    sslname: 'en.gyaanipedia.co.in'
     ca: 'LetsEncrypt'
     disable_event: false
   mobilemirahezeorg:
