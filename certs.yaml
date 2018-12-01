@@ -324,10 +324,6 @@
     url: 'holonet.pw'
     ca: 'LetsEncrypt'
     disable_event: false
-  wwwradviserorg:
-    url: 'www.radviser.org'
-    ca: 'LetsEncrypt'
-    disable_event: false
   ngscott:
     url: 'wiki.ngscott.net'
     ca: 'LetsEncrypt'
