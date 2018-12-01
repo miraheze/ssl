@@ -421,10 +421,6 @@
     url: 'wiki.doverdistrictscouts.co.uk'
     ca: 'LetsEncrypt'
     disable_event: false
-  tfwiki:
-    url: 'tf.wiki'
-    ca: 'LetsEncrypt'
-    disable_event: false
   veloren:
     url: 'wiki.veloren.net'
     ca: 'LetsEncrypt'
