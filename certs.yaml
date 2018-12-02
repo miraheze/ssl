@@ -551,3 +551,7 @@
     url: 'ta.gyaanipedia.co.in'
     ca: 'LetsEncrypt'
     disable_event: false
+  pagyaanipediacoin:
+    url: 'pa.gyaanipedia.co.in'
+    ca: 'LetsEncrypt'
+    disable_event: false
