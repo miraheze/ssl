@@ -543,3 +543,7 @@
     url: 'exocortex.sillyendpoints.com'
     ca: 'LetsEncrypt'
     disable_event: false
+  wwwnetazar.orgkey:
+    url: 'www.netazar.org.key'
+    ca: 'LetsEncrypt'
+    disable_event: false
