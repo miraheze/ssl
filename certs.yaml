@@ -547,3 +547,7 @@
     url: 'www.netazar.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  tagyaanipediacoin:
+    url: 'ta.gyaanipedia.co.in'
+    ca: 'LetsEncrypt'
+    disable_event: false
