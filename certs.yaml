@@ -559,3 +559,7 @@
     url: 'mr.gyaanipedia.co.in'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikis23org:
+    url: 'wiki.s23.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
