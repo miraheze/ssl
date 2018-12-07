@@ -571,3 +571,7 @@
     url: 'mai.gyaanipedia.co.in'
     ca: 'LetsEncrypt'
     disable_event: false
+  gugyaanipediacoin:
+    url: 'gu.gyaanipedia.co.in'
+    ca: 'LetsEncrypt'
+    disable_event: false
