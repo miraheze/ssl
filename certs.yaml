@@ -304,10 +304,6 @@
     url: 'give.effectively.to'
     ca: 'LetsEncrypt'
     disable_event: false
-  safsongcontests:
-    url: 'saf.songcontests.eu'
-    ca: 'LetsEncrypt'
-    disable_event: false
   studentwikiddns:
     url: 'studentwiki.ddns.net'
     ca: 'LetsEncrypt'
