@@ -571,3 +571,7 @@
     url: 'gu.gyaanipedia.co.in'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikithuniseu:
+    url: 'wiki.thunis.eu'
+    ca: 'LetsEncrypt'
+    disable_event: false
