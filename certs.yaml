@@ -575,3 +575,7 @@
     url: 'wiki.thunis.eu'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikihanaotome:
+    url: 'wiki.hanaoto.me'
+    ca: 'LetsEncrypt'
+    disable_event: false
