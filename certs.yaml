@@ -579,3 +579,7 @@
     url: 'wiki.hanaoto.me'
     ca: 'LetsEncrypt'
     disable_event: false
+  psiconautapt:
+    url: 'psiconauta.pt'
+    ca: 'LetsEncrypt'
+    disable_event: false
