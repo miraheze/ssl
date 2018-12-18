@@ -95,6 +95,12 @@
     sslname: 'www.marinebiodiversitymatrix.org'
     ca: 'LetsEncrypt'
     disable_event: true
+  netazarorg:
+    url: 'netazar.org'
+    redirect: 'www.netazar.org'
+    sslname: 'www.netazar.org'
+    ca: 'LetsEncrypt'
+    disable_event: true
 
   # *.miraheze.org to *.miraheze.org wiki redirects
   studynotekr:
