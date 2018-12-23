@@ -584,6 +584,6 @@
     ca: 'LetsEncrypt'
     disable_event: false
   ndgnenawiki:
-    url: 'ndg.nenawiki.org
+    url: 'ndg.nenawiki.org'
     ca: 'LetsEncrypt'
     disable_event: false
