@@ -583,3 +583,7 @@
     url: 'psiconauta.pt'
     ca: 'LetsEncrypt'
     disable_event: false
+  ndgnenawiki:
+    url: 'ndg.nenawiki.org
+    ca: 'LetsEncrypt'
+    disable_event: false
