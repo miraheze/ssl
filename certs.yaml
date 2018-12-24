@@ -587,3 +587,7 @@
     url: 'ndg.nenawiki.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  mlgyaanipediacoin:
+    url: 'ml.gyaanipedia.co.in'
+    ca: 'LetsEncrypt'
+    disable_event: false
