@@ -599,3 +599,7 @@
     url: 'kn.gyaanipedia.co.in'
     ca: 'LetsEncrypt'
     disable_event: false
+  wwwmodesofdiscoursecom:
+    url: 'www.modesofdiscourse.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
