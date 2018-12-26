@@ -595,3 +595,7 @@
     url: 'madzebrascience.wiki'
     ca: 'LetsEncrypt'
     disable_event: false
+  kn.gyaanipediacoin:
+    url: 'kn.gyaanipedia.co.in'
+    ca: 'LetsEncrypt'
+    disable_event: false
