@@ -611,3 +611,7 @@
     url: 'wiki.pablojprieto.com.es'
     ca: 'LetsEncrypt'
     disable_event: false
+  hifgyaanipedia.coin:
+    url: 'hif.gyaanipedia.co.in'
+    ca: 'LetsEncrypt'
+    disable_event: false
