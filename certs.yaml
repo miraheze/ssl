@@ -627,3 +627,7 @@
     url: 'paramony.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  vmcodexnet:
+    url: 'vmcodex.net'
+    ca: 'LetsEncrypt'
+    disable_event: false
