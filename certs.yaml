@@ -631,3 +631,7 @@
     url: 'vmcodex.net'
     ca: 'LetsEncrypt'
     disable_event: false
+  mggyaanipediacoin:
+    url: 'mg.gyaanipedia.co.in'
+    ca: 'LetsEncrypt'
+    disable_event: false
