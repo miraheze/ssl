@@ -619,3 +619,7 @@
     url: 'or.gyaanipedia.co.in'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikinowchessorg:
+    url: 'wiki.nowchess.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
