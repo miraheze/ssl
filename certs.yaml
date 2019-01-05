@@ -639,3 +639,7 @@
     url: 'secularknowledge.com'
     ca: 'LetsEncrypt'
     disable_event: false
+  wwwjawrightcc:
+    url: 'www.jawright.cc'
+    ca: 'LetsEncrypt'
+    disable_event: false
