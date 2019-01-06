@@ -92,7 +92,7 @@
   wwwmarinebiodiversitymatrix:
     url: 'www.marinebiodiversitymatrix.org'
     redirect: 'marinebiodiversitymatrix.org'
-    sslname: 'www.marinebiodiversitymatrix.org'
+    sslname: 'marinebiodiversitymatrix.org'
     ca: 'LetsEncrypt'
     disable_event: true
   netazarorg:
