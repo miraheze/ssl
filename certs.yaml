@@ -643,3 +643,7 @@
     url: 'www.jawright.cc'
     ca: 'LetsEncrypt'
     disable_event: false
+  fagyaanipediacoin:
+    url: 'fa.gyaanipedia.co.in'
+    ca: 'LetsEncrypt'
+    disable_event: false
