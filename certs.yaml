@@ -655,3 +655,7 @@
     url: 'sa.gyaanipedia.co.in'
     ca: 'LetsEncrypt'
     disable_event: false
+  metagyaanipediacoin:
+    url: 'meta.gyaanipedia.co.in'
+    ca: 'LetsEncrypt'
+    disable_event: false
