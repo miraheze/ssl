@@ -651,3 +651,7 @@
     url: 'vise.dayid.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  sagyaanipediacoin:
+    url: 'sa.gyaanipedia.co.in'
+    ca: 'LetsEncrypt'
+    disable_event: false
