@@ -659,3 +659,7 @@
     url: 'meta.gyaanipedia.co.in'
     ca: 'LetsEncrypt'
     disable_event: false
+  islamkoshtk:
+    url: 'islamkosh.tk'
+    ca: 'LetsEncrypt'
+    disable_event: false
