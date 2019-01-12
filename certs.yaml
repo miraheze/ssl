@@ -668,3 +668,7 @@
     url: 'runzeppelin.ru'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikicasual4casualscom:
+    url: 'wiki.casual4casuals.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
