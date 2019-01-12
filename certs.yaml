@@ -661,5 +661,6 @@
     disable_event: false
   islamkoshtk:
     url: 'islamkosh.tk'
+    mobiledomain: 'm.islamkosh.tk'
     ca: 'LetsEncrypt'
     disable_event: false
