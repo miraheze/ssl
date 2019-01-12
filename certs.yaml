@@ -664,3 +664,7 @@
     mobiledomain: 'm.islamkosh.tk'
     ca: 'LetsEncrypt'
     disable_event: false
+  runzeppelinru:
+    url: 'runzeppelin.ru'
+    ca: 'LetsEncrypt'
+    disable_event: false
