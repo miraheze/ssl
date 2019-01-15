@@ -672,3 +672,7 @@
     url: 'wiki.casual4casuals.com'
     ca: 'LetsEncrypt'
     disable_event: false
+  wintermoornet:
+    url: 'wintermoor.net'
+    ca: 'LetsEncrypt'
+    disable_event: false
