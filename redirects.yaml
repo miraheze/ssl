@@ -82,7 +82,7 @@
     sslname: 'wildcard.miraheze.org'
     ca: 'GlobalSign'
     hsts: 'strict'
-    disable_event: false
+    disable_event: true
   wwwb1tcashorg:
     url: 'www.b1tcash.org'
     redirect: 'b1tcash.org'
@@ -115,24 +115,35 @@
     sslname: 'wildcard.miraheze.org'
     ca: 'GlobalSign'
     hsts: 'strict'
+    disable_event: true
   hellointernetwiki:
     url: 'hellointernet.miraheze.org'
     redirect: 'podpedia.miraheze.org/wiki/Portal:HelloInternet'
     sslname: 'wildcard.miraheze.org'
     ca: 'GlobalSign'
     hsts: 'strict'
+    disable_event: true
   unmadewiki:
     url: 'unmade.miraheze.org'
     redirect: 'podpedia.miraheze.org/wiki/Portal:Unmade'
     sslname: 'wildcard.miraheze.org'
     ca: 'GlobalSign'
     hsts: 'strict'
+    disable_event: true
   marthaspeakswiki:
     url: 'marthaspeaks.miraheze.org'
     redirect: 'thesciencearchives.miraheze.org'
     sslname: 'wildcard.miraheze.org'
     ca: 'GlobalSign'
-    hsts: 'strict'   
+    hsts: 'strict'
+    disable_event: true
+  intpwiki:
+    url: 'intp.miraheze.org'
+    redirect: 'taswin.miraheze.org'
+    sslname: 'wildcard.miraheze.org'
+    ca: 'GlobalSign'
+    hsts: 'strict'
+    disable_event: true
 # orain.org to miraheze.org wiki redirects
   orain:
     url: 'orain.org'
