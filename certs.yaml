@@ -676,3 +676,7 @@
     url: 'wintermoor.net'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikihyperborianorg:
+    url: 'wiki.hyperborian.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
