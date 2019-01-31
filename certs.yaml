@@ -236,10 +236,6 @@
     url: 'saveta.org'
     ca: 'LetsEncrypt'
     disable_event: false
-  karagash:
-    url: 'karagash.info'
-    ca: 'LetsEncrypt'
-    disable_event: false
   lab612:
     url: 'www.lab612.at'
     ca: 'LetsEncrypt'
