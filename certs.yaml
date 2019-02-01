@@ -684,3 +684,7 @@
     url: 'wiki.hackdown.me'
     ca: 'LetsEncrypt'
     disable_event: false
+  frikipediaga:
+    url: 'frikipedia.ga'
+    ca: 'LetsEncrypt'
+    disable_event: false
