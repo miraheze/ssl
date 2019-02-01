@@ -680,3 +680,7 @@
     url: 'www.bushcraftpedia.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikihackdownme:
+    url: 'wiki.hackdown.me'
+    ca: 'LetsEncrypt'
+    disable_event: false
