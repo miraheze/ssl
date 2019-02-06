@@ -119,10 +119,6 @@
     url: 'reviwiki.info'
     ca: 'PositiveSSLDV'
     disable_event: false
-  bp:
-    url: 'bebaskanpengetahuan.org'
-    ca: 'LetsEncrypt'
-    disable_event: false
   tulpa:
     url: 'wiki.tulpa.info'
     ca: 'LetsEncrypt'
