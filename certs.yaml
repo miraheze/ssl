@@ -688,3 +688,7 @@
     url: 'frikipedia.ga'
     ca: 'LetsEncrypt'
     disable_event: false
+  crimesciencewikiorg:
+    url: 'crimesciencewiki.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
