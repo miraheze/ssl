@@ -260,8 +260,9 @@
     url: 'wiki.consentcraft.uk'
     ca: 'LetsEncrypt'
     disable_event: false
-  eerstelijnszones:
+  wwweerstelijnszones:
     url: 'www.eerstelijnszones.be'
+    sslname: 'eerstelijnszones.be'
     ca: 'LetsEncrypt'
     disable_event: false
   iceposeidonwiki:
