@@ -64,10 +64,10 @@
     sslname: 'saveta.org'
     ca: 'LetsEncrypt'
     disable_event: true
-  wwweerstelijnszones:
+  eerstelijnszones:
     url: 'eerstelijnszones.be'
     redirect: 'www.eerstelijnszones.be'
-    sslname: 'www.eerstelijnszones.be'
+    sslname: 'eerstelijnszones.be'
     ca: 'LetsEncrypt'
     disable_event: true
   wwwguiasdobrasilcombr:
