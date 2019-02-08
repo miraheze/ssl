@@ -691,7 +691,7 @@
     disable_event: false
   wikicasadocarvalhonet:
     url: 'wiki.casadocarvalho.net'
-    ca: 'LetsEncrypt
+    ca: 'LetsEncrypt'
     disable_event: false
   endlesssealucyawreycom:
     url: 'endlesssea.lucyawrey.com'
