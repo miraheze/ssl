@@ -693,3 +693,7 @@
     url: 'wiki.casadocarvalho.net'
     ca: 'LetsEncrypt
     disable_event: false
+  endlesssealucyawreycom:
+    url: 'endlesssea.lucyawrey.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
