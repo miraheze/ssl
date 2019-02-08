@@ -689,3 +689,7 @@
     url: 'wiki.coderdojosaintpaul.org
     ca: 'LetsEncrypt'
     disable_event: false
+  wikicasadocarvalhonet:
+    url: 'wiki.casadocarvalho.net'
+    ca: 'LetsEncrypt
+    disable_event: false
