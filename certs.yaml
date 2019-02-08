@@ -685,3 +685,7 @@
     url: 'crimesciencewiki.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikicoderdojosaintpaulorg:
+    url: 'wiki.coderdojosaintpaul.org
+    ca: 'LetsEncrypt'
+    disable_event: false
