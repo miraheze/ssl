@@ -706,3 +706,7 @@
     mobiledomain: 'interno.m.guiasdobrasil.com.br'
     ca: 'LetsEncrypt'
     disable_event: false
+  bebaskanpengetahuanid:
+    url: 'bebaskanpengetahuan.id'
+    ca: 'LetsEncrypt'
+    disable_event: false
