@@ -703,5 +703,6 @@
     disable_event: false
   internoguiasdobrasilcombr:
     url: 'interno.guiasdobrasil.com.br'
+    mobiledomain: 'm.guiasdobrasil.com.br'
     ca: 'LetsEncrypt'
     disable_event: false
