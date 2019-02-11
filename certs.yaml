@@ -701,3 +701,7 @@
     url: 'wiki.landan.ca'
     ca: 'LetsEncrypt'
     disable_event: false
+  internoguiasdobrasilcombr:
+    url: 'interno.guiasdobrasil.com.br'
+    ca: 'LetsEncrypt'
+    disable_event: false
