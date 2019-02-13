@@ -58,12 +58,6 @@
     sslname: 'dariawiki.org'
     ca: 'LetsEncrypt'
     disable_event: true
-  wwwsaveta:
-    url: 'www.saveta.org'
-    redirect: 'saveta.org'
-    sslname: 'saveta.org'
-    ca: 'LetsEncrypt'
-    disable_event: true
   eerstelijnszones:
     url: 'eerstelijnszones.be'
     redirect: 'www.eerstelijnszones.be'
