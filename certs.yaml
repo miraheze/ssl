@@ -706,3 +706,7 @@
     url: 'bebaskanpengetahuan.id'
     ca: 'LetsEncrypt'
     disable_event: false
+  riptogq:
+    url: 'ripto.gq'
+    ca: 'LetsEncrypt'
+    disable_event: false
