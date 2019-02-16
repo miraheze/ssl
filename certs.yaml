@@ -707,6 +707,6 @@
     ca: 'LetsEncrypt'
     disable_event: false
   riptogq:
-    url: 'ripto.gq'
+    url: 'wiki.ripto.gq'
     ca: 'LetsEncrypt'
     disable_event: false
