@@ -285,7 +285,7 @@
     url: 'garrettcountyguide.com'
     ca: 'LetsEncrypt'
     disable_event: false
-  cornetto:
+  cornettoonline:
     url: 'cornetto.online'
     ca: 'LetsEncrypt'
     disable_event: false
