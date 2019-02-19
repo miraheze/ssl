@@ -710,3 +710,7 @@
     url: 'wiki.ripto.gq'
     ca: 'LetsEncrypt'
     disable_event: false
+  wwwwikimicrofinanzait:
+    url: 'www.wikimicrofinanza.it'
+    ca: 'LetsEncrypt'
+    disable_event: false
