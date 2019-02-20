@@ -261,10 +261,6 @@
     sslname: 'eerstelijnszones.be'
     ca: 'LetsEncrypt'
     disable_event: false
-  iceposeidonwiki:
-    url: 'www.iceposeidonwiki.com'
-    ca: 'LetsEncrypt'
-    disable_event: false
   zymonic:
     url: 'wiki.zymonic.com'
     ca: 'LetsEncrypt'
