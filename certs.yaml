@@ -707,6 +707,6 @@
     ca: 'LetsEncrypt'
     disable_event: false
   documentationaqfercom:
-    url: 'documentation.aqfer.com
+    url: 'documentation.aqfer.com'
     ca: 'LetsEncrypt'
     disable_event: false
