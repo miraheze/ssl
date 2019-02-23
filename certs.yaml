@@ -240,10 +240,6 @@
     url: 'wiki.exnihilolinux.org'
     ca: 'LetsEncrypt'
     disable_event: false
-  fikcyjnatv: 
-    url: 'fikcyjnatv.pl'
-    ca: 'LetsEncrypt'
-    disable_event: false
   bconnected:
     url: 'bconnected.aidanmarkham.com'
     ca: 'LetsEncrypt'
