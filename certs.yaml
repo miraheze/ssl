@@ -710,3 +710,7 @@
     url: 'wiki.bullshit.systems'
     ca: 'LetsEncrypt'
     disable_event: false
+  wwwbestpracticetechnology:
+    url: 'www.bestpractice.technology'
+    ca: 'LetsEncrypt'
+    disable_event: false
