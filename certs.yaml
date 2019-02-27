@@ -706,3 +706,7 @@
     url: 'documentation.aqfer.com'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikibullshitsystems:
+    url: 'wiki.bullshit.systems'
+    ca: 'LetsEncrypt'
+    disable_event: false
