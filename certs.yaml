@@ -714,3 +714,7 @@
     url: 'www.bestpractice.technology'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikikemenethcom:
+    url: 'wiki.kemeneth.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
