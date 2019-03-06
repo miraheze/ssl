@@ -101,6 +101,12 @@
     sslname: 'www.jawright.cc'
     ca: 'LetsEncrypt'
     disable_event: true
+  wikihackdownme:
+    url: 'wiki.hackdown.me'
+    redirect: 'wiki.hackdown.org'
+    sslname: 'wiki.hackdown.org'
+    ca: 'LetsEncrypt'
+    disable_event: true
 
   # *.miraheze.org to *.miraheze.org wiki redirects
   studynotekr:
