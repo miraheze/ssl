@@ -191,10 +191,6 @@
     url: 'wiki.gesamtschule-nordkirchen.de'
     ca: 'LetsEncrypt'
     disable_event: false
-  teamwizardry:
-    url: 'wiki.teamwizardry.com'
-    ca: 'LetsEncrypt'
-    disable_event: false
   ciptamedia:
     url: 'wiki.ciptamedia.org'
     ca: 'LetsEncrypt'
