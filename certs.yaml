@@ -350,10 +350,6 @@
     url: 'wiki.taotac.org'
     ca: 'LetsEncrypt'
     disable_event: false
-  wsm:
-    url: 'docs.websmart.media'
-    ca: 'LetsEncrypt'
-    disable_event: false
   wikirmbrksl:
     url: 'wiki.rmbrk.sk'
     ca: 'LetsEncrypt'
