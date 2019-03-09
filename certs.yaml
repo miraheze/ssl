@@ -715,6 +715,10 @@
     ca: 'LetsEncrypt'
     disable_event: false
   theatlaspw:
-    url: 'theatlas.pw
+    url: 'theatlas.pw'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  knuxwikicom:
+    url: 'knuxwiki.com'
     ca: 'LetsEncrypt'
     disable_event: false
