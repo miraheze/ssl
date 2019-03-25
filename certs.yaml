@@ -277,10 +277,6 @@
     url: 'cornetto.online'
     ca: 'LetsEncrypt'
     disable_event: false
-  giveeffectively:
-    url: 'give.effectively.to'
-    ca: 'LetsEncrypt'
-    disable_event: false
   studentwikiddns:
     url: 'studentwiki.ddns.net'
     ca: 'LetsEncrypt'
