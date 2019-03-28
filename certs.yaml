@@ -273,10 +273,6 @@
     url: 'garrettcountyguide.com'
     ca: 'LetsEncrypt'
     disable_event: false
-  cornettoonline:
-    url: 'cornetto.online'
-    ca: 'LetsEncrypt'
-    disable_event: false
   studentwikiddns:
     url: 'studentwiki.ddns.net'
     ca: 'LetsEncrypt'
