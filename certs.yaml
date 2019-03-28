@@ -342,10 +342,6 @@
     url: 'astrapedia.ru'
     ca: 'LetsEncrypt'
     disable_event: false
-  taotac:
-    url: 'wiki.taotac.org'
-    ca: 'LetsEncrypt'
-    disable_event: false
   wikirmbrksl:
     url: 'wiki.rmbrk.sk'
     ca: 'LetsEncrypt'
