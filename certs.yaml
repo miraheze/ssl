@@ -730,3 +730,7 @@
     url: 'd.taotac.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  itpediask:
+    url: 'itpedia.sk'
+    ca: 'LetsEncrypt'
+    disable_event: false
