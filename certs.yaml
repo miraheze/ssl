@@ -742,3 +742,7 @@
     url: 'la.gyaanipedia.co.in'
     ca: 'LetsEncrypt'
     disable_event: false
+  wiki.cloudytheology.com:
+    url: 'wiki.cloudytheology.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
