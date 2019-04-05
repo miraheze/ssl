@@ -726,3 +726,7 @@
     url: 'wk.taotac.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  dtaotacorg:
+    url: 'd.taotac.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
