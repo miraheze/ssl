@@ -101,7 +101,7 @@
     sslname: 'www.jawright.cc'
     ca: 'LetsEncrypt'
     disable_event: true
-  jwwiki:
+  wwwitpediask:
     url: 'www.itpedia.sk'
     redirect: 'itpedia.sk'
     sslname: 'itpedia.sk'
