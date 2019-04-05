@@ -738,3 +738,7 @@
     url: 'wiki.scvo.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  lagyaanipediacoin:
+    url: 'la.gyaanipedia.co.in'
+    ca: 'LetsEncrypt'
+    disable_event: false
