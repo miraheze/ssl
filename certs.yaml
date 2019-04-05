@@ -734,3 +734,7 @@
     url: 'itpedia.sk'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikiscvoorg:
+    url: 'wiki.scvo.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
