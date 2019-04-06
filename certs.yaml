@@ -750,3 +750,6 @@
     url: 'wiki.xfbs.net'
     ca: 'LetsEncrypt'
     disable_event: false
+  sahityashaunakin:
+    url: 'sahitya.shaunak.in'
+    ca: 'LetsEncrypt'
