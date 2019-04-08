@@ -753,3 +753,6 @@
   sahityashaunakin:
     url: 'sahitya.shaunak.in'
     ca: 'LetsEncrypt'
+  wikigalacteeorg:
+    url: 'wiki.galactee.org'
+    ca: 'LetsEncrypt'
