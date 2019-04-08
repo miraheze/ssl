@@ -253,10 +253,6 @@
     sslname: 'eerstelijnszones.be'
     ca: 'LetsEncrypt'
     disable_event: false
-  zymonic:
-    url: 'wiki.zymonic.com'
-    ca: 'LetsEncrypt'
-    disable_event: false
   tensorflow:
     url: 'wiki.tensorflow.community'
     ca: 'LetsEncrypt'
