@@ -759,3 +759,6 @@
   wwwthesimswikicom:
     url: 'www.thesimswiki.com'
     ca: 'LetsEncrypt'
+  wikicontraaocom:
+    url: 'wiki.contraao.com'
+    ca: 'LetsEncrypt'
