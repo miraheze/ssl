@@ -756,9 +756,9 @@
   wikigalacteeorg:
     url: 'wiki.galactee.org'
     ca: 'LetsEncrypt'
-  wwwthesimswikicom:
-    url: 'www.thesimswiki.com'
-    ca: 'LetsEncrypt'
+#  wwwthesimswikicom:
+#    url: 'www.thesimswiki.com'
+#    ca: 'LetsEncrypt'
   wikicontraaocom:
     url: 'wiki.contraao.com'
     ca: 'LetsEncrypt'
