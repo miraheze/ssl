@@ -733,12 +733,20 @@
   sahityashaunakin:
     url: 'sahitya.shaunak.in'
     ca: 'LetsEncrypt'
+    disable_event: false
   wikigalacteeorg:
     url: 'wiki.galactee.org'
     ca: 'LetsEncrypt'
+    disable_event: false
   wwwthesimswikicom:
     url: 'www.thesimswiki.com'
     ca: 'LetsEncrypt'
+    disable_event: false
   wikicontraaocom:
     url: 'wiki.contraao.com'
     ca: 'LetsEncrypt'
+    disable_event: false
+  unrecnationswiki:
+    url: 'unrecnations.wiki'
+    ca: 'LetsEncrypt'
+    disable_event: false
