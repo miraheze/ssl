@@ -119,6 +119,13 @@
     sslname: 'www.thesimswiki.com'
     ca: 'LetsEncrypt'
     disable_event: true
+  simswiki:
+    url: 'sims.miraheze.org'
+    redirect: 'www.thesimswiki.com'
+    sslname: 'wildcard.miraheze.org'
+    ca: 'GlobalSign'
+    hsts: 'strict'
+    disable_event: true
 
   # *.miraheze.org to *.miraheze.org wiki redirects
   studynotekr:
