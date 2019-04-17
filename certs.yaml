@@ -750,3 +750,7 @@
     url: 'unrecnations.wiki'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikitinutulpadureniloreu:
+    url: 'wiki.tinutulpadurenilor.eu'
+    ca: 'LetsEncrypt'
+    disable_event: false
