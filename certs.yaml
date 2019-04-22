@@ -758,3 +758,7 @@
     url: 'browndust.wiki'
     ca: 'LetsEncrypt'
     disable_event: false
+  panadevir:
+    url: 'panadev.ir'
+    ca: 'LetsEncrypt'
+    disable_event: false
