@@ -253,10 +253,6 @@
     sslname: 'eerstelijnszones.be'
     ca: 'LetsEncrypt'
     disable_event: false
-  tensorflow:
-    url: 'wiki.tensorflow.community'
-    ca: 'LetsEncrypt'
-    disable_event: false
   staravesno:
     url: 'wiki.staraves-no.cz'
     ca: 'LetsEncrypt'
