@@ -754,3 +754,7 @@
     url: 'panadev.ir'
     ca: 'LetsEncrypt'
     disable_event: false
+  munwikiinfo:
+    url: 'munwiki.info'
+    ca: 'LetsEncrypt'
+    disable_event: false
