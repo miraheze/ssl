@@ -762,3 +762,7 @@
     url: 'mh142.com'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikizymoniccom:
+    url: 'wiki.zymonic.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
