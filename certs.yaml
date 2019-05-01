@@ -758,3 +758,7 @@
     url: 'munwiki.info'
     ca: 'LetsEncrypt'
     disable_event: false
+  mh142com:
+    url: 'mh142.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
