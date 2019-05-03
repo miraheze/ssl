@@ -770,3 +770,7 @@
     url: 'wiki.mxlinuxusers.de'
     ca: 'LetsEncrypt'
     disable_event: false
+  cyberlawccdcoeorg:
+    url: 'cyberlaw.ccdcoe.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
