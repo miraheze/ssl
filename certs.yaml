@@ -752,6 +752,7 @@
     disable_event: false
   panadevir:
     url: 'panadev.ir'
+    mobiledomain: 'm.panadev.ir'
     ca: 'LetsEncrypt'
     disable_event: false
   munwikiinfo:
