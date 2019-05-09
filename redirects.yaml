@@ -126,6 +126,12 @@
     ca: 'GlobalSign'
     hsts: 'strict'
     disable_event: true
+  simswiki:
+    url: 'mh142.com'
+    redirect: 'www.mh142.com'
+    sslname: 'mh142.com'
+    ca: 'LetsEncrypt'
+    disable_event: true
 
   # *.miraheze.org to *.miraheze.org wiki redirects
   studynotekr:
