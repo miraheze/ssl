@@ -126,7 +126,7 @@
     ca: 'GlobalSign'
     hsts: 'strict'
     disable_event: true
-  simswiki:
+  wwwmh142com:
     url: 'mh142.com'
     redirect: 'www.mh142.com'
     sslname: 'mh142.com'
