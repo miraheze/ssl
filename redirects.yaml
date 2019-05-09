@@ -127,8 +127,8 @@
     hsts: 'strict'
     disable_event: true
   wwwmh142com:
-    url: 'mh142.com'
-    redirect: 'www.mh142.com'
+    url: 'www.mh142.com'
+    redirect: 'mh142.com'
     sslname: 'mh142.com'
     ca: 'LetsEncrypt'
     disable_event: true
