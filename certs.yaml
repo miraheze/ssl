@@ -775,3 +775,8 @@
     url: 'cyberlaw.ccdcoe.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  wiki2035rocks:
+    url: 'wiki.2035.rocks'
+    ca: 'LetsEncrypt'
+    disable_event: false
+ 
