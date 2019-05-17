@@ -476,10 +476,6 @@
     sslname: 'm.miraheze.org'
     ca: 'LetsEncrypt'
     disable_event: false
-  exocortexsillyendpointscom:
-    url: 'exocortex.sillyendpoints.com'
-    ca: 'LetsEncrypt'
-    disable_event: false
   wwwnetazarorg:
     url: 'www.netazar.org'
     ca: 'LetsEncrypt'
