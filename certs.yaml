@@ -698,10 +698,6 @@
     url: 'zw.fontainebleau-avon.fr'
     ca: 'LetsEncrypt'
     disable_event: false
-  dtaotacorg:
-    url: 'd.taotac.org'
-    ca: 'LetsEncrypt'
-    disable_event: false
   itpediask:
     url: 'itpedia.sk'
     ca: 'LetsEncrypt'
