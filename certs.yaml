@@ -767,6 +767,3 @@
     url: 'wiki.2035.rocks'
     ca: 'LetsEncrypt'
     disable_event: false
-  archivemmartistsnet:
-    url: 'archive.mmartists.net'
-    ca: 'LetsEncrypt'
