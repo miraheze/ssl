@@ -293,10 +293,6 @@
     url: 'wiki.dobots.nl'
     ca: 'LetsEncrypt'
     disable_event: false
-  decrypted:
-    url: 'decrypted.wiki'
-    ca: 'LetsEncrypt'
-    disable_event: false
   pupilliam:
     url: 'wiki.pupilliam.com'
     ca: 'LetsEncrypt'
