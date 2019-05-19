@@ -514,6 +514,7 @@
     disable_event: false
   ndgnenawiki:
     url: 'ndg.nenawiki.org'
+    sslname: 'nenawiki.org'
     ca: 'LetsEncrypt'
     disable_event: false
   mlgyaanipediacoin:
