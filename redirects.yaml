@@ -132,6 +132,13 @@
     sslname: 'mh142.com'
     ca: 'LetsEncrypt'
     disable_event: true
+  commonswikiwiki:
+    url: 'commonswiki.miraheze.org'
+    redirect: 'commons.miraheze.org'
+    sslname: 'wildcard.miraheze.org'
+    ca: 'GlobalSign'
+    hsts: 'strict'
+    disable_event: true
 
   # *.miraheze.org to *.miraheze.org wiki redirects
   studynotekr:
