@@ -739,10 +739,6 @@
     url: 'www.thesimswiki.com'
     ca: 'LetsEncrypt'
     disable_event: false
-  wikicontraaocom:
-    url: 'wiki.contraao.com'
-    ca: 'LetsEncrypt'
-    disable_event: false
   unrecnationswiki:
     url: 'unrecnations.wiki'
     ca: 'LetsEncrypt'
@@ -790,5 +786,9 @@
     disable_event: false
   wikiudiaca:
     url: 'wiki.udia.ca'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  contraaocom:
+    url: 'contraao.com'
     ca: 'LetsEncrypt'
     disable_event: false
