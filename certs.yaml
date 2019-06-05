@@ -686,10 +686,6 @@
     url: 'wiki.kemeneth.com'
     ca: 'LetsEncrypt'
     disable_event: false
-  absurdopediawiki:
-    url: 'absurdopedia.wiki'
-    ca: 'LetsEncrypt'
-    disable_event: false
   theatlaspw:
     url: 'theatlas.pw'
     ca: 'LetsEncrypt'
