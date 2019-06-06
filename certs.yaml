@@ -497,7 +497,6 @@
     disable_event: false
   bhgyaanipediacoin:
     url: 'bh.gyaanipedia.co.in'
-    sslname: 'en.gyaanipedia.co.in'
     ca: 'LetsEncrypt'
     disable_event: false
   maigyaanipediacoin:
