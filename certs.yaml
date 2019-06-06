@@ -451,17 +451,17 @@
     url: 'hi.gyaanipedia.co.in'
     sslname: 'en.gyaanipedia.co.in'
     ca: 'LetsEncrypt'
-    disable_event: false
+    disable_event: true
   bngyaanipediacoin:
     url: 'bn.gyaanipedia.co.in'
     sslname: 'en.gyaanipedia.co.in'
     ca: 'LetsEncrypt'
-    disable_event: false
+    disable_event: true
   tegyaanipediacoin:
     url: 'te.gyaanipedia.co.in'
     sslname: 'en.gyaanipedia.co.in'
     ca: 'LetsEncrypt'
-    disable_event: false
+    disable_event: true
   mobilemirahezeorg:
     url: 'm.miraheze.org'
     mobiledomain: '*.m.miraheze.org'
@@ -476,21 +476,21 @@
     url: 'ta.gyaanipedia.co.in'
     sslname: 'en.gyaanipedia.co.in'
     ca: 'LetsEncrypt'
-    disable_event: false
+    disable_event: true
   pagyaanipediacoin:
     url: 'pa.gyaanipedia.co.in'
     sslname: 'en.gyaanipedia.co.in'
     ca: 'LetsEncrypt'
-    disable_event: false
+    disable_event: true
   mrgyaanipediacoin:
     url: 'mr.gyaanipedia.co.in'
     sslname: 'en.gyaanipedia.co.in'
     ca: 'LetsEncrypt'
-    disable_event: false
+    disable_event: true
   wikis23org:
     url: 'wiki.s23.org'
     ca: 'LetsEncrypt'
-    disable_event: false
+    disable_event: true
   bhgyaanipediacoin:
     url: 'bh.gyaanipedia.co.in'
     ca: 'LetsEncrypt'
@@ -499,12 +499,12 @@
     url: 'mai.gyaanipedia.co.in'
     sslname: 'en.gyaanipedia.co.in'
     ca: 'LetsEncrypt'
-    disable_event: false
+    disable_event: true
   gugyaanipediacoin:
     url: 'gu.gyaanipedia.co.in'
     sslname: 'en.gyaanipedia.co.in'
     ca: 'LetsEncrypt'
-    disable_event: false
+    disable_event: true
   wikithuniseu:
     url: 'wiki.thunis.eu'
     ca: 'LetsEncrypt'
@@ -522,7 +522,7 @@
     url: 'ml.gyaanipedia.co.in'
     sslname: 'en.gyaanipedia.co.in'
     ca: 'LetsEncrypt'
-    disable_event: false
+    disable_event: true
   madzebrasciencewiki:
     url: 'madzebrascience.wiki'
     ca: 'LetsEncrypt'
@@ -531,7 +531,7 @@
     url: 'kn.gyaanipedia.co.in'
     sslname: 'en.gyaanipedia.co.in'
     ca: 'LetsEncrypt'
-    disable_event: false
+    disable_event: true
   wwwmodesofdiscoursecom:
     url: 'www.modesofdiscourse.com'
     ca: 'LetsEncrypt'
@@ -540,7 +540,7 @@
     url: 'commons.gyaanipedia.co.in'
     sslname: 'en.gyaanipedia.co.in'
     ca: 'LetsEncrypt'
-    disable_event: false
+    disable_event: true
   wikipablojprietocomes:
     url: 'wiki.pablojprieto.com.es'
     ca: 'LetsEncrypt'
@@ -549,12 +549,12 @@
     url: 'hif.gyaanipedia.co.in'
     sslname: 'en.gyaanipedia.co.in'
     ca: 'LetsEncrypt'
-    disable_event: false
+    disable_event: true
   orgyaanipediacoin:
     url: 'or.gyaanipedia.co.in'
     sslname: 'en.gyaanipedia.co.in'
     ca: 'LetsEncrypt'
-    disable_event: false
+    disable_event: true
   wikinowchessorg:
     url: 'wiki.nowchess.org'
     ca: 'LetsEncrypt'
@@ -571,7 +571,7 @@
     url: 'mg.gyaanipedia.co.in'
     sslname: 'en.gyaanipedia.co.in'
     ca: 'LetsEncrypt'
-    disable_event: false
+    disable_event: true
   secularknowledgecom:
     url: 'secularknowledge.com'
     ca: 'LetsEncrypt'
@@ -584,7 +584,7 @@
     url: 'fa.gyaanipedia.co.in'
     sslname: 'en.gyaanipedia.co.in'
     ca: 'LetsEncrypt'
-    disable_event: false
+    disable_event: true
   visedayidorg:
     url: 'vise.dayid.org'
     ca: 'LetsEncrypt'
@@ -593,12 +593,12 @@
     url: 'sa.gyaanipedia.co.in'
     sslname: 'en.gyaanipedia.co.in'
     ca: 'LetsEncrypt'
-    disable_event: false
+    disable_event: true
   metagyaanipediacoin:
     url: 'meta.gyaanipedia.co.in'
     sslname: 'en.gyaanipedia.co.in'
     ca: 'LetsEncrypt'
-    disable_event: false
+    disable_event: true
   islamkoshtk:
     url: 'islamkosh.tk'
     mobiledomain: 'm.islamkosh.tk'
@@ -709,7 +709,7 @@
     url: 'la.gyaanipedia.co.in'
     sslname: 'en.gyaanipedia.co.in'
     ca: 'LetsEncrypt'
-    disable_event: false
+    disable_event: true
   wikicloudytheologycom:
     url: 'wiki.cloudytheology.com'
     ca: 'LetsEncrypt'
