@@ -787,3 +787,7 @@
     url: 'wiki.pyxxl.tk'
     ca: 'LetsEncrypt'
     disable_event: false
+  guiacineastaspt:
+    url: 'guia.cineastas.pt'
+    ca: 'LetsEncrypt'
+    disable_event: false
