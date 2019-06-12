@@ -783,3 +783,7 @@
     url: 'contraao.com'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikipyxxltk:
+    url: 'wiki.pyxxl.tk'
+    ca: 'LetsEncrypt'
+    disable_event: false
