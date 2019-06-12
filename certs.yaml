@@ -783,3 +783,7 @@
     url: 'contraao.com'
     ca: 'LetsEncrypt'
     disable_event: false
+  contraaocom:
+    url: 'contraao.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
