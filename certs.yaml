@@ -791,3 +791,7 @@
     url: 'guia.cineastas.pt'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikimxlinuxusersorg:
+    url: 'wiki.mxlinuxusers.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
