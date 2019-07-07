@@ -795,3 +795,7 @@
     url: 'storytime.jdstroy.cf'
     ca: 'LetsEncrypt'
     disable_event: false
+  theliteratureprojectorg:
+    url: 'theliteratureproject.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
