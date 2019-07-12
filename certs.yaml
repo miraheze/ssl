@@ -799,3 +799,7 @@
     url: 'theliteratureproject.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  mrlovewiki:
+    url: 'mrlove.wiki'
+    ca: 'LetsEncrypt'
+    disable_event: false
