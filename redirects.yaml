@@ -146,7 +146,7 @@
     ca: 'LetsEncrypt'
     disable_event: true
   comnumthwiki:
-    url: 'comnumth.miraheze.org'
+    url: 'cnt.miraheze.org'
     redirect: 'combinatorialnumbertheory.miraheze.org'
     sslname: 'wildcard.miraheze.org'
     ca: 'GlobalSign'
