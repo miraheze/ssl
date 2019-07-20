@@ -390,10 +390,6 @@
     url: 'electowiki.org'
     ca: 'LetsEncrypt'
     disable_event: false
-  wikikybermctk:
-    url: 'wiki.kybermc.tk'
-    ca: 'LetsEncrypt'
-    disable_event: false
   draglgbt:
     url: 'drag.lgbt'
     ca: 'LetsEncrypt'
