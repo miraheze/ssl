@@ -77,12 +77,6 @@
     ca: 'GlobalSign'
     hsts: 'strict'
     disable_event: true
-  wwwb1tcashorg:
-    url: 'www.b1tcash.org'
-    redirect: 'b1tcash.org'
-    sslname: 'b1tcash.org'
-    ca: 'LetsEncrypt'
-    disable_event: true
   wwwmarinebiodiversitymatrix:
     url: 'www.marinebiodiversitymatrix.org'
     redirect: 'marinebiodiversitymatrix.org'
