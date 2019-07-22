@@ -322,10 +322,6 @@
     url: 'wiki.rmbrk.sk'
     ca: 'LetsEncrypt'
     disable_event: false
-  russopedia:
-    url: 'russopedia.info'
-    ca: 'LetsEncrypt'
-    disable_event: false
   vsfannet:
     url: 'vsfan.net'
     ca: 'LetsEncrypt'
