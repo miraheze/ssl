@@ -378,10 +378,6 @@
     url: 'pc-architect.tk'
     ca: 'LetsEncrypt'
     disable_event: false
-  b1tcashorg:
-    url: 'b1tcash.org'
-    ca: 'LetsEncrypt'
-    disable_event: false
   wwwevanswikiorg:
     url: 'www.evanswiki.org'
     ca: 'LetsEncrypt'
