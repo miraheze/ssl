@@ -149,7 +149,7 @@
   wwwmh142com:
     url: 'tradwiki.org'
     redirect: 'www.tradwiki.org'
-    sslname: 'tradwiki.org'
+    sslname: 'www.tradwiki.org'
     ca: 'LetsEncrypt'
     disable_event: true
 
