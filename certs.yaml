@@ -779,3 +779,7 @@
     url: 'mrlove.wiki'
     ca: 'LetsEncrypt'
     disable_event: false
+  wiesepediaga:
+    url: 'wiesepedia.ga'
+    ca: 'LetsEncrypt'
+    disable_event: false
