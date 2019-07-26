@@ -791,3 +791,7 @@
     url: 'wiki.vinesh.eu.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikipyxxltk:
+    url: 'wiki.pyxxl.tk'
+    ca: 'LetsEncrypt'
+    disable_event: false
