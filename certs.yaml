@@ -787,3 +787,7 @@
     url: 'www.tradwiki.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikivinesheuorg:
+    url: 'wiki.vinesh.eu.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
