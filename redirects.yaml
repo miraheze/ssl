@@ -146,7 +146,7 @@
     ca: 'GlobalSign'
     hsts: 'strict'
     disable_event: true
-  wwwmh142com:
+  tradwikiorg:
     url: 'tradwiki.org'
     redirect: 'www.tradwiki.org'
     sslname: 'www.tradwiki.org'
