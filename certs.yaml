@@ -797,5 +797,5 @@
     disable_event: false
   nonlinearlycomcrt:
     url: 'nonlinearly.com'
-    ca: 'Cloudflare'
+    ca: 'CloudFlare'
     disable_event: false
