@@ -797,5 +797,5 @@
     disable_event: false
   nonlinearlycomcrt:
     url: 'nonlinearly.com'
-    ca: 'LetsEncrypt'
+    ca: 'Cloudflare'
     disable_event: false
