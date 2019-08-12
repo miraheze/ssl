@@ -220,10 +220,6 @@
     sslname: 'nonbinary.wiki'
     ca: 'LetsEncrypt'
     disable_event: true
-  splatteams:
-    url: 'www.splat-teams.com'
-    ca: 'LetsEncrypt'
-    disable_event: false
   lab612:
     url: 'www.lab612.at'
     ca: 'LetsEncrypt'
