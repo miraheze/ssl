@@ -330,10 +330,6 @@
     url: 'infectowiki.com'
     ca: 'LetsEncrypt'
     disable_event: false
-  ahmsaqibcf:
-    url: 'ahmsaqib.cf'
-    ca: 'LetsEncrypt'
-    disable_event: false
   wikiwhentheycryorg:
     url: 'wiki.whentheycry.org'
     ca: 'LetsEncrypt'
