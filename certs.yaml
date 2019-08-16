@@ -787,3 +787,7 @@
     url: 'wiki.aspirantsadda.com'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikiopendominionnet:
+    url: 'wiki.opendominion.net'
+    ca: 'LetsEncrypt'
+    disable_event: false
