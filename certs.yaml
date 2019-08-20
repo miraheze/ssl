@@ -54,10 +54,6 @@
     url: 'www.zenbuddhism.info'
     ca: 'LetsEncrypt'
     disable_event: false
-  espiral:
-    url: 'espiral.org'
-    ca: 'Gandi'
-    disable_event: false
   nextlevelwiki:
     url: 'wiki.lbcomms.co.za'
     ca: 'LetsEncrypt'
