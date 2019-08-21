@@ -792,6 +792,6 @@
     ca: 'LetsEncrypt'
     disable_event: false
   wikix1c7com:
-    url: 'wiki.x1c7.com
+    url: 'wiki.x1c7.com'
     ca: 'LetsEncrypt'
     disable_event: false
