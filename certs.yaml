@@ -454,7 +454,7 @@
   wikis23org:
     url: 'wiki.s23.org'
     ca: 'LetsEncrypt'
-    disable_event: true
+    disable_event: false
   bhgyaanipediacoin:
     url: 'bh.gyaanipedia.co.in'
     ca: 'LetsEncrypt'
