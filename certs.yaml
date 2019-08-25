@@ -795,3 +795,7 @@
     url: 'wiki.om3ga.tk'
     ca: 'LetsEncrypt'
     disable_event: false
+  warmagenecrocitycouk:
+    url: 'warmage.necrocity.co.uk'
+    ca: 'LetsEncrypt'
+    disable_event: false
