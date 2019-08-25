@@ -783,10 +783,6 @@
     url: 'nonlinearly.com'
     ca: 'CloudFlare'
     disable_event: false
-  wikiaspirantsaddacom:
-    url: 'wiki.aspirantsadda.com'
-    ca: 'LetsEncrypt'
-    disable_event: false
   wikiopendominionnet:
     url: 'wiki.opendominion.net'
     ca: 'LetsEncrypt'
