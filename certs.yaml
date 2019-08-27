@@ -354,10 +354,6 @@
     url: 'prfm.wiki'
     ca: 'LetsEncrypt'
     disable_event: false
-  kkutu:
-    url: 'kkutu.wiki'
-    ca: 'LetsEncrypt'
-    disable_event: false
   encyclopediaofastrobiologyorg:
     url: 'encyclopediaofastrobiology.org'
     ca: 'LetsEncrypt'
