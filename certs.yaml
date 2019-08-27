@@ -795,3 +795,7 @@
     url: 'warmage.necrocity.co.uk'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikimastodonkr:
+    url: 'wiki.mastodon.kr'
+    ca: 'LetsEncrypt'
+    disable_event: false
