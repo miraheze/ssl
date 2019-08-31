@@ -803,3 +803,7 @@
     url: 'wiki.articmetrosystem.tk'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikivalkyrienskiesorg:
+    url: 'wiki.valkyrienskies.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
