@@ -224,10 +224,6 @@
     url: 'www.lab612.at'
     ca: 'LetsEncrypt'
     disable_event: false
-  papelor:
-    url: 'papelor.io'
-    ca: 'LetsEncrypt'
-    disable_event: false
   exnihilolinux:
     url: 'wiki.exnihilolinux.org'
     ca: 'LetsEncrypt'
