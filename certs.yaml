@@ -791,10 +791,6 @@
     url: 'wiki.mastodon.kr'
     ca: 'LetsEncrypt'
     disable_event: false
-  wikiarticmetrosystemtk:
-    url: 'wiki.articmetrosystem.tk'
-    ca: 'LetsEncrypt'
-    disable_event: false
   wikivalkyrienskiesorg:
     url: 'wiki.valkyrienskies.org'
     ca: 'LetsEncrypt'
