@@ -232,10 +232,6 @@
     url: 'bconnected.aidanmarkham.com'
     ca: 'LetsEncrypt'
     disable_event: false
-  lostminecraftminers:
-    url: 'wiki.lostminecraftminers.org'
-    ca: 'LetsEncrypt'
-    disable_event: false
   consentcraft:
     url: 'wiki.consentcraft.uk'
     ca: 'LetsEncrypt'
