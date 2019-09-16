@@ -795,7 +795,7 @@
     url: 'wiki.valkyrienskies.org'
     ca: 'LetsEncrypt'
     disable_event: false
-  wikitallfreeguyscom:
-    url: 'wiki.tallfreeguys.com'
+  wikitallguysfreecom:
+    url: 'wiki.tallguysfree.com'
     ca: 'LetsEncrypt'
     disable_event: false
