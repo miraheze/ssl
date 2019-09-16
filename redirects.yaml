@@ -217,7 +217,7 @@
     disable_event: true
   tallguysfreemiraheze:
     url: 'tallguysfree.miraheze.org'
-    redirect: 'wiki.tallguysfree.org'
+    redirect: 'wiki.tallguysfree.com'
     sslname: 'wildcard.miraheze.org'
     ca: 'GlobalSign'
     disable_event: true
