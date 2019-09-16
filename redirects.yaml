@@ -215,3 +215,9 @@
     sslname: 'orain.org'
     ca: 'LetsEncrypt'
     disable_event: true
+  tallguysfreemiraheze:
+    url: 'tallguysfree.miraheze.org'
+    redirect: 'wiki.tallguysfree.org'
+    sslname: 'wildcard.miraheze.org'
+    ca: 'GlobalSign'
+    disable_event: true
