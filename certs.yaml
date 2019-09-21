@@ -799,7 +799,7 @@
     url: 'wiki.tallguysfree.com'
     ca: 'LetsEncrypt'
     disable_event: false
-  yellowikixzy:
-    url: 'yellowiki.xzy'
+  yellowikixyz:
+    url: 'yellowiki.xyz'
     ca: 'LetsEncrypt'
     disable_event: false
