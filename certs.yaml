@@ -637,10 +637,6 @@
     url: 'theatlas.pw'
     ca: 'LetsEncrypt'
     disable_event: false
-  knuxwikicom:
-    url: 'knuxwiki.com'
-    ca: 'LetsEncrypt'
-    disable_event: false
   udcjapanxyz:
     url: 'udc-japan.xyz'
     ca: 'LetsEncrypt'
