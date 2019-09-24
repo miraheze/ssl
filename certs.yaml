@@ -799,3 +799,7 @@
     url: 'yellowiki.xyz'
     ca: 'LetsEncrypt'
     disable_event: false
+  pastportorg:
+    url: 'pastport.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
