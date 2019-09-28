@@ -678,10 +678,6 @@
     url: 'www.thesimswiki.com'
     ca: 'LetsEncrypt'
     disable_event: false
-  unrecnationswiki:
-    url: 'unrecnations.wiki'
-    ca: 'LetsEncrypt'
-    disable_event: false
   browndustwiki:
     url: 'browndust.wiki'
     ca: 'LetsEncrypt'
