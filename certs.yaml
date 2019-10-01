@@ -799,3 +799,7 @@
     url: 'pastport.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikiisinair:
+    url: 'wiki.isina.ir'
+    ca: 'LetsEncrypt'
+    disable_event: false
