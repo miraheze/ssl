@@ -803,3 +803,7 @@
     url: 'wiki.isina.ir'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikistarshipdigital:
+    url: 'wiki.starship.digital'
+    ca: 'LetsEncrypt'
+    digital_event: false
