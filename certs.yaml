@@ -806,4 +806,4 @@
   wikistarshipdigital:
     url: 'wiki.starship.digital'
     ca: 'LetsEncrypt'
-    digital_event: false
+    disable_event: false
