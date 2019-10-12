@@ -807,3 +807,7 @@
     url: 'wiki.starship.digital'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikiapap04com:
+    url: 'wiki.apap04.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
