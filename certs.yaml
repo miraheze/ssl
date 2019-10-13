@@ -362,10 +362,6 @@
     url: 'drag.lgbt'
     ca: 'LetsEncrypt'
     disable_event: false
-  wikivertepl:
-    url: 'wikiverte.pl'
-    ca: 'LetsEncrypt'
-    disable_event: false
   nonciclopediaorg:
     url: 'nonciclopedia.org'
     ca: 'LetsEncrypt'
@@ -384,11 +380,6 @@
     disable_event: false
   joustro:
     url: 'wiki.joust.ro'
-    ca: 'LetsEncrypt'
-    disable_event: false
-  wikitranslatetk:
-    url: 'wikitranslate.tk'
-    mobiledomain: '*.wikitranslate.tk'
     ca: 'LetsEncrypt'
     disable_event: false
   engyaanipedia:
