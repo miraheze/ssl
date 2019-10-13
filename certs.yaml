@@ -362,10 +362,6 @@
     url: 'drag.lgbt'
     ca: 'LetsEncrypt'
     disable_event: false
-  wikivertepl:
-    url: 'wikiverte.pl'
-    ca: 'LetsEncrypt'
-    disable_event: false
   nonciclopediaorg:
     url: 'nonciclopedia.org'
     ca: 'LetsEncrypt'
