@@ -806,3 +806,7 @@
     url: 'oecumene.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikicandeladigital:
+    url: 'wiki.candela.digital'
+    ca: 'LetsEncrypt'
+    disable_event: false
