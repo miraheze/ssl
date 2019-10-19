@@ -240,7 +240,7 @@
     url: 'www.eerstelijnszones.be'
     sslname: 'eerstelijnszones.be'
     ca: 'LetsEncrypt'
-    disable_event: false
+    disable_event: true
   staravesno:
     url: 'wiki.staraves-no.cz'
     ca: 'LetsEncrypt'
