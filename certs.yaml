@@ -815,3 +815,7 @@
     url: 'wiki.itsuali.tk'
     ca: 'LetsEncrypt'
     disable_event: false
+  datanonbinarywiki:
+    url: 'data.nonbinary.wiki'
+    ca: 'LetsEncrypt'
+    disable_event: false
