@@ -819,3 +819,7 @@
     url: 'data.nonbinary.wiki'
     ca: 'LetsEncrypt'
     disable_event: false
+  glpink:
+    url: 'glp.ink'
+    ca: 'LetsEncrypt'
+    disable_event: false
