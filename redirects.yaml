@@ -74,7 +74,7 @@
     url: 'piwik.miraheze.org'
     redirect: 'matomo.miraheze.org'
     sslname: 'wildcard.miraheze.org'
-    ca: 'GlobalSign'
+    ca: 'LetsEncrypt'
     hsts: 'strict'
     disable_event: true
   wwwmarinebiodiversitymatrix:
@@ -117,7 +117,7 @@
     url: 'sims.miraheze.org'
     redirect: 'www.thesimswiki.com'
     sslname: 'wildcard.miraheze.org'
-    ca: 'GlobalSign'
+    ca: 'LetsEncrypt'
     hsts: 'strict'
     disable_event: true
   wwwmh142com:
@@ -130,7 +130,7 @@
     url: 'commonswiki.miraheze.org'
     redirect: 'commons.miraheze.org'
     sslname: 'wildcard.miraheze.org'
-    ca: 'GlobalSign'
+    ca: 'LetsEncrypt'
     hsts: 'strict'
     disable_event: true
   wikicontraaocom:
@@ -143,7 +143,7 @@
     url: 'cnt.miraheze.org'
     redirect: 'combinatorialnumbertheory.miraheze.org'
     sslname: 'wildcard.miraheze.org'
-    ca: 'GlobalSign'
+    ca: 'LetsEncrypt'
     hsts: 'strict'
     disable_event: true
   tradwikiorg:
@@ -158,35 +158,35 @@
     url: 'studynotekr.miraheze.org'
     redirect: 'jayuwiki.miraheze.org'
     sslname: 'wildcard.miraheze.org'
-    ca: 'GlobalSign'
+    ca: 'LetsEncrypt'
     hsts: 'strict'
     disable_event: true
   hellointernetwiki:
     url: 'hellointernet.miraheze.org'
     redirect: 'podpedia.miraheze.org/wiki/Portal:HelloInternet'
     sslname: 'wildcard.miraheze.org'
-    ca: 'GlobalSign'
+    ca: 'LetsEncrypt'
     hsts: 'strict'
     disable_event: true
   unmadewiki:
     url: 'unmade.miraheze.org'
     redirect: 'podpedia.miraheze.org/wiki/Portal:Unmade'
     sslname: 'wildcard.miraheze.org'
-    ca: 'GlobalSign'
+    ca: 'LetsEncrypt'
     hsts: 'strict'
     disable_event: true
   marthaspeakswiki:
     url: 'marthaspeaks.miraheze.org'
     redirect: 'thesciencearchives.miraheze.org'
     sslname: 'wildcard.miraheze.org'
-    ca: 'GlobalSign'
+    ca: 'LetsEncrypt'
     hsts: 'strict'
     disable_event: true
   intpwiki:
     url: 'intp.miraheze.org'
     redirect: 'taswin.miraheze.org'
     sslname: 'wildcard.miraheze.org'
-    ca: 'GlobalSign'
+    ca: 'LetsEncrypt'
     hsts: 'strict'
     disable_event: true
 # orain.org to miraheze.org wiki redirects
@@ -219,5 +219,5 @@
     url: 'tallguysfree.miraheze.org'
     redirect: 'wiki.tallguysfree.com'
     sslname: 'wildcard.miraheze.org'
-    ca: 'GlobalSign'
+    ca: 'LetsEncrypt'
     disable_event: true
