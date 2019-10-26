@@ -819,3 +819,7 @@
     url: 'glp.ink'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikigraalmilitarycom:
+    url: 'wiki.graalmilitary.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
