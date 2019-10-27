@@ -823,3 +823,7 @@
     url: 'wiki.graalmilitary.com'
     ca: 'LetsEncrypt'
     disable_event: false
+  tepwiki:
+    url: 'tep.wiki'
+    ca: 'LetsEncrypt'
+    disable_event: false
