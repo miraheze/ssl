@@ -831,3 +831,7 @@
     url: 'vitriol.spoon.army'
     ca: 'LetsEncrypt'
     disable_event: false
+  wanilia:
+    url: 'wiki.serwerwanilia.pl'
+    ca: 'LetsEncrypt'
+    disable_event: false
