@@ -758,10 +758,6 @@
     url: 'wiki.x1c7.com'
     ca: 'LetsEncrypt'
     disable_event: false
-  wikiom3gatk:
-    url: 'wiki.om3ga.tk'
-    ca: 'LetsEncrypt'
-    disable_event: false
   warmagenecrocitycouk:
     url: 'warmage.necrocity.co.uk'
     ca: 'LetsEncrypt'
