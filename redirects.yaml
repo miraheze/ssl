@@ -152,7 +152,12 @@
     sslname: 'www.tradwiki.org'
     ca: 'LetsEncrypt'
     disable_event: true
-
+  tallguysfreemiraheze:
+    url: 'tallguysfree.miraheze.org'
+    redirect: 'wiki.tallguysfree.com'
+    sslname: 'wildcard.miraheze.org'
+    ca: 'LetsEncrypt'
+    disable_event: true
   # *.miraheze.org to *.miraheze.org wiki redirects
   studynotekr:
     url: 'studynotekr.miraheze.org'
@@ -213,11 +218,5 @@
     url: 'poserdazfreebies.orain.org'
     redirect: 'poserdazfreebies.miraheze.org'
     sslname: 'orain.org'
-    ca: 'LetsEncrypt'
-    disable_event: true
-  tallguysfreemiraheze:
-    url: 'tallguysfree.miraheze.org'
-    redirect: 'wiki.tallguysfree.com'
-    sslname: 'wildcard.miraheze.org'
     ca: 'LetsEncrypt'
     disable_event: true
