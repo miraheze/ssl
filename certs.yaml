@@ -12,7 +12,7 @@
     disable_event: false
   revi:
     url: 'private.revi.wiki'
-    ca: 'sectigo'
+    ca: 'Sectigo'
     disable_event: false
   test:
     url: 'publictestwiki.com'
