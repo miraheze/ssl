@@ -758,10 +758,6 @@
     url: 'wiki.x1c7.com'
     ca: 'LetsEncrypt'
     disable_event: false
-  wikiom3gatk:
-    url: 'wiki.om3ga.tk'
-    ca: 'LetsEncrypt'
-    disable_event: false
   warmagenecrocitycouk:
     url: 'warmage.necrocity.co.uk'
     ca: 'LetsEncrypt'
@@ -817,5 +813,21 @@
     disable_event: false
   glpink:
     url: 'glp.ink'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  wikigraalmilitarycom:
+    url: 'wiki.graalmilitary.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  tepwiki:
+    url: 'tep.wiki'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  vitriolspoonarmy:
+    url: 'vitriol.spoon.army'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  wanilia:
+    url: 'wiki.serwerwanilia.pl'
     ca: 'LetsEncrypt'
     disable_event: false
