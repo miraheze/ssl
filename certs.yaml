@@ -831,3 +831,7 @@
     url: 'wiki.serwerwanilia.pl'
     ca: 'LetsEncrypt'
     disable_event: false
+  filozsc:
+    url: 'wiki.newfil.com.au'
+    ca:  'LetsEncrypt'
+    disable_event: false
