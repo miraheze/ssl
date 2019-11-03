@@ -835,3 +835,7 @@
     url: 'wiki.newfil.com.au'
     ca:  'LetsEncrypt'
     disable_event: false
+  maketruthmatteragain:
+    url: 'wiki.wikidadds.org'
+    ca:  'LetsEncrypt'
+    disable_event: false
