@@ -839,3 +839,7 @@
   url:  'towarzystwo.prawa.kredytowego.pl'
   ca:   'LetsEncrypt'
   disable_event: false
+  maketruthmatteragain:
+    url: 'wiki.wikidadds.org'
+    ca:  'LetsEncrypt'
+    disable_event: false
