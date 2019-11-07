@@ -836,9 +836,9 @@
     ca:  'LetsEncrypt'
     disable_event: false
   towarzystwoprawakredytowego:
-  url:  'towarzystwo.prawa.kredytowego.pl'
-  ca:   'LetsEncrypt'
-  disable_event: false
+    url:  'towarzystwo.prawa.kredytowego.pl'
+    ca:   'LetsEncrypt'
+    disable_event: false
   maketruthmatteragain:
     url: 'wiki.wikidadds.org'
     ca:  'LetsEncrypt'
