@@ -183,10 +183,6 @@
     url: 'wikibase.revi.wiki'
     ca: 'LetsEncrypt'
     disable_event: false
-  programmingred:
-    url: 'programming.red'
-    ca: 'LetsEncrypt'
-    disable_event: false
   jcs:
     url: 'wiki.gesamtschule-nordkirchen.de'
     ca: 'LetsEncrypt'
