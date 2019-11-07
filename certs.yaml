@@ -835,6 +835,10 @@
     url: 'wiki.newfil.com.au'
     ca:  'LetsEncrypt'
     disable_event: false
+  towarzystwoprawakredytowego:
+    url:  'towarzystwo.prawa.kredytowego.pl'
+    ca:   'LetsEncrypt'
+    disable_event: false
   maketruthmatteragain:
     url: 'wiki.wikidadds.org'
     ca:  'LetsEncrypt'
