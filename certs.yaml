@@ -839,3 +839,7 @@
     url: 'wiki.wikidadds.org'
     ca:  'LetsEncrypt'
     disable_event: false
+  wwwmashedpotaytoescom:
+    url: 'www.mashedpotaytoes.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
