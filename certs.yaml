@@ -847,3 +847,7 @@
     url: 'wiki.8b8t.com'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikiworldsofwearycom:
+    url: 'wiki.worldsofweary.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
