@@ -851,3 +851,7 @@
     url: 'wiki.worldsofweary.com'
     ca: 'LetsEncrypt'
     disable_event: false
+  wwwportalsofphereoncom:
+    url: 'www.portalsofphereon.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
