@@ -152,6 +152,12 @@
     sslname: 'wildcard.miraheze.org'
     ca: 'Sectigo'
     disable_event: true
+  wwwportalsofphereoncomredir:
+    url: 'portalsofphereon.com'
+    redirect: 'www.portalsofphereon.com'
+    sslname: 'www.portalsofphereon.com'
+    ca: 'LetsEncrypt'
+    disable_event: true
   # *.miraheze.org to *.miraheze.org wiki redirects
   studynotekr:
     url: 'studynotekr.miraheze.org'
