@@ -863,7 +863,7 @@
     url: 'programming.red'
     ca: 'LetsEncrypt'
     disable_event: false
-  conworldsorg:
-    url: 'conworlds.org'
+  wikiconworldsorg:
+    url: 'wiki.conworlds.org'
     ca: 'LetsEncrypt'
     disable_event: false
