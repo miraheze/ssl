@@ -158,6 +158,13 @@
     sslname: 'www.portalsofphereon.com'
     ca: 'LetsEncrypt'
     disable_event: true
+  wwwprogrammingred:
+     url: 'www.programming.red'
+     redirect: 'programming.red'
+     sslname: 'programming.red'
+     ca: 'LetsEncrypt'
+     disable_event: true
+
   # *.miraheze.org to *.miraheze.org wiki redirects
   studynotekr:
     url: 'studynotekr.miraheze.org'
@@ -194,7 +201,8 @@
     ca: 'Sectigo'
     hsts: 'strict'
     disable_event: true
-# orain.org to miraheze.org wiki redirects
+
+  # orain.org to miraheze.org wiki redirects
   orain:
     url: 'orain.org'
     mobiledomain: '*.orain.org'
