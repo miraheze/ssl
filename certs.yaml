@@ -559,10 +559,6 @@
     url: 'www.bushcraftpedia.org'
     ca: 'LetsEncrypt'
     disable_event: false
-  wikihackdownorg:
-    url: 'wiki.hackdown.org'
-    ca: 'LetsEncrypt'
-    disable_event: false
   crimesciencewikiorg:
     url: 'crimesciencewiki.org'
     ca: 'LetsEncrypt'
@@ -573,10 +569,6 @@
     disable_event: false
   wikicasadocarvalhonet:
     url: 'wiki.casadocarvalho.net'
-    ca: 'LetsEncrypt'
-    disable_event: false
-  endlesssealucyawreycom:
-    url: 'endlesssea.lucyawrey.com'
     ca: 'LetsEncrypt'
     disable_event: false
   wikilandanca:
@@ -776,11 +768,6 @@
     disable_event: false
   pastportorg:
     url: 'pastport.org'
-    ca: 'LetsEncrypt'
-    disable_event: false
-  wikiisinair:
-    url: 'wiki.isina.ir'
-    mobiledomain: 'wiki.m.isina.ir'
     ca: 'LetsEncrypt'
     disable_event: false
   wikistarshipdigital:
