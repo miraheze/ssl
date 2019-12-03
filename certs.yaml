@@ -778,11 +778,6 @@
     url: 'pastport.org'
     ca: 'LetsEncrypt'
     disable_event: false
-  wikiisinair:
-    url: 'wiki.isina.ir'
-    mobiledomain: 'wiki.m.isina.ir'
-    ca: 'LetsEncrypt'
-    disable_event: false
   wikistarshipdigital:
     url: 'wiki.starship.digital'
     ca: 'LetsEncrypt'
