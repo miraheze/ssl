@@ -559,10 +559,6 @@
     url: 'www.bushcraftpedia.org'
     ca: 'LetsEncrypt'
     disable_event: false
-  wikihackdownorg:
-    url: 'wiki.hackdown.org'
-    ca: 'LetsEncrypt'
-    disable_event: false
   crimesciencewikiorg:
     url: 'crimesciencewiki.org'
     ca: 'LetsEncrypt'
