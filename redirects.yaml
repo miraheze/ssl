@@ -164,6 +164,12 @@
      sslname: 'programming.red'
      ca: 'LetsEncrypt'
      disable_event: true
+   baharnaorg:
+    url: 'baharna.org'
+    redirect: 'www.baharna.org'
+    sslname: 'www.baharna.org'
+    ca: 'LetsEncrypt'
+    disable_event: true
 
   # *.miraheze.org to *.miraheze.org wiki redirects
   studynotekr:
