@@ -858,3 +858,7 @@
     url: 'www.baharna.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  xysspon:
+    url: 'wiki.xysspon.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
