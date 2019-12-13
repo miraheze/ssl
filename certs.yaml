@@ -830,10 +830,6 @@
     url: 'www.mashedpotaytoes.com'
     ca: 'LetsEncrypt'
     disable_event: false
-  wiki8b8tcom:
-    url: 'wiki.8b8t.com'
-    ca: 'LetsEncrypt'
-    disable_event: false
   wikiworldsofwearycom:
     url: 'wiki.worldsofweary.com'
     ca: 'LetsEncrypt'
