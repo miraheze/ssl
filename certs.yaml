@@ -858,3 +858,7 @@
     url: 'wiki.xysspon.com'
     ca: 'LetsEncrypt'
     disable_event: false
+  archmanwiki:
+    url: 'wiki.archman.de'
+    ca: 'LetsEncrypt'
+    disable_event: false
