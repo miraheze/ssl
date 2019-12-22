@@ -873,6 +873,7 @@
   wikiiufscf:
     url: 'wiki.iufs.cf'
     ca: 'LetsEncrypt'
+    mobiledomain: 'wiki.m.iufs.cf'
     disable_event: false
   vaultaicscf:
     url: 'vault.aics.cf'
