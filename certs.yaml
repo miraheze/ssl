@@ -870,3 +870,7 @@
     url: 'wiki.cdntennis.ca'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikiiufscf:
+    url: 'wiki.iufs.cf'
+    ca: 'LetsEncrypt'
+    disable_event: false
