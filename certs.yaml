@@ -874,3 +874,7 @@
     url: 'wiki.iufs.cf'
     ca: 'LetsEncrypt'
     disable_event: false
+  vaultaicscf:
+    url: 'vault.aics.cf'
+    ca: 'LetsEncrypt'
+    disable_event: false
