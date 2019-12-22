@@ -866,3 +866,7 @@
     url: 'wiki.titan.land'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikicdntennisca:
+    url: 'wiki.cdntennis.ca'
+    ca: 'LetsEncrypt'
+    disable_event: false
