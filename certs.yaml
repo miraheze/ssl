@@ -879,3 +879,7 @@
     url: 'vault.aics.cf'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikihrznstudiocom:
+    url: 'wiki.hrznstudio.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
