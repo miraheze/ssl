@@ -883,3 +883,7 @@
     url: 'wiki.hrznstudio.com'
     ca: 'LetsEncrypt'
     disable_event: false
+  vedopediawitchesempirecom:
+    url: 'vedopedia.witches-empire.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
