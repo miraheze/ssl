@@ -207,6 +207,13 @@
     ca: 'Sectigo'
     hsts: 'strict'
     disable_event: true
+  wikimiraheze:
+    url: 'wiki.miraheze.org'
+    redirect: 'meta.miraheze.org'
+    sslname: 'wildcard.miraheze.org'
+    ca: 'Sectigo'
+    hsts: 'strict'
+    disable_event: true
 
   # orain.org to miraheze.org wiki redirects
   orain:
