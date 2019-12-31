@@ -887,3 +887,7 @@
     url: 'vedopedia.witches-empire.com'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikimnzpxyz:
+    url: 'wiki.mnzp.xyz'
+    ca: 'LetsEncrypt'
+    disable_event: false
