@@ -891,3 +891,7 @@
     url: 'wiki.mnzp.xyz'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikitwilightsignalcom:
+    url: 'wiki.twilightsignal.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
