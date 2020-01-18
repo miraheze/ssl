@@ -146,7 +146,7 @@
     sslname: 'wildcard.miraheze.org'
     ca: 'Sectigo'
     disable_event: true
-  wwwportalsofphereoncomredir:
+  portalsofphereoncomredir:
     url: 'portalsofphereon.com'
     redirect: 'www.portalsofphereon.com'
     sslname: 'www.portalsofphereon.com'
