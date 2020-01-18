@@ -153,17 +153,17 @@
     ca: 'LetsEncrypt'
     disable_event: true
   wwwprogrammingred:
-     url: 'www.programming.red'
-     redirect: 'programming.red'
-     sslname: 'programming.red'
-     ca: 'LetsEncrypt'
-     disable_event: true
+    url: 'www.programming.red'
+    redirect: 'programming.red'
+    sslname: 'programming.red'
+    ca: 'LetsEncrypt'
+    disable_event: true
   baharnaorg:
-     url: 'baharna.org'
-     redirect: 'www.baharna.org'
-     sslname: 'www.baharna.org'
-     ca: 'LetsEncrypt'
-     disable_event: true
+    url: 'baharna.org'
+    redirect: 'www.baharna.org'
+    sslname: 'www.baharna.org'
+    ca: 'LetsEncrypt'
+    disable_event: true
   uncyclopediakrwiki:
     url: 'uncyclopediakr.miraheze.org'
     redirect: 'truth.miraheze.org'
