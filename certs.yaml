@@ -899,3 +899,7 @@
     url: 'wiki.glaucuslinux.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikisenetycom:
+    url: 'wiki.senety.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
