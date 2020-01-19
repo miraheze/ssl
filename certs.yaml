@@ -899,3 +899,7 @@
     url: 'wiki.senety.com'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikipatriamcc:
+    url: 'wiki.patriam.cc'
+    ca: 'LetsEncrypt'
+    disable_event: false
