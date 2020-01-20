@@ -354,10 +354,6 @@
     url: 'nonciclopedia.org'
     ca: 'LetsEncrypt'
     disable_event: false
-  nonsensopediaorg:
-    url: 'nonsensopedia.org'
-    ca: 'LetsEncrypt'
-    disable_event: false
   monarchistswiki:
     url: 'monarchists.wiki'
     ca: 'LetsEncrypt'
