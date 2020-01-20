@@ -885,6 +885,7 @@
     disable_event: false
   wikialirezaivazir:
     url: 'wiki.alirezaivaz.ir'
+    mobiledomain: 'wiki.m.alirezaivaz.ir'
     ca: 'LetsEncrypt'
     disable_event: false
   wikiglaucuslinuxorg:
