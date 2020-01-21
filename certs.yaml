@@ -904,3 +904,7 @@
     url: 'wiki.ostans.com'
     ca: 'LetsEncrypt'
     disable_event: false
+  yukeshcomnp:
+    url: 'yukesh.com.np'
+    ca: 'LetsEncrypt'
+    disable_event: false
