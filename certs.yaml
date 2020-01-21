@@ -531,10 +531,6 @@
     url: 'wiki.casual4casuals.com'
     ca: 'LetsEncrypt'
     disable_event: false
-  wikihyperborianorg:
-    url: 'wiki.hyperborian.org'
-    ca: 'LetsEncrypt'
-    disable_event: false
   wwwbushcraftpediaorg:
     url: 'www.bushcraftpedia.org'
     ca: 'LetsEncrypt'
