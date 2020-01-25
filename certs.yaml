@@ -102,6 +102,10 @@
     url: 'disabled.life'
     ca: 'LetsEncrypt'
     disable_event: false
+  teessidehackspace:
+    url: 'wiki.teessidehackspace.org.uk'
+    ca: 'LetsEncrypt'
+    disable_event: false
   prueba:
     url: 'es.publictestwiki.com'
     sslname: 'publictestwiki.com'
