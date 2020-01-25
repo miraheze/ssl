@@ -666,10 +666,6 @@
     url: 'wiki.antlersg2.info'
     ca: 'LetsEncrypt'
     disable_event: false
-  wikicounterculturelabsorg:
-    url: 'wiki.counterculturelabs.org'
-    ca: 'LetsEncrypt'
-    disable_event: false
   wikiudiaca:
     url: 'wiki.udia.ca'
     ca: 'LetsEncrypt'
