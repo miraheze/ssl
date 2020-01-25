@@ -518,11 +518,6 @@
     sslname: 'en.gyaanipedia.co.in'
     ca: 'LetsEncrypt'
     disable_event: true
-  islamkoshtk:
-    url: 'islamkosh.tk'
-    mobiledomain: 'm.islamkosh.tk'
-    ca: 'LetsEncrypt'
-    disable_event: false
   runzeppelinru:
     url: 'runzeppelin.ru'
     ca: 'LetsEncrypt'
