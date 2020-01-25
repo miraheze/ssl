@@ -522,21 +522,12 @@
     sslname: 'en.gyaanipedia.co.in'
     ca: 'LetsEncrypt'
     disable_event: true
-  islamkoshtk:
-    url: 'islamkosh.tk'
-    mobiledomain: 'm.islamkosh.tk'
-    ca: 'LetsEncrypt'
-    disable_event: false
   runzeppelinru:
     url: 'runzeppelin.ru'
     ca: 'LetsEncrypt'
     disable_event: false
   wikicasual4casualscom:
     url: 'wiki.casual4casuals.com'
-    ca: 'LetsEncrypt'
-    disable_event: false
-  wikihyperborianorg:
-    url: 'wiki.hyperborian.org'
     ca: 'LetsEncrypt'
     disable_event: false
   wwwbushcraftpediaorg:
@@ -674,14 +665,6 @@
     url: 'wiki.antlersg2.info'
     ca: 'LetsEncrypt'
     disable_event: false
-  wikicounterculturelabsorg:
-    url: 'wiki.counterculturelabs.org'
-    ca: 'LetsEncrypt'
-    disable_event: false
-  wikiudiaca:
-    url: 'wiki.udia.ca'
-    ca: 'LetsEncrypt'
-    disable_event: false
   contraaocom:
     url: 'contraao.com'
     ca: 'LetsEncrypt'
@@ -776,10 +759,6 @@
     disable_event: false
   datanonbinarywiki:
     url: 'data.nonbinary.wiki'
-    ca: 'LetsEncrypt'
-    disable_event: false
-  glpink:
-    url: 'glp.ink'
     ca: 'LetsEncrypt'
     disable_event: false
   wikigraalmilitarycom:
