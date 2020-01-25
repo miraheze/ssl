@@ -891,3 +891,7 @@
     url: 'yukesh.com.np'
     ca: 'LetsEncrypt'
     disable_event: false
+  engroupskingcom:
+    url: 'en.groupsking.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
