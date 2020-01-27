@@ -249,10 +249,6 @@
     url: 'studentwiki.ddns.net'
     ca: 'LetsEncrypt'
     disable_event: false
-  svenskabriardklubbense:
-    url: 'wiki.svenskabriardklubben.se'
-    ca: 'LetsEncrypt'
-    disable_event: false
   wwwschulwikide:
     url: 'www.schulwiki.de'
     ca: 'LetsEncrypt'
