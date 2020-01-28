@@ -273,11 +273,6 @@
     url: 'wiki.pupilliam.com'
     ca: 'LetsEncrypt'
     disable_event: false
-  guiasdobrasilcombr:
-    url: 'guiasdobrasil.com.br'
-    mobiledomain: 'm.guiasdobrasil.com.br'
-    ca: 'LetsEncrypt'
-    disable_event: false
   encforuz:
     url: 'enc.for.uz'
     ca: 'LetsEncrypt'
