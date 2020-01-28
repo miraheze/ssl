@@ -58,12 +58,6 @@
     sslname: 'eerstelijnszones.be'
     ca: 'LetsEncrypt'
     disable_event: false
-  wwwguiasdobrasilcombr:
-    url: 'www.guiasdobrasil.com.br'
-    redirect: 'guiasdobrasil.com.br'
-    sslname: 'guiasdobrasil.com.br'
-    ca: 'LetsEncrypt'
-    disable_event: true
   piwik:
     url: 'piwik.miraheze.org'
     redirect: 'matomo.miraheze.org'
