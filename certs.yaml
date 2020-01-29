@@ -886,3 +886,7 @@
     url: 'en.groupsking.com'
     ca: 'LetsEncrypt'
     disable_event: false
+  fcsongcontestseu:
+    url: 'fc.songcontests.eu'
+    ca: 'LetsEncrypt'
+    disable_event: false
