@@ -895,3 +895,7 @@
     mobiledomain: 'wiki.m.iufs.jp'
     ca: 'LetsEncrypt'
     disable_event: false
+  wwwbluepageswikiorg:
+    url: 'www.bluepageswiki.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
