@@ -899,3 +899,7 @@
     url: 'www.bluepageswiki.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikimobilityengineercom:
+    url: 'wiki.mobilityengineer.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
