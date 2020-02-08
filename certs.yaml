@@ -890,3 +890,8 @@
     url: 'fc.songcontests.eu'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikiiufsjp:
+    url: 'wiki.iufs.jp'
+    mobiledomain: 'wiki.m.iufs.jp'
+    ca: 'LetsEncrypt'
+    disable_event: false
