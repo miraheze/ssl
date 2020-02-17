@@ -903,3 +903,7 @@
     url: 'wiki.archlinuxfamily.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikiarchlinuxfamilyde:
+    url: 'wiki.archlinuxfamily.de'
+    ca: 'LetsEncrypt'
+    disable_event: false
