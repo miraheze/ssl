@@ -899,3 +899,7 @@
     url: 'wiki.nvda-nl.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikiarchlinuxfamilyorg:
+    url: 'wiki.archlinuxfamily.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
