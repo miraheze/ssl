@@ -792,10 +792,6 @@
     url: 'www.portalsofphereon.com'
     ca: 'LetsEncrypt'
     disable_event: false
-  wikikujumorg:
-    url: 'wiki.kujum.org'
-    ca: 'LetsEncrypt'
-    disable_event: false
   programmingred:
     url: 'programming.red'
     ca: 'LetsEncrypt'
