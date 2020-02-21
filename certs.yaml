@@ -614,10 +614,6 @@
     url: 'www.thesimswiki.com'
     ca: 'LetsEncrypt'
     disable_event: false
-  browndustwiki:
-    url: 'browndust.wiki'
-    ca: 'LetsEncrypt'
-    disable_event: false
   panadevir:
     url: 'panadev.ir'
     mobiledomain: 'm.panadev.ir'
