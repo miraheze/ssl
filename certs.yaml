@@ -906,3 +906,7 @@
     url: 'wiki.bydorn.de'
     ca: 'CloudFlare'
     disable_event: false
+  relectriccarteamwiki:
+    url: 'wiki.teamrelectric.ca'
+    ca: 'LetsEncrypt'
+    disable_event: false
