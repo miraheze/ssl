@@ -910,3 +910,7 @@
     url: 'wiki.teamrelectric.ca'
     ca: 'LetsEncrypt'
     disable_event: false
+  wwwmcpkwiki:
+    url: 'www.mcpk.wiki'
+    ca: 'LetsEncrypt'
+    disable_event: false
