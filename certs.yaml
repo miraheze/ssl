@@ -914,3 +914,7 @@
     url: 'www.mcpk.wiki'
     ca: 'LetsEncrypt'
     disable_event: false
+  rivworldwiki:
+    url: 'rivworld.wiki'
+    ca: 'LetsEncrypt'
+    disable_event: false
