@@ -922,3 +922,7 @@
     url: 'wiki.animalrebellion.cz'
     ca: 'LetsEncrypt'
     disable_event: false
+  devwikiandersmoldincom:
+    url: 'devwiki.anders.moldin.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
