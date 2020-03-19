@@ -922,3 +922,7 @@
     url: 'planet.isd.dance'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikianimalrebellioncz:
+    url: 'wiki.animalrebellion.cz'
+    ca: 'LetsEncrypt'
+    disable_event: false
