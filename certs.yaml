@@ -930,3 +930,7 @@
     url: 'wiki.warframestat.us'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikishaazzzir:
+    url: 'wiki.shaazzz.ir'
+    ca: 'LetsEncrypt'
+    disable_event: false
