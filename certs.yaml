@@ -926,3 +926,7 @@
     url: 'devwiki.anders.moldin.com'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikiwarframestatus:
+    url: 'wiki.warframestat.us'
+    ca: 'LetsEncrypt'
+    disable_event: false
