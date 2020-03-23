@@ -938,3 +938,7 @@
     url: 'wiki.shaazzz.ir'
     ca: 'LetsEncrypt'
     disable_event: false
+  madzebrasciencewiki:
+    url: 'madzebrascience.wiki'
+    ca: 'LetsEncrypt'
+    disable_event: false
