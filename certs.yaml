@@ -942,3 +942,7 @@
     url: 'wiki.velaan.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikicounterculturelabsorg:
+    url: 'wiki.counterculturelabs.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
