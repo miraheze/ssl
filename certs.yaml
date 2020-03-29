@@ -938,3 +938,7 @@
     url: 'wiki.shaazzz.ir'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikivelaanorg:
+    url: 'wiki.velaan.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
