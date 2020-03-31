@@ -954,3 +954,7 @@
     url: 'pubwiki.lab.co.pl'
     ca: 'LetsEncrypt'
     disable_event: false
+  indexpdcommunityir:
+    url: 'index.pdcommunity.ir'
+    ca: 'LetsEncrypt'
+    disable_event: false
