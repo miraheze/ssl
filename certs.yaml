@@ -946,3 +946,7 @@
     url: 'wiki.counterculturelabs.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  housingwiki:
+    url: 'housing.wiki'
+    ca: 'LetsEncrypt'
+    disable_event: false
