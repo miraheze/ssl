@@ -950,3 +950,7 @@
     url: 'housing.wiki'
     ca: 'LetsEncrypt'
     disable_event: false
+  pubwikilabcopl:
+    url: 'pubwiki.lab.co.pl'
+    ca: 'LetsEncrypt'
+    disable_event: false
