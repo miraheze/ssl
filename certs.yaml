@@ -679,10 +679,6 @@
     url: 'wiki.vinesh.eu.org'
     ca: 'LetsEncrypt'
     disable_event: false
-  nonlinearlycomcrt:
-    url: 'nonlinearly.com'
-    ca: 'CloudFlare'
-    disable_event: false
   wikiopendominionnet:
     url: 'wiki.opendominion.net'
     ca: 'LetsEncrypt'
