@@ -380,12 +380,6 @@
     sslname: 'en.gyaanipedia.co.in'
     ca: 'LetsEncrypt'
     disable_event: true
-  mobilemirahezeorg:
-    url: 'm.miraheze.org'
-    mobiledomain: '*.m.miraheze.org'
-    sslname: 'm.miraheze.org'
-    ca: 'LetsEncrypt'
-    disable_event: false
   wwwnetazarorg:
     url: 'www.netazar.org'
     ca: 'LetsEncrypt'
