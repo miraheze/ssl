@@ -573,10 +573,6 @@
     url: 'theatlas.pw'
     ca: 'LetsEncrypt'
     disable_event: false
-  udcjapanxyz:
-    url: 'udc-japan.xyz'
-    ca: 'LetsEncrypt'
-    disable_event: false
   zwfontainebleauavonfr:
     url: 'zw.fontainebleau-avon.fr'
     ca: 'LetsEncrypt'
