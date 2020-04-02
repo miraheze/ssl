@@ -163,25 +163,25 @@
     redirect: 'panadev.ir'
     sslname: 'panadev.ir'
     ca: 'LetsEncrypt'
-    disable_event: false
+    disable_event: true
   wikiiufscf:
     url: 'wiki.m.iufs.cf'
     redirect: 'wiki.iufs.cf'
     sslname: 'wiki.iufs.cf'
     ca: 'LetsEncrypt'
-    disable_event: false
+    disable_event: true
   wikialirezaivazir:
     url: 'wiki.m.alirezaivaz.ir'
     redirect: 'wiki.alirezaivaz.ir'
     sslname: 'wiki.alirezaivaz.ir'
     ca: 'LetsEncrypt'
-    disable_event: false
+    disable_event: true
   wikiiufsjp:
     url: 'wiki.m.iufs.jp'
     redirect: 'wiki.iufs.jp'
     sslname: 'wiki.iufs.jp'
     ca: 'LetsEncrypt'
-    disable_event: false
+    disable_event: true
   uncyclopediakrwiki:
     url: 'uncyclopediakr.miraheze.org'
     redirect: 'truth.miraheze.org'
