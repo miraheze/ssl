@@ -602,7 +602,6 @@
     disable_event: false
   panadevir:
     url: 'panadev.ir'
-    mobiledomain: 'm.panadev.ir'
     ca: 'LetsEncrypt'
     disable_event: false
   munwikiinfo:
@@ -796,7 +795,6 @@
   wikiiufscf:
     url: 'wiki.iufs.cf'
     ca: 'LetsEncrypt'
-    mobiledomain: 'wiki.m.iufs.cf'
     disable_event: false
   vaultaicscf:
     url: 'vault.aics.cf'
@@ -824,7 +822,6 @@
     disable_event: false
   wikialirezaivazir:
     url: 'wiki.alirezaivaz.ir'
-    mobiledomain: 'wiki.m.alirezaivaz.ir'
     ca: 'LetsEncrypt'
     disable_event: false
   wikiglaucuslinuxorg:
@@ -853,7 +850,6 @@
     disable_event: false
   wikiiufsjp:
     url: 'wiki.iufs.jp'
-    mobiledomain: 'wiki.m.iufs.jp'
     ca: 'LetsEncrypt'
     disable_event: false
   wwwbluepageswikiorg:
