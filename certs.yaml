@@ -932,3 +932,7 @@
     url: 'index.pdcommunity.ir'
     ca: 'LetsEncrypt'
     disable_event: false
+  enwikireservecom:
+    url: 'en.wikireserve.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
