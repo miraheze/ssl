@@ -77,12 +77,6 @@
     sslname: 'www.netazar.org'
     ca: 'LetsEncrypt'
     disable_event: true
-  wwwitpediask:
-    url: 'www.itpedia.sk'
-    redirect: 'itpedia.sk'
-    sslname: 'itpedia.sk'
-    ca: 'LetsEncrypt'
-    disable_event: true
   thesimswikicom:
     url: 'thesimswiki.com'
     redirect: 'www.thesimswiki.com'
