@@ -930,6 +930,5 @@
     disable_event: false
   civclassicwiki:
     url: 'civclassic.civwiki.org'
-    ca: 'LetsEncrpyt'
+    ca: 'LetsEncrypt'
     disable_event: false
-    
