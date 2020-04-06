@@ -325,10 +325,6 @@
     url: 'wiki.warfra.ml'
     ca: 'LetsEncrypt'
     disable_event: false
-  prfm:
-    url: 'prfm.wiki'
-    ca: 'LetsEncrypt'
-    disable_event: false
   encyclopediaofastrobiologyorg:
     url: 'encyclopediaofastrobiology.org'
     ca: 'LetsEncrypt'
@@ -565,10 +561,6 @@
     disable_event: false
   zwfontainebleauavonfr:
     url: 'zw.fontainebleau-avon.fr'
-    ca: 'LetsEncrypt'
-    disable_event: false
-  itpediask:
-    url: 'itpedia.sk'
     ca: 'LetsEncrypt'
     disable_event: false
   wikiscvoorg:
