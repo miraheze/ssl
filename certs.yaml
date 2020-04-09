@@ -932,3 +932,7 @@
     url: 'civclassic.civwiki.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  spcodexwiki:
+    url: 'spcodex.wiki'
+    ca: 'LetsEncrypt'
+    disable_event: false
