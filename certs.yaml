@@ -187,10 +187,6 @@
     url: 'wiki.ciptamedia.org'
     ca: 'LetsEncrypt'
     disable_event: false
-  athenapedia:
-    url: 'athenapedia.org'
-    ca: 'LetsEncrypt'
-    disable_event: false
   podpedia:
     url: 'podpedia.org'
     ca: 'LetsEncrypt'
