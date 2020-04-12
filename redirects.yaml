@@ -183,7 +183,31 @@
     ca: 'Sectigo'
     hsts: 'strict'
     disable_event: true
-
+  mirahezetk:
+    url: 'miraheze.tk'
+    redirect: 'miraheze.org'
+    sslname: 'miraheze.tk'
+    ca: 'LetsEncrypt'
+    disable_event: true
+   mirahezeml:
+    url: 'miraheze.ml'
+    redirect: 'miraheze.org'
+    sslname: 'miraheze.ml'
+    ca: 'LetsEncrypt'
+    disable_event: true
+   mirahezega:
+    url: 'miraheze.ga'
+    redirect: 'miraheze.org'
+    sslname: 'miraheze.ga'
+    ca: 'LetsEncrypt'
+    disable_event: true
+   mirahezegq:
+    url: 'miraheze.gq'
+    redirect: 'miraheze.org'
+    sslname: 'miraheze.gq'
+    ca: 'LetsEncrypt'
+    disable_event: true
+    
   # *.miraheze.org to *.miraheze.org wiki redirects
   studynotekr:
     url: 'studynotekr.miraheze.org'
