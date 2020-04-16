@@ -940,3 +940,7 @@
     url: 'wiki.cgnotepad.com'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikivillagecollaborativenet:
+    url: 'wiki.villagecollaborative.net'
+    ca: 'LetsEncrypt'
+    disable_event: false
