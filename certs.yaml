@@ -944,3 +944,7 @@
     url: 'wiki.villagecollaborative.net'
     ca: 'LetsEncrypt'
     disable_event: false
+  espiriwikiwiki:
+    url: 'espiri.wiki'
+    ca: 'LetsEncrypt'
+    disable_event: false
