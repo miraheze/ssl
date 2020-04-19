@@ -948,3 +948,7 @@
     url: 'espiri.wiki'
     ca: 'LetsEncrypt'
     disable_event: false
+  hibernuswiki:
+    url: 'wiki.hibernusmc.net'
+    ca: 'LetsEncrypt'
+    disable_event: false
