@@ -956,3 +956,7 @@
     url: 'augovwiki.com'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikicyberepoorg:
+    url: 'wiki.cyberepo.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
