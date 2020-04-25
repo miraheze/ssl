@@ -960,3 +960,7 @@
     url: 'wiki.cyberepo.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikiearthmcbespace:
+    url: 'wiki.earthmcbe.space'
+    ca: 'LetsEncrypt'
+    disable_event: false
