@@ -964,3 +964,15 @@
     url: 'wiki.earthmcbe.space'
     ca: 'LetsEncrypt'
     disable_event: false
+  enamargitanjalicom:
+    url: 'en.amargitanjali.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  bnamargitanjalicom:
+    url: 'bn.amargitanjali.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  commonsamargitanjalicom:
+    url: 'commons.amargitanjali.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
