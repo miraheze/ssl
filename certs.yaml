@@ -976,3 +976,7 @@
     url: 'commons.amargitanjali.com'
     ca: 'LetsEncrypt'
     disable_event: false
+  esgyaanipediacoin:
+    url: 'es.gyaanipedia.co.in'
+    ca: 'LetsEncrypt'
+    disable_event: false
