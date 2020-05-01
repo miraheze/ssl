@@ -984,3 +984,7 @@
     url: 'zh.gyaanipedia.co.in'
     ca: 'LetsEncrypt'
     disable_event: false
+  chouversencpsxyz:
+    url: 'chouverse.ncps.xyz'
+    ca: 'LetsEncrypt'
+    disable_event: false
