@@ -980,3 +980,7 @@
     url: 'es.gyaanipedia.co.in'
     ca: 'LetsEncrypt'
     disable_event: false
+  zhgyaanipediacoin:
+    url: 'zh.gyaanipedia.co.in'
+    ca: 'LetsEncrypt'
+    disable_event: false
