@@ -988,3 +988,7 @@
     url: 'chouverse.ncps.xyz'
     ca: 'LetsEncrypt'
     disable_event: false
+  devfunshitpostingxyz:
+    url: 'dev.funshitposting.xyz'
+    ca: 'LetsEncrypt'
+    disable_event: false
