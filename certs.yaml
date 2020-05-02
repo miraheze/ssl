@@ -992,3 +992,7 @@
     url: 'dev.funshitposting.xyz'
     ca: 'LetsEncrypt'
     disable_event: false
+  wwwiceriaorg:
+    url: 'www.iceria.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
