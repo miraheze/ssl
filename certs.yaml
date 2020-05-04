@@ -996,3 +996,7 @@
     url: 'www.iceria.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  icclopediawiki:
+    url: 'icclopedia.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
