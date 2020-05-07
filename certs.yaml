@@ -1008,3 +1008,7 @@
     url: 'lama.madooa.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  frgyaanipediawiki:
+    url: 'fr.gyaanipedia.co.in'
+    ca: 'LetsEncrypt'
+    disable_event: false
