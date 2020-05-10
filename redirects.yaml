@@ -186,7 +186,7 @@
   iceriaorg:
     url: 'iceria.org'
     redirect: 'www.iceria.org'
-    sslname: 'iceria.org'
+    sslname: 'www.iceria.org'
     ca: 'LetsEncrypt'
     disable_event: true
     
