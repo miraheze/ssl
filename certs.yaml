@@ -1016,3 +1016,7 @@
     url: 'dreamsit.com.br'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikiminkyukim:
+    url: 'wiki.minkyu.kim'
+    ca: 'LetsEncrypt'
+    disable_event: false
