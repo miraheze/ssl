@@ -183,7 +183,7 @@
     ca: 'Sectigo'
     hsts: 'strict'
     disable_event: true
-  iceriawww:
+  iceriaorg:
     url: 'iceria.org'
     redirect: 'www.iceria.org'
     sslname: 'iceria.org'
