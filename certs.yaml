@@ -994,7 +994,6 @@
     disable_event: false
   wwwiceriaorg:
     url: 'www.iceria.org'
-    sslname: 'iceria.org'
     ca: 'LetsEncrypt'
     disable_event: false
   icclopediawiki:
