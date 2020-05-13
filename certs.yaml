@@ -828,10 +828,6 @@
     url: 'wiki.ostans.com'
     ca: 'LetsEncrypt'
     disable_event: false
-  engroupskingcom:
-    url: 'en.groupsking.com'
-    ca: 'LetsEncrypt'
-    disable_event: false
   fcsongcontestseu:
     url: 'fc.songcontests.eu'
     ca: 'LetsEncrypt'
