@@ -507,10 +507,6 @@
     url: 'wiki.casual4casuals.com'
     ca: 'LetsEncrypt'
     disable_event: false
-  wwwbushcraftpediaorg:
-    url: 'www.bushcraftpedia.org'
-    ca: 'LetsEncrypt'
-    disable_event: false
   crimesciencewikiorg:
     url: 'crimesciencewiki.org'
     ca: 'LetsEncrypt'
