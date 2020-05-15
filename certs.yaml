@@ -1012,3 +1012,7 @@
     url: 'wiki.minkyu.kim'
     ca: 'LetsEncrypt'
     disable_event: false
+  hentailoliconorg:
+    url: 'hentailolicon.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
