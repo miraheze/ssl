@@ -1012,3 +1012,7 @@
     url: 'wiki.minkyu.kim'
     ca: 'LetsEncrypt'
     disable_event: false
+  hinduwikionline:
+    url: 'hinduwiki.online'
+    ca: 'LetsEncrypt'
+    disable_event: false
