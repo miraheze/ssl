@@ -1016,3 +1016,7 @@
     url: 'hentailolicon.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  enfamepediacoin:
+    url: 'en.famepedia.co.in'
+    ca: 'LetsEncrypt'
+    disable_event: false
