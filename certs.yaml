@@ -1024,3 +1024,7 @@
     url: 'franchise.franchising.org.ua'
     ca: 'LetsEncrypt'
     disable_event: false
+  duepediaukto:
+    url: 'duepedia.uk.to'
+    ca: 'LetsEncrypt'
+    disable_event: false
