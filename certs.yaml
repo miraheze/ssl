@@ -584,10 +584,6 @@
     url: 'www.thesimswiki.com'
     ca: 'LetsEncrypt'
     disable_event: false
-  panadevir:
-    url: 'panadev.ir'
-    ca: 'LetsEncrypt'
-    disable_event: false
   munwikiinfo:
     url: 'munwiki.info'
     ca: 'LetsEncrypt'
@@ -642,10 +638,6 @@
     disable_event: false
   wwwtradwikiorg:
     url: 'www.tradwiki.org'
-    ca: 'LetsEncrypt'
-    disable_event: false
-  wikivinesheuorg:
-    url: 'wiki.vinesh.eu.org'
     ca: 'LetsEncrypt'
     disable_event: false
   wikiopendominionnet:
@@ -798,10 +790,6 @@
     disable_event: false
   fourtawiki:
     url: 'wiki.fourta.org'
-    ca: 'LetsEncrypt'
-    disable_event: false
-  wikialirezaivazir:
-    url: 'wiki.alirezaivaz.ir'
     ca: 'LetsEncrypt'
     disable_event: false
   wikiglaucuslinuxorg:
