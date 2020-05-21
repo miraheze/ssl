@@ -1012,3 +1012,7 @@
     url: 'duepedia.uk.to'
     ca: 'LetsEncrypt'
     disable_event: false
+  kkutuwiki:
+    url: 'kkutu.wiki'
+    ca: 'PositiveSSLDV'
+    disable_event: false
