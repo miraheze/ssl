@@ -1012,3 +1012,7 @@
     url: 'kkutu.wiki'
     ca: 'PositiveSSLDV'
     disable_event: false
+  wikivinesheuorg:
+    url: 'wiki.vinesh.eu.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
