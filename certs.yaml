@@ -800,10 +800,6 @@
     url: 'fc.songcontests.eu'
     ca: 'LetsEncrypt'
     disable_event: false
-  wikiiufsjp:
-    url: 'wiki.iufs.jp'
-    ca: 'LetsEncrypt'
-    disable_event: false
   wwwbluepageswikiorg:
     url: 'www.bluepageswiki.org'
     ca: 'LetsEncrypt'
