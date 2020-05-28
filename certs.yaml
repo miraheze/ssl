@@ -3,7 +3,7 @@
     ca: 'LetsEncrypt'
     disable_event: false
   spiral:
-    url: 'spiral.wiki'
+    url: 'spiral.wiki'wiesepedia.ga
     ca: 'LetsEncrypt'
     disable_event: false
   permanentfuturelab:
@@ -606,10 +606,6 @@
     disable_event: false
   wiki2035rocks:
     url: 'wiki.2035.rocks'
-    ca: 'LetsEncrypt'
-    disable_event: false
-  wikiantlersg2info:
-    url: 'wiki.antlersg2.info'
     ca: 'LetsEncrypt'
     disable_event: false
   contraaocom:
