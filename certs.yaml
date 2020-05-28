@@ -848,10 +848,6 @@
     url: 'rivworld.wiki'
     ca: 'LetsEncrypt'
     disable_event: false
-  planetisddance:
-    url: 'planet.isd.dance'
-    ca: 'LetsEncrypt'
-    disable_event: false
   wikianimalrebellioncz:
     url: 'wiki.animalrebellion.cz'
     ca: 'LetsEncrypt'
