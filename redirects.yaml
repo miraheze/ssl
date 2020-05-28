@@ -152,7 +152,7 @@
     sslname: 'www.baharna.org'
     ca: 'LetsEncrypt'
     disable_event: true
-  wikiiufsjp:
+  wikimiufsjp:
     url: 'wiki.m.iufs.jp'
     redirect: 'wiki.iufs.jp'
     sslname: 'wiki.iufs.jp'
