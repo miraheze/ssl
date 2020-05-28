@@ -3,7 +3,7 @@
     ca: 'LetsEncrypt'
     disable_event: false
   spiral:
-    url: 'spiral.wiki'wiesepedia.ga
+    url: 'spiral.wiki'
     ca: 'LetsEncrypt'
     disable_event: false
   permanentfuturelab:
