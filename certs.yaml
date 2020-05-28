@@ -608,10 +608,6 @@
     url: 'wiki.2035.rocks'
     ca: 'LetsEncrypt'
     disable_event: false
-  wikiantlersg2info:
-    url: 'wiki.antlersg2.info'
-    ca: 'LetsEncrypt'
-    disable_event: false
   contraaocom:
     url: 'contraao.com'
     ca: 'LetsEncrypt'
