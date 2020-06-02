@@ -1000,3 +1000,7 @@
     url: 'wiki.vinesh.eu.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikibonziworldrevivedtk:
+    url: 'wiki.bonziworldrevived.tk'
+    ca: 'LetsEncrypt'
+    disable_event: false
