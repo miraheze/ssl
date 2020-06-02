@@ -1004,3 +1004,7 @@
     url: 'wiki.bonziworldrevived.tk'
     ca: 'LetsEncrypt'
     disable_event: false
+  erikapediacom:
+    url: 'erikapedia.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
