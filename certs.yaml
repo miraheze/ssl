@@ -1008,3 +1008,7 @@
     url: 'www.erikapedia.com'
     ca: 'LetsEncrypt'
     disable_event: false
+  wwwhinduwikionline:
+    url: 'www.hinduwiki.online'
+    ca: 'LetsEncrypt'
+    disable_event: false
