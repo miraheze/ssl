@@ -1012,3 +1012,7 @@
     url: 'www.hinduwiki.online'
     ca: 'LetsEncrypt'
     disable_event: false
+  innerspheretk:
+    url: 'innersphere.tk'
+    ca: 'LetsEncrypt'
+    disable_event: false
