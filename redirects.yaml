@@ -165,6 +165,12 @@
     sslname: 'www.iceria.org'
     ca: 'LetsEncrypt'
     disable_event: true
+  wwwerikapedia:
+    url: 'erikapedia.com'
+    redirect: 'www.erikapedia.com'
+    sslname: 'www.erikapedia.com'
+    ca: 'LetsEncrypt'
+    disable_event: true
     
   # *.miraheze.org to *.miraheze.org wiki redirects
   studynotekr:

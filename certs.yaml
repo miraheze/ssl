@@ -1005,6 +1005,6 @@
     ca: 'LetsEncrypt'
     disable_event: false
   erikapediacom:
-    url: 'erikapedia.com'
+    url: 'www.erikapedia.com'
     ca: 'LetsEncrypt'
     disable_event: false
