@@ -994,7 +994,7 @@
     disable_event: false
   kkutuwiki:
     url: 'kkutu.wiki'
-    ca: 'PositiveSSLDV'
+    ca: 'Sectigo'
     disable_event: false
   wikivinesheuorg:
     url: 'wiki.vinesh.eu.org'
