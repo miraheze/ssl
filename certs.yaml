@@ -86,10 +86,6 @@
     url: 'wikiescola.com.br'
     ca: 'LetsEncrypt'
     disable_event: false
-  jacksonheights:
-    url: 'wiki.jacksonheights.nyc'
-    ca: 'LetsEncrypt'
-    disable_event: false
   kstartups:
     url: 'wiki.besuccess.com'
     ca: 'LetsEncrypt'
