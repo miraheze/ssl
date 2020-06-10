@@ -1012,3 +1012,7 @@
     url: 'innersphere.tk'
     ca: 'LetsEncrypt'
     disable_event: false
+  factoriomodstk:
+    url: 'factorio-mods.tk'
+    ca: 'LetsEncrypt'
+    disable_event: false
