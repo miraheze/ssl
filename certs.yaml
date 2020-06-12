@@ -1016,3 +1016,7 @@
     url: 'factorio-mods.tk'
     ca: 'LetsEncrypt'
     disable_event: false
+  indiancannabiswiki:
+    url: 'indiancannabis.wiki'
+    ca: 'LetsEncrypt'
+    disable_event: false
