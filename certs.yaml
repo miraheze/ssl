@@ -455,10 +455,6 @@
     url: 'wiki.nowchess.org'
     ca: 'LetsEncrypt'
     disable_event: false
-  paramonyorg:
-    url: 'paramony.org'
-    ca: 'LetsEncrypt'
-    disable_event: false
   vmcodexnet:
     url: 'vmcodex.net'
     ca: 'LetsEncrypt'
