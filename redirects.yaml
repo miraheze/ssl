@@ -122,12 +122,6 @@
     ca: 'Sectigo'
     hsts: 'strict'
     disable_event: true
-  tradwikiorg:
-    url: 'tradwiki.org'
-    redirect: 'www.tradwiki.org'
-    sslname: 'www.tradwiki.org'
-    ca: 'LetsEncrypt'
-    disable_event: true
   tallguysfreemiraheze:
     url: 'tallguysfree.miraheze.org'
     redirect: 'wiki.tallguysfree.com'
