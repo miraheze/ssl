@@ -1016,3 +1016,7 @@
     url: 'indiancannabis.wiki'
     ca: 'LetsEncrypt'
     disable_event: false
+  guiaesporonet:
+    url: 'guia.esporo.net'
+    ca: 'LetsEncrypt'
+    disable_event: false
