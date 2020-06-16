@@ -1020,3 +1020,7 @@
     url: 'wiki.thehall.xyz'
     ca: 'LetsEncrypt'
     disable_event: false
+  archivestellurgistswiki:
+    url: 'archive.stellurgists.wiki'
+    ca: 'LetsEncrypt'
+    disable_event: false
