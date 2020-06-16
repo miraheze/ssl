@@ -1012,3 +1012,7 @@
     url: 'guia.esporo.net'
     ca: 'LetsEncrypt'
     disable_event: false
+  hololivewiki:
+    url: 'hololive.wiki'
+    ca: 'ZeroSSL'
+    disable_event: false
