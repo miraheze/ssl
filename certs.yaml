@@ -978,7 +978,7 @@
     disable_event: false
   kkutuwiki:
     url: 'kkutu.wiki'
-    ca: 'Sectigo'
+    ca: 'LetsEncrypt'
     disable_event: false
   wikivinesheuorg:
     url: 'wiki.vinesh.eu.org'
