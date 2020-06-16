@@ -1016,3 +1016,7 @@
     url: 'hololive.wiki'
     ca: 'ZeroSSL'
     disable_event: false
+  wikithehallxyz:
+    url: 'wiki.thehall.xyz'
+    ca: 'LetsEncrypt'
+    disable_event: false
