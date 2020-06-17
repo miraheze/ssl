@@ -1024,3 +1024,7 @@
     url: 'archive.stellurgists.wiki'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikiseamlynet:
+    url: 'wiki.seamly.net'
+    ca: 'LetsEncrypt'
+    disable_event: false
