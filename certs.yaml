@@ -30,10 +30,6 @@
     url: 'wiki.grottocenter.org'
     ca: 'LetsEncrypt'
     disable_event: false
-  wisdomwiki:
-    url: 'wisdomwiki.org'
-    ca: 'LetsEncrypt'
-    disable_event: false
   make717:
     url: 'wiki.make717.org'
     ca: 'LetsEncrypt'
