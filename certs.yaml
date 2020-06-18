@@ -12,7 +12,7 @@
     disable_event: false
   revi:
     url: 'private.revi.wiki'
-    ca: 'Comodo'
+    ca: 'Sectigo'
     disable_event: false
   test:
     url: 'publictestwiki.com'
@@ -56,7 +56,7 @@
     disable_event: false
   espiral:
     url: 'espiral.org'
-    ca: 'Gandi'
+    ca: 'LetsEncrypt'
     disable_event: false
   nextlevelwiki:
     url: 'wiki.lbcomms.co.za'
@@ -84,10 +84,6 @@
     disable_event: false
   wikiescola:
     url: 'wikiescola.com.br'
-    ca: 'LetsEncrypt'
-    disable_event: false
-  jacksonheights:
-    url: 'wiki.jacksonheights.nyc'
     ca: 'LetsEncrypt'
     disable_event: false
   kstartups:
@@ -179,24 +175,12 @@
     url: 'sdiy.info'
     ca: 'LetsEncrypt'
     disable_event: false
-  reviwbwiki:
-    url: 'wikibase.revi.wiki'
-    ca: 'LetsEncrypt'
-    disable_event: false
-  programmingred:
-    url: 'programming.red'
-    ca: 'LetsEncrypt'
-    disable_event: false
   jcs:
     url: 'wiki.gesamtschule-nordkirchen.de'
     ca: 'LetsEncrypt'
     disable_event: false
   ciptamedia:
     url: 'wiki.ciptamedia.org'
-    ca: 'LetsEncrypt'
-    disable_event: false
-  athenapedia:
-    url: 'athenapedia.org'
     ca: 'LetsEncrypt'
     disable_event: false
   podpedia:
@@ -220,16 +204,8 @@
     sslname: 'nonbinary.wiki'
     ca: 'LetsEncrypt'
     disable_event: true
-  splatteams:
-    url: 'www.splat-teams.com'
-    ca: 'LetsEncrypt'
-    disable_event: false
   lab612:
     url: 'www.lab612.at'
-    ca: 'LetsEncrypt'
-    disable_event: false
-  papelor:
-    url: 'papelor.io'
     ca: 'LetsEncrypt'
     disable_event: false
   exnihilolinux:
@@ -240,10 +216,6 @@
     url: 'bconnected.aidanmarkham.com'
     ca: 'LetsEncrypt'
     disable_event: false
-  lostminecraftminers:
-    url: 'wiki.lostminecraftminers.org'
-    ca: 'LetsEncrypt'
-    disable_event: false
   consentcraft:
     url: 'wiki.consentcraft.uk'
     ca: 'LetsEncrypt'
@@ -252,7 +224,7 @@
     url: 'www.eerstelijnszones.be'
     sslname: 'eerstelijnszones.be'
     ca: 'LetsEncrypt'
-    disable_event: false
+    disable_event: true
   staravesno:
     url: 'wiki.staraves-no.cz'
     ca: 'LetsEncrypt'
@@ -267,10 +239,6 @@
     disable_event: false
   studentwikiddns:
     url: 'studentwiki.ddns.net'
-    ca: 'LetsEncrypt'
-    disable_event: false
-  svenskabriardklubbense:
-    url: 'wiki.svenskabriardklubben.se'
     ca: 'LetsEncrypt'
     disable_event: false
   wwwschulwikide:
@@ -297,11 +265,6 @@
     url: 'wiki.pupilliam.com'
     ca: 'LetsEncrypt'
     disable_event: false
-  guiasdobrasilcombr:
-    url: 'guiasdobrasil.com.br'
-    mobiledomain: 'm.guiasdobrasil.com.br'
-    ca: 'LetsEncrypt'
-    disable_event: false
   encforuz:
     url: 'enc.for.uz'
     ca: 'LetsEncrypt'
@@ -322,24 +285,12 @@
     url: 'wiki.rmbrk.sk'
     ca: 'LetsEncrypt'
     disable_event: false
-  toonpedia:
-    url: 'toonpedia.cf'
-    ca: 'LetsEncrypt'
-    disable_event: false
-  russopedia:
-    url: 'russopedia.info'
-    ca: 'LetsEncrypt'
-    disable_event: false
   vsfannet:
     url: 'vsfan.net'
     ca: 'LetsEncrypt'
     disable_event: false
   infectowiki:
     url: 'infectowiki.com'
-    ca: 'LetsEncrypt'
-    disable_event: false
-  ahmsaqibcf:
-    url: 'ahmsaqib.cf'
     ca: 'LetsEncrypt'
     disable_event: false
   wikiwhentheycryorg:
@@ -354,10 +305,6 @@
     url: 'wiki.openhatch.org'
     ca: 'LetsEncrypt'
     disable_event: false
-  scouts:
-    url: 'wiki.doverdistrictscouts.co.uk'
-    ca: 'LetsEncrypt'
-    disable_event: false
   veloren:
     url: 'wiki.veloren.net'
     ca: 'LetsEncrypt'
@@ -366,24 +313,8 @@
     url: 'wiki.warfra.ml'
     ca: 'LetsEncrypt'
     disable_event: false
-  prfm:
-    url: 'prfm.wiki'
-    ca: 'LetsEncrypt'
-    disable_event: false
-  kkutu:
-    url: 'kkutu.wiki'
-    ca: 'LetsEncrypt'
-    disable_event: false
   encyclopediaofastrobiologyorg:
     url: 'encyclopediaofastrobiology.org'
-    ca: 'LetsEncrypt'
-    disable_event: false
-  pcarchitecttk:
-    url: 'pc-architect.tk'
-    ca: 'LetsEncrypt'
-    disable_event: false
-  b1tcashorg:
-    url: 'b1tcash.org'
     ca: 'LetsEncrypt'
     disable_event: false
   wwwevanswikiorg:
@@ -394,24 +325,12 @@
     url: 'electowiki.org'
     ca: 'LetsEncrypt'
     disable_event: false
-  wikikybermctk:
-    url: 'wiki.kybermc.tk'
-    ca: 'LetsEncrypt'
-    disable_event: false
   draglgbt:
     url: 'drag.lgbt'
     ca: 'LetsEncrypt'
     disable_event: false
-  wikivertepl:
-    url: 'wikiverte.pl'
-    ca: 'LetsEncrypt'
-    disable_event: false
   nonciclopediaorg:
     url: 'nonciclopedia.org'
-    ca: 'LetsEncrypt'
-    disable_event: false
-  nonsensopediaorg:
-    url: 'nonsensopedia.org'
     ca: 'LetsEncrypt'
     disable_event: false
   monarchistswiki:
@@ -422,26 +341,13 @@
     url: 'stablestate.org'
     ca: 'LetsEncrypt'
     disable_event: false
-  runeasynl:
-    url: 'www.runeasy.nl'
-    ca: 'LetsEncrypt'
-    disable_event: false
   joustro:
     url: 'wiki.joust.ro'
-    ca: 'LetsEncrypt'
-    disable_event: false
-  wikitranslatetk:
-    url: 'wikitranslate.tk'
-    mobiledomain: '*.wikitranslate.tk'
     ca: 'LetsEncrypt'
     disable_event: false
   engyaanipedia:
     url: 'en.gyaanipedia.co.in'
     ca: 'LetsEncrypt'
-    disable_event: false
-  wwwapcwikiorg:
-    url: 'www.apcwiki.org'
-    ca: 'Comodo'
     disable_event: false
   higyaanipediacoin:
     url: 'hi.gyaanipedia.co.in'
@@ -458,12 +364,6 @@
     sslname: 'en.gyaanipedia.co.in'
     ca: 'LetsEncrypt'
     disable_event: true
-  mobilemirahezeorg:
-    url: 'm.miraheze.org'
-    mobiledomain: '*.m.miraheze.org'
-    sslname: 'm.miraheze.org'
-    ca: 'LetsEncrypt'
-    disable_event: false
   wwwnetazarorg:
     url: 'www.netazar.org'
     ca: 'LetsEncrypt'
@@ -486,7 +386,7 @@
   wikis23org:
     url: 'wiki.s23.org'
     ca: 'LetsEncrypt'
-    disable_event: true
+    disable_event: false
   bhgyaanipediacoin:
     url: 'bh.gyaanipedia.co.in'
     ca: 'LetsEncrypt'
@@ -555,10 +455,6 @@
     url: 'wiki.nowchess.org'
     ca: 'LetsEncrypt'
     disable_event: false
-  paramonyorg:
-    url: 'paramony.org'
-    ca: 'LetsEncrypt'
-    disable_event: false
   vmcodexnet:
     url: 'vmcodex.net'
     ca: 'LetsEncrypt'
@@ -570,10 +466,6 @@
     disable_event: true
   secularknowledgecom:
     url: 'secularknowledge.com'
-    ca: 'LetsEncrypt'
-    disable_event: false
-  wwwjawrightcc:
-    url: 'www.jawright.cc'
     ca: 'LetsEncrypt'
     disable_event: false
   fagyaanipediacoin:
@@ -595,33 +487,12 @@
     sslname: 'en.gyaanipedia.co.in'
     ca: 'LetsEncrypt'
     disable_event: true
-  islamkoshtk:
-    url: 'islamkosh.tk'
-    mobiledomain: 'm.islamkosh.tk'
-    ca: 'LetsEncrypt'
-    disable_event: false
   runzeppelinru:
     url: 'runzeppelin.ru'
     ca: 'LetsEncrypt'
     disable_event: false
   wikicasual4casualscom:
     url: 'wiki.casual4casuals.com'
-    ca: 'LetsEncrypt'
-    disable_event: false
-  wintermoornet:
-    url: 'wintermoor.net'
-    ca: 'LetsEncrypt'
-    disable_event: false
-  wikihyperborianorg:
-    url: 'wiki.hyperborian.org'
-    ca: 'LetsEncrypt'
-    disable_event: false
-  wwwbushcraftpediaorg:
-    url: 'www.bushcraftpedia.org'
-    ca: 'LetsEncrypt'
-    disable_event: false
-  wikihackdownorg:
-    url: 'wiki.hackdown.org'
     ca: 'LetsEncrypt'
     disable_event: false
   crimesciencewikiorg:
@@ -636,17 +507,8 @@
     url: 'wiki.casadocarvalho.net'
     ca: 'LetsEncrypt'
     disable_event: false
-  endlesssealucyawreycom:
-    url: 'endlesssea.lucyawrey.com'
-    ca: 'LetsEncrypt'
-    disable_event: false
   wikilandanca:
     url: 'wiki.landan.ca'
-    ca: 'LetsEncrypt'
-    disable_event: false
-  internoguiasdobrasilcombr:
-    url: 'interno.guiasdobrasil.com.br'
-    mobiledomain: 'm.interno.guiasdobrasil.com.br'
     ca: 'LetsEncrypt'
     disable_event: false
   bebaskanpengetahuanid:
@@ -673,28 +535,12 @@
     url: 'www.bestpractice.technology'
     ca: 'LetsEncrypt'
     disable_event: false
-  wikikemenethcom:
-    url: 'wiki.kemeneth.com'
-    ca: 'LetsEncrypt'
-    disable_event: false
   theatlaspw:
     url: 'theatlas.pw'
     ca: 'LetsEncrypt'
     disable_event: false
-  knuxwikicom:
-    url: 'knuxwiki.com'
-    ca: 'LetsEncrypt'
-    disable_event: false
-  udcjapanxyz:
-    url: 'udc-japan.xyz'
-    ca: 'LetsEncrypt'
-    disable_event: false
   zwfontainebleauavonfr:
     url: 'zw.fontainebleau-avon.fr'
-    ca: 'LetsEncrypt'
-    disable_event: false
-  itpediask:
-    url: 'itpedia.sk'
     ca: 'LetsEncrypt'
     disable_event: false
   wikiscvoorg:
@@ -726,19 +572,6 @@
     url: 'www.thesimswiki.com'
     ca: 'LetsEncrypt'
     disable_event: false
-  unrecnationswiki:
-    url: 'unrecnations.wiki'
-    ca: 'LetsEncrypt'
-    disable_event: false
-  browndustwiki:
-    url: 'browndust.wiki'
-    ca: 'LetsEncrypt'
-    disable_event: false
-  panadevir:
-    url: 'panadev.ir'
-    mobiledomain: 'm.panadev.ir'
-    ca: 'LetsEncrypt'
-    disable_event: false
   munwikiinfo:
     url: 'munwiki.info'
     ca: 'LetsEncrypt'
@@ -763,24 +596,8 @@
     url: 'wiki.2035.rocks'
     ca: 'LetsEncrypt'
     disable_event: false
-  wikiantlersg2info:
-    url: 'wiki.antlersg2.info'
-    ca: 'LetsEncrypt'
-    disable_event: false
-  wikicounterculturelabsorg:
-    url: 'wiki.counterculturelabs.org'
-    ca: 'LetsEncrypt'
-    disable_event: false
-  wikiudiaca:
-    url: 'wiki.udia.ca'
-    ca: 'LetsEncrypt'
-    disable_event: false
   contraaocom:
     url: 'contraao.com'
-    ca: 'LetsEncrypt'
-    disable_event: false
-  wikipyxxltk:
-    url: 'wiki.pyxxl.tk'
     ca: 'LetsEncrypt'
     disable_event: false
   guiacineastaspt:
@@ -795,11 +612,423 @@
     url: 'storytime.jdstroy.cf'
     ca: 'LetsEncrypt'
     disable_event: false
-  theliteratureprojectorg:
-    url: 'theliteratureproject.org'
-    ca: 'LetsEncrypt'
-    disable_event: false
   mrlovewiki:
     url: 'mrlove.wiki'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  wikiopendominionnet:
+    url: 'wiki.opendominion.net'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  warmagenecrocitycouk:
+    url: 'warmage.necrocity.co.uk'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  wikimastodonkr:
+    url: 'wiki.mastodon.kr'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  wikivalkyrienskiesorg:
+    url: 'wiki.valkyrienskies.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  wikitallguysfreecom:
+    url: 'wiki.tallguysfree.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  yellowikixyz:
+    url: 'yellowiki.xyz'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  pastportorg:
+    url: 'pastport.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  wikistarshipdigital:
+    url: 'wiki.starship.digital'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  wikiapap04com:
+    url: 'wiki.apap04.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  oecumeneorg:
+    url: 'oecumene.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  wikicandeladigital:
+    url: 'wiki.candela.digital'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  wikiitsualitk:
+    url: 'wiki.itsuali.tk'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  datanonbinarywiki:
+    url: 'data.nonbinary.wiki'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  wikigraalmilitarycom:
+    url: 'wiki.graalmilitary.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  tepwiki:
+    url: 'tep.wiki'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  vitriolspoonarmy:
+    url: 'vitriol.spoon.army'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  wanilia:
+    url: 'wiki.serwerwanilia.pl'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  filozsc:
+    url: 'wiki.newfil.com.au'
+    ca:  'LetsEncrypt'
+    disable_event: false
+  towarzystwoprawakredytowego:
+    url:  'towarzystwo.prawa.kredytowego.pl'
+    ca:   'LetsEncrypt'
+    disable_event: false
+  maketruthmatteragain:
+    url: 'wiki.wikidadds.org'
+    ca:  'LetsEncrypt'
+    disable_event: false
+  wwwmashedpotaytoescom:
+    url: 'www.mashedpotaytoes.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  wiki8b8tcom:
+    url: 'wiki.8b8t.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  wikiworldsofwearycom:
+    url: 'wiki.worldsofweary.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  wwwportalsofphereoncom:
+    url: 'www.portalsofphereon.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  programmingred:
+    url: 'programming.red'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  wikiconworldsorg:
+    url: 'wiki.conworlds.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  wwwbaharnaorg:
+    url: 'www.baharna.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  xysspon:
+    url: 'wiki.xysspon.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  archmanwiki:
+    url: 'wiki.archman.de'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  titanlandwiki:
+    url: 'wiki.titan.land'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  wikicdntennisca:
+    url: 'wiki.cdntennis.ca'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  vaultaicscf:
+    url: 'vault.aics.cf'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  wikihrznstudiocom:
+    url: 'wiki.hrznstudio.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  vedopediawitchesempirecom:
+    url: 'vedopedia.witches-empire.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  wikimnzpxyz:
+    url: 'wiki.mnzp.xyz'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  wikitwilightsignalcom:
+    url: 'wiki.twilightsignal.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  fourtawiki:
+    url: 'wiki.fourta.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  wikiglaucuslinuxorg:
+    url: 'wiki.glaucuslinux.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  wikisenetycom:
+    url: 'wiki.senety.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  wikipatriamcc:
+    url: 'wiki.patriam.cc'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  wikiostanscom:
+    url: 'wiki.ostans.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  fcsongcontestseu:
+    url: 'fc.songcontests.eu'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  wikiiufsjp:
+    url: 'wiki.iufs.jp'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  wwwbluepageswikiorg:
+    url: 'www.bluepageswiki.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  wikimobilityengineercom:
+    url: 'wiki.mobilityengineer.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  wikinvdanlorg:
+    url: 'wiki.nvda-nl.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  wikiarchlinuxfamilyorg:
+    url: 'wiki.archlinuxfamily.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  wikiarchlinuxfamilyde:
+    url: 'wiki.archlinuxfamily.de'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  arcolinuxclubwiki:
+    url: 'wiki.arcolinuxclub.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  wikibydornde:
+    url: 'wiki.bydorn.de'
+    ca: 'CloudFlare'
+    disable_event: false
+  relectriccarteamwiki:
+    url: 'wiki.teamrelectric.ca'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  wwwmcpkwiki:
+    url: 'www.mcpk.wiki'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  rivworldwiki:
+    url: 'rivworld.wiki'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  wikianimalrebellioncz:
+    url: 'wiki.animalrebellion.cz'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  devwikiandersmoldincom:
+    url: 'devwiki.anders.moldin.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  wikiwarframestatus:
+    url: 'wiki.warframestat.us'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  wikishaazzzir:
+    url: 'wiki.shaazzz.ir'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  wikivelaanorg:
+    url: 'wiki.velaan.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  housingwiki:
+    url: 'housing.wiki'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  pubwikilabcopl:
+    url: 'pubwiki.lab.co.pl'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  indexpdcommunityir:
+    url: 'index.pdcommunity.ir'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  enwikireservecom:
+    url: 'en.wikireserve.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  civclassicwiki:
+    url: 'civclassic.civwiki.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  spcodexwiki:
+    url: 'spcodex.wiki'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  ricochetwiki:
+    url: 'wiki.ricochetuniverse.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  wikicgnotepadcom:
+    url: 'wiki.cgnotepad.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  wikivillagecollaborativenet:
+    url: 'wiki.villagecollaborative.net'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  espiriwikiwiki:
+    url: 'espiri.wiki'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  hibernuswiki:
+    url: 'wiki.hibernusmc.net'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  augovwikicom:
+    url: 'augovwiki.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  wikicyberepoorg:
+    url: 'wiki.cyberepo.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  wikiearthmcbespace:
+    url: 'wiki.earthmcbe.space'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  enamargitanjalicom:
+    url: 'en.amargitanjali.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  bnamargitanjalicom:
+    url: 'bn.amargitanjali.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  commonsamargitanjalicom:
+    url: 'commons.amargitanjali.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  esgyaanipediacoin:
+    url: 'es.gyaanipedia.co.in'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  zhgyaanipediacoin:
+    url: 'zh.gyaanipedia.co.in'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  chouversencpsxyz:
+    url: 'chouverse.ncps.xyz'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  devfunshitpostingxyz:
+    url: 'dev.funshitposting.xyz'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  wwwiceriaorg:
+    url: 'www.iceria.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  icclopediawiki:
+    url: 'icclopedia.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  ipv6boliviawiki:
+    url: 'ipv6bolivia.tk'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  lamamadooaorg:
+    url: 'lama.madooa.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  frgyaanipediawiki:
+    url: 'fr.gyaanipedia.co.in'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  dreamsitcombr:
+    url: 'dreamsit.com.br'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  wikiminkyukim:
+    url: 'wiki.minkyu.kim'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  hentailoliconorg:
+    url: 'hentailolicon.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  enfamepediacoin:
+    url: 'en.famepedia.co.in'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  franchisefranchisingorgua:
+    url: 'franchise.franchising.org.ua'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  duepediaukto:
+    url: 'duepedia.uk.to'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  kkutuwiki:
+    url: 'kkutu.wiki'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  wikivinesheuorg:
+    url: 'wiki.vinesh.eu.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  wikibonziworldrevivedtk:
+    url: 'wiki.bonziworldrevived.tk'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  erikapediacom:
+    url: 'www.erikapedia.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  wwwhinduwikionline:
+    url: 'www.hinduwiki.online'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  innerspheretk:
+    url: 'innersphere.tk'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  factoriomodstk:
+    url: 'factorio-mods.tk'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  indiancannabiswiki:
+    url: 'indiancannabis.wiki'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  guiaesporonet:
+    url: 'guia.esporo.net'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  hololivewiki:
+    url: 'hololive.wiki'
+    ca: 'ZeroSSL'
+    disable_event: false
+  wikithehallxyz:
+    url: 'wiki.thehall.xyz'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  archivestellurgistswiki:
+    url: 'archive.stellurgists.wiki'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  wikiseamlynet:
+    url: 'wiki.seamly.net'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  wikiedhelonline:
+    url: 'wiki.edhel.online'
     ca: 'LetsEncrypt'
     disable_event: false

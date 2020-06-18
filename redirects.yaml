@@ -40,12 +40,6 @@
     sslname: 'sdiy.info'
     ca: 'LetsEncrypt'
     disable_event: true
-  wwwprogrammingred:
-    url: 'www.programming.red'
-    redirect: 'programming.red'
-    sslname: 'programming.red'
-    ca: 'LetsEncrypt'
-    disable_event: true
   publicreviwiki:
     url: 'public.revi.wiki'
     redirect: 'reviwiki.info'
@@ -63,25 +57,13 @@
     redirect: 'www.eerstelijnszones.be'
     sslname: 'eerstelijnszones.be'
     ca: 'LetsEncrypt'
-    disable_event: true
-  wwwguiasdobrasilcombr:
-    url: 'www.guiasdobrasil.com.br'
-    redirect: 'guiasdobrasil.com.br'
-    sslname: 'guiasdobrasil.com.br'
-    ca: 'LetsEncrypt'
-    disable_event: true
+    disable_event: false
   piwik:
     url: 'piwik.miraheze.org'
     redirect: 'matomo.miraheze.org'
     sslname: 'wildcard.miraheze.org'
-    ca: 'GlobalSign'
+    ca: 'Sectigo'
     hsts: 'strict'
-    disable_event: true
-  wwwb1tcashorg:
-    url: 'www.b1tcash.org'
-    redirect: 'b1tcash.org'
-    sslname: 'b1tcash.org'
-    ca: 'LetsEncrypt'
     disable_event: true
   wwwmarinebiodiversitymatrix:
     url: 'www.marinebiodiversitymatrix.org'
@@ -93,18 +75,6 @@
     url: 'netazar.org'
     redirect: 'www.netazar.org'
     sslname: 'www.netazar.org'
-    ca: 'LetsEncrypt'
-    disable_event: true
-  jwwiki:
-    url: 'jawright.cc'
-    redirect: 'www.jawright.cc'
-    sslname: 'www.jawright.cc'
-    ca: 'LetsEncrypt'
-    disable_event: true
-  wwwitpediask:
-    url: 'www.itpedia.sk'
-    redirect: 'itpedia.sk'
-    sslname: 'itpedia.sk'
     ca: 'LetsEncrypt'
     disable_event: true
   thesimswikicom:
@@ -123,7 +93,7 @@
     url: 'sims.miraheze.org'
     redirect: 'www.thesimswiki.com'
     sslname: 'wildcard.miraheze.org'
-    ca: 'GlobalSign'
+    ca: 'Sectigo'
     hsts: 'strict'
     disable_event: true
   wwwmh142com:
@@ -136,7 +106,7 @@
     url: 'commonswiki.miraheze.org'
     redirect: 'commons.miraheze.org'
     sslname: 'wildcard.miraheze.org'
-    ca: 'GlobalSign'
+    ca: 'Sectigo'
     hsts: 'strict'
     disable_event: true
   wikicontraaocom:
@@ -146,50 +116,132 @@
     ca: 'LetsEncrypt'
     disable_event: true
   comnumthwiki:
-    url: 'comnumth.miraheze.org'
+    url: 'cnt.miraheze.org'
     redirect: 'combinatorialnumbertheory.miraheze.org'
     sslname: 'wildcard.miraheze.org'
-    ca: 'GlobalSign'
+    ca: 'Sectigo'
     hsts: 'strict'
     disable_event: true
-
+  tallguysfreemiraheze:
+    url: 'tallguysfree.miraheze.org'
+    redirect: 'wiki.tallguysfree.com'
+    sslname: 'wildcard.miraheze.org'
+    ca: 'Sectigo'
+    disable_event: true
+  portalsofphereoncomredir:
+    url: 'portalsofphereon.com'
+    redirect: 'www.portalsofphereon.com'
+    sslname: 'www.portalsofphereon.com'
+    ca: 'LetsEncrypt'
+    disable_event: true
+  wwwprogrammingred:
+    url: 'www.programming.red'
+    redirect: 'programming.red'
+    sslname: 'programming.red'
+    ca: 'LetsEncrypt'
+    disable_event: true
+  baharnaorg:
+    url: 'baharna.org'
+    redirect: 'www.baharna.org'
+    sslname: 'www.baharna.org'
+    ca: 'LetsEncrypt'
+    disable_event: true
+  uncyclopediakrwiki:
+    url: 'uncyclopediakr.miraheze.org'
+    redirect: 'truth.miraheze.org'
+    sslname: 'wildcard.miraheze.org'
+    ca: 'Sectigo'
+    hsts: 'strict'
+    disable_event: true
+  iceriaorg:
+    url: 'iceria.org'
+    redirect: 'www.iceria.org'
+    sslname: 'www.iceria.org'
+    ca: 'LetsEncrypt'
+    disable_event: true
+  wwwerikapedia:
+    url: 'erikapedia.com'
+    redirect: 'www.erikapedia.com'
+    sslname: 'www.erikapedia.com'
+    ca: 'LetsEncrypt'
+    disable_event: true
+    
   # *.miraheze.org to *.miraheze.org wiki redirects
   studynotekr:
     url: 'studynotekr.miraheze.org'
     redirect: 'jayuwiki.miraheze.org'
     sslname: 'wildcard.miraheze.org'
-    ca: 'GlobalSign'
+    ca: 'Sectigo'
     hsts: 'strict'
     disable_event: true
   hellointernetwiki:
     url: 'hellointernet.miraheze.org'
     redirect: 'podpedia.miraheze.org/wiki/Portal:HelloInternet'
     sslname: 'wildcard.miraheze.org'
-    ca: 'GlobalSign'
+    ca: 'Sectigo'
     hsts: 'strict'
     disable_event: true
   unmadewiki:
     url: 'unmade.miraheze.org'
     redirect: 'podpedia.miraheze.org/wiki/Portal:Unmade'
     sslname: 'wildcard.miraheze.org'
-    ca: 'GlobalSign'
+    ca: 'Sectigo'
     hsts: 'strict'
     disable_event: true
   marthaspeakswiki:
     url: 'marthaspeaks.miraheze.org'
     redirect: 'thesciencearchives.miraheze.org'
     sslname: 'wildcard.miraheze.org'
-    ca: 'GlobalSign'
+    ca: 'Sectigo'
     hsts: 'strict'
     disable_event: true
   intpwiki:
     url: 'intp.miraheze.org'
     redirect: 'taswin.miraheze.org'
     sslname: 'wildcard.miraheze.org'
-    ca: 'GlobalSign'
+    ca: 'Sectigo'
     hsts: 'strict'
     disable_event: true
-# orain.org to miraheze.org wiki redirects
+  wikimiraheze:
+    url: 'wiki.miraheze.org'
+    redirect: 'meta.miraheze.org'
+    sslname: 'wildcard.miraheze.org'
+    ca: 'Sectigo'
+    hsts: 'strict'
+    disable_event: true
+  test1wiki:
+    url: 'test1.miraheze.org'
+    redirect: 'test2.miraheze.org'
+    sslname: 'wildcard.miraheze.org'
+    ca: 'Sectigo'
+    hsts: 'strict'
+    disable_event: true
+  mirahezetk:
+    url: 'miraheze.tk'
+    redirect: 'miraheze.org'
+    sslname: 'miraheze.tk'
+    ca: 'LetsEncrypt'
+    disable_event: true
+  mirahezeml:
+    url: 'miraheze.ml'
+    redirect: 'miraheze.org'
+    sslname: 'miraheze.ml'
+    ca: 'LetsEncrypt'
+    disable_event: true
+  mirahezega:
+    url: 'miraheze.ga'
+    redirect: 'miraheze.org'
+    sslname: 'miraheze.ga'
+    ca: 'LetsEncrypt'
+    disable_event: true
+  mirahezegq:
+    url: 'miraheze.gq'
+    redirect: 'miraheze.org'
+    sslname: 'miraheze.gq'
+    ca: 'LetsEncrypt'
+    disable_event: true
+
+  # orain.org to miraheze.org wiki redirects
   orain:
     url: 'orain.org'
     mobiledomain: '*.orain.org'
