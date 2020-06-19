@@ -1032,3 +1032,7 @@
     url: 'wikiverte.pl'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikissijse:
+    url: 'wiki.ssij.se'
+    ca: 'LetsEncrypt'
+    disable_event: false
