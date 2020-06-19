@@ -1036,3 +1036,7 @@
     url: 'wiki.ssij.se'
     ca: 'LetsEncrypt'
     disable_event: false
+  amanawikiorg:
+    url: 'aman.awiki.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
