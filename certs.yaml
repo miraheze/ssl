@@ -42,10 +42,6 @@
     url: 'allthetropes.org'
     ca: 'LetsEncrypt'
     disable_event: false
-  amaninfotm:
-    url: 'aman.info.tm'
-    ca: 'LetsEncrypt'
-    disable_event: false
   zenbuddhisminfo:
     url: 'www.zenbuddhism.info'
     ca: 'LetsEncrypt'
