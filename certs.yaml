@@ -1036,3 +1036,7 @@
     url: 'wiki.counterculturelabs.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikierislycom:
+    url: 'wiki.erisly.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
