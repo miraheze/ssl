@@ -588,8 +588,8 @@
     url: 'wiki.2035.rocks'
     ca: 'LetsEncrypt'
     disable_event: false
-  contraaocom:
-    url: 'contraao.com'
+  ao90pinhoorg:
+    url: 'ao90.pinho.org'
     ca: 'LetsEncrypt'
     disable_event: false
   guiacineastaspt:
