@@ -160,8 +160,8 @@
     ca: 'LetsEncrypt'
     disable_event: true
   wwwpublictestwikicom:
-    url: 'publictestwiki.com'
-    redirect: 'www.publictestwiki.com'
+    url: 'www.publictestwiki.com'
+    redirect: 'publictestwiki.com'
     sslname: 'publictestwiki.com'
     ca: 'LetsEncrypt'
     disable_event: true
