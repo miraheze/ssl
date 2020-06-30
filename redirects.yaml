@@ -159,7 +159,13 @@
     sslname: 'www.erikapedia.com'
     ca: 'LetsEncrypt'
     disable_event: true
-    
+  wwwpublictestwikicom:
+    url: 'www.publictestwiki.com'
+    redirect: 'publictestwiki.com'
+    sslname: 'publictestwiki.com'
+    ca: 'LetsEncrypt'
+    disable_event: true
+
   # *.miraheze.org to *.miraheze.org wiki redirects
   studynotekr:
     url: 'studynotekr.miraheze.org'
