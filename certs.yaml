@@ -1040,3 +1040,7 @@
     url: 'wiki.erisly.com'
     ca: 'LetsEncrypt'
     disable_event: false
+  enphgalaxyxyz:
+    url: 'en.phgalaxy.xyz'
+    ca: 'LetsEncrypt'
+    disable_event: false
