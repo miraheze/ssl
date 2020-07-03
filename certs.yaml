@@ -1044,3 +1044,7 @@
     url: 'en.phgalaxy.xyz'
     ca: 'LetsEncrypt'
     disable_event: false
+  polwiki:
+    url: 'pol.wiki'
+    ca: 'LetsEncrypt'
+    disable_event: false
