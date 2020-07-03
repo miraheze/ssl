@@ -166,9 +166,9 @@
     ca: 'LetsEncrypt'
     disable_event: true
   wwwpolwiki:
-    url: 'pol.wiki'
-    redirect: 'www.pol.wiki'
-    sslname: 'www.pol.wiki'
+    url: 'www.pol.wiki'
+    redirect: 'pol.wiki'
+    sslname: 'pol.wiki'
     ca: 'LetsEncrypt'
 
   # *.miraheze.org to *.miraheze.org wiki redirects
