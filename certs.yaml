@@ -1052,3 +1052,7 @@
     url: 'pcgamingwiki.elijahpepe.com'
     ca: 'LetsEncrypt'
     disable_event: false
+  minetestccserverwiki:
+    url: 'minetestserver-cc.ddns.net'
+    ca: 'LetsEncrypt'
+    disable_event: false
