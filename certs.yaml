@@ -1052,3 +1052,7 @@
     url: 'minetestserver-cc.ddns.net'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikikubixgamescom:
+    url: 'wiki.kubixgames.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
