@@ -868,10 +868,6 @@
     url: 'wiki.ricochetuniverse.com'
     ca: 'LetsEncrypt'
     disable_event: false
-  wikicgnotepadcom:
-    url: 'wiki.cgnotepad.com'
-    ca: 'LetsEncrypt'
-    disable_event: false
   wikivillagecollaborativenet:
     url: 'wiki.villagecollaborative.net'
     ca: 'LetsEncrypt'
