@@ -165,6 +165,12 @@
     sslname: 'publictestwiki.com'
     ca: 'LetsEncrypt'
     disable_event: true
+  museummiddellandnl:
+    url: 'museummiddelland.nl'
+    redirect: 'www.museummiddelland.nl'
+    sslname: 'www.museummiddelland.nl'
+    ca: 'LetsEncrypt'
+    disable_event: false
 
   # *.miraheze.org to *.miraheze.org wiki redirects
   studynotekr:
