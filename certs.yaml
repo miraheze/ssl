@@ -1056,3 +1056,7 @@
     url: 'wiki.kubixgames.com'
     ca: 'LetsEncrypt'
     disable_event: false
+  wwwmuseummiddellandnl:
+    url: 'www.museummiddelland.nl'
+    ca: 'LetsEncrypt'
+    disable_event: false
