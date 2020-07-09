@@ -1060,3 +1060,7 @@
     url: 'www.museummiddelland.nl'
     ca: 'LetsEncrypt'
     disable_event: false
+  cyberneticeyexyz:
+    url: 'cyberneticeye.xyz'
+    ca: 'LetsEncrypt'
+    disable_event: false
