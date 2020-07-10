@@ -1064,3 +1064,7 @@
     url: 'cyberneticeye.xyz'
     ca: 'LetsEncrypt'
     disable_event: false
+  dcmultiverseawikiorg:
+    url: 'dc-multiverse.awiki.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
