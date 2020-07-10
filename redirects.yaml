@@ -249,7 +249,7 @@
   dcwikiredirect:
     url: 'dc.miraheze.org'
     redirect: 'dc-multiverse.awiki.org'
-    sslname: 'dc-multiverse.awiki.org'
+    sslname: 'wildcard.miraheze.org'
     ca: 'LetsEncrypt'
     disable_event: true
 
