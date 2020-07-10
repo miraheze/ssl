@@ -246,6 +246,12 @@
     sslname: 'miraheze.gq'
     ca: 'LetsEncrypt'
     disable_event: true
+  dcwikiredirect:
+    url: 'dc.miraheze.org'
+    redirect: 'dc-multiverse.awiki.org'
+    sslname: 'dc-multiverse.awiki.org'
+    ca: 'LetsEncrypt'
+    disable_event: true
 
   # orain.org to miraheze.org wiki redirects
   orain:
