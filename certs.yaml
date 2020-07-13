@@ -1052,3 +1052,7 @@
     url: 'cyberneticeye.xyz'
     ca: 'LetsEncrypt'
     disable_event: false
+  jafarwiki:
+    url: 'wiki.jafaron.net'
+    ca: 'LetsEncrypt'
+    disable_event: false
