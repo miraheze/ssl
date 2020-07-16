@@ -1056,3 +1056,7 @@
     url: 'dc-multiverse.dcwikis.com'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikifraterniterebellioncom:
+    url: 'wiki.fraterniterebellion.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
