@@ -171,7 +171,7 @@
     sslname: 'www.museummiddelland.nl'
     ca: 'LetsEncrypt'
     disable_event: false
-   wwwfraterniterebellioncom:
+  wwwfraterniterebellioncom:
     url: 'www.fraterniterebellion.com'
     redirect: 'wiki.fraterniterebellion.com'
     sslname: 'wiki.fraterniterebellion.com'
