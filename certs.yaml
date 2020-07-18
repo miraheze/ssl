@@ -1060,3 +1060,7 @@
     url: 'wiki.fraterniterebellion.com'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikiazimuthnavy:
+    url: 'wiki.azimuth.navy'
+    ca: 'LetsEncrypt'
+    disable_event: false
