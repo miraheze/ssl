@@ -610,6 +610,7 @@
     disable_event: false
   wwwtradwikiorg:
     url: 'www.tradwiki.org'
+    sslname: 'tradwiki.org'
     ca: 'LetsEncrypt'
     disable_event: false
   wikiopendominionnet:

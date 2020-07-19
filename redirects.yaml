@@ -177,6 +177,12 @@
     sslname: 'wiki.fraterniterebellion.com'
     ca: 'LetsEncrypt'
     disable_event: false
+  tradwikiorg:
+    url: 'tradwiki.org'
+    redirect: 'www.tradwiki.org'
+    sslname: 'tradwiki.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
 
   # *.miraheze.org to *.miraheze.org wiki redirects
   studynotekr:
