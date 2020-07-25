@@ -1069,3 +1069,7 @@
     url: 'wiki.azimuth.navy'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikiclimatechangeai:
+    url: 'wiki.climatechange.ai'
+    ca: 'LetsEncrypt'
+    disable_event: false
