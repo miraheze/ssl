@@ -1073,3 +1073,7 @@
     url: 'wiki.climatechange.ai'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikiinvinciblewellbeingcom:
+    url: 'wiki.invinciblewellbeing.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
