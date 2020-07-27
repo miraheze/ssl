@@ -1077,3 +1077,7 @@
     url: 'wiki.invinciblewellbeing.com'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikiarnabat:
+    url: 'wiki.arnab.at'
+    ca: 'LetsEncrypt'
+    disable_event: false
