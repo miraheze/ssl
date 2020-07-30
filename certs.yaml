@@ -761,10 +761,6 @@
     url: 'wiki.fourta.org'
     ca: 'LetsEncrypt'
     disable_event: false
-  wikiglaucuslinuxorg:
-    url: 'wiki.glaucuslinux.org'
-    ca: 'LetsEncrypt'
-    disable_event: false
   wikisenetycom:
     url: 'wiki.senety.com'
     ca: 'LetsEncrypt'
@@ -821,10 +817,6 @@
     url: 'rivworld.wiki'
     ca: 'LetsEncrypt'
     disable_event: false
-  wikianimalrebellioncz:
-    url: 'wiki.animalrebellion.cz'
-    ca: 'LetsEncrypt'
-    disable_event: false
   devwikiandersmoldincom:
     url: 'devwiki.anders.moldin.com'
     ca: 'LetsEncrypt'
@@ -871,10 +863,6 @@
     disable_event: false
   wikivillagecollaborativenet:
     url: 'wiki.villagecollaborative.net'
-    ca: 'LetsEncrypt'
-    disable_event: false
-  espiriwikiwiki:
-    url: 'espiri.wiki'
     ca: 'LetsEncrypt'
     disable_event: false
   hibernuswiki:
@@ -937,10 +925,6 @@
     url: 'wiki.minkyu.kim'
     ca: 'LetsEncrypt'
     disable_event: false
-  hentailoliconorg:
-    url: 'hentailolicon.org'
-    ca: 'LetsEncrypt'
-    disable_event: false
   enfamepediacoin:
     url: 'en.famepedia.co.in'
     ca: 'LetsEncrypt'
@@ -959,10 +943,6 @@
     disable_event: false
   wikivinesheuorg:
     url: 'wiki.vinesh.eu.org'
-    ca: 'LetsEncrypt'
-    disable_event: false
-  wikibonziworldrevivedtk:
-    url: 'wiki.bonziworldrevived.tk'
     ca: 'LetsEncrypt'
     disable_event: false
   erikapediacom:
