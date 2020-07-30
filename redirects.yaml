@@ -109,12 +109,6 @@
     ca: 'Sectigo'
     hsts: 'strict'
     disable_event: true
-  wikicontraaocom:
-    url: 'wiki.contraao.com'
-    redirect: 'contraao.com'
-    sslname: 'contraao.com'
-    ca: 'LetsEncrypt'
-    disable_event: true
   comnumthwiki:
     url: 'cnt.miraheze.org'
     redirect: 'combinatorialnumbertheory.miraheze.org'
@@ -165,7 +159,31 @@
     sslname: 'www.erikapedia.com'
     ca: 'LetsEncrypt'
     disable_event: true
-    
+  wwwpublictestwikicom:
+    url: 'www.publictestwiki.com'
+    redirect: 'publictestwiki.com'
+    sslname: 'publictestwiki.com'
+    ca: 'LetsEncrypt'
+    disable_event: true
+  museummiddellandnl:
+    url: 'museummiddelland.nl'
+    redirect: 'www.museummiddelland.nl'
+    sslname: 'www.museummiddelland.nl'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  wwwfraterniterebellioncom:
+    url: 'www.fraterniterebellion.com'
+    redirect: 'wiki.fraterniterebellion.com'
+    sslname: 'wiki.fraterniterebellion.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  tradwikiorg:
+    url: 'tradwiki.org'
+    redirect: 'www.tradwiki.org'
+    sslname: 'tradwiki.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
+
   # *.miraheze.org to *.miraheze.org wiki redirects
   studynotekr:
     url: 'studynotekr.miraheze.org'
@@ -238,6 +256,18 @@
     url: 'miraheze.gq'
     redirect: 'miraheze.org'
     sslname: 'miraheze.gq'
+    ca: 'LetsEncrypt'
+    disable_event: true
+  dcwikiredirect:
+    url: 'dc.miraheze.org'
+    redirect: 'dc-multiverse.dcwikis.com'
+    sslname: 'wildcard.miraheze.org'
+    ca: 'LetsEncrypt'
+    disable_event: true
+  dcmultiversewiki:
+    url: 'dcmultiverse.miraheze.org'
+    redirect: 'dc-multiverse.dcwikis.com'
+    sslname: 'wildcard.miraheze.org'
     ca: 'LetsEncrypt'
     disable_event: true
 
