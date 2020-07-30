@@ -1013,16 +1013,8 @@
     url: 'pol.wiki'
     ca: 'LetsEncrypt'
     disable_event: false
-  pcgamingwikielijahpepecom:
-    url: 'pcgamingwiki.elijahpepe.com'
-    ca: 'LetsEncrypt'
-    disable_event: false
   minetestccserverwiki:
     url: 'minetestserver-cc.ddns.net'
-    ca: 'LetsEncrypt'
-    disable_event: false
-  wikikubixgamescom:
-    url: 'wiki.kubixgames.com'
     ca: 'LetsEncrypt'
     disable_event: false
   wwwmuseummiddellandnl:
