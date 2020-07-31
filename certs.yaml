@@ -801,10 +801,6 @@
     url: 'wiki.arcolinuxclub.org'
     ca: 'LetsEncrypt'
     disable_event: false
-  wikibydornde:
-    url: 'wiki.bydorn.de'
-    ca: 'CloudFlare'
-    disable_event: false
   relectriccarteamwiki:
     url: 'wiki.teamrelectric.ca'
     ca: 'LetsEncrypt'
