@@ -1049,3 +1049,7 @@
     url: 'wiki.arnab.at'
     ca: 'LetsEncrypt'
     disable_event: false
+  tlaawikiorg:
+    url: 'tla.awiki.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
