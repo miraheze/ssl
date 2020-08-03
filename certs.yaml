@@ -1053,3 +1053,7 @@
     url: 'tla.awiki.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikilctapp:
+    url: 'wiki.lct.app'
+    ca: 'LetsEncrypt'
+    disable_event: false
