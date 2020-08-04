@@ -281,10 +281,6 @@
     url: 'vsfan.net'
     ca: 'LetsEncrypt'
     disable_event: false
-  infectowiki:
-    url: 'infectowiki.com'
-    ca: 'LetsEncrypt'
-    disable_event: false
   wikiwhentheycryorg:
     url: 'wiki.whentheycry.org'
     ca: 'LetsEncrypt'
