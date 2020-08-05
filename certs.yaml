@@ -1053,3 +1053,7 @@
     url: 'wiki.lct.app'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikilefrenchmeleefr:
+    url: 'wiki.lefrenchmelee.fr'
+    ca: 'LetsEncrypt'
+    disable_event: false
