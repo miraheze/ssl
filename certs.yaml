@@ -1057,3 +1057,7 @@
     url: 'wiki.lefrenchmelee.fr'
     ca: 'LetsEncrypt'
     disable_event: false
+  n64brewdev:
+    url: 'n64brew.dev'
+    ca: 'LetsEncrypt'
+    disable_event: false
