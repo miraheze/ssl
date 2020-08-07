@@ -1045,8 +1045,8 @@
     url: 'wiki.arnab.at'
     ca: 'LetsEncrypt'
     disable_event: false
-  tlaawikiorg:
-    url: 'tla.awiki.org'
+  tlawikiorg:
+    url: 'tl.awiki.org'
     ca: 'LetsEncrypt'
     disable_event: false
   wikilctapp:
