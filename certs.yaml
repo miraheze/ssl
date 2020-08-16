@@ -1069,3 +1069,7 @@
     url: 'infectowiki.com'
     ca: 'LetsEncrypt'
     disable_event: false
+  historysdteforg:
+    url: 'history.sdtef.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
