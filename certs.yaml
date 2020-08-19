@@ -989,10 +989,6 @@
     url: 'minetestserver-cc.ddns.net'
     ca: 'LetsEncrypt'
     disable_event: false
-  wwwmuseummiddellandnl:
-    url: 'www.museummiddelland.nl'
-    ca: 'LetsEncrypt'
-    disable_event: false
   cyberneticeyexyz:
     url: 'cyberneticeye.xyz'
     ca: 'LetsEncrypt'
