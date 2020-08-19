@@ -1065,3 +1065,7 @@
     url: 'wiki.rebirthofthenight.com'
     ca: 'LetsEncrypt'
     disable_event: false
+  powerrangersfanonruwiki:
+    url: 'rupowerrangersfanon.tk'
+    ca: 'LetsEncrypt'
+    disable_event: false
