@@ -297,10 +297,6 @@
     url: 'wiki.veloren.net'
     ca: 'LetsEncrypt'
     disable_event: false
-  warfra:
-    url: 'wiki.warfra.ml'
-    ca: 'LetsEncrypt'
-    disable_event: false
   encyclopediaofastrobiologyorg:
     url: 'encyclopediaofastrobiology.org'
     ca: 'LetsEncrypt'
