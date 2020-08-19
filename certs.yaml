@@ -147,10 +147,6 @@
     url: 'wiki.kourouklides.com'
     ca: 'LetsEncrypt'
     disable_event: false
-  ldmsys:
-    url: 'wiki.ldmsys.net'
-    ca: 'LetsEncrypt'
-    disable_event: false
   ameciclo:
     url: 'wiki.ameciclo.org'
     ca: 'LetsEncrypt'
