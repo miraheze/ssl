@@ -1061,3 +1061,7 @@
     url: 'virus23.uk.to'
     ca: 'LetsEncrypt'
     disable_event: false
+  rotnwiki:
+    url: 'wiki.rebirthofthenight.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
