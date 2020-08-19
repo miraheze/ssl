@@ -1057,3 +1057,7 @@
     url: 'usagihimepedia.ddns.net'
     ca: 'LetsEncrypt'
     disable_event: false
+  virus23wiki:
+    url: 'virus23.uk.to'
+    ca: 'LetsEncrypt'
+    disable_event: false
