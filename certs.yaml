@@ -713,10 +713,6 @@
     url: 'wiki.archman.de'
     ca: 'LetsEncrypt'
     disable_event: false
-  titanlandwiki:
-    url: 'wiki.titan.land'
-    ca: 'LetsEncrypt'
-    disable_event: false
   wikicdntennisca:
     url: 'wiki.cdntennis.ca'
     ca: 'LetsEncrypt'
