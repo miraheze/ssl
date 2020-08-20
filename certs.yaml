@@ -1069,3 +1069,7 @@
     url: 'rupowerrangersfanon.tk'
     ca: 'LetsEncrypt'
     disable_event: false
+  acheronrhowiki:
+    url: 'beaconspace.unrestrictedlorefare.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
