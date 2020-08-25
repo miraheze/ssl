@@ -1081,3 +1081,7 @@
     url: 'wiki.yunachannel.com'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikiredeemerlive:
+    url: 'wiki.redeemer.live'
+    ca: 'LetsEncrypt'
+    disable_event: false
