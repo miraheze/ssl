@@ -1085,3 +1085,7 @@
     url: 'wiki.redeemer.live'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikiusagihimeml:
+    url: 'wiki.usagihime.ml'
+    ca: 'LetsEncrypt'
+    disable_event: false
