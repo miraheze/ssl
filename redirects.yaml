@@ -183,6 +183,11 @@
     sslname: 'tradwiki.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  battlecatsml:
+    url: 'battlecats.ml'
+    redirect: 'www.battlecats.ml'
+    sslname: 'battlecats.ml'
+    disable_event: false
 
   # *.miraheze.org to *.miraheze.org wiki redirects
   studynotekr:
