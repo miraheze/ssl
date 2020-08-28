@@ -1089,3 +1089,7 @@
     url: 'www.battlecats.ml'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikidanvsnet:
+    url: 'wiki.danvs.net'
+    ca: 'LetsEncrypt'
+    disable_event: false
