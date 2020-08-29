@@ -1109,3 +1109,7 @@
     url: 'kk.uncyc.tk'
     ca: 'LetsEncrypt'
     disable_event: false
+  chouversecludisciplescyou:
+    url: 'chouverse.cludisciples.cyou'
+    ca: 'LetsEncrypt'
+    disable_event: false
