@@ -1093,3 +1093,19 @@
     url: 'wiki.danvs.net'
     ca: 'LetsEncrypt'
     disable_event: false
+  viileapediaga:
+    url: 'viileapedia.ga'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  vortekspediatk:
+    url: 'vortekspedia.tk'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  debilepediegq:
+    url: 'debilepedie.gq'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  kkuncyctk:
+    url: 'kk.uncyc.tk'
+    ca: 'LetsEncrypt'
+    disable_event: false
