@@ -1113,3 +1113,7 @@
     url: 'monarchia.wiki'
     ca: 'LetsEncrypt'
     disable_event: false
+  shkilevonline:
+    url: 'shkilev.online'
+    ca: 'LetsEncrypt'
+    disable_event: false
