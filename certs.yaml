@@ -1121,3 +1121,7 @@
     url: 'wiki.insideearth.info'
     ca: 'LetsEncrypt'
     disable_event: false
+  iesdmobageniemyid:
+    url: 'iesd.mobagenie.my.id'
+    ca: 'LetsEncrypt'
+    disable_event: false
