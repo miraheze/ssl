@@ -1117,3 +1117,7 @@
     url: 'iesd.mobagenie.my.id'
     ca: 'LetsEncrypt'
     disable_event: false
+  privacywiki:
+    url: 'privacy-wiki.0x.no'
+    ca: 'LetsEncrypt'
+    disable_event: false
