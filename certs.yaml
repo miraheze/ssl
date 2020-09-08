@@ -939,7 +939,7 @@
     disable_event: false
   hololivewiki:
     url: 'hololive.wiki'
-    ca: 'ZeroSSL'
+    ca: 'LetsEncrypt'
     disable_event: false
   wikithehallxyz:
     url: 'wiki.thehall.xyz'
