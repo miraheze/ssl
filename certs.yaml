@@ -773,10 +773,6 @@
     url: 'wiki.archlinuxfamily.de'
     ca: 'LetsEncrypt'
     disable_event: false
-  arcolinuxclubwiki:
-    url: 'wiki.arcolinuxclub.org'
-    ca: 'LetsEncrypt'
-    disable_event: false
   relectriccarteamwiki:
     url: 'wiki.teamrelectric.ca'
     ca: 'LetsEncrypt'
