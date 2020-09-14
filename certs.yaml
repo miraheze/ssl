@@ -1121,3 +1121,7 @@
     url: 'privacy-wiki.0x.no'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikialirezaivazir:
+    url: 'wiki.alirezaivaz.ir'
+    ca: 'LetsEncrypt'
+    disable_event: false
