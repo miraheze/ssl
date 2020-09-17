@@ -1125,3 +1125,7 @@
     url: 'wiki.alirezaivaz.ir'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikiarruxyz:
+    url: 'wiki.arru.xyz'
+    ca: 'LetsEncrypt'
+    disable_event: false
