@@ -1129,3 +1129,7 @@
     url: 'wiki.arru.xyz'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikiwysteriaga:
+    url: 'wiki.wysteria.ga'
+    ca: 'LetsEncrypt'
+    disable_event: false
