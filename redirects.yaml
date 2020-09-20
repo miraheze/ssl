@@ -189,6 +189,12 @@
     sslname: 'wiki.alirezaivaz.ir'
     ca: 'LetsEncrypt'
     disable_event: true
+  wwwopendatascotorg:
+    url: 'www.opendatascot.org'
+    redirect: 'opendatascot.org'
+    sslname: 'opendatascot.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
 
   # *.miraheze.org to *.miraheze.org wiki redirects
   studynotekr:
