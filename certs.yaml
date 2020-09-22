@@ -1137,3 +1137,7 @@
     url: 'opendatascot.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  cubashpediacf:
+    url: 'cubashpedia.cf'
+    ca: 'LetsEncrypt'
+    disable_event: false
