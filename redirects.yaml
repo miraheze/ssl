@@ -282,6 +282,12 @@
     sslname: 'wildcard.miraheze.org'
     ca: 'LetsEncrypt'
     disable_event: true
+  marvelcinematicuniverse:
+    url: 'marvelcinematicuniverse.miraheze.org'
+    redirect: mcu.miraheze.org'
+    sslname: 'wildcard.miraheze.org'
+    ca: 'LetsEncrypt'
+    disable_event: true
 
   # orain.org to miraheze.org wiki redirects
   orain:
@@ -309,3 +315,4 @@
     sslname: 'orain.org'
     ca: 'LetsEncrypt'
     disable_event: true
+    
