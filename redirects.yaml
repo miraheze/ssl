@@ -284,7 +284,7 @@
     disable_event: true
   marvelcinematicuniverse:
     url: 'marvelcinematicuniverse.miraheze.org'
-    redirect: mcu.miraheze.org'
+    redirect: 'mcu.miraheze.org'
     sslname: 'wildcard.miraheze.org'
     ca: 'LetsEncrypt'
     disable_event: true
