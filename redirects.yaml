@@ -183,7 +183,7 @@
     sslname: 'tradwiki.org'
     ca: 'LetsEncrypt'
     disable_event: false
-  wikialirezaivazir:
+  mobilewikialirezaivazir:
     url: 'wiki.m.alirezaivaz.ir'
     redirect: 'wiki.alirezaivaz.ir'
     sslname: 'wiki.alirezaivaz.ir'
