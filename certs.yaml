@@ -1137,3 +1137,7 @@
     url: 'savagepedia.wiki'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikianglishinfo:
+    url: 'wiki.anglish.info'
+    ca: 'LetsEncrypt'
+    disable_event: false
