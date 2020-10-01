@@ -1133,3 +1133,7 @@
     url: 'cubashpedia.cf'
     ca: 'LetsEncrypt'
     disable_event: false
+  savagepediawiki:
+    url: 'savagepedia.wiki'
+    ca: 'LetsEncrypt'
+    disable_event: false
