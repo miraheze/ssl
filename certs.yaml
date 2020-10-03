@@ -1141,3 +1141,7 @@
     url: 'wiki.anglish.info'
     ca: 'LetsEncrypt'
     disable_event: false
+  minecraftathomewiki:
+    url: 'wiki.minecraftathome.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
