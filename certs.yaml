@@ -1144,4 +1144,8 @@
   minecraftathomewiki:
     url: 'wiki.minecraftathome.com'
     ca: 'LetsEncrypt'
+    disable_event: false 
+  entrancewikiwiki:
+    url: 'wiki.wikipariksha.com'
+    ca: 'LetsEncrypt'
     disable_event: false
