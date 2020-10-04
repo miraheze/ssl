@@ -1146,6 +1146,6 @@
     ca: 'LetsEncrypt'
     disable_event: false 
   entrancewikiwiki:
-    url: 'wiki.wikipariksha.com'
+    url: 'wikipariksha.com'
     ca: 'LetsEncrypt'
     disable_event: false
