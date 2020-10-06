@@ -637,10 +637,6 @@
     url: 'wiki.candela.digital'
     ca: 'LetsEncrypt'
     disable_event: false
-  wikiitsualitk:
-    url: 'wiki.itsuali.tk'
-    ca: 'LetsEncrypt'
-    disable_event: false
   datanonbinarywiki:
     url: 'data.nonbinary.wiki'
     ca: 'LetsEncrypt'
