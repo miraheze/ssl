@@ -1145,3 +1145,7 @@
     url: 'wikipariksha.com'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikiheliossco:
+    url: 'wiki.helioss.co'
+    ca: 'LetsEncrypt'
+    disable_event: false
