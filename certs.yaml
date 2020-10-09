@@ -1149,3 +1149,7 @@
     url: 'wiki.helioss.co'
     ca: 'LetsEncrypt'
     disable_event: false
+  historyestillorg:
+    url: 'history.estill.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
