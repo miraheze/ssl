@@ -1153,3 +1153,7 @@
     url: 'history.estill.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  mediawikiecfineu:
+    url: 'mediawiki.ecfin.eu'
+    ca: 'LetsEncrypt'
+    disable_event: false
