@@ -274,25 +274,25 @@
     url: 'dc.miraheze.org'
     redirect: 'dc-multiverse.dcwikis.com'
     sslname: 'wildcard.miraheze.org-2020'
-    ca: 'LetsEncrypt'
+    ca: 'Sectigo'
     disable_event: true
   arrowversewikiredirect:
     url: 'arrowverse.miraheze.org'
     redirect: 'dc-multiverse.dcwikis.com'
     sslname: 'wildcard.miraheze.org-2020'
-    ca: 'LetsEncrypt'
+    ca: 'Sectigo'
     disable_event: true
   dcmultiversewiki:
     url: 'dcmultiverse.miraheze.org'
     redirect: 'dc-multiverse.dcwikis.com'
     sslname: 'wildcard.miraheze.org-2020'
-    ca: 'LetsEncrypt'
+    ca: 'Sectigo'
     disable_event: true
   marvelcinematicuniverse:
     url: 'marvelcinematicuniverse.miraheze.org'
     redirect: 'mcu.miraheze.org'
     sslname: 'wildcard.miraheze.org-2020'
-    ca: 'LetsEncrypt'
+    ca: 'Sectigo'
     disable_event: true
 
   # orain.org to miraheze.org wiki redirects
