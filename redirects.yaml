@@ -61,7 +61,7 @@
   piwik:
     url: 'piwik.miraheze.org'
     redirect: 'matomo.miraheze.org'
-    sslname: 'wildcard.miraheze.org'
+    sslname: 'wildcard.miraheze.org-2020'
     ca: 'Sectigo'
     hsts: 'strict'
     disable_event: true
@@ -92,7 +92,7 @@
   simswiki:
     url: 'sims.miraheze.org'
     redirect: 'www.thesimswiki.com'
-    sslname: 'wildcard.miraheze.org'
+    sslname: 'wildcard.miraheze.org-2020'
     ca: 'Sectigo'
     hsts: 'strict'
     disable_event: true
@@ -105,21 +105,21 @@
   commonswikiwiki:
     url: 'commonswiki.miraheze.org'
     redirect: 'commons.miraheze.org'
-    sslname: 'wildcard.miraheze.org'
+    sslname: 'wildcard.miraheze.org-2020'
     ca: 'Sectigo'
     hsts: 'strict'
     disable_event: true
   comnumthwiki:
     url: 'cnt.miraheze.org'
     redirect: 'combinatorialnumbertheory.miraheze.org'
-    sslname: 'wildcard.miraheze.org'
+    sslname: 'wildcard.miraheze.org-2020'
     ca: 'Sectigo'
     hsts: 'strict'
     disable_event: true
   tallguysfreemiraheze:
     url: 'tallguysfree.miraheze.org'
     redirect: 'wiki.tallguysfree.com'
-    sslname: 'wildcard.miraheze.org'
+    sslname: 'wildcard.miraheze.org-2020'
     ca: 'Sectigo'
     disable_event: true
   portalsofphereoncomredir:
@@ -143,7 +143,7 @@
   uncyclopediakrwiki:
     url: 'uncyclopediakr.miraheze.org'
     redirect: 'truth.miraheze.org'
-    sslname: 'wildcard.miraheze.org'
+    sslname: 'wildcard.miraheze.org-2020'
     ca: 'Sectigo'
     hsts: 'strict'
     disable_event: true
@@ -200,49 +200,49 @@
   studynotekr:
     url: 'studynotekr.miraheze.org'
     redirect: 'jayuwiki.miraheze.org'
-    sslname: 'wildcard.miraheze.org'
+    sslname: 'wildcard.miraheze.org-2020'
     ca: 'Sectigo'
     hsts: 'strict'
     disable_event: true
   hellointernetwiki:
     url: 'hellointernet.miraheze.org'
     redirect: 'podpedia.miraheze.org/wiki/Portal:HelloInternet'
-    sslname: 'wildcard.miraheze.org'
+    sslname: 'wildcard.miraheze.org-2020'
     ca: 'Sectigo'
     hsts: 'strict'
     disable_event: true
   unmadewiki:
     url: 'unmade.miraheze.org'
     redirect: 'podpedia.miraheze.org/wiki/Portal:Unmade'
-    sslname: 'wildcard.miraheze.org'
+    sslname: 'wildcard.miraheze.org-2020'
     ca: 'Sectigo'
     hsts: 'strict'
     disable_event: true
   marthaspeakswiki:
     url: 'marthaspeaks.miraheze.org'
     redirect: 'thesciencearchives.miraheze.org'
-    sslname: 'wildcard.miraheze.org'
+    sslname: 'wildcard.miraheze.org-2020'
     ca: 'Sectigo'
     hsts: 'strict'
     disable_event: true
   intpwiki:
     url: 'intp.miraheze.org'
     redirect: 'taswin.miraheze.org'
-    sslname: 'wildcard.miraheze.org'
+    sslname: 'wildcard.miraheze.org-2020'
     ca: 'Sectigo'
     hsts: 'strict'
     disable_event: true
   wikimiraheze:
     url: 'wiki.miraheze.org'
     redirect: 'meta.miraheze.org'
-    sslname: 'wildcard.miraheze.org'
+    sslname: 'wildcard.miraheze.org-2020'
     ca: 'Sectigo'
     hsts: 'strict'
     disable_event: true
   test1wiki:
     url: 'test1.miraheze.org'
     redirect: 'test2.miraheze.org'
-    sslname: 'wildcard.miraheze.org'
+    sslname: 'wildcard.miraheze.org-2020'
     ca: 'Sectigo'
     hsts: 'strict'
     disable_event: true
@@ -273,25 +273,25 @@
   dcwikiredirect:
     url: 'dc.miraheze.org'
     redirect: 'dc-multiverse.dcwikis.com'
-    sslname: 'wildcard.miraheze.org'
+    sslname: 'wildcard.miraheze.org-2020'
     ca: 'LetsEncrypt'
     disable_event: true
   arrowversewikiredirect:
     url: 'arrowverse.miraheze.org'
     redirect: 'dc-multiverse.dcwikis.com'
-    sslname: 'wildcard.miraheze.org'
+    sslname: 'wildcard.miraheze.org-2020'
     ca: 'LetsEncrypt'
     disable_event: true
   dcmultiversewiki:
     url: 'dcmultiverse.miraheze.org'
     redirect: 'dc-multiverse.dcwikis.com'
-    sslname: 'wildcard.miraheze.org'
+    sslname: 'wildcard.miraheze.org-2020'
     ca: 'LetsEncrypt'
     disable_event: true
   marvelcinematicuniverse:
     url: 'marvelcinematicuniverse.miraheze.org'
     redirect: 'mcu.miraheze.org'
-    sslname: 'wildcard.miraheze.org'
+    sslname: 'wildcard.miraheze.org-2020'
     ca: 'LetsEncrypt'
     disable_event: true
 
@@ -321,4 +321,3 @@
     sslname: 'orain.org'
     ca: 'LetsEncrypt'
     disable_event: true
-    
