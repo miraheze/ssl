@@ -276,6 +276,12 @@
     sslname: 'wildcard.miraheze.org'
     ca: 'LetsEncrypt'
     disable_event: true
+  arrowversewikiredirect:
+    url: 'arrowverse.miraheze.org'
+    redirect: 'dc-multiverse.dcwikis.com'
+    sslname: 'wildcard.miraheze.org'
+    ca: 'LetsEncrypt'
+    disable_event: true
   dcmultiversewiki:
     url: 'dcmultiverse.miraheze.org'
     redirect: 'dc-multiverse.dcwikis.com'
