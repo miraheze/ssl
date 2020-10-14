@@ -1161,3 +1161,7 @@
     url: 'bharatwiki.online'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikibeatsnet:
+    url: 'wikibeats.net'
+    ca: 'LetsEncrypt'
+    disable_event: false
