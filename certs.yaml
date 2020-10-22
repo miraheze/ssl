@@ -1169,3 +1169,7 @@
     url: 'wiki.abyogsms.org.in'
     ca: 'LetsEncrypt'
     disable_event: false
+  jacksonheightsnyc:
+    url: 'jacksonheights.nyc'
+    ca: 'LetsEncrypt'
+    disable_event: false
