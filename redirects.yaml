@@ -295,14 +295,14 @@
     ca: 'Sectigo'
     disable_event: true
   animatedfeetwiki:
-    url: 'drawnfeet.miraheze.org'
-    redirect: 'animatedfeet.miraheze.org'
+    url: 'animatedfeet.miraheze.org'
+    redirect: 'drawnfeet.miraheze.org'
     sslname: 'wildcard.miraheze.org-2020'
     ca: 'Sectigo'
     disable_event: true
   animatefeetwiki:
-    url: 'drawnfeet.miraheze.org'
-    redirect: 'animefeet.miraheze.org'
+    url: 'animefeet.miraheze.org'
+    redirect: 'drawnfeet.miraheze.org'
     sslname: 'wildcard.miraheze.org-2020'
     ca: 'Sectigo'
     disable_event: true
