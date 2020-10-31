@@ -197,13 +197,6 @@
     disable_event: false
 
   # *.miraheze.org to *.miraheze.org wiki redirects
-  studynotekr:
-    url: 'studynotekr.miraheze.org'
-    redirect: 'jayuwiki.miraheze.org'
-    sslname: 'wildcard.miraheze.org-2020'
-    ca: 'Sectigo'
-    hsts: 'strict'
-    disable_event: true
   hellointernetwiki:
     url: 'hellointernet.miraheze.org'
     redirect: 'podpedia.miraheze.org/wiki/Portal:HelloInternet'
