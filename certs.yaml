@@ -273,10 +273,6 @@
     url: 'wiki.rmbrk.sk'
     ca: 'LetsEncrypt'
     disable_event: false
-  vsfannet:
-    url: 'vsfan.net'
-    ca: 'LetsEncrypt'
-    disable_event: false
   wikiwhentheycryorg:
     url: 'wiki.whentheycry.org'
     ca: 'LetsEncrypt'
