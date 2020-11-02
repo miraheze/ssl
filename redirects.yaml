@@ -52,12 +52,6 @@
     sslname: 'dariawiki.org'
     ca: 'LetsEncrypt'
     disable_event: true
-  eerstelijnszones:
-    url: 'eerstelijnszones.be'
-    redirect: 'www.eerstelijnszones.be'
-    sslname: 'eerstelijnszones.be'
-    ca: 'LetsEncrypt'
-    disable_event: false
   piwik:
     url: 'piwik.miraheze.org'
     redirect: 'matomo.miraheze.org'
