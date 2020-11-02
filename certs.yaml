@@ -22,10 +22,6 @@
     url: 'wiki.valentinaproject.org'
     ca: 'LetsEncrypt'
     disable_event: false
-  dwplive:
-    url: 'wiki.dwplive.com'
-    ca: 'LetsEncrypt'
-    disable_event: false
   grottocenter:
     url: 'wiki.grottocenter.org'
     ca: 'LetsEncrypt'
@@ -62,10 +58,6 @@
     url: 'wiki.meeusen.net'
     ca: 'LetsEncrypt'
     disable_event: false
-  drones4all:
-    url: 'wiki.drones4nature.info'
-    ca: 'LetsEncrypt'
-    disable_event: false
   savagewiki:
     url: 'savage-wiki.com'
     ca: 'RapidSSL'
@@ -76,10 +68,6 @@
     disable_event: false
   wikiescola:
     url: 'wikiescola.com.br'
-    ca: 'LetsEncrypt'
-    disable_event: false
-  kstartups:
-    url: 'wiki.besuccess.com'
     ca: 'LetsEncrypt'
     disable_event: false
   speleo:
@@ -147,10 +135,6 @@
     url: 'wiki.kourouklides.com'
     ca: 'LetsEncrypt'
     disable_event: false
-  ameciclo:
-    url: 'wiki.ameciclo.org'
-    ca: 'LetsEncrypt'
-    disable_event: false
   adadevelopersacademy:
     url: 'adadevelopersacademy.wiki'
     ca: 'LetsEncrypt'
@@ -196,33 +180,16 @@
     url: 'www.lab612.at'
     ca: 'LetsEncrypt'
     disable_event: false
-  exnihilolinux:
-    url: 'wiki.exnihilolinux.org'
-    ca: 'LetsEncrypt'
-    disable_event: false
   bconnected:
     url: 'bconnected.aidanmarkham.com'
     ca: 'LetsEncrypt'
     disable_event: false
-  consentcraft:
-    url: 'wiki.consentcraft.uk'
-    ca: 'LetsEncrypt'
-    disable_event: false
-  wwweerstelijnszones:
-    url: 'www.eerstelijnszones.be'
-    sslname: 'eerstelijnszones.be'
-    ca: 'LetsEncrypt'
-    disable_event: true
   staravesno:
     url: 'wiki.staraves-no.cz'
     ca: 'LetsEncrypt'
     disable_event: false
   meregos:
     url: 'meregos.com'
-    ca: 'LetsEncrypt'
-    disable_event: false
-  garrettcountyguide:
-    url: 'garrettcountyguide.com'
     ca: 'LetsEncrypt'
     disable_event: false
   studentwikiddns:
@@ -243,10 +210,6 @@
     disable_event: false
   wikiombreio:
     url: 'wiki.ombre.io'
-    ca: 'LetsEncrypt'
-    disable_event: false
-  dobots:
-    url: 'wiki.dobots.nl'
     ca: 'LetsEncrypt'
     disable_event: false
   pupilliam:
