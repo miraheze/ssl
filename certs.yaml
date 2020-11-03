@@ -1165,3 +1165,7 @@
     url: 'wiki.jacksonheights.nyc'
     ca: 'LetsEncrypt'
     disable_event: false
+  wwwpetrawikiorg:
+    url: 'www.petrawiki.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
