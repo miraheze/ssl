@@ -171,6 +171,12 @@
     sslname: 'opendatascot.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  petrawikiorg:
+    url: 'petrawiki.org'
+    redirect: 'www.petrawiki.org'
+    sslname: 'www.petrawiki.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
 
   # *.miraheze.org to *.miraheze.org wiki redirects
   hellointernetwiki:
