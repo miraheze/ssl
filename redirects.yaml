@@ -65,12 +65,6 @@
     sslname: 'marinebiodiversitymatrix.org'
     ca: 'LetsEncrypt'
     disable_event: true
-  netazarorg:
-    url: 'netazar.org'
-    redirect: 'www.netazar.org'
-    sslname: 'www.netazar.org'
-    ca: 'LetsEncrypt'
-    disable_event: true
   thesimswikicom:
     url: 'thesimswiki.com'
     redirect: 'www.thesimswiki.com'
@@ -109,12 +103,6 @@
     sslname: 'wildcard.miraheze.org-2020'
     ca: 'Sectigo'
     hsts: 'strict'
-    disable_event: true
-  tallguysfreemiraheze:
-    url: 'tallguysfree.miraheze.org'
-    redirect: 'wiki.tallguysfree.com'
-    sslname: 'wildcard.miraheze.org-2020'
-    ca: 'Sectigo'
     disable_event: true
   portalsofphereoncomredir:
     url: 'portalsofphereon.com'
@@ -177,12 +165,6 @@
     sslname: 'tradwiki.org'
     ca: 'LetsEncrypt'
     disable_event: false
-  mobilewikialirezaivazir:
-    url: 'wiki.m.alirezaivaz.ir'
-    redirect: 'wiki.alirezaivaz.ir'
-    sslname: 'wiki.alirezaivaz.ir'
-    ca: 'LetsEncrypt'
-    disable_event: true
   wwwopendatascotorg:
     url: 'www.opendatascot.org'
     redirect: 'opendatascot.org'
