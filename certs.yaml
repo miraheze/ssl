@@ -119,10 +119,6 @@
     url: 'froggy.info'
     ca: 'LetsEncrypt'
     disable_event: false
-  inebriationconfederation:
-    url: 'wiki.inebriation-confederation.com'
-    ca: 'LetsEncrypt'
-    disable_event: false
   autocountsoft:
     url: 'wiki.autocountsoft.com'
     ca: 'LetsEncrypt'
