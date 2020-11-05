@@ -1165,3 +1165,7 @@
     url: 'www.petrawiki.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  degyaanipediacoin:
+    url: 'de.gyaanipedia.co.in'
+    ca: 'LetsEncrypt'
+    disable_event: false
