@@ -1049,8 +1049,8 @@
     url: 'wiki.usagihime.ml'
     ca: 'LetsEncrypt'
     disable_event: false
-  wwwbattlecatsml:
-    url: 'www.battlecats.ml'
+  battlecatsml:
+    url: 'battlecats.ml'
     ca: 'LetsEncrypt'
     disable_event: false
   wikidanvsnet:

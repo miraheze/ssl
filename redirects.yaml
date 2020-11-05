@@ -201,6 +201,12 @@
     sslname: 'www.petrawiki.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  wwwbattlecatsml:
+    url: 'www.battlecats.ml'
+    redirect: 'battlecats.ml'
+    sslname: 'battlecats.ml'
+    ca: 'LetsEncrypt'
+    disable_event: false
 
   # *.miraheze.org to *.miraheze.org wiki redirects
   hellointernetwiki:
