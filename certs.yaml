@@ -846,3 +846,7 @@
     url: 'de.gyaanipedia.co.in'
     ca: 'LetsEncrypt'
     disable_event: false
+  newsfamepediacoin:
+    url: 'news.famepedia.co.in'
+    ca: 'LetsEncrypt'
+    disable_event: false
