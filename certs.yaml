@@ -850,3 +850,7 @@
     url: 'news.famepedia.co.in'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikiucmgml:
+    url: 'wiki.ucmg.ml'
+    ca: 'LetsEncrypt'
+    disable_event: false
