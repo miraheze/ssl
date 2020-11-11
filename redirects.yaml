@@ -183,6 +183,12 @@
     sslname: 'battlecats.ml'
     ca: 'LetsEncrypt'
     disable_event: false
+  blueviesorg:
+    url: 'battlecats.ml'
+    redirect: 'www.battlecats.ml'
+    sslname: 'www.battlecats.ml'
+    ca: 'LetsEncrypt'
+    disable_event: false
 
   # *.miraheze.org to *.miraheze.org wiki redirects
   hellointernetwiki:
