@@ -184,9 +184,9 @@
     ca: 'LetsEncrypt'
     disable_event: false
   blueviesorg:
-    url: 'battlecats.ml'
-    redirect: 'www.battlecats.ml'
-    sslname: 'www.battlecats.ml'
+    url: 'bluevies.org'
+    redirect: 'www.bluevies.org'
+    sslname: 'www.bluevies.org'
     ca: 'LetsEncrypt'
     disable_event: false
 
