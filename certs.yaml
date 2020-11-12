@@ -854,7 +854,15 @@
     url: 'wiki.ucmg.ml'
     ca: 'LetsEncrypt'
     disable_event: false
-  wwwblueviesorg:
-    url: 'www.bluevies.org'
+  metanocyclotk:
+    url: 'meta.nocyclo.tk'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  ennocyclotk:
+    url: 'en.nocyclo.tk'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  esnocyclotk:
+    url: 'es.nocyclo.tk'
     ca: 'LetsEncrypt'
     disable_event: false
