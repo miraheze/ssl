@@ -870,7 +870,7 @@
     url: 'es.nocyclo.tk'
     ca: 'LetsEncrypt'
     disable_event: false
-  wikiparkcitygay:
-    url: 'wiki.parkcity.gay'
+  wikiparkcityclub:
+    url: 'wiki.park-city.club'
     ca: 'LetsEncrypt'
     disable_event: false
