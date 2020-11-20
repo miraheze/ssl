@@ -874,3 +874,7 @@
     url: 'wiki.park-city.club'
     ca: 'LetsEncrypt'
     disable_event: false
+  idleoninfo:
+    url: 'idleon.info'
+    ca: 'LetsEncrypt'
+    disable_event: false
