@@ -878,3 +878,7 @@
     url: 'idleon.info'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikilukastk:
+    url: 'wikilukas.tk'
+    ca: 'LetsEncrypt'
+    disable_event: false
