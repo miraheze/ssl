@@ -195,6 +195,12 @@
     sslname: 'wiki.park-city.club'
     ca: 'LetsEncrypt'
     disable_event: false
+  wwwwikilukastk:
+    url: 'www.wikilukas.tk'
+    redirect: 'wikilukas.tk'
+    sslname: 'wikilukas.tk'
+    ca: 'LetsEncrypt'
+    disable_event: false
 
   # *.miraheze.org to *.miraheze.org wiki redirects
   hellointernetwiki:
