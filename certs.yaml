@@ -886,3 +886,7 @@
     url: 'wiki.triplescripts.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikisdbxdev:
+    url: 'wiki.sdbx.dev'
+    ca: 'LetsEncrypt'
+    disable_event: false
