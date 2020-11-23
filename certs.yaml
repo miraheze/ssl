@@ -882,3 +882,7 @@
     url: 'wikilukas.tk'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikitriplescriptsorg:
+    url: 'wiki.triplescripts.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
