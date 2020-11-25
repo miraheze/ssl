@@ -196,9 +196,9 @@
     ca: 'LetsEncrypt'
     disable_event: false
   lukaibrisimovicorg:
-    url: 'www.lukaibrisimovic.org'
-    redirect: 'lukaibrisimovic.org'
-    sslname: 'lukaibrisimovic.org'
+    url: 'lukaibrisimovic.org'
+    redirect: 'www.lukaibrisimovic.org'
+    sslname: 'www.lukaibrisimovic.org'
     ca: 'LetsEncrypt'
     disable_event: false
 
