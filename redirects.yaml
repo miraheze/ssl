@@ -201,6 +201,12 @@
     sslname: 'www.lukaibrisimovic.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  pornwikiorg:
+    url: 'pornwiki.org'
+    redirect: 'www.pornwiki.org'
+    sslname: 'www.pornwiki.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
 
   # *.miraheze.org to *.miraheze.org wiki redirects
   hellointernetwiki:
