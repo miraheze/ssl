@@ -195,6 +195,12 @@
     sslname: 'wikilukas.tk'
     ca: 'LetsEncrypt'
     disable_event: false
+  lukaibrisimovicorg:
+    url: 'www.lukaibrisimovic.org'
+    redirect: 'lukaibrisimovic.org'
+    sslname: 'lukaibrisimovic.org'
+    ca: "LetsEncrypt'
+    disable_event: false
 
   # *.miraheze.org to *.miraheze.org wiki redirects
   hellointernetwiki:

@@ -890,3 +890,7 @@
     url: 'battlecats.f5.si'
     ca: 'LetsEncrypt'
     disable_event: false
+  wwwlukaibrisimovicorg:
+    url: 'www.lukaibrisimovic.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
