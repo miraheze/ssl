@@ -894,3 +894,7 @@
     url: 'www.lukaibrisimovic.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  wooriwikicom:
+    url: 'wooriwiki.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
