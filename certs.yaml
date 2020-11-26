@@ -902,3 +902,7 @@
     url: 'www.pornwiki.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  evenairtk:
+    url: 'evenair.tk'
+    ca: 'LetsEncrypt'
+    disable_event: false
