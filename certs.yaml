@@ -906,3 +906,7 @@
     url: 'evenair.tk'
     ca: 'LetsEncrypt'
     disable_event: false
+  planetnomadsspeedbombde:
+    url: 'planetnomads.speedbomb.de'
+    ca: 'LetsEncrypt'
+    disable_event: false
