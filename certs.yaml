@@ -914,3 +914,7 @@
     url: 'wiki.mineland.eu'
     ca: 'LetsEncrypt'
     disable_event: false
+  lggyaanipediacoin:
+    url: 'lg.gyaanipedia.co.in'
+    ca: 'LetsEncrypt'
+    disable_event: false
