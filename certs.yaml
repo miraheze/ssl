@@ -918,3 +918,7 @@
     url: 'lg.gyaanipedia.co.in'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikimcpirevivaltk:
+    url: 'wiki.mcpirevival.tk'
+    ca: 'LetsEncrypt'
+    disable_event: false
