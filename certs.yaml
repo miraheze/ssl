@@ -910,3 +910,7 @@
     url: 'planetnomads.speedbomb.de'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikiminelandeu:
+    url: 'wiki.mineland.eu'
+    ca: 'LetsEncrypt'
+    disable_event: false
