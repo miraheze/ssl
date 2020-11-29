@@ -930,3 +930,7 @@
     url: 'wiki.yumeka.team'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikiseredrauxyz:
+    url: 'wiki.seredrau.xyz'
+    ca: 'LetsEncrypt'
+    disable_event: false
