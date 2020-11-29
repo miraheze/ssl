@@ -926,3 +926,7 @@
     url: 'wiki.responsibly.ai'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikiyumekateam:
+    url: 'wiki.yumeka.team'
+    ca: 'LetsEncrypt'
+    disable_event: false
