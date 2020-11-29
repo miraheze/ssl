@@ -934,3 +934,7 @@
     url: 'wiki.seredrau.xyz'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikiqadrishattarixyz:
+    url: 'wiki.qadrishattari.xyz'
+    ca: 'LetsEncrypt'
+    disable_event: false
