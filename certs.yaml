@@ -922,3 +922,7 @@
     url: 'wiki.mcpirevival.tk'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikiresponsiblyai:
+    url: 'wiki.responsibly.ai'
+    ca: 'LetsEncrypt'
+    disable_event: false
