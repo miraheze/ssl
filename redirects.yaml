@@ -207,6 +207,12 @@
     sslname: 'www.pornwiki.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  christipedianl:
+    url: 'christipedia.nl'
+    redirect: 'www.christipedia.nl'
+    sslname: 'www.christipedia.nl'
+    ca: 'LetsEncrypt'
+    disable_event: false
 
   # *.miraheze.org to *.miraheze.org wiki redirects
   hellointernetwiki:

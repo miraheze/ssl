@@ -942,3 +942,7 @@
     url: 'hw.gyaanipedia.co.in'
     ca: 'LetsEncrypt'
     disable_event: false
+  wwwchristipedianl:
+    url: 'www.christipedia.nl'
+    ca: 'LetsEncrypt'
+    disable_event: false
