@@ -938,3 +938,7 @@
     url: 'wiki.qadrishattari.xyz'
     ca: 'LetsEncrypt'
     disable_event: false
+  hwgyaanipediacoin:
+    url: 'hw.gyaanipedia.co.in'
+    ca: 'LetsEncrypt'
+    disable_event: false
