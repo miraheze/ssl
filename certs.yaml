@@ -950,3 +950,7 @@
     url: 'www.johanloopmans.nl'
     ca: 'LetsEncrypt'
     disable_event: false
+  wwwrothwellleedscouk:
+    url: 'www.rothwell-leeds.co.uk'
+    ca: 'LetsEncrypt'
+    disable_event: false
