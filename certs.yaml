@@ -946,3 +946,7 @@
     url: 'www.christipedia.nl'
     ca: 'LetsEncrypt'
     disable_event: false
+  wwwjohanloopmansnl:
+    url: 'www.johanloopmans.nl'
+    ca: 'LetsEncrypt'
+    disable_event: false

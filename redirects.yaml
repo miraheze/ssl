@@ -213,6 +213,12 @@
     sslname: 'www.christipedia.nl'
     ca: 'LetsEncrypt'
     disable_event: false
+  johanloopmansnl:
+    url: 'johanloopmans.nl'
+    redirect: 'www.johanloopmans.nl'
+    sslname: 'www.johanloopmans.nl'
+    ca: 'LetsEncrypt'
+    disable_event: false  
 
   # *.miraheze.org to *.miraheze.org wiki redirects
   hellointernetwiki:
