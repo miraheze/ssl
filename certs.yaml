@@ -950,3 +950,7 @@
     url: 'www.rothwell-leeds.co.uk'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikicyberfursorg:
+    url: 'wiki.cyberfurs.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
