@@ -954,3 +954,7 @@
     url: 'wiki.cyberfurs.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  oecumeneorg:
+    url: 'oecumene.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
