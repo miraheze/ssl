@@ -958,3 +958,7 @@
     url: 'oecumene.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikietnlink:
+    url: 'wiki.etn.link'
+    ca: 'LetsEncrypt'
+    disable_event: false
