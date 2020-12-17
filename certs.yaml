@@ -207,6 +207,10 @@
     url: 'wiki.joust.ro'
     ca: 'LetsEncrypt'
     disable_event: false
+  engyaanipedia:
+    url: 'en.gyaanipedia.co.in'
+    ca: 'LetsEncrypt'
+    disable_event: false
   higyaanipediacoin:
     url: 'hi.gyaanipedia.co.in'
     sslname: 'en.gyaanipedia.co.in'
@@ -956,9 +960,5 @@
     disable_event: false
   wikietnlink:
     url: 'wiki.etn.link'
-    ca: 'LetsEncrypt'
-    disable_event: false
-  engyaanipediacom:
-    url: 'en.gyaanipedia.com'
     ca: 'LetsEncrypt'
     disable_event: false
