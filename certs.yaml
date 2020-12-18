@@ -208,22 +208,19 @@
     ca: 'LetsEncrypt'
     disable_event: false
   engyaanipedia:
-    url: 'en.gyaanipedia.co.in'
+    url: 'en.gyaanipedia.com'
     ca: 'LetsEncrypt'
     disable_event: false
-  higyaanipediacoin:
-    url: 'hi.gyaanipedia.co.in'
-    sslname: 'en.gyaanipedia.co.in'
+  higyaanipediacom:
+    url: 'hi.gyaanipedia.com'
     ca: 'LetsEncrypt'
     disable_event: true
-  pagyaanipediacoin:
-    url: 'pa.gyaanipedia.co.in'
-    sslname: 'en.gyaanipedia.co.in'
+  pagyaanipediacom:
+    url: 'pa.gyaanipedia.com'
     ca: 'LetsEncrypt'
     disable_event: true
-  mrgyaanipediacoin:
-    url: 'mr.gyaanipedia.co.in'
-    sslname: 'en.gyaanipedia.co.in'
+  mrgyaanipediacom:
+    url: 'mr.gyaanipedia.com'
     ca: 'LetsEncrypt'
     disable_event: true
   wikis23org:
@@ -243,9 +240,8 @@
     url: 'madzebrascience.wiki'
     ca: 'LetsEncrypt'
     disable_event: false
-  commonsgyaanipediacoin:
-    url: 'commons.gyaanipedia.co.in'
-    sslname: 'en.gyaanipedia.co.in'
+  commonsgyaanipediacom:
+    url: 'commons.gyaanipedia.com'
     ca: 'LetsEncrypt'
     disable_event: true
   wikipablojprietocomes:
@@ -264,9 +260,8 @@
     url: 'vise.dayid.org'
     ca: 'LetsEncrypt'
     disable_event: false
-  metagyaanipediacoin:
-    url: 'meta.gyaanipedia.co.in'
-    sslname: 'en.gyaanipedia.co.in'
+  metagyaanipediacom:
+    url: 'meta.gyaanipedia.com'
     ca: 'LetsEncrypt'
     disable_event: true
   runzeppelinru:
@@ -522,8 +517,8 @@
     url: 'wiki.villagecollaborative.net'
     ca: 'LetsEncrypt'
     disable_event: false
-  esgyaanipediacoin:
-    url: 'es.gyaanipedia.co.in'
+  esgyaanipediacom:
+    url: 'es.gyaanipedia.com'
     ca: 'LetsEncrypt'
     disable_event: false
   wwwiceriaorg:
@@ -543,7 +538,7 @@
     ca: 'LetsEncrypt'
     disable_event: false
   frgyaanipediawiki:
-    url: 'fr.gyaanipedia.co.in'
+    url: 'fr.gyaanipedia.com'
     ca: 'LetsEncrypt'
     disable_event: false
   dreamsitcombr:
@@ -838,8 +833,8 @@
     url: 'www.petrawiki.org'
     ca: 'LetsEncrypt'
     disable_event: false
-  degyaanipediacoin:
-    url: 'de.gyaanipedia.co.in'
+  degyaanipediacom:
+    url: 'de.gyaanipedia.com'
     ca: 'LetsEncrypt'
     disable_event: false
   newsfamepediacoin:
@@ -910,8 +905,8 @@
     url: 'wiki.mineland.eu'
     ca: 'LetsEncrypt'
     disable_event: false
-  lggyaanipediacoin:
-    url: 'lg.gyaanipedia.co.in'
+  lggyaanipediacom:
+    url: 'lg.gyaanipedia.com'
     ca: 'LetsEncrypt'
     disable_event: false
   wikimcpirevivaltk:
@@ -934,8 +929,8 @@
     url: 'wiki.qadrishattari.xyz'
     ca: 'LetsEncrypt'
     disable_event: false
-  hwgyaanipediacoin:
-    url: 'hw.gyaanipedia.co.in'
+  hwgyaanipediacom:
+    url: 'halloween.gyaanipedia.com'
     ca: 'LetsEncrypt'
     disable_event: false
   wwwchristipedianl:
