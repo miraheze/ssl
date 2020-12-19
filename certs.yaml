@@ -969,3 +969,7 @@
     url: 'techwiki.techboyg5blog.com'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikiraghuveernet:
+    url: 'wiki.raghuveer.net'
+    ca: 'LetsEncrypt'
+    disable_event: false
