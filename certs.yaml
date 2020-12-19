@@ -957,3 +957,11 @@
     url: 'wiki.etn.link'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikiruwildterra2com:
+    url: 'wikiru.wildterra2.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  wikienwildterra2com:
+    url: 'wikien.wildterra2.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
