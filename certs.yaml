@@ -965,3 +965,7 @@
     url: 'wikien.wildterra2.com'
     ca: 'LetsEncrypt'
     disable_event: false
+  techwikitechboyg5blogcom:
+    url: 'techwiki.techboyg5blog.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
