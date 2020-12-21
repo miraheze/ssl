@@ -973,3 +973,7 @@
     url: 'wiki.raghuveer.net'
     ca: 'LetsEncrypt'
     disable_event: false
+  mussaid:
+    url: 'wiki.mussa.id'
+    ca: 'LetsEncrypt'
+    disable_event: false
