@@ -311,12 +311,6 @@
     sslname: 'wildcard.miraheze.org-2020'
     ca: 'Sectigo'
     disable_event: true
-  marvelcinematicuniverse:
-    url: 'marvelcinematicuniverse.miraheze.org'
-    redirect: 'mcu.miraheze.org'
-    sslname: 'wildcard.miraheze.org-2020'
-    ca: 'Sectigo'
-    disable_event: true
   animatedfeetwiki:
     url: 'animatedfeet.miraheze.org'
     redirect: 'drawnfeet.miraheze.org'
