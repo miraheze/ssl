@@ -299,12 +299,6 @@
     sslname: 'wildcard.miraheze.org-2020'
     ca: 'Sectigo'
     disable_event: true
-  arrowversewikiredirect:
-    url: 'arrowverse.miraheze.org'
-    redirect: 'dc-multiverse.dcwikis.com'
-    sslname: 'wildcard.miraheze.org-2020'
-    ca: 'Sectigo'
-    disable_event: true
   dcmultiversewiki:
     url: 'dcmultiverse.miraheze.org'
     redirect: 'dc-multiverse.dcwikis.com'
