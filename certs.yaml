@@ -977,3 +977,7 @@
     url: 'wiki.mussa.id'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikifunkeyprojectcom:
+    url: 'wiki.funkey-project.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
