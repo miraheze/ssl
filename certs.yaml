@@ -437,10 +437,6 @@
     url: 'wiki.fourta.org'
     ca: 'LetsEncrypt'
     disable_event: false
-  wikisenetycom:
-    url: 'wiki.senety.com'
-    ca: 'LetsEncrypt'
-    disable_event: false
   wikipatriamcc:
     url: 'wiki.patriam.cc'
     ca: 'LetsEncrypt'
