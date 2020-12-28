@@ -977,3 +977,7 @@
     url: 'wiki.funkey-project.com'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikidigitaldesignhqcom:
+    url: 'wiki.digitaldesignhq.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
