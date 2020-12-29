@@ -22,12 +22,6 @@
     sslname: 'miraheze.com'
     ca: 'LetsEncrypt'
     disable_event: true
-  wwwreviwiki:
-    url: 'www.reviwiki.info'
-    redirect: 'reviwiki.info'
-    sslname: 'reviwiki.info'
-    ca: 'PositiveSSLDV'
-    disable_event: false
   wwwwikiescola.com:   
     url: 'www.wikiescola.com.br'
     redirect: 'wikiescola.com.br'
