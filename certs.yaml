@@ -992,4 +992,4 @@
   reviwikiinfo:
     url: 'reviwiki.info'
     ca: 'PositiveSSLDV'
-    disable_event: false
+    disable_event: true
