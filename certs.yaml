@@ -71,10 +71,6 @@
     url: 'nenawiki.org'
     ca: 'LetsEncrypt'
     disable_event: false
-  reviwiki:
-    url: 'reviwiki.info'
-    ca: 'PositiveSSLDV'
-    disable_event: false
   tulpa:
     url: 'wiki.tulpa.info'
     ca: 'LetsEncrypt'

@@ -219,6 +219,12 @@
     sslname: 'www.rothwell-leeds.co.uk'
     ca: 'LetsEncrypt'
     disable_event: false  
+  reviwikiinfo:
+    url: 'reviwiki.info'
+    redirect: 'revi.wiki'
+    sslname: 'revi.wiki'
+    ca: 'PositiveSSLDV'
+    disable_event: false
 
   # *.miraheze.org to *.miraheze.org wiki redirects
   hellointernetwiki:
