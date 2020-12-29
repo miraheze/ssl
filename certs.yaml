@@ -981,3 +981,7 @@
     url: 'wiki.digitaldesignhq.com'
     ca: 'LetsEncrypt'
     disable_event: false
+  burnoutwiki:
+    url: 'burnout.wiki'
+    ca: 'LetsEncrypt'
+    disable_event: false
