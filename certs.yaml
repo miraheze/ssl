@@ -985,3 +985,7 @@
     url: 'www.burnout.wiki'
     ca: 'LetsEncrypt'
     disable_event: false
+  reviwiki:
+    url: 'revi.wiki'
+    ca: 'PositiveSSLDV'
+    disable_event: false
