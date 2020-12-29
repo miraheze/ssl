@@ -985,3 +985,7 @@
     url: 'revi.wiki'
     ca: 'PositiveSSLDV'
     disable_event: false
+  nevillepediawiki:
+    url: 'wiki.nevillepedia.eu'
+    ca: 'LetsEncrypt'
+    disable_event: false
