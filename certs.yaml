@@ -989,3 +989,7 @@
     url: 'wiki.nevillepedia.eu'
     ca: 'LetsEncrypt'
     disable_event: false
+  ucmgwiki:
+    url: 'arquivo.ucmg.ml'
+    ca: 'LetsEncrypt'
+    disable_event: false
