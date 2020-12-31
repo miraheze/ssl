@@ -43,7 +43,7 @@
   piwik:
     url: 'piwik.miraheze.org'
     redirect: 'matomo.miraheze.org'
-    sslname: 'wildcard.miraheze.org-2020'
+    sslname: 'wildcard.miraheze.org-2020-2'
     ca: 'Sectigo'
     hsts: 'strict'
     disable_event: true
@@ -68,7 +68,7 @@
   simswiki:
     url: 'sims.miraheze.org'
     redirect: 'www.thesimswiki.com'
-    sslname: 'wildcard.miraheze.org-2020'
+    sslname: 'wildcard.miraheze.org-2020-2'
     ca: 'Sectigo'
     hsts: 'strict'
     disable_event: true
@@ -81,14 +81,14 @@
   commonswikiwiki:
     url: 'commonswiki.miraheze.org'
     redirect: 'commons.miraheze.org'
-    sslname: 'wildcard.miraheze.org-2020'
+    sslname: 'wildcard.miraheze.org-2020-2'
     ca: 'Sectigo'
     hsts: 'strict'
     disable_event: true
   comnumthwiki:
     url: 'cnt.miraheze.org'
     redirect: 'combinatorialnumbertheory.miraheze.org'
-    sslname: 'wildcard.miraheze.org-2020'
+    sslname: 'wildcard.miraheze.org-2020-2'
     ca: 'Sectigo'
     hsts: 'strict'
     disable_event: true
@@ -113,7 +113,7 @@
   uncyclopediakrwiki:
     url: 'uncyclopediakr.miraheze.org'
     redirect: 'truth.miraheze.org'
-    sslname: 'wildcard.miraheze.org-2020'
+    sslname: 'wildcard.miraheze.org-2020-2'
     ca: 'Sectigo'
     hsts: 'strict'
     disable_event: true
@@ -224,42 +224,42 @@
   hellointernetwiki:
     url: 'hellointernet.miraheze.org'
     redirect: 'podpedia.miraheze.org/wiki/Portal:HelloInternet'
-    sslname: 'wildcard.miraheze.org-2020'
+    sslname: 'wildcard.miraheze.org-2020-2'
     ca: 'Sectigo'
     hsts: 'strict'
     disable_event: true
   unmadewiki:
     url: 'unmade.miraheze.org'
     redirect: 'podpedia.miraheze.org/wiki/Portal:Unmade'
-    sslname: 'wildcard.miraheze.org-2020'
+    sslname: 'wildcard.miraheze.org-2020-2'
     ca: 'Sectigo'
     hsts: 'strict'
     disable_event: true
   marthaspeakswiki:
     url: 'marthaspeaks.miraheze.org'
     redirect: 'thesciencearchives.miraheze.org'
-    sslname: 'wildcard.miraheze.org-2020'
+    sslname: 'wildcard.miraheze.org-2020-2'
     ca: 'Sectigo'
     hsts: 'strict'
     disable_event: true
   intpwiki:
     url: 'intp.miraheze.org'
     redirect: 'taswin.miraheze.org'
-    sslname: 'wildcard.miraheze.org-2020'
+    sslname: 'wildcard.miraheze.org-2020-2'
     ca: 'Sectigo'
     hsts: 'strict'
     disable_event: true
   wikimiraheze:
     url: 'wiki.miraheze.org'
     redirect: 'meta.miraheze.org'
-    sslname: 'wildcard.miraheze.org-2020'
+    sslname: 'wildcard.miraheze.org-2020-2'
     ca: 'Sectigo'
     hsts: 'strict'
     disable_event: true
   test1wiki:
     url: 'test1.miraheze.org'
     redirect: 'test2.miraheze.org'
-    sslname: 'wildcard.miraheze.org-2020'
+    sslname: 'wildcard.miraheze.org-2020-2'
     ca: 'Sectigo'
     hsts: 'strict'
     disable_event: true
@@ -290,25 +290,25 @@
   dcwikiredirect:
     url: 'dc.miraheze.org'
     redirect: 'dc-multiverse.dcwikis.com'
-    sslname: 'wildcard.miraheze.org-2020'
+    sslname: 'wildcard.miraheze.org-2020-2'
     ca: 'Sectigo'
     disable_event: true
   dcmultiversewiki:
     url: 'dcmultiverse.miraheze.org'
     redirect: 'dc-multiverse.dcwikis.com'
-    sslname: 'wildcard.miraheze.org-2020'
+    sslname: 'wildcard.miraheze.org-2020-2'
     ca: 'Sectigo'
     disable_event: true
   animatedfeetwiki:
     url: 'animatedfeet.miraheze.org'
     redirect: 'drawnfeet.miraheze.org'
-    sslname: 'wildcard.miraheze.org-2020'
+    sslname: 'wildcard.miraheze.org-2020-2'
     ca: 'Sectigo'
     disable_event: true
   animatefeetwiki:
     url: 'animefeet.miraheze.org'
     redirect: 'drawnfeet.miraheze.org'
-    sslname: 'wildcard.miraheze.org-2020'
+    sslname: 'wildcard.miraheze.org-2020-2'
     ca: 'Sectigo'
     disable_event: true
 
