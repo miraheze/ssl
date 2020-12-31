@@ -337,10 +337,6 @@
     sslname: 'tradwiki.org'
     ca: 'LetsEncrypt'
     disable_event: false
-  wikiopendominionnet:
-    url: 'wiki.opendominion.net'
-    ca: 'LetsEncrypt'
-    disable_event: false
   warmagenecrocitycouk:
     url: 'warmage.necrocity.co.uk'
     ca: 'LetsEncrypt'
@@ -745,10 +741,6 @@
     url: 'monarchia.wiki'
     ca: 'LetsEncrypt'
     disable_event: false
-  shkilevonline:
-    url: 'shkilev.online'
-    ca: 'LetsEncrypt'
-    disable_event: false
   wikiinsideearthinfo:
     url: 'wiki.insideearth.info'
     ca: 'LetsEncrypt'
@@ -759,10 +751,6 @@
     disable_event: false
   privacywiki:
     url: 'privacy-wiki.0x.no'
-    ca: 'LetsEncrypt'
-    disable_event: false
-  wikiarruxyz:
-    url: 'wiki.arru.xyz'
     ca: 'LetsEncrypt'
     disable_event: false
   wikiwysteriaga:
