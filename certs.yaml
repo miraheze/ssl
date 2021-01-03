@@ -977,3 +977,7 @@
     url: 'arquivo.ucmg.ml'
     ca: 'LetsEncrypt'
     disable_event: false
+  elgeiswiki:
+    url: 'wiki.elgeis.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
