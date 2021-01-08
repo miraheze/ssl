@@ -989,3 +989,7 @@
     url: 'wizardwiki.wiki'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikiyapsavuncom:
+    url: 'wiki.yapsavun.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
