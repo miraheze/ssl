@@ -1001,3 +1001,7 @@
     url: 'wiki.tigcity.tk'
     ca: 'LetsEncrypt'
     disable_event: false
+  famedataorg:
+    url: 'famedata.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
