@@ -1021,3 +1021,7 @@
     url: 'hr.petrawiki.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  sportsanalyticswiki:
+    url: 'sportsanalytics.wiki'
+    ca: 'LetsEncrypt'
+    disable_event: false
