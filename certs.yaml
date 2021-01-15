@@ -1025,3 +1025,7 @@
     url: 'sportsanalytics.wiki'
     ca: 'LetsEncrypt'
     disable_event: false
+  highstreethistoryuk:
+    url: 'highstreethistory.uk'
+    ca: 'LetsEncrypt'
+    disable_event: false
