@@ -1029,3 +1029,7 @@
     url: 'highstreethistory.uk'
     ca: 'LetsEncrypt'
     disable_event: false
+  gpct777cf:
+    url: 'gp.ct777.cf'
+    ca: 'LetsEncrypt'
+    disable_event: false
