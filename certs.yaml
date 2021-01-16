@@ -1037,3 +1037,7 @@
     url: 'linkwiki.cf'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikislimelabnet:
+    url: 'wiki.slimelab.net'
+    ca: 'LetsEncrypt'
+    disable_event: false
