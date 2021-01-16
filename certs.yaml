@@ -1041,3 +1041,7 @@
     url: 'wiki.slimelab.net'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikiscrungecraftgg:
+    url: 'wiki.scrungecraft.gg'
+    ca: 'LetsEncrypt'
+    disable_event: false
