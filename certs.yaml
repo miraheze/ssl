@@ -1045,3 +1045,7 @@
     url: 'wiki.scrungecraft.gg'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikict777cf:
+    url: 'wiki.ct777.cf'
+    ca: 'LetsEncrypt'
+    disable_event: false
