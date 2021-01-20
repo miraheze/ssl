@@ -1053,3 +1053,7 @@
     url: 'rangpurpedia.xyz'
     ca: 'LetsEncrypt'
     disable_event: false
+  mcwikifailboatfun:
+    url: 'mc-wiki.failboat.fun'
+    ca: 'LetsEncrypt'
+    disable_event: false
