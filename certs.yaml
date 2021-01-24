@@ -1057,3 +1057,7 @@
     url: 'mc-wiki.failboat.fun'
     ca: 'LetsEncrypt'
     disable_event: false
+  ptgraalmilitarycom:
+    url: 'pt.graalmilitary.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
