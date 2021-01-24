@@ -1061,3 +1061,7 @@
     url: 'pt.graalmilitary.com'
     ca: 'LetsEncrypt'
     disable_event: false
+  egoishorg:
+    url: 'egoish.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
