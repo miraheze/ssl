@@ -1065,3 +1065,7 @@
     url: 'egoish.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikislimeapediaorg:
+    url: 'wiki.slimeapedia.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
