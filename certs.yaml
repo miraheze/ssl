@@ -1065,3 +1065,7 @@
     url: 'wiki.slimeapedia.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikiglobasanet:
+    url: 'wiki.globasa.net'
+    ca: 'LetsEncrypt'
+    disable_event: false
