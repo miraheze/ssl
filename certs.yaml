@@ -985,10 +985,6 @@
     url: 'www.highdeologywiki.com'
     ca: 'LetsEncrypt'
     disable_event: false
-  wizardwikiwiki:
-    url: 'wizardwiki.wiki'
-    ca: 'LetsEncrypt'
-    disable_event: false
   wikiyapsavuncom:
     url: 'wiki.yapsavun.com'
     ca: 'LetsEncrypt'
