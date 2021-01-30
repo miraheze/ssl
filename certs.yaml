@@ -533,10 +533,6 @@
     url: 'wiki.minkyu.kim'
     ca: 'LetsEncrypt'
     disable_event: false
-  enfamepediacoin:
-    url: 'en.famepedia.co.in'
-    ca: 'LetsEncrypt'
-    disable_event: false
   franchisefranchisingorgua:
     url: 'franchise.franchising.org.ua'
     ca: 'LetsEncrypt'
@@ -1067,5 +1063,9 @@
     disable_event: false
   wikiglobasanet:
     url: 'wiki.globasa.net'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  enfamepediaorg:
+    url: 'en.famepedia.org'
     ca: 'LetsEncrypt'
     disable_event: false
