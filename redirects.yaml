@@ -231,6 +231,12 @@
     sslname: 'rangpurpedia.xyz'
     ca: 'LetsEncrypt'
     disable_event: false
+  wwwwikimirahezebotsorg:
+    url: 'www.wiki.mirahezebots.org'
+    redirect: 'wiki.mirahezebots.org'
+    sslname: 'wiki.mirahezebots.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
 
   # *.miraheze.org to *.miraheze.org wiki redirects
   hellointernetwiki:

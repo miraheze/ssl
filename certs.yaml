@@ -1064,3 +1064,7 @@
     url: 'wiki.finnsoftware.net'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikimirahezebotsorg:
+    url: 'wiki.mirahezebots.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
