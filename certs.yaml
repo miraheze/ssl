@@ -46,10 +46,6 @@
     url: 'savage-wiki.com'
     ca: 'RapidSSL'
     disable_event: false
-  wikipuc:
-    url: 'wikipuk.cl'
-    ca: 'LetsEncrypt'
-    disable_event: false
   wikiescola:
     url: 'wikiescola.com.br'
     ca: 'LetsEncrypt'
