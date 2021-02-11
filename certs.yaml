@@ -608,10 +608,6 @@
     url: 'pol.wiki'
     ca: 'LetsEncrypt'
     disable_event: false
-  wwwmuseummiddellandnl:
-    url: 'www.museummiddelland.nl'
-    ca: 'LetsEncrypt'
-    disable_event: false
   jafarwiki:
     url: 'wiki.jafaron.net'
     ca: 'LetsEncrypt'
@@ -850,10 +846,6 @@
     disable_event: false
   wwwpornwikiorg:
     url: 'www.pornwiki.org'
-    ca: 'LetsEncrypt'
-    disable_event: false
-  evenairtk:
-    url: 'evenair.tk'
     ca: 'LetsEncrypt'
     disable_event: false
   planetnomadsspeedbombde:
