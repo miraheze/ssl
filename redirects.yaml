@@ -141,12 +141,6 @@
     sslname: 'publictestwiki.com'
     ca: 'LetsEncrypt'
     disable_event: true
-  museummiddellandnl:
-    url: 'museummiddelland.nl'
-    redirect: 'www.museummiddelland.nl'
-    sslname: 'www.museummiddelland.nl'
-    ca: 'LetsEncrypt'
-    disable_event: false
   wwwfraterniterebellioncom:
     url: 'www.fraterniterebellion.com'
     redirect: 'wiki.fraterniterebellion.com'
