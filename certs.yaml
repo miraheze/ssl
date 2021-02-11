@@ -964,10 +964,6 @@
     url: 'wiki.elgeis.com'
     ca: 'LetsEncrypt'
     disable_event: false
-  megawikiwiki:
-    url: 'data.maantietaja.org'
-    ca: 'LetsEncrypt'
-    disable_event: false
   highdeologywikiwiki:
     url: 'www.highdeologywiki.com'
     ca: 'LetsEncrypt'
