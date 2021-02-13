@@ -1048,3 +1048,7 @@
     url: 'wiki.mirahezebots.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikibikinibottomdiscordorg:
+    url: 'wiki.bikinibottomdiscord.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
