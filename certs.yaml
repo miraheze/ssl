@@ -1052,3 +1052,7 @@
     url: 'wiki.bikinibottomdiscord.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  puardianxyz:
+    url: 'puardian.xyz'
+    ca: 'LetsEncrypt'
+    disable_event: false
