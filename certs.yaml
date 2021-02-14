@@ -1056,3 +1056,7 @@
     url: 'puardian.xyz'
     ca: 'LetsEncrypt'
     disable_event: false
+  ecolesciencewiki:
+    url: 'ecole.science'
+    ca: 'LetsEncrypt'
+    disable_event: false
