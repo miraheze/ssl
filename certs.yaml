@@ -992,10 +992,6 @@
     url: 'sportsanalytics.wiki'
     ca: 'LetsEncrypt'
     disable_event: false
-  highstreethistoryuk:
-    url: 'highstreethistory.uk'
-    ca: 'LetsEncrypt'
-    disable_event: false
   gpct777cf:
     url: 'gp.ct777.cf'
     ca: 'LetsEncrypt'
