@@ -1056,3 +1056,7 @@
     url: 'ecole.science'
     ca: 'LetsEncrypt'
     disable_event: false
+  datacrondatabasecom:
+    url: 'datacrondatabase.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
