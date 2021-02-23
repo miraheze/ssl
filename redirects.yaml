@@ -211,7 +211,7 @@
     url: 'reviwiki.info'
     redirect: 'revi.wiki'
     sslname: 'reviwiki.info'
-    ca: 'PositiveSSLDV'
+    ca: 'LetsEncrypt'
     disable_event: true
   wwwpetrawikiorg:
     url: 'www.petrawiki.org'
