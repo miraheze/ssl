@@ -1052,3 +1052,7 @@
     url: 'datacrondatabase.com'
     ca: 'LetsEncrypt'
     disable_event: false
+  archivea2b2org:
+    url: 'archive.a2b2.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
