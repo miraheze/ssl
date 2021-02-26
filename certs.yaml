@@ -576,10 +576,6 @@
     url: 'wiki.seamly.net'
     ca: 'LetsEncrypt'
     disable_event: false
-  wikivertepl:
-    url: 'wikiverte.pl'
-    ca: 'LetsEncrypt'
-    disable_event: false
   wikissijse:
     url: 'wiki.ssij.se'
     ca: 'LetsEncrypt'
