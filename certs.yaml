@@ -1052,3 +1052,7 @@
     url: 'archive.a2b2.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikicaker18com:
+    url: 'wiki.caker18.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
