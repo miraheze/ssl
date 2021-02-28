@@ -1056,3 +1056,7 @@
     url: 'wiki.caker18.com'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikiddrred:
+    url: 'wiki.ddr.red'
+    ca: 'LetsEncrypt'
+    disable_event: false
