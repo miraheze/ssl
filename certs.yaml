@@ -1060,3 +1060,7 @@
     url: 'wiki.ddr.red'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikijumpboundcom:
+    url: 'wiki.jumpbound.com'
+    ca: 'LetsEncrypt'
+    disable_event: false
