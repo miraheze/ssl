@@ -640,10 +640,6 @@
     url: 'wiki.kali-team.cn'
     ca: 'LetsEncrypt'
     disable_event: false
-  wikisketchtown:
-    url: 'wiki.sketch.town'
-    ca: 'LetsEncrypt'
-    disable_event: false
   infectowikicom:
     url: 'infectowiki.com'
     ca: 'LetsEncrypt'
