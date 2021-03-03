@@ -1068,3 +1068,7 @@
     url: 'wiki.astralprojections.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  biblestrengthorg:
+    url: 'biblestrength.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
