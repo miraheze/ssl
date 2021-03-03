@@ -1064,3 +1064,7 @@
     url: 'wiki.umbrel.tech'
     ca: 'LetsEncrypt'
     disable_event: false
+  wikiastralprojectionsorg:
+    url: 'wiki.astralprojections.org'
+    ca: 'LetsEncrypt'
+    disable_event: false
