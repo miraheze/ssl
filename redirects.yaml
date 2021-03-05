@@ -231,6 +231,72 @@
     sslname: 'wiki.mirahezebots.org'
     ca: 'LetsEncrypt'
     disable_event: false
+    
+  # <server>.miraheze.wiki & *.bots.miraheze.wiki to *.mirahezebots.org redirects
+  main:
+    url: 'bots.miraheze.wiki'
+    redirect: 'mirahezebots.org'
+    sslname: 'miraheze.wiki'
+    ca: 'LetsEncrypt'
+    hsts: 'strict'
+    disable_event: true
+  bots1:
+    url: 'bots1.miraheze.wiki'
+    redirect: 'bots1.mirahezebots.org'
+    sslname: 'miraheze.wiki'
+    ca: 'LetsEncrypt'
+    hsts: 'strict'
+    disable_event: true
+  tools1:
+    url: 'tools1.miraheze.wiki'
+    redirect: 'tools1.mirahezebots.org'
+    sslname: 'miraheze.wiki'
+    ca: 'LetsEncrypt'
+    hsts: 'strict'
+    disable_event: true
+  db1:
+    url: 'db1.miraheze.wiki'
+    redirect: 'db1.mirahezebots.org'
+    sslname: 'miraheze.wiki'
+    ca: 'LetsEncrypt'
+    hsts: 'strict'
+    disable_event: true
+  phab:
+    url: 'phab.bots.miraheze.wiki'
+    redirect: 'phab.mirahezebots.org'
+    sslname: 'phab.bots.miraheze.wiki'
+    ca: 'LetsEncrypt'
+    hsts: 'strict'
+    disable_event: true
+  icinga:
+    url: 'icinga.bots.miraheze.wiki'
+    redirect: 'icinga.mirahezebots.org'
+    sslname: 'icinga.bots.miraheze.wiki'
+    ca: 'LetsEncrypt'
+    hsts: 'strict'
+    disable_event: true
+  phabdigests:
+    url: 'phabdigests.bots.miraheze.wiki'
+    redirect: 'phabdigests.mirahezebots.org'
+    sslname: 'phabdigests.bots.miraheze.wiki'
+    ca: 'LetsEncrypt'
+    hsts: 'strict'
+    disable_event: true
+  sopel:
+    url: 'sopel.bots.miraheze.wiki'
+    redirect: 'sopel.mirahezebots.org'
+    sslname: 'sopel.bots.miraheze.wiki'
+    ca: 'LetsEncrypt'
+    hsts: 'strict'
+    disable_event: true
+  phab-storage:
+    url: 'phab-storage.bots.miraheze.wiki'
+    redirect: 'phab-storage.mirahezebots.org'
+    sslname: 'phab-storage.bots.miraheze.wiki'
+    ca: 'LetsEncrypt'
+    hsts: 'strict'
+    disable_event: true
+  
 
   # *.miraheze.org to *.miraheze.org wiki redirects
   hellointernetwiki:
