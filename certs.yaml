@@ -1072,24 +1072,8 @@
     url: 'biblestrength.org'
     ca: 'LetsEncrypt'
     disable_event: false
-  phabbotsmirahezewiki:
-    url: 'phab.bots.miraheze.wiki'
-    ca: 'LetsEncrypt'
-    disable_event: false
-  icingabotsmirahezewiki:
-    url: 'icinga.bots.miraheze.wiki'
-    ca: 'LetsEncrypt'
-    disable_event: false
-  phabdigestsbotsmirahezewiki:
-    url: 'phabdigests.bots.miraheze.wiki'
-    ca: 'LetsEncrypt'
-    disable_event: false
-  phabstoragebotsmirahezewiki:
-    url: 'phab-storage.bots.miraheze.wiki'
-    ca: 'LetsEncrypt'
-    disable_event: false
-  sopelbotsmirahezewiki:
-    url: 'sopel.bots.miraheze.wiki'
+  wildcardbotsmirahezewiki:
+    url: 'wildcard.bots.miraheze.wiki'
     ca: 'LetsEncrypt'
     disable_event: false
   
