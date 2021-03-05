@@ -264,35 +264,35 @@
   phab:
     url: 'phab.bots.miraheze.wiki'
     redirect: 'phab.mirahezebots.org'
-    sslname: 'phab.bots.miraheze.wiki'
+    sslname: 'wildcard.bots.miraheze.wiki'
     ca: 'LetsEncrypt'
     hsts: 'strict'
     disable_event: false
   icinga:
     url: 'icinga.bots.miraheze.wiki'
     redirect: 'icinga.mirahezebots.org'
-    sslname: 'icinga.bots.miraheze.wiki'
+    sslname: 'wildcard.bots.miraheze.wiki'
     ca: 'LetsEncrypt'
     hsts: 'strict'
     disable_event: false
   phabdigests:
     url: 'phabdigests.bots.miraheze.wiki'
     redirect: 'phabdigests.mirahezebots.org'
-    sslname: 'phabdigests.bots.miraheze.wiki'
+    sslname: 'wildcard.bots.miraheze.wiki'
     ca: 'LetsEncrypt'
     hsts: 'strict'
     disable_event: false
   sopel:
     url: 'sopel.bots.miraheze.wiki'
     redirect: 'sopel.mirahezebots.org'
-    sslname: 'sopel.bots.miraheze.wiki'
+    sslname: 'wildcard.bots.miraheze.wiki'
     ca: 'LetsEncrypt'
     hsts: 'strict'
     disable_event: false
   phab-storage:
     url: 'phab-storage.bots.miraheze.wiki'
     redirect: 'phab-storage.mirahezebots.org'
-    sslname: 'phab-storage.bots.miraheze.wiki'
+    sslname: 'wildcard.bots.miraheze.wiki'
     ca: 'LetsEncrypt'
     hsts: 'strict'
     disable_event: false
