@@ -1072,3 +1072,8 @@
     url: 'biblestrength.org'
     ca: 'LetsEncrypt'
     disable_event: false
+  wildcardbotsmirahezewiki:
+    url: 'wildcard.bots.miraheze.wiki'
+    ca: 'LetsEncrypt'
+    disable_event: false
+  
