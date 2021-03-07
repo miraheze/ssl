@@ -404,7 +404,7 @@ allthetropeswiki:
   disable_event: true
 civclassicmirahezewiki:
   url: 'civclassic.miraheze.org'
-  redirect: 'civwikiwiki.miraheze.org'
+  redirect: 'civwiki.miraheze.org'
   sslname: 'wildcard.miraheze.org-2020-2'
   ca: 'Sectigo'
   disable_event: true
