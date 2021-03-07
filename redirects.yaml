@@ -401,6 +401,12 @@
     sslname: 'wildcard.miraheze.org-2020-2'
     ca: 'Sectigo'
     disable_event: true
+  civclassicwiki:
+    url: 'civclassic.miraheze.org'
+    redirect: 'civwikiwiki.miraheze.org'
+    sslname: 'wildcard.miraheze.org-2020-2'
+    ca: 'Sectigo'
+    disable_event: true
 
   # orain.org to miraheze.org wiki redirects
   orain:
