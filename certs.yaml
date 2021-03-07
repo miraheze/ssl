@@ -1076,4 +1076,3 @@
     url: 'wildcard.bots.miraheze.wiki'
     ca: 'LetsEncrypt'
     disable_event: false
-  
