@@ -23,7 +23,7 @@ mirahezecom:
   sslname: 'miraheze.com'
   ca: 'LetsEncrypt'
   disable_event: true
-wwwwikiescola.com:  
+wwwwikiescola.com:
   url: 'www.wikiescola.com.br'
   redirect: 'wikiescola.com.br'
   sslname: 'wikiescola.com.br'
