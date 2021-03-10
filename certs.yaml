@@ -1068,7 +1068,6 @@ biblestrengthorg:
 wildcardbotsmirahezewiki:
   url: 'wildcard.bots.miraheze.wiki'
   ca: 'LetsEncrypt'
-<<<<<<< HEAD
   disable_event: false
 wikimeregoscom:
   url: 'wiki.meregos.com'
@@ -1082,10 +1081,8 @@ filespornwikiorg:
   url: 'files.pornwiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
-=======
-  disable_event: true
 wiki.meregos.com:
   url: 'wiki.meregos.com'
   ca: 'LetsEncrypt'
   disable_event: false
->>>>>>> 0c4f7329633feed2130dbb7ded930604195eb754
+  
