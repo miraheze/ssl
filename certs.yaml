@@ -135,10 +135,6 @@ lab612:
   url: 'www.lab612.at'
   ca: 'LetsEncrypt'
   disable_event: false
-meregos:
-  url: 'meregos.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 studentwikiddns:
   url: 'studentwiki.ddns.net'
   ca: 'LetsEncrypt'
@@ -1075,5 +1071,9 @@ biblestrengthorg:
   disable_event: false
 wildcardbotsmirahezewiki:
   url: 'wildcard.bots.miraheze.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
+wiki.meregos.com:
+  url: 'wiki.meregos.com'
   ca: 'LetsEncrypt'
   disable_event: false
