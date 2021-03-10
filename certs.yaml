@@ -1081,8 +1081,3 @@ filespornwikiorg:
   url: 'files.pornwiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
-wiki.meregos.com:
-  url: 'wiki.meregos.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
-  
