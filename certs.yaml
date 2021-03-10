@@ -825,10 +825,6 @@ wwwlukaibrisimovicorg:
   url: 'www.lukaibrisimovic.org'
   ca: 'LetsEncrypt'
   disable_event: false
-wwwpornwikiorg:
-  url: 'www.pornwiki.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 planetnomadsspeedbombde:
   url: 'planetnomads.speedbomb.de'
   ca: 'LetsEncrypt'
@@ -1073,7 +1069,15 @@ wildcardbotsmirahezewiki:
   url: 'wildcard.bots.miraheze.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-wiki.meregos.com:
+wikimeregoscom:
   url: 'wiki.meregos.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
+enpornwikiorg:
+  url: 'en.pornwiki.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
+filespornwikiorg:
+  url: 'files.pornwiki.org'
   ca: 'LetsEncrypt'
   disable_event: false

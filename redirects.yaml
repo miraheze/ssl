@@ -232,6 +232,12 @@ wwwwikimirahezebotsorg:
   sslname: 'wiki.mirahezebots.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwpornwikiorg:
+  url: 'www.pornwiki.org'
+  redirect: 'en.pornwiki.org'
+  sslname: 'www.pornwiki.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # <server>.miraheze.wiki & *.bots.miraheze.wiki to *.mirahezebots.org redirects
 main:
