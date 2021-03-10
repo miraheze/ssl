@@ -1068,7 +1068,7 @@ biblestrengthorg:
 wildcardbotsmirahezewiki:
   url: 'wildcard.bots.miraheze.wiki'
   ca: 'LetsEncrypt'
-  disable_event: false
+  disable_event: true
 wikimeregoscom:
   url: 'wiki.meregos.com'
   ca: 'LetsEncrypt'
