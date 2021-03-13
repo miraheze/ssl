@@ -517,10 +517,6 @@ franchisefranchisingorgua:
   url: 'franchise.franchising.org.ua'
   ca: 'LetsEncrypt'
   disable_event: false
-duepediaukto:
-  url: 'duepedia.uk.to'
-  ca: 'LetsEncrypt'
-  disable_event: false
 kkutuwiki:
   url: 'kkutu.wiki'
   ca: 'LetsEncrypt'
@@ -699,10 +695,6 @@ wikiinsideearthinfo:
   disable_event: false
 iesdmobageniemyid:
   url: 'iesd.mobagenie.my.id'
-  ca: 'LetsEncrypt'
-  disable_event: false
-privacywiki:
-  url: 'privacy-wiki.0x.no'
   ca: 'LetsEncrypt'
   disable_event: false
 wikiwysteriaga:
