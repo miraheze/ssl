@@ -227,7 +227,7 @@ madzebrasciencewiki:
 commonsgyaanipediacom:
   url: 'commons.gyaanipedia.com'
   ca: 'LetsEncrypt'
-  disable_event: true
+  disable_event: false
 wikipablojprietocomes:
   url: 'wiki.pablojprieto.com.es'
   ca: 'LetsEncrypt'
