@@ -198,7 +198,7 @@ engyaanipedia:
 higyaanipediacom:
   url: 'hi.gyaanipedia.com'
   ca: 'LetsEncrypt'
-  disable_event: true
+  disable_event: false
 pagyaanipediacom:
   url: 'pa.gyaanipedia.com'
   ca: 'LetsEncrypt'
