@@ -645,10 +645,6 @@ historysdteforg:
   url: 'history.sdtef.org'
   ca: 'LetsEncrypt'
   disable_event: false
-virus23wiki:
-  url: 'virus23.uk.to'
-  ca: 'LetsEncrypt'
-  disable_event: false
 rotnwiki:
   url: 'wiki.rebirthofthenight.com'
   ca: 'LetsEncrypt'
