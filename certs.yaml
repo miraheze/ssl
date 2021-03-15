@@ -1069,3 +1069,7 @@ civwikiorg:
   url: 'civwiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wikimlpwikinet:
+  url: 'wiki.mlpwiki.net'
+  ca: 'LetsEncrypt'
+  disable_event: false
