@@ -1065,3 +1065,7 @@ wikiyumekaicu:
   url: 'wiki.yumeka.icu'
   ca: 'LetsEncrypt'
   disable_event: false
+civwikiorg:
+  url: 'civwiki.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
