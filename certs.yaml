@@ -465,10 +465,6 @@ indexpdcommunityir:
   url: 'index.pdcommunity.ir'
   ca: 'LetsEncrypt'
   disable_event: false
-civclassicwiki:
-  url: 'civclassic.civwiki.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 spcodexwiki:
   url: 'spcodex.wiki'
   ca: 'LetsEncrypt'
