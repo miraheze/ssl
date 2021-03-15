@@ -1061,3 +1061,7 @@ filespornwikiorg:
   url: 'files.pornwiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiyumekaicu:
+  url: 'wiki.yumeka.icu'
+  ca: 'LetsEncrypt'
+  disable_event: false
