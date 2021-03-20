@@ -229,7 +229,7 @@ wwwwikimirahezebotsorg:
 wwwpornwikiorg:
   url: 'www.pornwiki.org'
   redirect: 'en.pornwiki.org'
-  sslname: 'en.pornwiki.org'
+  sslname: 'www.pornwiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
 
