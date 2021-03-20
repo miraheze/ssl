@@ -1069,7 +1069,3 @@ wikimlpwikinet:
   url: 'wiki.mlpwiki.net'
   ca: 'LetsEncrypt'
   disable_event: false
-incubatornocyclotk:
-  url: 'incubator.nocyclo.tk'
-  ca: 'LetsEncrypt'
-  disable_event: false
