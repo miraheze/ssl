@@ -1069,3 +1069,7 @@ wikimlpwikinet:
   url: 'wiki.mlpwiki.net'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwfossilfighterswikicom:
+  url: 'www.fossilfighterswiki.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
