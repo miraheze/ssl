@@ -1077,3 +1077,7 @@ bngyaanipediacom:
   url: 'bn.gyaanipedia.com'
   ca: 'LetsEncrypt'
   disable_event: false
+nocyclotk:
+  url: 'nocyclo.tk'
+  ca: 'LetsEncrypt'
+  disable_event: false
