@@ -1073,3 +1073,7 @@ wwwfossilfighterswikicom:
   url: 'www.fossilfighterswiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
+bngyaanipediacom:
+  url: 'bn.gyaanipedia.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
