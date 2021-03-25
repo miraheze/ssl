@@ -1085,3 +1085,7 @@ wikiaridiaspace:
   url: 'wiki.aridia.space'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiwilderyogieu:
+  url: 'wiki.wilderyogi.eu'
+  ca: 'LetsEncrypt'
+  disable_event: false
