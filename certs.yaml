@@ -1081,3 +1081,7 @@ incubatornocyclotk:
   url: 'incubator.nocyclo.tk'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiaridiaspace:
+  url: 'wiki.aridia.space'
+  ca: 'LetsEncrypt'
+  disable_event: false
