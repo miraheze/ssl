@@ -1093,3 +1093,7 @@ heavyironmoddingorg:
   url: 'heavyironmodding.org'
   ca: 'LetsEncrypt'
   disable_event: false
+parapediapl:
+  url: 'parapedia.pl'
+  ca: 'LetsEncrypt'
+  disable_event: false
