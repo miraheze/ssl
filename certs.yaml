@@ -1089,3 +1089,7 @@ wikiwilderyogieu:
   url: 'wiki.wilderyogi.eu'
   ca: 'LetsEncrypt'
   disable_event: false
+heavyironmoddingorg:
+  url: 'heavyironmodding.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
