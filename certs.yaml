@@ -1097,3 +1097,7 @@ parapediapl:
   url: 'parapedia.pl'
   ca: 'LetsEncrypt'
   disable_event: false
+wikifbpmlorg:
+  url: 'wiki.fbpml.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
