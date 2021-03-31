@@ -1101,3 +1101,7 @@ wikifbpmlorg:
   url: 'wiki.fbpml.org'
   ca: 'LetsEncrypt'
   disable_event: false
+zhgyaanipediacom:
+  url: 'zh.gyaanipedia.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
