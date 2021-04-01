@@ -1105,3 +1105,7 @@ zhgyaanipediacom:
   url: 'zh.gyaanipedia.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwhoolehistoryheritagesocietyorguk:
+  url: 'www.hoolehistoryheritagesociety.org.uk'
+  ca: 'LetsEncrypt'
+  disable_event: false
