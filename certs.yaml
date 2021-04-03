@@ -1113,3 +1113,7 @@ yourfitcc:
   url: 'you.r-fit.cc'
   ca: 'LetsEncrypt'
   disable_event: false
+wmworldsktzlive:
+  url: 'wmworld.sktz.live'
+  ca: 'LetsEncrypt'
+  disable_event: false
