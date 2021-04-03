@@ -1109,3 +1109,7 @@ wwwhoolehistoryheritagesocietyorguk:
   url: 'www.hoolehistoryheritagesociety.org.uk'
   ca: 'LetsEncrypt'
   disable_event: false
+yourfitcc:
+  url: 'you.r-fit.cc'
+  ca: 'LetsEncrypt'
+  disable_event: false
