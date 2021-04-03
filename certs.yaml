@@ -1121,3 +1121,7 @@ olwestorg:
   url: 'olwest.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wikizaoacecom:
+  url: 'wiki.zaoace.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
