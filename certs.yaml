@@ -139,10 +139,6 @@ studentwikiddns:
   url: 'studentwiki.ddns.net'
   ca: 'LetsEncrypt'
   disable_event: false
-holonetpw:
-  url: 'holonet.pw'
-  ca: 'LetsEncrypt'
-  disable_event: false
 encforuz:
   url: 'enc.for.uz'
   ca: 'LetsEncrypt'
