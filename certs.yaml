@@ -1117,3 +1117,7 @@ wmworldsktzlive:
   url: 'wmworld.sktz.live'
   ca: 'LetsEncrypt'
   disable_event: false
+olwestorg:
+  url: 'olwest.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
