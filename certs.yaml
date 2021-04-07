@@ -1121,3 +1121,7 @@ wikizaoacecom:
   url: 'wiki.zaoace.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiumbranetmandelbrotgamescom:
+  url: 'wiki.umbranet.mandelbrotgames.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
