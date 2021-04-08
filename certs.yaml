@@ -1129,3 +1129,7 @@ matttestmtwikicf:
   url: 'matttest.mtwiki.cf'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwwinenjoynet:
+  url: 'www.winenjoy.net'
+  ca: 'LetsEncrypt'
+  disable_event: false
