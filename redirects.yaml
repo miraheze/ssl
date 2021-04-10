@@ -416,16 +416,6 @@ civclassicmirahezewiki:
   disable_event: true
 
 # orain.org to miraheze.org wiki redirects
-orain:
-  url: 'orain.org'
-  # We have a seperate config for ats
-  # because we have to use .*.
-  additional_domain: '*.orain.org'
-  regex_domain_ats: '(.*).orain.org'
-  redirect: 'meta.miraheze.org'
-  sslname: 'orain.org'
-  ca: 'LetsEncrypt'
-  disable_event: true
 allthetropesorain:
   url: 'allthetropes.orain.org'
   redirect: 'allthetropes.org'
@@ -441,6 +431,16 @@ metaorain:
 poserdazfreebiessorain:
   url: 'poserdazfreebies.orain.org'
   redirect: 'poserdazfreebies.miraheze.org'
+  sslname: 'orain.org'
+  ca: 'LetsEncrypt'
+  disable_event: true
+orain:
+  url: 'orain.org'
+  # We have a seperate config for ats
+  # because we have to use .*.
+  additional_domain: '*.orain.org'
+  regex_domain_ats: '(.*).orain.org'
+  redirect: 'meta.miraheze.org'
   sslname: 'orain.org'
   ca: 'LetsEncrypt'
   disable_event: true
