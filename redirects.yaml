@@ -418,8 +418,6 @@ civclassicmirahezewiki:
 # orain.org to miraheze.org wiki redirects
 orain:
   url: 'orain.org'
-  # Deprecated
-  mobiledomain: '*.orain.org'
   # We have a seperate config for ats
   # because we have to use .*.
   additional_domain: '*.orain.org'
