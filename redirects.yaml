@@ -418,7 +418,10 @@ civclassicmirahezewiki:
 # orain.org to miraheze.org wiki redirects
 orain:
   url: 'orain.org'
-  mobiledomain: '*.orain.org'
+  # We have a seperate config for ats
+  # because we have to use .*.
+  additional_domain: '*.orain.org'
+  regex_domain_ats: '(.*).orain.org'
   redirect: 'meta.miraheze.org'
   sslname: 'orain.org'
   ca: 'LetsEncrypt'
