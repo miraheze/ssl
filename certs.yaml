@@ -1137,3 +1137,7 @@ wikithefactoryhkacompa:
   url: 'wiki.thefactoryhka.com.pa'
   ca: 'LetsEncrypt'
   disable_event: false
+equestripediaorg:
+  url: 'equestripedia.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
