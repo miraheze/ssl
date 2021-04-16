@@ -1133,3 +1133,7 @@ equestripediaorg:
   url: 'equestripedia.org'
   ca: 'LetsEncrypt'
   disable_event: false
+trollpastacom:
+  url: 'trollpasta.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
