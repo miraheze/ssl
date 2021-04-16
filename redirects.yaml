@@ -232,7 +232,7 @@ pornwikiorg:
   sslname: 'pornwiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
-trollpastacom:
+wwwtrollpastacom:
   url: 'www.trollpasta.com'
   redirect: 'trollpasta.com'
   sslname: 'trollpasta.com'
