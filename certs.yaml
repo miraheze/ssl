@@ -901,10 +901,6 @@ highdeologywikiwiki:
   url: 'www.highdeologywiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
-wikiyapsavuncom:
-  url: 'wiki.yapsavun.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 celestewiki:
   url: 'celeste.ink'
   ca: 'LetsEncrypt'
