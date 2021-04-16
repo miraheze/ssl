@@ -753,10 +753,6 @@ degyaanipediacom:
   url: 'de.gyaanipedia.com'
   ca: 'LetsEncrypt'
   disable_event: false
-wwwblueviesorg:
-  url: 'www.bluevies.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 metanocyclotk:
   url: 'meta.nocyclo.tk'
   ca: 'LetsEncrypt'

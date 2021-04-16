@@ -166,12 +166,6 @@ petrawikiorg:
   sslname: 'www.petrawiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
-blueviesorg:
-  url: 'bluevies.org'
-  redirect: 'www.bluevies.org'
-  sslname: 'www.bluevies.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wwwwikilukastk:
   url: 'www.wikilukas.tk'
   redirect: 'wikilukas.tk'
