@@ -232,6 +232,12 @@ pornwikiorg:
   sslname: 'pornwiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
+trollpastacom:
+  url: 'www.trollpasta.com'
+  redirect: 'trollpasta.com'
+  sslname: 'trollpasta.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # <server>.miraheze.wiki & *.bots.miraheze.wiki to *.mirahezebots.org redirects
 main:
