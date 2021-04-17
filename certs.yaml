@@ -1137,3 +1137,7 @@ trollpastacom:
   url: 'trollpasta.com'
   ca: 'LetsEncrypt'
   disable_event: false
+repositoryarchiopediaorg:
+  url: 'repository.archiopedia.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
