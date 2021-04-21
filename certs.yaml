@@ -1141,3 +1141,7 @@ repositoryarchiopediaorg:
   url: 'repository.archiopedia.org'
   ca: 'LetsEncrypt'
   disable_event: false
+saroviagraalmilitarycom:
+  url: 'sarovia.graalmilitary.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
