@@ -1145,3 +1145,7 @@ saroviagraalmilitarycom:
   url: 'sarovia.graalmilitary.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwferrandalmeidafamily:
+  url: 'www.ferrandalmeida.family'
+  ca: 'LetsEncrypt'
+  disable_event: false
