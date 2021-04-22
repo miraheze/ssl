@@ -1149,7 +1149,7 @@ wwwferrandalmeidafamily:
   url: 'www.ferrandalmeida.family'
   ca: 'LetsEncrypt'
   disable_event: false
-wikicreaturathegamecom
+wikicreaturathegamecom:
   url: 'wiki.creaturathegame.com'
   ca: 'LetsEncrypt'
   disable_event: false
