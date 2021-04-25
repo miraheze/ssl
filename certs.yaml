@@ -1153,3 +1153,7 @@ wikicreaturathegamecom:
   url: 'wiki.creaturathegame.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikirpointerml:
+  url: 'wiki.rpointer.ml'
+  ca: 'LetsEncrypt'
+  disable_event: false
