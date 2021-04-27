@@ -1157,3 +1157,7 @@ wikirpointerml:
   url: 'wiki.rpointer.ml'
   ca: 'LetsEncrypt'
   disable_event: false
+totwiki:
+  url: 'tot.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
