@@ -1161,3 +1161,7 @@ totwiki:
   url: 'tot.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwarruxyz:
+  url: 'www.arru.xyz'
+  ca: 'LetsEncrypt'
+  disable_event: false
