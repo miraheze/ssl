@@ -1169,3 +1169,7 @@ wikibeergeekscoil:
   url: 'wiki.beergeeks.co.il'
   ca: 'LetsEncrypt'
   disable_event: false
+zhinternetpediatk:
+  url: 'zh.internetpedia.tk'
+  ca: 'LetsEncrypt'
+  disable_event: false
