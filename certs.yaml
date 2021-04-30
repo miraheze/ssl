@@ -429,10 +429,6 @@ wikimobilityengineercom:
   url: 'wiki.mobilityengineer.com'
   ca: 'LetsEncrypt'
   disable_event: false
-relectriccarteamwiki:
-  url: 'wiki.teamrelectric.ca'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wwwmcpkwiki:
   url: 'www.mcpk.wiki'
   ca: 'LetsEncrypt'
