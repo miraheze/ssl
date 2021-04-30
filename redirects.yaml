@@ -23,12 +23,6 @@ mirahezecom:
   sslname: 'miraheze.com'
   ca: 'LetsEncrypt'
   disable_event: true
-wwwwikiescola.com:
-  url: 'www.wikiescola.com.br'
-  redirect: 'wikiescola.com.br'
-  sslname: 'wikiescola.com.br'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wwwsdiyinfo:
   url: 'www.sdiy.info'
   redirect: 'sdiy.info'
