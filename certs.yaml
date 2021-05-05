@@ -1157,3 +1157,7 @@ zhinternetpediatk:
   url: 'zh.internetpedia.tk'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiconsidvn:
+  url: 'wiki.consid.vn'
+  ca: 'LetsEncrypt'
+  disable_event: false
