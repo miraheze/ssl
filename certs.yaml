@@ -1165,5 +1165,9 @@ thepolicyhuborguk:
   url: 'thepolicyhub.org.uk'
   ca: 'LetsEncrypt'
   disable_event: false
+mabimyominet:
+  url: 'mabi.myomi.net'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 
