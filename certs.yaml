@@ -1161,3 +1161,9 @@ wikiconsidvn:
   url: 'wiki.consid.vn'
   ca: 'LetsEncrypt'
   disable_event: false
+thepolicyhuborguk:
+  url: 'thepolicyhub.org.uk'
+  ca: 'LetsEncrypt'
+  disable_event: false
+
+
