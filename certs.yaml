@@ -1169,5 +1169,7 @@ mabimyominet:
   url: 'mabi.myomi.net'
   ca: 'LetsEncrypt'
   disable_event: false
-
-
+wlhmntk:
+  url: 'wlhmn.tk'
+  ca: 'LetsEncrypt'
+  disable_event: false
