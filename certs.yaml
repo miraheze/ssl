@@ -1177,3 +1177,7 @@ wikilandevvn:
   url: 'wiki.landev.vn'
   ca: 'LetsEncrypt'
   disable_event: false
+lcnzfcidlv:
+  url: 'lcn.zfc.id.lv'
+  ca: 'LetsEncrypt'
+  disable_event: false
