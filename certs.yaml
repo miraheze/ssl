@@ -1173,3 +1173,7 @@ wlhmntk:
   url: 'wlhmn.tk'
   ca: 'LetsEncrypt'
   disable_event: false
+wikilandevvn:
+  url: 'wiki.landev.vn'
+  ca: 'LetsEncrypt'
+  disable_event: false
