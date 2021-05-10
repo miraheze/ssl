@@ -428,6 +428,12 @@ poserdazfreebiessorain:
   sslname: 'orain.org'
   ca: 'LetsEncrypt'
   disable_event: true
+isvwikiorain:
+  url: 'isv.orain.org'
+  redirect: 'isv.miraheze.org'
+  sslname: 'orain.org'
+  ca: 'LetsEncrypt'
+  disable_event: true
 orain:
   url: 'orain.org'
   # We have a seperate config for ats
