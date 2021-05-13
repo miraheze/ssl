@@ -1010,7 +1010,7 @@ wikiastralprojectionsorg:
   ca: 'LetsEncrypt'
   disable_event: false
 biblestrengthorg:
-  url: 'biblestrength.org'
+  url: 'biblestrength.net'
   ca: 'LetsEncrypt'
   disable_event: false
 wildcardbotsmirahezewiki:
