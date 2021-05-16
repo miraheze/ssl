@@ -1181,3 +1181,7 @@ lcnzfcidlv:
   url: 'lcn.zfc.id.lv'
   ca: 'LetsEncrypt'
   disable_event: false
+inourownwordsonline:
+  url: 'inourownwords.online'
+  ca: 'LetsEncrypt'
+  disable_event: false
