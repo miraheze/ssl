@@ -1193,3 +1193,7 @@ thestarsarerightorg:
   url: 'thestarsareright.org'
   ca: 'LetsEncrypt'
   disable_event: false
+electrowikiorg:
+  url: 'electrowiki.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
