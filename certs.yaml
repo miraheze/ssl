@@ -1197,3 +1197,7 @@ electrowikiorg:
   url: 'electrowiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
+patternarchiveonline:
+  url: 'patternarchive.online'
+  ca: 'LetsEncrypt'
+  disable_event: false
