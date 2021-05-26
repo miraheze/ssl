@@ -1201,3 +1201,7 @@ patternarchiveonline:
   url: 'patternarchive.online'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwpuzzleswiki:
+  url: 'www.puzzles.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
