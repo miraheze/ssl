@@ -244,6 +244,12 @@ puzzleswiki:
   sslname: 'www.puzzles.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwelectrowikiorg:
+  url: 'www.electrowiki.org'
+  redirect: 'electrowiki.org'
+  sslname: 'electrowiki.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # <server>.miraheze.wiki & *.bots.miraheze.wiki to *.mirahezebots.org redirects
 main:
