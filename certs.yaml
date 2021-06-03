@@ -1217,3 +1217,7 @@ refundust:
   url: 'ref.undu.st'
   ca: 'LetsEncrypt'
   disable_event: false
+worldsanskritnet:
+  url: 'worldsanskrit.net'
+  ca: 'LetsEncrypt'
+  disable_event: false
