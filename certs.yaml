@@ -1221,3 +1221,7 @@ worldsanskritnet:
   url: 'worldsanskrit.net'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwethenewiki:
+  url: 'www.ethene.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
