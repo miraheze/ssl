@@ -405,10 +405,6 @@ wikipatriamcc:
   url: 'wiki.patriam.cc'
   ca: 'LetsEncrypt'
   disable_event: false
-wikiostanscom:
-  url: 'wiki.ostans.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 fcsongcontestseu:
   url: 'fc.songcontests.eu'
   ca: 'LetsEncrypt'
