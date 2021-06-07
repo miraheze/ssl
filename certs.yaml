@@ -981,10 +981,6 @@ wikijumpboundcom:
   url: 'wiki.jumpbound.com'
   ca: 'LetsEncrypt'
   disable_event: false
-wikiumbreltech:
-  url: 'wiki.umbrel.tech'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikiastralprojectionsorg:
   url: 'wiki.astralprojections.org'
   ca: 'LetsEncrypt'
