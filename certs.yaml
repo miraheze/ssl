@@ -501,10 +501,6 @@ franchisefranchisingorgua:
   url: 'franchise.franchising.org.ua'
   ca: 'LetsEncrypt'
   disable_event: false
-kkutuwiki:
-  url: 'kkutu.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikivinesheuorg:
   url: 'wiki.vinesh.eu.org'
   ca: 'LetsEncrypt'
