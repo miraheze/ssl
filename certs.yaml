@@ -725,10 +725,6 @@ wikibeatsnet:
   url: 'wikibeats.net'
   ca: 'LetsEncrypt'
   disable_event: false
-wikijacksonheightsnyc:
-  url: 'wiki.jacksonheights.nyc'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wwwpetrawikiorg:
   url: 'www.petrawiki.org'
   ca: 'LetsEncrypt'
