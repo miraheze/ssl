@@ -477,10 +477,6 @@ icclopediawiki:
   url: 'icclopedia.org'
   ca: 'LetsEncrypt'
   disable_event: false
-ipv6boliviawiki:
-  url: 'ipv6bolivia.tk'
-  ca: 'LetsEncrypt'
-  disable_event: false
 lamamadooaorg:
   url: 'lama.madooa.org'
   ca: 'LetsEncrypt'
