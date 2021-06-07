@@ -497,10 +497,6 @@ erikapediacom:
   url: 'www.erikapedia.com'
   ca: 'LetsEncrypt'
   disable_event: false
-innerspheretk:
-  url: 'innersphere.tk'
-  ca: 'LetsEncrypt'
-  disable_event: false
 guiaesporonet:
   url: 'guia.esporo.net'
   ca: 'LetsEncrypt'
