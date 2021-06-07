@@ -143,10 +143,6 @@ wikimikrodevcom:
   url: 'wiki.mikrodev.com'
   ca: 'LetsEncrypt'
   disable_event: false
-wikicampaignlabourorg:
-  url: 'wiki.campaign-labour.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikiwhentheycryorg:
   url: 'wiki.whentheycry.org'
   ca: 'LetsEncrypt'
