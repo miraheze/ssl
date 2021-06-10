@@ -1177,3 +1177,7 @@ ethenewiki:
   url: 'ethene.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+reviewsthejoshmeistercom:
+  url: 'reviews.thejoshmeister.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
