@@ -1172,3 +1172,7 @@ reviewsthejoshmeistercom:
   url: 'reviews.thejoshmeister.com'
   ca: 'LetsEncrypt'
   disable_event: false
+privacywikixyz:
+  url: 'privacywiki.xyz'
+  ca: 'LetsEncrypt'
+  disable_event: false
