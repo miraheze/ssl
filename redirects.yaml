@@ -256,6 +256,12 @@ wwwstardewmoddingwiki:
   sslname: 'stardewmodding.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwrecyclerieuzegeorg:
+  url: 'www.recyclerie-uzege.org'
+  redirect: 'www.arru.xyz'
+  sslname: 'www.recyclerie-uzege.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # <server>.miraheze.wiki & *.bots.miraheze.wiki to *.mirahezebots.org redirects
 main:
