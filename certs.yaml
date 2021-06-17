@@ -304,11 +304,6 @@ mrlovewiki:
   url: 'mrlove.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-wwwtradwikiorg:
-  url: 'www.tradwiki.org'
-  sslname: 'tradwiki.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 warmagenecrocitycouk:
   url: 'warmage.necrocity.co.uk'
   ca: 'LetsEncrypt'
@@ -1043,10 +1038,6 @@ wmworldsktzlive:
   disable_event: false
 olwestorg:
   url: 'olwest.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wikizaoacecom:
-  url: 'wiki.zaoace.com'
   ca: 'LetsEncrypt'
   disable_event: false
 wikiumbranetmandelbrotgamescom:
