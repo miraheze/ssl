@@ -1176,3 +1176,7 @@ privacywikixyz:
   url: 'privacywiki.xyz'
   ca: 'LetsEncrypt'
   disable_event: false
+diamowikiga:
+  url: 'diamowiki.ga'
+  ca: 'LetsEncrypt'
+  disable_event: false
