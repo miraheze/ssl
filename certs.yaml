@@ -528,10 +528,6 @@ wikierislycom:
   url: 'wiki.erisly.com'
   ca: 'LetsEncrypt'
   disable_event: false
-jafarwiki:
-  url: 'wiki.jafaron.net'
-  ca: 'LetsEncrypt'
-  disable_event: false
 dcmultiversedcwikiscom:
   url: 'dc-multiverse.dcwikis.com'
   ca: 'LetsEncrypt'
