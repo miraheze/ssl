@@ -588,10 +588,6 @@ acheronrhowiki:
   url: 'beaconspace.unrestrictedlorefare.com'
   ca: 'LetsEncrypt'
   disable_event: false
-wikidom64xyz:
-  url: 'wiki.dom64.xyz'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikiyunachannelcom:
   url: 'wiki.yunachannel.com'
   ca: 'LetsEncrypt'
