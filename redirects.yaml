@@ -438,6 +438,12 @@ civclassicmirahezewiki:
   sslname: 'wildcard.miraheze.org-2020-2'
   ca: 'Sectigo'
   disable_event: true
+arruxyzredirect:
+  url: 'www.arru.xyz/lassociation/'
+  redirect: 'www.arru.xyz/wiki/Accueil'
+  sslname: 'www.arru.xyz'
+  ca: 'LetsEncrypt'
+  disable_event: true
 
 # orain.org to miraheze.org wiki redirects
 allthetropesorain:
