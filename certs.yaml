@@ -1176,3 +1176,7 @@ wikiwikimediacat:
   url: 'wiki.wikimedia.cat'
   ca: 'LetsEncrypt'
   disable_event: false
+wikinewnormalfans:
+  url: 'wiki.newnormal.fans'
+  ca: 'LetsEncrypt'
+  disable_event: false
