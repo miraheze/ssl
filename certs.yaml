@@ -392,10 +392,6 @@ wikitwilightsignalcom:
   url: 'wiki.twilightsignal.com'
   ca: 'LetsEncrypt'
   disable_event: false
-fourtawiki:
-  url: 'wiki.fourta.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikipatriamcc:
   url: 'wiki.patriam.cc'
   ca: 'LetsEncrypt'
