@@ -1180,3 +1180,7 @@ wikiaqua22hu:
   url: 'wiki.aqua22.hu'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiphgalaxyeuorg:
+  url: 'wiki.phgalaxy.eu.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
