@@ -1192,3 +1192,7 @@ lakehubga:
   url: 'lakehub.ga'
   ca: 'LetsEncrypt'
   disable_event: false
+usahaclick:
+  url: 'usaha.click'
+  ca: 'LetsEncrypt'
+  disable_event: false
