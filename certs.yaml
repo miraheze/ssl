@@ -1188,3 +1188,7 @@ pwikidrydraytonvillagehallorguk:
   url: 'pwiki.drydraytonvillagehall.org.uk'
   ca: 'LetsEncrypt'
   disable_event: false
+lakehubga:
+  url: 'lakehub.ga'
+  ca: 'LetsEncrypt'
+  disable_event: false
