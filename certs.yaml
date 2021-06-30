@@ -1176,3 +1176,7 @@ wikinewnormalfans:
   url: 'wiki.newnormal.fans'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiaqua22hu:
+  url: 'wiki.aqua22.hu'
+  ca: 'LetsEncrypt'
+  disable_event: false
