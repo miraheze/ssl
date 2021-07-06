@@ -262,6 +262,12 @@ wwwrecyclerieuzegeorg:
   sslname: 'www.recyclerie-uzege.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwfortiswiki:
+  url: 'www.fortis.wiki'
+  redirect: 'fortis.wiki'
+  sslname: 'fortis.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # <server>.miraheze.wiki & *.bots.miraheze.wiki to *.mirahezebots.org redirects
 main:

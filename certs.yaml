@@ -1196,3 +1196,7 @@ usahaclick:
   url: 'usaha.click'
   ca: 'LetsEncrypt'
   disable_event: false
+fortiswiki:
+  url: 'fortis.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
