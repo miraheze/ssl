@@ -1212,3 +1212,7 @@ bluearchivewiki:
   url: 'bluearchive.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+mwcosmoscom:
+  url: 'mwcosmos.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
