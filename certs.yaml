@@ -1216,3 +1216,7 @@ mwcosmoscom:
   url: 'mwcosmos.com'
   ca: 'LetsEncrypt'
   disable_event: false
+ircwikicf:
+  url: 'ircwiki.cf'
+  ca: 'LetsEncrypt'
+  disable_event: false
