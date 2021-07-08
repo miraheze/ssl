@@ -1200,3 +1200,7 @@ fortiswiki:
   url: 'fortis.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wikidiffsga:
+  url: 'wikidiffs.ga'
+  ca: 'LetsEncrypt'
+  disable_event: false
