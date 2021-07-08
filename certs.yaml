@@ -1208,3 +1208,7 @@ factoriomodstk:
   url: 'factorio-mods.tk'
   ca: 'LetsEncrypt'
   disable_event: false
+bluearchivewiki:
+  url: 'bluearchive.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
