@@ -1220,3 +1220,7 @@ ircwikicf:
   url: 'ircwiki.cf'
   ca: 'LetsEncrypt'
   disable_event: false
+memipediaga:
+  url: 'memipedia.ga'
+  ca: 'LetsEncrypt'
+  disable_event: false
