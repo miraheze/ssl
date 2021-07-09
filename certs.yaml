@@ -1228,3 +1228,7 @@ wikimaskr:
   url: 'wikimas.kr'
   ca: 'LetsEncrypt'
   disable_event: false
+ipv6boliviatk:
+  url: 'ipv6bolivia.tk'
+  ca: 'LetsEncrypt'
+  disable_event: false
