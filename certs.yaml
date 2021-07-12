@@ -608,10 +608,6 @@ debilepediegq:
   url: 'debilepedie.gq'
   ca: 'LetsEncrypt'
   disable_event: false
-kkuncyctk:
-  url: 'kk.uncyc.tk'
-  ca: 'LetsEncrypt'
-  disable_event: false
 chouversecludisciplescyou:
   url: 'chouverse.cludisciples.cyou'
   ca: 'LetsEncrypt'
