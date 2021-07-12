@@ -1232,3 +1232,7 @@ ipv6boliviatk:
   url: 'ipv6bolivia.tk'
   ca: 'LetsEncrypt'
   disable_event: false
+threedomwikipcastsite:
+  url: 'threedomwiki.pcast.site'
+  ca: 'LetsEncrypt'
+  disable_event: false
