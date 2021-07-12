@@ -1192,3 +1192,43 @@ usahaclick:
   url: 'usaha.click'
   ca: 'LetsEncrypt'
   disable_event: false
+fortiswiki:
+  url: 'fortis.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
+wikidiffsga:
+  url: 'wikidiffs.ga'
+  ca: 'LetsEncrypt'
+  disable_event: false
+factoriomodstk:
+  url: 'factorio-mods.tk'
+  ca: 'LetsEncrypt'
+  disable_event: false
+bluearchivewiki:
+  url: 'bluearchive.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
+mwcosmoscom:
+  url: 'mwcosmos.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
+ircwikicf:
+  url: 'ircwiki.cf'
+  ca: 'LetsEncrypt'
+  disable_event: false
+memipediaga:
+  url: 'memipedia.ga'
+  ca: 'LetsEncrypt'
+  disable_event: false
+wikimaskr:
+  url: 'wikimas.kr'
+  ca: 'LetsEncrypt'
+  disable_event: false
+ipv6boliviatk:
+  url: 'ipv6bolivia.tk'
+  ca: 'LetsEncrypt'
+  disable_event: false
+threedomwikipcastsite:
+  url: 'threedomwiki.pcast.site'
+  ca: 'LetsEncrypt'
+  disable_event: false
