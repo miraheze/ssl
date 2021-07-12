@@ -1236,3 +1236,7 @@ threedomwikipcastsite:
   url: 'threedomwiki.pcast.site'
   ca: 'LetsEncrypt'
   disable_event: false
+rctwiki:
+  url: 'rct.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
