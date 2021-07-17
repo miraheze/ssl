@@ -1244,3 +1244,7 @@ wikichouversecludisciplescyou:
   url: 'wiki.chouverse.cludisciples.cyou'
   ca: 'LetsEncrypt'
   disable_event: false
+wikimisslessfightersclub:
+  url: 'wiki.misslessfighters.club'
+  ca: 'LetsEncrypt'
+  disable_event: false
