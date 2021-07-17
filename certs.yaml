@@ -1240,3 +1240,7 @@ rctwiki:
   url: 'rct.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wikichouversecludisciplescyou:
+  url: 'wiki.chouverse.cludisciples.cyou'
+  ca: 'LetsEncrypt'
+  disable_event: false
