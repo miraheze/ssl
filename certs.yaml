@@ -1248,3 +1248,7 @@ wikimisslessfightersclub:
   url: 'wiki.misslessfighters.club'
   ca: 'LetsEncrypt'
   disable_event: false
+wikihomiedbparty:
+  url: 'wiki.homiedb.party'
+  ca: 'LetsEncrypt'
+  disable_event: false
