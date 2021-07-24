@@ -1260,3 +1260,7 @@ withcptrabid:
   url: 'with.cpt-ra.bid'
   ca: 'LetsEncrypt'
   disable_event: false
+wikifffbrorg:
+  url: 'wiki.fffbr.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
