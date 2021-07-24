@@ -1268,3 +1268,7 @@ wikikajgay:
   url: 'wiki.kaj.gay'
   ca: 'LetsEncrypt'
   disable_event: false
+sbswiki:
+  url: 'sbs.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
