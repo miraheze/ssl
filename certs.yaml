@@ -1256,3 +1256,7 @@ correypediaorg:
   url: 'correypedia.org'
   ca: 'LetsEncrypt'
   disable_event: false
+withcptrabid:
+  url: 'with.cpt-ra.bid'
+  ca: 'LetsEncrypt'
+  disable_event: false
