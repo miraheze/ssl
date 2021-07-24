@@ -1252,3 +1252,7 @@ wikihomiedbparty:
   url: 'wiki.homiedb.party'
   ca: 'LetsEncrypt'
   disable_event: false
+correypediaorg:
+  url: 'correypedia.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
