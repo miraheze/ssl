@@ -1264,3 +1264,7 @@ wikifffbrorg:
   url: 'wiki.fffbr.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wikikajgay:
+  url: 'wiki.kaj.gay'
+  ca: 'LetsEncrypt'
+  disable_event: false
