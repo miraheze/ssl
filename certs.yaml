@@ -1272,3 +1272,7 @@ sbswiki:
   url: 'sbs.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwjourneythewordwiki:
+  url: 'www.journeytheword.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
