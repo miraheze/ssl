@@ -1276,3 +1276,7 @@ wwwjourneythewordwiki:
   url: 'www.journeytheword.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+pjmasksinfocf:
+  url: 'pj-masks-info.cf'
+  ca: 'LetsEncrypt'
+  disable_event: false
