@@ -1280,3 +1280,7 @@ pjmasksinfocf:
   url: 'pj-masks-info.cf'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiapicobuzz:
+  url: 'wiki.apico.buzz'
+  ca: 'LetsEncrypt'
+  disable_event: false
