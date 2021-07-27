@@ -1284,3 +1284,7 @@ wikiapicobuzz:
   url: 'wiki.apico.buzz'
   ca: 'LetsEncrypt'
   disable_event: false
+steamdecklinuxwiki:
+  url: 'steamdecklinux.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
