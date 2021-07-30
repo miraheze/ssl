@@ -274,6 +274,18 @@ wwwmwcosmosorg:
   sslname: 'mwcosmos.com'
   ca: 'LetsEncrypt'
   disable_event: false
+fortismirahezeorg:
+  url: 'fortis.miraheze.org'
+  redirect: 'fortis.wiki'
+  sslname: 'fortis.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
+journeythewordwiki:
+  url: 'journeytheword.wiki'
+  redirect: 'www.journeytheword.wiki'
+  sslname: 'www.journeytheword.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
     
 
 # <server>.miraheze.wiki & *.bots.miraheze.wiki to *.mirahezebots.org redirects
