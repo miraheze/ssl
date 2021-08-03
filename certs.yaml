@@ -1284,3 +1284,7 @@ steamdecklinuxwiki:
   url: 'steamdecklinux.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiasterixcf:
+  url: 'wiki-asterix.cf'
+  ca: 'LetsEncrypt'
+  disable_event: false
