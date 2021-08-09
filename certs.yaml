@@ -1292,3 +1292,7 @@ wwwchinatechwiki:
   url: 'www.chinatech.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+otcgml:
+  url: 'otcg.ml'
+  ca: 'LetsEncrypt'
+  disable_event: false
