@@ -1296,3 +1296,7 @@ otcgml:
   url: 'otcg.ml'
   ca: 'LetsEncrypt'
   disable_event: false
+rww2org:
+  url: 'rww2.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
