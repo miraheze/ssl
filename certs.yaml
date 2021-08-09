@@ -1288,3 +1288,7 @@ wikiasterixcf:
   url: 'wiki-asterix.cf'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwchinatechwiki:
+  url: 'www.chinatech.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
