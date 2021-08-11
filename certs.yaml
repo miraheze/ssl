@@ -1300,3 +1300,7 @@ rww2org:
   url: 'rww2.org'
   ca: 'LetsEncrypt'
   disable_event: false
+duepediaukto:
+  url: 'duepedia.uk.to'
+  ca: 'LetsEncrypt'
+  disable_event: false
