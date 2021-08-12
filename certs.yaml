@@ -1304,3 +1304,7 @@ duepediaukto:
   url: 'duepedia.uk.to'
   ca: 'LetsEncrypt'
   disable_event: false
+staratlaswikiorg:
+  url: 'staratlaswiki.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
