@@ -1312,3 +1312,7 @@ wikihausosco:
   url: 'wiki.hausos.co'
   ca: 'LetsEncrypt'
   disable_event: false
+idaltiluniumxyz:
+  url: 'id.altilunium.xyz'
+  ca: 'LetsEncrypt'
+  disable_event: false
