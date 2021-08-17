@@ -1312,3 +1312,7 @@ wikialathramccom:
   url: 'wiki.alathramc.com'
   ca: 'LetsEncrypt'
   disable_event: false
+diamowikiga:
+  url: 'diamowiki.ga'
+  ca: 'LetsEncrypt'
+  disable_event: false
