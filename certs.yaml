@@ -1316,3 +1316,7 @@ diamowikiga:
   url: 'diamowiki.ga'
   ca: 'LetsEncrypt'
   disable_event: false
+vrcdevwiki:
+  url: 'vrcdev.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
