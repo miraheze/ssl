@@ -344,10 +344,6 @@ vitriolspoonarmy:
   url: 'vitriol.spoon.army'
   ca: 'LetsEncrypt'
   disable_event: false
-towarzystwoprawakredytowego:
-  url: 'towarzystwo.prawa.kredytowego.pl'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikiworldsofwearycom:
   url: 'wiki.worldsofweary.com'
   ca: 'LetsEncrypt'
