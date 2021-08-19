@@ -604,10 +604,6 @@ debilepediegq:
   url: 'debilepedie.gq'
   ca: 'LetsEncrypt'
   disable_event: false
-chouversecludisciplescyou:
-  url: 'chouverse.cludisciples.cyou'
-  ca: 'LetsEncrypt'
-  disable_event: false
 monarchiawiki:
   url: 'monarchia.wiki'
   ca: 'LetsEncrypt'
