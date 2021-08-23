@@ -1316,3 +1316,7 @@ wwwpolandballwikicom:
   url: 'www.polandballwiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiyapsavunxyz:
+  url: 'wiki.yapsavun.xyz'
+  ca: 'LetsEncrypt'
+  disable_event: false
