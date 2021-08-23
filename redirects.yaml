@@ -292,6 +292,18 @@ polandballwikicom:
   sslname: 'www.polandballwiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwfamedataorg:
+  url: 'www.famedata.org'
+  redirect: 'famedata.org'
+  sslname: 'famedata.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
+enfamepediaorg-1:
+  url: 'famepedia.org'
+  redirect: 'en.famepedia.org'
+  sslname: 'en.famepedia.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
     
 
 # <server>.miraheze.wiki & *.bots.miraheze.wiki to *.mirahezebots.org redirects
