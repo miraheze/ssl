@@ -1312,3 +1312,7 @@ ptpolandballwikicom:
   url: 'pt.polandballwiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwpolandballwikicom:
+  url: 'www.polandballwiki.com'
+  ca: 'LetsEncrypt'
+  disable_event: false

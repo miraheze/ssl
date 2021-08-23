@@ -286,6 +286,12 @@ journeythewordwiki:
   sslname: 'www.journeytheword.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+polandballwikicom:
+  url: 'polandballwiki.com'
+  redirect: 'www.polandballwiki.com'
+  sslname: 'www.polandballwiki.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
     
 
 # <server>.miraheze.wiki & *.bots.miraheze.wiki to *.mirahezebots.org redirects
