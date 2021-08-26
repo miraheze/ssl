@@ -1326,5 +1326,5 @@ nlxlivingtk:
   disable_event: false
 wikibentk:
   url: 'wikiben.tk'
-  ca: 'LetsEncrypt'
+  ca: 'ZeroSSL'
   disable_event: false
