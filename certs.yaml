@@ -1328,3 +1328,7 @@ wikibentk:
   url: 'wikiben.tk'
   ca: 'ZeroSSL'
   disable_event: false
+robloxapiwiki:
+  url: 'robloxapi.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
