@@ -1336,3 +1336,7 @@ staffpolandballwikicom:
   url: 'staff.polandballwiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikidunmoorenet:
+  url: 'wiki.dunmoore.net'
+  ca: 'LetsEncrypt'
+  disable_event: false
