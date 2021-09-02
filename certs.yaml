@@ -1340,3 +1340,7 @@ wikidunmoorenet:
   url: 'wiki.dunmoore.net'
   ca: 'LetsEncrypt'
   disable_event: false
+pwscpolandballwikicom:
+  url: 'pwsc.polandballwiki.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
