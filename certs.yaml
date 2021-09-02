@@ -1352,3 +1352,7 @@ wwwambientguitarorg:
   url: 'www.ambientguitar.org'
   ca: 'LetsEncrypt'
   disable_event: false
+popirainfo:
+  url: 'popira.info'
+  ca: 'LetsEncrypt'
+  disable_event: false
