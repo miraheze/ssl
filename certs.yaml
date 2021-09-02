@@ -1348,3 +1348,7 @@ wikisimorghme:
   url: 'wiki.simorgh.me'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwambientguitarorg:
+  url: 'www.ambientguitar.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
