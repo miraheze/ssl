@@ -1344,3 +1344,7 @@ pwscpolandballwikicom:
   url: 'pwsc.polandballwiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikisimorghme:
+  url: 'wiki.simorgh.me'
+  ca: 'LetsEncrypt'
+  disable_event: false
