@@ -1364,3 +1364,7 @@ wikikonjitownmccf:
   url: 'wiki.konjitownmc.cf'
   ca: 'LetsEncrypt'
   disable_event: false
+wikidigitalcandelacom:
+  url: 'wiki.digitalcandela.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
