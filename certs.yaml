@@ -1356,3 +1356,7 @@ popirainfo:
   url: 'popira.info'
   ca: 'LetsEncrypt'
   disable_event: false
+commonspolandballwikicom:
+  url: 'commons.polandballwiki.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
