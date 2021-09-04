@@ -1360,3 +1360,7 @@ commonspolandballwikicom:
   url: 'commons.polandballwiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikikonjitownmccf:
+  url: 'wiki.konjitownmc.cf'
+  ca: 'LetsEncrypt'
+  disable_event: false
