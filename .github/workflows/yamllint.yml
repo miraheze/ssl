@@ -10,7 +10,7 @@ on:
 
 jobs:
   test:
-    name: 'Yamllint'
+    name: 'Check YAML'
     runs-on: ubuntu-latest
     steps:
       - name: 'Checkout'
