@@ -1,7 +1,1 @@
 extends: default
-
-rules:
-  document-start:
-    present: false
-
-  indentation: disable
