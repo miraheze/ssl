@@ -33,7 +33,6 @@ jobs:
           channel: "#miraheze-sre"
           server: "irc.libera.chat"
           nickname: miraheze-github
-          # yamllint disable-line line-length
           message: ${{ github.repository }} - ${{ github.actor }} the build passed.
           sasl_password: ${{ secrets.IRC_MIRAHEZEBOTS }}
       - name: failed
