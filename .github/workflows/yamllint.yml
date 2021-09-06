@@ -17,6 +17,8 @@ jobs:
         uses: actions/checkout@master
       - name: 'Yamllint'
         uses: karancode/yamllint-github-action@master
+        with:
+          yamllint_config_filepath: '.yamllint.yml'
 
   notify-irc:
     needs: test
