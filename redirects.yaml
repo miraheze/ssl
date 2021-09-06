@@ -304,7 +304,6 @@ enfamepediaorg-1:
   sslname: 'en.famepedia.org'
   ca: 'LetsEncrypt'
   disable_event: false
-    
 
 # <server>.miraheze.wiki & *.bots.miraheze.wiki to *.mirahezebots.org redirects
 main:
