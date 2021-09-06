@@ -1,3 +1,4 @@
+---
 name: 'Check YAML'
 
 # yamllint disable-line rule:truthy
