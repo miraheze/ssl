@@ -1368,3 +1368,7 @@ wikidigitalcandelacom:
   url: 'wiki.digitalcandela.com'
   ca: 'LetsEncrypt'
   disable_event: false
+ambientwiki:
+  url: 'ambient.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
