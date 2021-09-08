@@ -1376,3 +1376,7 @@ avaswiki:
   url: 'avas.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiworldbuildingnetwork:
+  url: 'wiki.worldbuilding.network'
+  ca: 'LetsEncrypt'
+  disable_event: false
