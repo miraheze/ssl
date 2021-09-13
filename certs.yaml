@@ -1388,3 +1388,7 @@ wikipotabicom:
   url: 'wiki.potabi.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiapadotechga:
+  url: 'wiki.apadotech.ga'
+  ca: 'LetsEncrypt'
+  disable_event: false
