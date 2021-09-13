@@ -1384,3 +1384,7 @@ zenithnsmbunet:
   url: 'zenith.nsmbu.net'
   ca: 'LetsEncrypt'
   disable_event: false
+wikipotabicom:
+  url: 'wiki.potabi.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
