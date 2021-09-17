@@ -1400,3 +1400,7 @@ commonsballmediaorg:
   url: 'commons.ballmedia.org'
   ca: 'LetsEncrypt'
   disable_event: false
+smallpolandballwikicom:
+  url: 'small.polandballwiki.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
