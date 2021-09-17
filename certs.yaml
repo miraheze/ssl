@@ -1396,3 +1396,7 @@ jppopirainfo:
   url: 'jp.popira.info'
   ca: 'LetsEncrypt'
   disable_event: false
+commonsballmediaorg:
+  url: 'commons.ballmedia.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
