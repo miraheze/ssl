@@ -1392,3 +1392,7 @@ wikiapadotechga:
   url: 'wiki.apadotech.ga'
   ca: 'LetsEncrypt'
   disable_event: false
+jppopirainfo:
+  url: 'jp.popira.info'
+  ca: 'LetsEncrypt'
+  disable_event: false
