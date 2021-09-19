@@ -260,10 +260,6 @@ wikiscvoorg:
   url: 'wiki.scvo.org'
   ca: 'LetsEncrypt'
   disable_event: false
-wikixfbsnet:
-  url: 'wiki.xfbs.net'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wwwthesimswikicom:
   url: 'www.thesimswiki.com'
   ca: 'LetsEncrypt'
