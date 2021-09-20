@@ -1400,3 +1400,7 @@ smallpolandballwikicom:
   url: 'small.polandballwiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
+aarthalcom:
+  url: 'aarthal.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
