@@ -1404,3 +1404,7 @@ aarthalcom:
   url: 'aarthal.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikijeremyboydorg:
+  url: 'wiki.jeremyboyd.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
