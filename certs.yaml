@@ -1432,3 +1432,7 @@ wwwconnorjwatnet:
   url: 'www.connorjwat.net'
   ca: 'LetsEncrypt'
   disable_event: false
+cubeworldwikijumpingcrabcom:
+  url: 'cubeworldwiki.jumpingcrab.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
