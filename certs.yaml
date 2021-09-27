@@ -1428,3 +1428,7 @@ wikileaguecf:
   url: 'wikileague.cf'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwconnorjwatnet:
+  url: 'www.connorjwat.net'
+  ca: 'LetsEncrypt'
+  disable_event: false
