@@ -1424,3 +1424,7 @@ wikiairyxorg:
   url: 'wiki.airyx.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wikileaguecf:
+  url: 'wikileague.cf'
+  ca: 'LetsEncrypt'
+  disable_event: false
