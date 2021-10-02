@@ -1344,10 +1344,6 @@ wikisimorghme:
   url: 'wiki.simorgh.me'
   ca: 'LetsEncrypt'
   disable_event: false
-wwwambientguitarorg:
-  url: 'www.ambientguitar.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 popirainfo:
   url: 'popira.info'
   ca: 'LetsEncrypt'
@@ -1434,5 +1430,9 @@ wwwconnorjwatnet:
   disable_event: false
 cubeworldwikijumpingcrabcom:
   url: 'cubeworldwiki.jumpingcrab.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
+ambientguitarorg:
+  url: 'ambientguitar.org'
   ca: 'LetsEncrypt'
   disable_event: false

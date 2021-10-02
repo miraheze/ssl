@@ -316,6 +316,12 @@ wwwballmediaorg:
   sslname: 'central.ballmedia.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwambientguitarorg:
+  url: 'www.ambientguitar.org'
+  redirect: 'ambientguitar.org'
+  sslname: 'ambientguitar.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # <server>.miraheze.wiki & *.bots.miraheze.wiki to *.mirahezebots.org redirects
 main:
