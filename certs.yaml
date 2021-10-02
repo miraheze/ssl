@@ -1436,3 +1436,7 @@ ambientguitarorg:
   url: 'ambientguitar.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wikitimewiselynet:
+  url: 'wiki.timewisely.net'
+  ca: 'LetsEncrypt'
+  disable_event: false
