@@ -306,14 +306,14 @@ enfamepediaorg-1:
   disable_event: false
 ballmediaorg:
   url: 'ballmedia.org'
-  redirect: 'central.ballmedia.org'
+  redirect: 'ballmedia.org'
   sslname: 'central.ballmedia.org'
   ca: 'LetsEncrypt'
   disable_event: false
 wwwballmediaorg:
   url: 'www.ballmedia.org'
   redirect: 'central.ballmedia.org'
-  sslname: 'central.ballmedia.org'
+  sslname: 'ballmedia.org'
   ca: 'LetsEncrypt'
   disable_event: false
 wwwambientguitarorg:
