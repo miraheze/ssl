@@ -656,10 +656,6 @@ wikibeatsnet:
   url: 'wikibeats.net'
   ca: 'LetsEncrypt'
   disable_event: false
-enpetrawikiorg:
-  url: 'en.petrawiki.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 degyaanipediacom:
   url: 'de.gyaanipedia.com'
   ca: 'LetsEncrypt'
