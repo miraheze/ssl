@@ -1436,3 +1436,7 @@ wikitimewiselynet:
   url: 'wiki.timewisely.net'
   ca: 'LetsEncrypt'
   disable_event: false
+gssidemwiki:
+  url: 'gs.sidem.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
