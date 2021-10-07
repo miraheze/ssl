@@ -322,6 +322,12 @@ wwwambientguitarorg:
   sslname: 'ambientguitar.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwaarthalcom:
+  url: 'www.aarthal.com'
+  redirect: 'aarthal.com'
+  sslname: 'aarthal.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # <server>.miraheze.wiki & *.bots.miraheze.wiki to *.mirahezebots.org redirects
 main:
