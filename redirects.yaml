@@ -306,7 +306,7 @@ enfamepediaorg-1:
   disable_event: false
 ballmediaorg:
   url: 'ballmedia.org'
-  redirect: 'ballmedia.org'
+  redirect: 'central.ballmedia.org'
   sslname: 'ballmedia.org'
   ca: 'LetsEncrypt'
   disable_event: false
