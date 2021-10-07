@@ -154,6 +154,12 @@ petrawikiorg:
   sslname: 'en.petrawiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwpetrawikiorg:
+  url: 'www.petrawiki.org'
+  redirect: 'en.petrawiki.org'
+  sslname: 'en.petrawiki.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
 wwwwikilukastk:
   url: 'www.wikilukas.tk'
   redirect: 'wikilukas.tk'
@@ -188,12 +194,6 @@ reviwikiinfo:
   url: 'reviwiki.info'
   redirect: 'revi.wiki'
   sslname: 'reviwiki.info'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wwwpetrawikiorg:
-  url: 'www.petrawiki.org'
-  redirect: 'en.petrawiki.org'
-  sslname: 'en.petrawiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
 wwwrangpurpediaxyz:
