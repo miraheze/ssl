@@ -644,10 +644,6 @@ bharatwikionline:
   url: 'bharatwiki.online'
   ca: 'LetsEncrypt'
   disable_event: false
-wikibeatsnet:
-  url: 'wikibeats.net'
-  ca: 'LetsEncrypt'
-  disable_event: false
 degyaanipediacom:
   url: 'de.gyaanipedia.com'
   ca: 'LetsEncrypt'
