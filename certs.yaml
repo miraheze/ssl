@@ -588,10 +588,6 @@ viileapediaga:
   url: 'viileapedia.ga'
   ca: 'LetsEncrypt'
   disable_event: false
-debilepediegq:
-  url: 'debilepedie.gq'
-  ca: 'LetsEncrypt'
-  disable_event: false
 monarchiawiki:
   url: 'monarchia.wiki'
   ca: 'LetsEncrypt'
