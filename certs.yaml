@@ -580,10 +580,6 @@ wikidanvsnet:
   url: 'wiki.danvs.net'
   ca: 'LetsEncrypt'
   disable_event: false
-monarchiawiki:
-  url: 'monarchia.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikiinsideearthinfo:
   url: 'wiki.insideearth.info'
   ca: 'LetsEncrypt'
