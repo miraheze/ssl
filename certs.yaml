@@ -1400,3 +1400,7 @@ wwwsidemwiki:
   url: 'www.sidem.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+zamlungtk:
+  url: 'zamlung.tk'
+  ca: 'LetsEncrypt'
+  disable_event: false
