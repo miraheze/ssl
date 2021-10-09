@@ -664,10 +664,6 @@ battlecatsf5si:
   url: 'battlecats.f5.si'
   ca: 'LetsEncrypt'
   disable_event: false
-wwwlukaibrisimovicorg:
-  url: 'www.lukaibrisimovic.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 planetnomadsspeedbombde:
   url: 'planetnomads.speedbomb.de'
   ca: 'LetsEncrypt'
