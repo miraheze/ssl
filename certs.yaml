@@ -584,10 +584,6 @@ wikidanvsnet:
   url: 'wiki.danvs.net'
   ca: 'LetsEncrypt'
   disable_event: false
-viileapediaga:
-  url: 'viileapedia.ga'
-  ca: 'LetsEncrypt'
-  disable_event: false
 monarchiawiki:
   url: 'monarchia.wiki'
   ca: 'LetsEncrypt'
