@@ -166,12 +166,6 @@ wwwwikilukastk:
   sslname: 'wikilukas.tk'
   ca: 'LetsEncrypt'
   disable_event: false
-lukaibrisimovicorg:
-  url: 'lukaibrisimovic.org'
-  redirect: 'www.lukaibrisimovic.org'
-  sslname: 'www.lukaibrisimovic.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 christipedianl:
   url: 'christipedia.nl'
   redirect: 'www.christipedia.nl'
