@@ -588,10 +588,6 @@ iesdmobageniemyid:
   url: 'iesd.mobagenie.my.id'
   ca: 'LetsEncrypt'
   disable_event: false
-wikiwysteriaga:
-  url: 'wiki.wysteria.ga'
-  ca: 'LetsEncrypt'
-  disable_event: false
 opendatascotorg:
   url: 'opendatascot.org'
   ca: 'LetsEncrypt'
