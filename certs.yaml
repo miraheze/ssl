@@ -1404,3 +1404,7 @@ zamlungtk:
   url: 'zamlung.tk'
   ca: 'LetsEncrypt'
   disable_event: false
+scpvncommunitywikixyz:
+  url: 'scpvncommunitywiki.xyz'
+  ca: 'LetsEncrypt'
+  disable_event: false
