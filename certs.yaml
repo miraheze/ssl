@@ -584,10 +584,6 @@ wikiinsideearthinfo:
   url: 'wiki.insideearth.info'
   ca: 'LetsEncrypt'
   disable_event: false
-iesdmobageniemyid:
-  url: 'iesd.mobagenie.my.id'
-  ca: 'LetsEncrypt'
-  disable_event: false
 opendatascotorg:
   url: 'opendatascot.org'
   ca: 'LetsEncrypt'
