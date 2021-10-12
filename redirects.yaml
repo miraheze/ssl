@@ -130,12 +130,6 @@ wwwpublictestwikicom:
   sslname: 'publictestwiki.com'
   ca: 'LetsEncrypt'
   disable_event: true
-espublictestwikicom:
-  url: 'es.publictestwiki.com'
-  redirect: 'publictestwiki.com'
-  sslname: 'publictestwiki.com'
-  ca: 'LetsEncrypt'
-  disable_event: true
 wwwfraterniterebellioncom:
   url: 'www.fraterniterebellion.com'
   redirect: 'wiki.fraterniterebellion.com'
