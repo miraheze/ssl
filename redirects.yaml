@@ -397,13 +397,6 @@ unmadewiki:
   ca: 'Sectigo'
   hsts: 'strict'
   disable_event: true
-marthaspeakswiki:
-  url: 'marthaspeaks.miraheze.org'
-  redirect: 'thesciencearchives.miraheze.org'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
-  hsts: 'strict'
-  disable_event: true
 intpwiki:
   url: 'intp.miraheze.org'
   redirect: 'taswin.miraheze.org'
