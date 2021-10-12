@@ -79,10 +79,6 @@ autocountsoft:
   url: 'wiki.autocountsoft.com'
   ca: 'LetsEncrypt'
   disable_event: false
-madgenderscience:
-  url: 'madgenderscience.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
 kourouklides:
   url: 'wiki.kourouklides.com'
   ca: 'LetsEncrypt'
