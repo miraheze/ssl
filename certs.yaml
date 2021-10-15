@@ -640,10 +640,6 @@ wikimcpirevivaltk:
   url: 'wiki.mcpirevival.tk'
   ca: 'LetsEncrypt'
   disable_event: false
-wikiresponsiblyai:
-  url: 'wiki.responsibly.ai'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikiseredrauxyz:
   url: 'wiki.seredrau.xyz'
   ca: 'LetsEncrypt'
