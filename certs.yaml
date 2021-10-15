@@ -360,10 +360,6 @@ vedopediawitchesempirecom:
   url: 'vedopedia.witches-empire.com'
   ca: 'LetsEncrypt'
   disable_event: false
-wikitwilightsignalcom:
-  url: 'wiki.twilightsignal.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikipatriamcc:
   url: 'wiki.patriam.cc'
   ca: 'LetsEncrypt'
