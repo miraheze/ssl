@@ -628,10 +628,6 @@ wikitriplescriptsorg:
   url: 'wiki.triplescripts.org'
   ca: 'LetsEncrypt'
   disable_event: false
-wikisdbxdev:
-  url: 'wiki.sdbx.dev'
-  ca: 'LetsEncrypt'
-  disable_event: false
 battlecatsf5si:
   url: 'battlecats.f5.si'
   ca: 'LetsEncrypt'
