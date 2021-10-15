@@ -292,10 +292,6 @@ mrlovewiki:
   url: 'mrlove.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-warmagenecrocitycouk:
-  url: 'warmage.necrocity.co.uk'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikimastodonkr:
   url: 'wiki.mastodon.kr'
   ca: 'LetsEncrypt'
