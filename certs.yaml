@@ -636,10 +636,6 @@ battlecatsf5si:
   url: 'battlecats.f5.si'
   ca: 'LetsEncrypt'
   disable_event: false
-planetnomadsspeedbombde:
-  url: 'planetnomads.speedbomb.de'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikiminelandeu:
   url: 'wiki.mineland.eu'
   ca: 'LetsEncrypt'
