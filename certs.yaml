@@ -428,10 +428,6 @@ icclopediawiki:
   url: 'icclopedia.org'
   ca: 'LetsEncrypt'
   disable_event: false
-lamamadooaorg:
-  url: 'lama.madooa.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 frgyaanipediawiki:
   url: 'fr.gyaanipedia.com'
   ca: 'LetsEncrypt'
