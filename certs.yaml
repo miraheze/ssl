@@ -512,10 +512,6 @@ n64brewdev:
   url: 'n64brew.dev'
   ca: 'LetsEncrypt'
   disable_event: false
-secwiki:
-  url: 'wiki.kali-team.cn'
-  ca: 'LetsEncrypt'
-  disable_event: false
 infectowikicom:
   url: 'infectowiki.com'
   ca: 'LetsEncrypt'
