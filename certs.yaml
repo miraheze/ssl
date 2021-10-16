@@ -504,10 +504,6 @@ wikiclimatechangeai:
   url: 'wiki.climatechange.ai'
   ca: 'LetsEncrypt'
   disable_event: false
-wikiarnabat:
-  url: 'wiki.arnab.at'
-  ca: 'LetsEncrypt'
-  disable_event: false
 tlawikiorg:
   url: 'tl.awiki.org'
   ca: 'LetsEncrypt'
