@@ -620,10 +620,6 @@ wikitriplescriptsorg:
   url: 'wiki.triplescripts.org'
   ca: 'LetsEncrypt'
   disable_event: false
-battlecatsf5si:
-  url: 'battlecats.f5.si'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikiminelandeu:
   url: 'wiki.mineland.eu'
   ca: 'LetsEncrypt'
