@@ -800,10 +800,6 @@ archivea2b2org:
   url: 'archive.a2b2.org'
   ca: 'LetsEncrypt'
   disable_event: false
-wikicaker18com:
-  url: 'wiki.caker18.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikijumpboundcom:
   url: 'wiki.jumpbound.com'
   ca: 'LetsEncrypt'
