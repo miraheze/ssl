@@ -1324,3 +1324,7 @@ scpvncommunitywikixyz:
   url: 'scpvncommunitywiki.xyz'
   ca: 'LetsEncrypt'
   disable_event: false
+adanfimecom:
+  url: 'adanfime.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
