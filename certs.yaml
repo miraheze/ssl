@@ -568,10 +568,6 @@ mediawikiecfineu:
   url: 'mediawiki.ecfin.eu'
   ca: 'LetsEncrypt'
   disable_event: false
-bharatwikionline:
-  url: 'bharatwiki.online'
-  ca: 'LetsEncrypt'
-  disable_event: false
 degyaanipediacom:
   url: 'de.gyaanipedia.com'
   ca: 'LetsEncrypt'
