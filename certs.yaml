@@ -1328,3 +1328,7 @@ adanfimecom:
   url: 'adanfime.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwplaneuorg:
+  url: 'www.plan.eu.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
