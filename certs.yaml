@@ -804,10 +804,6 @@ biblestrengthorg:
   url: 'biblestrength.net'
   ca: 'LetsEncrypt'
   disable_event: false
-wildcardbotsmirahezewiki:
-  url: 'wildcard.bots.miraheze.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: true
 wikimeregoscom:
   url: 'wiki.meregos.com'
   ca: 'LetsEncrypt'
