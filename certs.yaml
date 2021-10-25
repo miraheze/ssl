@@ -584,10 +584,6 @@ esnocyclotk:
   url: 'es.nocyclo.tk'
   ca: 'LetsEncrypt'
   disable_event: false
-wikiparkcityclub:
-  url: 'wiki.park-city.club'
-  ca: 'LetsEncrypt'
-  disable_event: false
 idleoninfo:
   url: 'idleon.info'
   ca: 'LetsEncrypt'
