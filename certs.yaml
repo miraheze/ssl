@@ -1184,10 +1184,6 @@ nlxlivingtk:
   url: 'nl.xliving.tk'
   ca: 'LetsEncrypt'
   disable_event: false
-wikibentk:
-  url: 'wikiben.tk'
-  ca: 'ZeroSSL'
-  disable_event: false
 robloxapiwiki:
   url: 'robloxapi.wiki'
   ca: 'LetsEncrypt'
