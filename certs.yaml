@@ -1328,3 +1328,7 @@ housingwiki:
   url: 'housing.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wikisanctuaryrtscom:
+  url: 'wiki.sanctuary-rts.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
