@@ -11,10 +11,6 @@ permanentfuturelab:
   url: 'permanentfuturelab.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-revi:
-  url: 'private.revi.wiki'
-  ca: 'Sectigo'
-  disable_event: false
 test:
   url: 'publictestwiki.com'
   ca: 'LetsEncrypt'
