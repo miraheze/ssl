@@ -240,10 +240,6 @@ wwwwikimicrofinanzait:
   url: 'www.wikimicrofinanza.it'
   ca: 'LetsEncrypt'
   disable_event: false
-zwfontainebleauavonfr:
-  url: 'zw.fontainebleau-avon.fr'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikiscvoorg:
   url: 'wiki.scvo.org'
   ca: 'LetsEncrypt'
