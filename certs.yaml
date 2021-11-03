@@ -680,10 +680,6 @@ elgeiswiki:
   url: 'wiki.elgeis.com'
   ca: 'LetsEncrypt'
   disable_event: false
-highdeologywikiwiki:
-  url: 'www.highdeologywiki.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 celestewiki:
   url: 'celeste.ink'
   ca: 'LetsEncrypt'
