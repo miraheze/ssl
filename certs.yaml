@@ -1320,3 +1320,7 @@ datamemipediaga:
   url: 'data.memipedia.ga'
   ca: 'LetsEncrypt'
   disable_event: false
+grcrepositoryarchiopediaorg:
+  url: 'grc.repository.archiopedia.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
