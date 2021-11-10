@@ -1324,3 +1324,7 @@ grcrepositoryarchiopediaorg:
   url: 'grc.repository.archiopedia.org'
   ca: 'LetsEncrypt'
   disable_event: false
+grayravenscom:
+  url: 'grayravens.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
