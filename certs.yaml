@@ -1344,3 +1344,7 @@ conlangtk:
   url: 'conlang.tk'
   ca: 'LetsEncrypt'
   disable_event: false
+notesmridulpmin:
+  url: 'notes.mridulpm.in'
+  ca: 'LetsEncrypt'
+  disable_event: false
