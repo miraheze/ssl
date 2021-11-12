@@ -1340,3 +1340,7 @@ docsetk:
   url: 'docse.tk'
   ca: 'LetsEncrypt'
   disable_event: false
+conlangtk:
+  url: 'conlang.tk'
+  ca: 'LetsEncrypt'
+  disable_event: false
