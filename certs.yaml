@@ -1336,3 +1336,7 @@ wikiparappadev:
   url: 'wiki.parappa.dev'
   ca: 'LetsEncrypt'
   disable_event: false
+docsetk:
+  url: 'docse.tk'
+  ca: 'LetsEncrypt'
+  disable_event: false
