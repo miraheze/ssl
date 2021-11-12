@@ -39,10 +39,6 @@ meeusen:
   url: 'wiki.meeusen.net'
   ca: 'LetsEncrypt'
   disable_event: false
-savagewiki:
-  url: 'savage-wiki.com'
-  ca: 'RapidSSL'
-  disable_event: false
 speleo:
   url: 'speleo.wiki'
   ca: 'LetsEncrypt'
