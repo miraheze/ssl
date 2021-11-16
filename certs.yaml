@@ -1340,3 +1340,7 @@ notesmridulpmin:
   url: 'notes.mridulpm.in'
   ca: 'LetsEncrypt'
   disable_event: false
+hypotheticalhurricanescom:
+  url: 'hypotheticalhurricanes.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
