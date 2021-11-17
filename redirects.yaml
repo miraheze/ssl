@@ -256,8 +256,8 @@ wwwfortiswiki:
   sslname: 'fortis.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-wwwmwcosmosorg:
-  url: 'www.mwcosmos.org'
+wwwmwcosmoscom:
+  url: 'www.mwcosmos.com'
   redirect: 'mwcosmos.com'
   sslname: 'mwcosmos.com'
   ca: 'LetsEncrypt'
