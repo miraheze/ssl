@@ -560,18 +560,6 @@ degyaanipediacom:
   url: 'de.gyaanipedia.com'
   ca: 'LetsEncrypt'
   disable_event: false
-metanocyclotk:
-  url: 'meta.nocyclo.tk'
-  ca: 'LetsEncrypt'
-  disable_event: false
-ennocyclotk:
-  url: 'en.nocyclo.tk'
-  ca: 'LetsEncrypt'
-  disable_event: false
-esnocyclotk:
-  url: 'es.nocyclo.tk'
-  ca: 'LetsEncrypt'
-  disable_event: false
 idleoninfo:
   url: 'idleon.info'
   ca: 'LetsEncrypt'
@@ -810,10 +798,6 @@ wwwfossilfighterswikicom:
   disable_event: false
 bngyaanipediacom:
   url: 'bn.gyaanipedia.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
-incubatornocyclotk:
-  url: 'incubator.nocyclo.tk'
   ca: 'LetsEncrypt'
   disable_event: false
 wikiaridiaspace:
