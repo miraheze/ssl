@@ -660,10 +660,6 @@ celestewiki:
   url: 'celeste.ink'
   ca: 'LetsEncrypt'
   disable_event: false
-wikitigcitytk:
-  url: 'wiki.tigcity.tk'
-  ca: 'LetsEncrypt'
-  disable_event: false
 famedataorg:
   url: 'famedata.org'
   ca: 'LetsEncrypt'
