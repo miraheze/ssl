@@ -1320,3 +1320,7 @@ ngsswikicom:
   url: 'ngsswiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikipanelorg:
+  url: 'wikipanel.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
