@@ -1316,3 +1316,7 @@ hypotheticalhurricanescom:
   url: 'hypotheticalhurricanes.com'
   ca: 'LetsEncrypt'
   disable_event: false
+ngsswikicom:
+  url: 'ngsswiki.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
