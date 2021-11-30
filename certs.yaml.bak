@@ -1328,7 +1328,3 @@ wikicontrolistesfr:
   url: 'wiki.controlistes.fr'
   ca: 'LetsEncrypt'
   disable_event: false
-wikimistleagueio:
-  url: 'wiki.mistleague.io'
-  ca: 'LetsEncrypt'
-  disable_event: false
