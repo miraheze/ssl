@@ -924,10 +924,6 @@ wikimomaart:
   url: 'wikimoma.art'
   ca: 'LetsEncrypt'
   disable_event: false
-privacywiki0xno:
-  url: 'privacy-wiki.0x.no'
-  ca: 'LetsEncrypt'
-  disable_event: false
 refundust:
   url: 'ref.undu.st'
   ca: 'LetsEncrypt'

@@ -115,10 +115,6 @@ lab612:
   url: 'www.lab612.at'
   ca: 'LetsEncrypt'
   disable_event: false
-studentwikiddns:
-  url: 'studentwiki.ddns.net'
-  ca: 'LetsEncrypt'
-  disable_event: false
 encforuz:
   url: 'enc.for.uz'
   ca: 'LetsEncrypt'
