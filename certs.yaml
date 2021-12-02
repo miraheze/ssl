@@ -836,10 +836,6 @@ wikiumbranetmandelbrotgamescom:
   url: 'wiki.umbranet.mandelbrotgames.com'
   ca: 'LetsEncrypt'
   disable_event: false
-matttestmtwikicf:
-  url: 'matttest.mtwiki.cf'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wwwwinenjoynet:
   url: 'www.winenjoy.net'
   ca: 'LetsEncrypt'
