@@ -1308,3 +1308,7 @@ wikimistleagueio:
   url: 'wiki.mistleague.io'
   ca: 'LetsEncrypt'
   disable_event: false
+wikipacebiorg:
+  url: 'wiki.pacebi.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
