@@ -1312,3 +1312,7 @@ wikipacebiorg:
   url: 'wiki.pacebi.org'
   ca: 'LetsEncrypt'
   disable_event: false
+nlxlivingtk:
+  url: 'nl.xliving.tk'
+  ca: 'LetsEncrypt'
+  disable_event: false
