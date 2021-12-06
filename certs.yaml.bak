@@ -1316,3 +1316,11 @@ nlxlivingtk:
   url: 'nl.xliving.tk'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiprojectdiablo2com:
+  url: 'wiki.projectdiablo2.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
+wikiwallymercom:
+  url: 'wiki.wallymer.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
