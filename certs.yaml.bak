@@ -1324,3 +1324,7 @@ wikiwallymercom:
   url: 'wiki.wallymer.com'
   ca: 'LetsEncrypt'
   disable_event: false
+mcdevgrantlmulxyz:
+  url: 'mcdev.grantlmul.xyz'
+  ca: 'LetsEncrypt'
+  disable_event: false

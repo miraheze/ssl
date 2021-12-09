@@ -1328,3 +1328,7 @@ mcdevgrantlmulxyz:
   url: 'mcdev.grantlmul.xyz'
   ca: 'LetsEncrypt'
   disable_event: false
+wikidigitalcandelacom:
+  url: 'wiki.digitalcandela.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
