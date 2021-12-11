@@ -1340,3 +1340,7 @@ pokemonwikiinfo:
   url: 'pokemonwiki.info'
   ca: 'LetsEncrypt'
   disable_event: false
+projectpatternscom:
+  url: 'project-patterns.com'
+  ca: 'LetsEncrypt'
+  disable_event: false

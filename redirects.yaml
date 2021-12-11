@@ -316,6 +316,12 @@ wwwaarthalcom:
   sslname: 'aarthal.com'
   ca: 'LetsEncrypt'
   disable_event: false
+projectpatternscom:
+  url: 'www.project-patterns.com'
+  redirect: 'project-patterns.com'
+  sslname: 'project-patterns.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # *.miraheze.org to *.miraheze.org wiki redirects
 hellointernetwiki:
