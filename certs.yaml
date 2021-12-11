@@ -1336,3 +1336,7 @@ hoodwikixyz:
   url: 'hoodwiki.xyz'
   ca: 'LetsEncrypt'
   disable_event: false
+pokemonwikiinfo:
+  url: 'pokemonwiki.info'
+  ca: 'LetsEncrypt'
+  disable_event: false
