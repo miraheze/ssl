@@ -1352,3 +1352,7 @@ smashbroswikicom:
   url: 'smashbroswiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
+scumwikicom:
+  url: 'scum-wiki.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
