@@ -344,10 +344,6 @@ vedopediawitchesempirecom:
   url: 'vedopedia.witches-empire.com'
   ca: 'LetsEncrypt'
   disable_event: false
-wikipatriamcc:
-  url: 'wiki.patriam.cc'
-  ca: 'LetsEncrypt'
-  disable_event: false
 fcsongcontestseu:
   url: 'fc.songcontests.eu'
   ca: 'LetsEncrypt'
@@ -588,10 +584,6 @@ wikiqadrishattarixyz:
   url: 'wiki.qadrishattari.xyz'
   ca: 'LetsEncrypt'
   disable_event: false
-hwgyaanipediacom:
-  url: 'halloween.gyaanipedia.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wwwchristipedianl:
   url: 'www.christipedia.nl'
   ca: 'LetsEncrypt'
@@ -610,10 +602,6 @@ wikicyberfursorg:
   disable_event: false
 oecumeneorg:
   url: 'oecumene.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wikietnlink:
-  url: 'wiki.etn.link'
   ca: 'LetsEncrypt'
   disable_event: false
 wikiruwildterra2com:
