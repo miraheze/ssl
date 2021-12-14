@@ -1360,3 +1360,7 @@ dkwikiorg:
   url: 'dkwiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
+sunrinnet:
+  url: 'sunrin.net'
+  ca: 'LetsEncrypt'
+  disable_event: false
