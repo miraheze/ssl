@@ -1368,5 +1368,6 @@ betahezeorg:
   disable_event: false
 betabetahezeorg:
   url: 'beta.betaheze.org'
+  sslname: 'betaheze.org'
   ca: 'LetsEncrypt'
   disable_event: false
