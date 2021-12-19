@@ -360,14 +360,14 @@ wikimiraheze:
   disable_event: true
 test1wiki:
   url: 'test1.miraheze.org'
-  redirect: 'test3.miraheze.org'
+  redirect: 'beta.betaheze.org'
   sslname: 'wildcard.miraheze.org-2020-2'
   ca: 'Sectigo'
   hsts: 'strict'
   disable_event: true
 test2wiki:
   url: 'test2.miraheze.org'
-  redirect: 'test3.miraheze.org'
+  redirect: 'beta.betaheze.org'
   sslname: 'wildcard.miraheze.org-2020-2'
   ca: 'Sectigo'
   hsts: 'strict'
