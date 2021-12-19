@@ -1360,3 +1360,7 @@ clockupwikiorg:
   url: 'clockupwiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
+betahezeorg:
+  url: 'betaheze.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
