@@ -1356,3 +1356,7 @@ wikimeowerorg:
   url: 'wiki.meower.org'
   ca: 'LetsEncrypt'
   disable_event: false
+clockupwikiorg:
+  url: 'clockupwiki.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
