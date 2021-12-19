@@ -1352,3 +1352,7 @@ sunrinnet:
   url: 'sunrin.net'
   ca: 'LetsEncrypt'
   disable_event: false
+wikimeowerorg:
+  url: 'wiki.meower.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
