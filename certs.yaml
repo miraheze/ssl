@@ -1360,6 +1360,10 @@ wikileapitno:
   url: 'wiki.leapit.no'
   ca: 'LetsEncrypt'
   disable_event: false
+hosekiwiki:
+  url: 'hoseki.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta - still uses production NGINX config so must load for each domain
 betahezeorg:
