@@ -265,7 +265,7 @@ wwwmwcosmoscom:
 fortismirahezeorg:
   url: 'fortis.miraheze.org'
   redirect: 'fortis.wiki'
-  sslname: 'fortis.wiki'
+  sslname: 'wildcard.miraheze.org-2020-2'
   ca: 'LetsEncrypt'
   disable_event: true
 journeythewordwiki:
