@@ -267,7 +267,7 @@ fortismirahezeorg:
   redirect: 'fortis.wiki'
   sslname: 'fortis.wiki'
   ca: 'LetsEncrypt'
-  disable_event: false
+  disable_event: true
 journeythewordwiki:
   url: 'journeytheword.wiki'
   redirect: 'www.journeytheword.wiki'
