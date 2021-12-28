@@ -608,10 +608,6 @@ wikidigitaldesignhqcom:
   url: 'wiki.digitaldesignhq.com'
   ca: 'LetsEncrypt'
   disable_event: false
-burnoutwiki:
-  url: 'www.burnout.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
 reviwiki:
   url: 'revi.wiki'
   ca: 'PositiveSSLDV'
