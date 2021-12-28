@@ -268,10 +268,6 @@ guiacineastaspt:
   url: 'guia.cineastas.pt'
   ca: 'LetsEncrypt'
   disable_event: false
-storytimejdstroycf:
-  url: 'storytime.jdstroy.cf'
-  ca: 'LetsEncrypt'
-  disable_event: false
 mrlovewiki:
   url: 'mrlove.wiki'
   ca: 'LetsEncrypt'
