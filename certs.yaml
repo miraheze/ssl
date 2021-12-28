@@ -187,7 +187,7 @@ ndgnenawiki:
   url: 'ndg.nenawiki.org'
   sslname: 'nenawiki.org'
   ca: 'LetsEncrypt'
-  disable_event: false
+  disable_event: true
 commonsgyaanipediacom:
   url: 'commons.gyaanipedia.com'
   ca: 'LetsEncrypt'
