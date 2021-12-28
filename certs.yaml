@@ -188,10 +188,6 @@ ndgnenawiki:
   sslname: 'nenawiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
-madzebrasciencewiki:
-  url: 'madzebrascience.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
 commonsgyaanipediacom:
   url: 'commons.gyaanipedia.com'
   ca: 'LetsEncrypt'
