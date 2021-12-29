@@ -1332,6 +1332,10 @@ hosekiwiki:
   url: 'hoseki.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wikicryptosorg:
+  url: 'wikicryptos.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta - still uses production NGINX config so must load for each domain
 betahezeorg:
