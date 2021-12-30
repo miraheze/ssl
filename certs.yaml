@@ -1337,13 +1337,10 @@ kisekiwiki:
   ca: 'LetsEncrypt'
   disable_event: false
 
-# beta - still uses production NGINX config so must load for each domain
+# beta
 betahezeorg:
   url: 'betaheze.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
-betabetahezeorg:
-  url: 'beta.betaheze.org'
+  additional_domain: '*.betaheze.org'
   sslname: 'betaheze.org'
   ca: 'LetsEncrypt'
   disable_event: false
