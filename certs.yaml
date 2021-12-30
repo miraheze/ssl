@@ -1338,7 +1338,7 @@ kisekiwiki:
   disable_event: false
 
 # beta
-betahezeorg:
+betaheze:
   url: 'betaheze.org'
   additional_domain: '*.betaheze.org'
   sslname: 'betaheze.org'
