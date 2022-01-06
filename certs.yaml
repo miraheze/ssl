@@ -1344,6 +1344,10 @@ wikifencingru:
   url: 'wikifencing.ru'
   ca: 'LetsEncrypt'
   disable_event: false
+nlxlivingorg:
+  url: 'nl.xliving.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
