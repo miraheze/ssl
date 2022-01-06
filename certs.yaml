@@ -1340,6 +1340,10 @@ wikipbptanarchytk:
   url: 'wiki.pbptanarchy.tk'
   ca: 'LetsEncrypt'
   disable_event: false
+wikifencingru:
+  url: 'wikifencing.ru'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
