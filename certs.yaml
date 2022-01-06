@@ -392,10 +392,6 @@ frgyaanipediawiki:
   url: 'fr.gyaanipedia.com'
   ca: 'LetsEncrypt'
   disable_event: false
-dreamsitcombr:
-  url: 'dreamsit.com.br'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikiminkyukim:
   url: 'wiki.minkyu.kim'
   ca: 'LetsEncrypt'
