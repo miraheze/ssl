@@ -1332,6 +1332,10 @@ kisekiwiki:
   url: 'kiseki.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+encyclopediaroboticaorg:
+  url: 'encyclopediarobotica.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
