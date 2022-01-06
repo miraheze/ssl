@@ -440,12 +440,6 @@ allthetropesorain:
   sslname: 'orain.org'
   ca: 'LetsEncrypt'
   disable_event: true
-metaorain:
-  url: 'meta.orain.org'
-  redirect: 'meta.miraheze.org'
-  sslname: 'orain.org'
-  ca: 'LetsEncrypt'
-  disable_event: true
 poserdazfreebiessorain:
   url: 'poserdazfreebies.orain.org'
   redirect: 'poserdazfreebies.miraheze.org'
