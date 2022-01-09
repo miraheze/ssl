@@ -580,10 +580,6 @@ wikienwildterra2com:
   url: 'wikien.wildterra2.com'
   ca: 'LetsEncrypt'
   disable_event: false
-wikiraghuveernet:
-  url: 'wiki.raghuveer.net'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikifunkeyprojectcom:
   url: 'wiki.funkey-project.com'
   ca: 'LetsEncrypt'
