@@ -48,12 +48,6 @@ wwwmarinebiodiversitymatrix:
   sslname: 'marinebiodiversitymatrix.org'
   ca: 'LetsEncrypt'
   disable_event: true
-thesimswikicom:
-  url: 'thesimswiki.com'
-  redirect: 'www.thesimswiki.com'
-  sslname: 'www.thesimswiki.com'
-  ca: 'LetsEncrypt'
-  disable_event: true
 wikithesimswikicom:
   url: 'wiki.thesimswiki.com'
   redirect: 'www.thesimswiki.com'
