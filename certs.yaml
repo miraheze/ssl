@@ -1340,6 +1340,10 @@ wikizergmafiatop:
   url: 'wiki.zergmafia.top'
   ca: 'LetsEncrypt'
   disable_event: false
+wikipixliesnet:
+  url: 'wiki.pixlies.net'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
