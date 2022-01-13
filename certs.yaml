@@ -1200,10 +1200,6 @@ grayravenscom:
   url: 'grayravens.com'
   ca: 'LetsEncrypt'
   disable_event: false
-wiki3805couk:
-  url: 'wiki.3805.co.uk'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikiparappadev:
   url: 'wiki.parappa.dev'
   ca: 'LetsEncrypt'
