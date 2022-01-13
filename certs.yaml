@@ -1012,10 +1012,6 @@ staratlaswikiorg:
   url: 'staratlaswiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
-wikihausosco:
-  url: 'wiki.hausos.co'
-  ca: 'LetsEncrypt'
-  disable_event: false
 idaltiluniumxyz:
   url: 'id.altilunium.xyz'
   ca: 'LetsEncrypt'
