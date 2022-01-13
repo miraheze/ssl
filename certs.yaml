@@ -1052,10 +1052,6 @@ wikiyapsavunxyz:
   url: 'wiki.yapsavun.xyz'
   ca: 'LetsEncrypt'
   disable_event: false
-robloxapiwiki:
-  url: 'robloxapi.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
 staffpolandballwikicom:
   url: 'staff.polandballwiki.com'
   ca: 'LetsEncrypt'
