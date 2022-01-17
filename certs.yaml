@@ -1340,6 +1340,10 @@ wikirosestulipsandlibertycom:
   url: 'wiki.rosestulipsandliberty.com'
   ca: 'LetsEncrypt'
   disable_event: false
+otogebasecom:
+  url: 'otogebase.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
