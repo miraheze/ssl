@@ -628,10 +628,6 @@ gpct777cf:
   url: 'gp.ct777.cf'
   ca: 'LetsEncrypt'
   disable_event: false
-linkwikicf:
-  url: 'linkwiki.cf'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikislimelabnet:
   url: 'wiki.slimelab.net'
   ca: 'LetsEncrypt'
