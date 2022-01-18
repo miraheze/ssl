@@ -43,10 +43,6 @@ speleo:
   url: 'speleo.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-teessidehackspace:
-  url: 'wiki.teessidehackspace.org.uk'
-  ca: 'LetsEncrypt'
-  disable_event: false
 nenawiki:
   url: 'nenawiki.org'
   ca: 'LetsEncrypt'
