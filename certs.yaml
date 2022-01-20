@@ -640,10 +640,6 @@ wikict777cf:
   url: 'wiki.ct777.cf'
   ca: 'LetsEncrypt'
   disable_event: false
-rangpurpediaxyz:
-  url: 'rangpurpedia.xyz'
-  ca: 'LetsEncrypt'
-  disable_event: false
 ptgraalmilitarycom:
   url: 'pt.graalmilitary.com'
   ca: 'LetsEncrypt'

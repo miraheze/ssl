@@ -172,12 +172,6 @@ reviwikiinfo:
   sslname: 'reviwiki.info'
   ca: 'LetsEncrypt'
   disable_event: false
-wwwrangpurpediaxyz:
-  url: 'www.rangpurpedia.xyz'
-  redirect: 'rangpurpedia.xyz'
-  sslname: 'rangpurpedia.xyz'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wwwwikimirahezebotsorg:
   url: 'www.wiki.mirahezebots.org'
   redirect: 'wiki.mirahezebots.org'
