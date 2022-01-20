@@ -620,10 +620,6 @@ hrpetrawikiorg:
   url: 'hr.petrawiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
-sportsanalyticswiki:
-  url: 'sportsanalytics.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
 gpct777cf:
   url: 'gp.ct777.cf'
   ca: 'LetsEncrypt'
