@@ -1348,6 +1348,10 @@ dragonquestwikicom:
   url: 'dragonquestwiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
+crocwikicom:
+  url: 'crocwiki.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
