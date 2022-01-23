@@ -1336,6 +1336,10 @@ experimycocom:
   url: 'experimyco.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikimsnldcom:
+  url: 'wiki.msnld.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
