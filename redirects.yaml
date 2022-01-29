@@ -427,6 +427,36 @@ civclassicmirahezewiki:
   sslname: 'wildcard.miraheze.org-2020-2'
   ca: 'Sectigo'
   disable_event: true
+pokemon2wiki:
+  url: 'pokemon2.miraheze.org'
+  redirect: 'pokemonwiki.info'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  disable_event: true
+nintendowiki:
+  url: 'nintendo.miraheze.org'
+  redirect: 'thenintendowiki.org'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  disable_event: true
+smashbroswiki:
+  url: 'smashbros.miraheze.org'
+  redirect: 'smashbroswiki.com'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  disable_event: true
+crocwiki:
+  url: 'croc.miraheze.org'
+  redirect: 'crocwiki.com'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  disable_event: true
+dragonquest2wiki:
+  url: 'dragonquest2.miraheze.org'
+  redirect: 'dragonquestwiki.com'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  disable_event: true
 
 # orain.org to miraheze.org wiki redirects
 allthetropesorain:
