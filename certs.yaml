@@ -1356,6 +1356,10 @@ wikiyunachannelcom:
   url: 'wiki.yunachannel.com'
   ca: 'LetsEncrypt'
   disable_event: false
+microworldwikiga:
+  url: 'microworldwiki.ga'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
