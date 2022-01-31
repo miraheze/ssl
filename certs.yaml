@@ -1360,6 +1360,10 @@ microworldwikiga:
   url: 'microworldwiki.ga'
   ca: 'LetsEncrypt'
   disable_event: false
+wikijkrstudiosorg:
+  url: 'wiki.jkrstudios.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
