@@ -1368,6 +1368,10 @@ nottinghamwiki:
   url: 'nottingham.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wikithesohnlandgovinfo:
+  url: 'wiki.thesohnlandgov.info'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
