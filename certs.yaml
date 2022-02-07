@@ -1388,6 +1388,10 @@ sharqediaml:
   url: 'sharqedia.ml'
   ca: 'LetsEncrypt'
   disable_event: false
+forecastingwiki:
+  url: 'forecasting.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
