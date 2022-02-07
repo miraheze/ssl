@@ -1384,6 +1384,10 @@ wikifatcatfablaborg:
   url: 'wiki.fatcatfablab.org'
   ca: 'LetsEncrypt'
   disable_event: false
+sharqediaml:
+  url: 'sharqedia.ml'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
