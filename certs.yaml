@@ -1380,6 +1380,10 @@ m33ksml:
   url: 'm33ks.ml'
   ca: 'LetsEncrypt'
   disable_event: false
+wikifatcatfablaborg:
+  url: 'wiki.fatcatfablab.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
