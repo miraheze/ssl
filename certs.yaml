@@ -1408,6 +1408,10 @@ itfamepediaorg:
   url: 'it.famepedia.org'
   ca: 'LetsEncrypt'
   disable_event: false
+sammaditthicyou:
+  url: 'sammaditthi.cyou'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
