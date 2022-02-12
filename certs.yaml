@@ -1404,6 +1404,10 @@ wwwproficientprofitclick:
   url: 'www.proficientprofit.click'
   ca: 'LetsEncrypt'
   disable_event: false
+itfamepediaorg:
+  url: 'it.famepedia.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
