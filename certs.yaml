@@ -1392,6 +1392,10 @@ forecastingwiki:
   url: 'forecasting.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+techteojingyaocom:
+  url: 'tech.teojingyao.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
