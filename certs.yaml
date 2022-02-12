@@ -1396,6 +1396,10 @@ techteojingyaocom:
   url: 'tech.teojingyao.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikichippyappscom:
+  url: 'wiki.chippyapps.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
