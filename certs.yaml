@@ -216,10 +216,6 @@ bebaskanpengetahuanid:
   url: 'bebaskanpengetahuan.id'
   ca: 'LetsEncrypt'
   disable_event: false
-riptogq:
-  url: 'wiki.ripto.gq'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikiscvoorg:
   url: 'wiki.scvo.org'
   ca: 'LetsEncrypt'
@@ -936,10 +932,6 @@ wikimisslessfightersclub:
   url: 'wiki.misslessfighters.club'
   ca: 'LetsEncrypt'
   disable_event: false
-wikihomiedbparty:
-  url: 'wiki.homiedb.party'
-  ca: 'LetsEncrypt'
-  disable_event: false
 correypediaorg:
   url: 'correypedia.org'
   ca: 'LetsEncrypt'
@@ -1018,10 +1010,6 @@ ptpolandballwikicom:
   disable_event: false
 wwwpolandballwikicom:
   url: 'www.polandballwiki.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wikiyapsavunxyz:
-  url: 'wiki.yapsavun.xyz'
   ca: 'LetsEncrypt'
   disable_event: false
 robloxapiwiki:
@@ -1296,10 +1284,6 @@ nlxlivingorg:
   url: 'nl.xliving.org'
   ca: 'LetsEncrypt'
   disable_event: false
-wikijkrproductions:
-  url: 'wiki.jkr.productions'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikizergmafiatop:
   url: 'wiki.zergmafia.top'
   ca: 'LetsEncrypt'
@@ -1350,10 +1334,6 @@ wikidigitalefitheidnl:
   disable_event: false
 wikiiurevarworld:
   url: 'wiki.iurevar.world'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wikiyunachannelcom:
-  url: 'wiki.yunachannel.com'
   ca: 'LetsEncrypt'
   disable_event: false
 microworldwikiga:
