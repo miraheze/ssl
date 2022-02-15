@@ -1088,10 +1088,6 @@ centralballmediaorg:
   url: 'central.ballmedia.org'
   ca: 'LetsEncrypt'
   disable_event: false
-wikipediayogfrontooo:
-  url: 'wikipedia.yogfront.ooo'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikiairyxorg:
   url: 'wiki.airyx.org'
   ca: 'LetsEncrypt'
