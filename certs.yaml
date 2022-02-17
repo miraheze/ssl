@@ -1388,6 +1388,10 @@ sammaditthicyou:
   url: 'sammaditthi.cyou'
   ca: 'LetsEncrypt'
   disable_event: false
+dndbellinrattinit:
+  url: 'dnd.bellinrattin.it'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
