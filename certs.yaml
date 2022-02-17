@@ -1392,6 +1392,10 @@ dndbellinrattinit:
   url: 'dnd.bellinrattin.it'
   ca: 'LetsEncrypt'
   disable_event: false
+arrieretoilefr:
+  url: 'arrieretoile.fr'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
