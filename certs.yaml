@@ -1400,6 +1400,10 @@ storytimejdstroycf:
   url: 'storytime.jdstroy.cf'
   ca: 'LetsEncrypt'
   disable_event: false
+wikisketchtown:
+  url: 'wiki.sketch.town'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
