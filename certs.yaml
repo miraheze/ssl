@@ -1408,6 +1408,10 @@ theapplesecretswiki:
   url: 'theapplesecretswiki.ml'
   ca: 'LetsEncrypt'
   disable_event: false
+hifamepedia:
+  url: 'hi.famepedia.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
