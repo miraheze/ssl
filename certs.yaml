@@ -1416,6 +1416,10 @@ commonwealth0um:
   url: 'commonwealth.0um.io'
   ca: 'LetsEncrypt'
   disable_event: false
+wikidereric:
+  url: 'wiki.dereric.gq'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
