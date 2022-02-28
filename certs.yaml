@@ -796,10 +796,6 @@ mabimyominet:
   url: 'mabi.myomi.net'
   ca: 'LetsEncrypt'
   disable_event: false
-wikilandevvn:
-  url: 'wiki.landev.vn'
-  ca: 'LetsEncrypt'
-  disable_event: false
 lcnzfcidlv:
   url: 'lcn.zfc.id.lv'
   ca: 'LetsEncrypt'
@@ -1122,10 +1118,6 @@ zamlungtk:
   disable_event: false
 scpvncommunitywikixyz:
   url: 'scpvncommunitywiki.xyz'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wwwplaneuorg:
-  url: 'www.plan.eu.org'
   ca: 'LetsEncrypt'
   disable_event: false
 wikiwisrailde:
