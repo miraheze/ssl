@@ -1412,6 +1412,10 @@ wikidereric:
   url: 'wiki.dereric.gq'
   ca: 'LetsEncrypt'
   disable_event: false
+wikikotiolutinfo:
+  url: 'wiki.kotiolut.info'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
