@@ -644,10 +644,6 @@ wikibikinibottomdiscordorg:
   url: 'wiki.bikinibottomdiscord.org'
   ca: 'LetsEncrypt'
   disable_event: false
-puardianxyz:
-  url: 'puardian.xyz'
-  ca: 'LetsEncrypt'
-  disable_event: false
 ecolesciencewiki:
   url: 'ecole.science'
   ca: 'LetsEncrypt'
@@ -658,10 +654,6 @@ datacrondatabasecom:
   disable_event: false
 archivea2b2org:
   url: 'archive.a2b2.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wikijumpboundcom:
-  url: 'wiki.jumpbound.com'
   ca: 'LetsEncrypt'
   disable_event: false
 wikiastralprojectionsorg:
@@ -966,10 +958,6 @@ otcgml:
   disable_event: false
 rww2org:
   url: 'rww2.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
-duepediaukto:
-  url: 'duepedia.uk.to'
   ca: 'LetsEncrypt'
   disable_event: false
 staratlaswikiorg:
