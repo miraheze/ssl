@@ -1413,6 +1413,10 @@ txtdex:
   url: 'txt-dex.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiripto:
+  url: 'wiki.ripto.gq'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
