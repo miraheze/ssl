@@ -1409,6 +1409,10 @@ pimiraheze:
   sslname: 'pi.miraheze.org'
   ca: 'LetsEncrypt'
   disable_event: false
+txtdex:
+  url: 'txt-dex.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
