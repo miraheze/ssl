@@ -1417,6 +1417,10 @@ wikiripto:
   url: 'wiki.ripto.gq'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwzetapedia:
+  url: 'www.zetapedia.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
