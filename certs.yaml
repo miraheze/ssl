@@ -1425,6 +1425,10 @@ wikipediayogfrontooo:
   url: 'wikipedia.yogfront.ooo'
   ca: 'LetsEncrypt'
   disable_event: false
+entwml:
+  url: 'entw.ml'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
