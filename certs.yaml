@@ -972,10 +972,6 @@ wikialathramccom:
   url: 'wiki.alathramc.com'
   ca: 'LetsEncrypt'
   disable_event: false
-diamowikiga:
-  url: 'diamowiki.ga'
-  ca: 'LetsEncrypt'
-  disable_event: false
 vrcdevwiki:
   url: 'vrcdev.wiki'
   ca: 'LetsEncrypt'
@@ -1398,10 +1394,6 @@ commonwealth0um:
   disable_event: false
 wikidereric:
   url: 'wiki.dereric.gq'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wikikotiolutinfo:
-  url: 'wiki.kotiolut.info'
   ca: 'LetsEncrypt'
   disable_event: false
 pimiraheze:
