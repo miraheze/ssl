@@ -1429,6 +1429,10 @@ wikiscpsharp:
   url: 'wiki.scpsharp.ga'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiemsoc:
+  url: 'wiki.emsoc.ie'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
