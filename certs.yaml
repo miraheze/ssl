@@ -1433,6 +1433,10 @@ wikissangyongsports:
   url: 'wiki.ssangyongsports.eu.org'
   ca: 'LetsEncrypt'
   disable_event: false
+smashloop:
+  url: 'smashloop.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
