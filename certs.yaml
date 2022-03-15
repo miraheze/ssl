@@ -1425,6 +1425,10 @@ burnoutwiki:
   url: 'burnout.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiscpsharp:
+  url: 'wiki.scpsharp.ga'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
