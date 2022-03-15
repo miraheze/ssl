@@ -1324,10 +1324,6 @@ wikithesohnlandgovinfo:
   url: 'wiki.thesohnlandgov.info'
   ca: 'LetsEncrypt'
   disable_event: false
-wwwbitcoin21ch:
-  url: 'www.bitcoin21.ch'
-  ca: 'LetsEncrypt'
-  disable_event: false
 m33ksml:
   url: 'm33ks.ml'
   ca: 'LetsEncrypt'

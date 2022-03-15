@@ -310,12 +310,6 @@ scum-wikicom:
   sslname: 'scum-wiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
-bitcoin21ch:
-  url: 'bitcoin21.ch'
-  redirect: 'www.bitcoin21.ch'
-  sslname: 'www.bitcoin21.ch'
-  ca: 'LetsEncrypt'
-  disable_event: false
 proficientprofitclick:
   url: 'proficientprofit.click'
   redirect: 'www.proficientprofit.click'
