@@ -1437,6 +1437,10 @@ smashloop:
   url: 'smashloop.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiravynoscom:
+  url: 'wiki.ravynos.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
