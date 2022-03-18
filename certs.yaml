@@ -1445,6 +1445,10 @@ thestorieskr:
   url: 'thestories.kr'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwobeymewikicom:
+  url: 'www.obeymewiki.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
