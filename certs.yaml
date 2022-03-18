@@ -1441,6 +1441,10 @@ wikiravynoscom:
   url: 'wiki.ravynos.com'
   ca: 'LetsEncrypt'
   disable_event: false
+thestorieskr:
+  url: 'thestories.kr'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
