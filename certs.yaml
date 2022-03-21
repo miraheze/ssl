@@ -1449,6 +1449,10 @@ wwwobeymewikicom:
   url: 'www.obeymewiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikimostlyvet:
+  url: 'wiki.mostly.vet'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
