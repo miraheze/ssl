@@ -704,10 +704,6 @@ heavyironmoddingorg:
   url: 'heavyironmodding.org'
   ca: 'LetsEncrypt'
   disable_event: false
-parapediapl:
-  url: 'parapedia.pl'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikifbpmlorg:
   url: 'wiki.fbpml.org'
   ca: 'LetsEncrypt'
@@ -1066,10 +1062,6 @@ fanonpolandballwikicom:
   disable_event: false
 centralballmediaorg:
   url: 'central.ballmedia.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wikiairyxorg:
-  url: 'wiki.airyx.org'
   ca: 'LetsEncrypt'
   disable_event: false
 wikileaguecf:
