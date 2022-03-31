@@ -27,7 +27,7 @@ jobs:
     steps:
       - name: failed
         uses: technote-space/workflow-conclusion-action@v2
-      - uses: rectalogic/notify-irc@v1
+      - uses: rectalogic/notify-irc@v2
         if: env.WORKFLOW_CONCLUSION == 'failure'
         with:
           channel: "#miraheze-sre"
