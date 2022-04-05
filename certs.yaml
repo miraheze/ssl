@@ -724,10 +724,6 @@ wmworldsktzlive:
   url: 'wmworld.sktz.live'
   ca: 'LetsEncrypt'
   disable_event: false
-olwestorg:
-  url: 'olwest.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikiumbranetmandelbrotgamescom:
   url: 'wiki.umbranet.mandelbrotgames.com'
   ca: 'LetsEncrypt'
@@ -818,10 +814,6 @@ stardewmoddingwiki:
   disable_event: false
 wikimomaart:
   url: 'wikimoma.art'
-  ca: 'LetsEncrypt'
-  disable_event: false
-refundust:
-  url: 'ref.undu.st'
   ca: 'LetsEncrypt'
   disable_event: false
 worldsanskritnet:
