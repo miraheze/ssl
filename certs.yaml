@@ -264,10 +264,6 @@ wikivalkyrienskiesorg:
   url: 'wiki.valkyrienskies.org'
   ca: 'LetsEncrypt'
   disable_event: false
-pastportorg:
-  url: 'pastport.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikistarshipdigital:
   url: 'wiki.starship.digital'
   ca: 'LetsEncrypt'
@@ -306,10 +302,6 @@ wikiconworldsorg:
   disable_event: false
 wwwbaharnaorg:
   url: 'www.baharna.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
-xysspon:
-  url: 'wiki.xysspon.com'
   ca: 'LetsEncrypt'
   disable_event: false
 wikicdntennisca:
@@ -1120,10 +1112,6 @@ docsetk:
   url: 'docse.tk'
   ca: 'LetsEncrypt'
   disable_event: false
-conlangtk:
-  url: 'conlang.tk'
-  ca: 'LetsEncrypt'
-  disable_event: false
 notesmridulpmin:
   url: 'notes.mridulpm.in'
   ca: 'LetsEncrypt'
@@ -1407,10 +1395,6 @@ burnoutwiki:
   disable_event: false
 wikiscpsharp:
   url: 'wiki.scpsharp.ga'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wikiemsoc:
-  url: 'wiki.emsoc.ie'
   ca: 'LetsEncrypt'
   disable_event: false
 wikissangyongsports:
