@@ -1425,6 +1425,10 @@ discordianwiki:
   url: 'discordian.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiyriorg:
+  url: 'wikiyri.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
