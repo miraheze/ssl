@@ -1425,6 +1425,18 @@ wikiyriorg:
   url: 'wikiyri.org'
   ca: 'LetsEncrypt'
   disable_event: false
+atnarsia:
+  url: 'atnarsia.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
+gametheorywiki:
+  url: 'gametheorywiki.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
+wikivirtualjet:
+  url: 'wiki.virtualjet.net'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
