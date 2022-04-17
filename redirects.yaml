@@ -316,6 +316,12 @@ proficientprofitclick:
   sslname: 'www.proficientprofit.click'
   ca: 'LetsEncrypt'
   disable_event: false
+agentisaicom:
+  url: 'agentisai.com'
+  redirect: 'www.agentisai.com'
+  sslname: 'www.agentisai.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # *.miraheze.org to *.miraheze.org wiki redirects
 hellointernetwiki:

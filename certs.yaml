@@ -1437,6 +1437,10 @@ wikivirtualjet:
   url: 'wiki.virtualjet.net'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwagentisaicom:
+  url: 'www.agentisai.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
