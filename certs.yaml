@@ -1453,6 +1453,10 @@ mystiversewiki:
   url: 'mystiverse.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiaoemodscom:
+  url: 'wiki.aoemods.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
