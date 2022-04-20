@@ -1445,6 +1445,10 @@ royalwikiorg:
   url: 'royal-wiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
+squareenixwikicom:
+  url: 'squareenixwiki.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
