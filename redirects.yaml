@@ -469,7 +469,7 @@ dragonquest2wiki:
   sslname: 'wildcard.miraheze.org-2020-2'
   ca: 'Sectigo'
   disable_event: true
- squareenixwiki:
+squareenixwiki:
   url: 'squareenix.miraheze.org'
   redirect: 'squareenixwiki.com'
   sslname: 'wildcard.miraheze.org-2020-2'
