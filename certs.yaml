@@ -1457,7 +1457,22 @@ wikiaoemodscom:
   url: 'wiki.aoemods.com'
   ca: 'LetsEncrypt'
   disable_event: false
-
+deepdarkwiki:
+  url: 'deepdark.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
+pmwikicubestudios:
+  url: 'pmwiki.cubestudios.xyz'
+  ca: 'LetsEncrypt'
+  disable_event: false
+wikicjgh:
+  url: 'wiki.cjgh.xyz'
+  ca: 'LetsEncrypt'
+  disable_event: false
+wikirecaptimeeu:
+  url: 'wiki.recaptime.eu.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
 # beta
 betaheze:
   url: 'betaheze.org'
