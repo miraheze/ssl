@@ -1473,6 +1473,7 @@ wikirecaptimeeu:
   url: 'wiki.recaptime.eu.org'
   ca: 'LetsEncrypt'
   disable_event: false
+
 # beta
 betaheze:
   url: 'betaheze.org'
