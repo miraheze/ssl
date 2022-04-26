@@ -1473,6 +1473,10 @@ wikirecaptimeeu:
   url: 'wiki.recaptime.eu.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wikievscopeorg:
+  url: 'wiki.evscope.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
