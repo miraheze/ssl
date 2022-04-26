@@ -1477,6 +1477,11 @@ wikievscopeorg:
   url: 'wiki.evscope.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wikicompliancecom:
+  url: 'wikicompliance.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
+
 
 # beta
 betaheze:
