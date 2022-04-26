@@ -322,6 +322,12 @@ agentisaicom:
   sslname: 'www.agentisai.com'
   ca: 'LetsEncrypt'
   disable_event: false
+lgbtqiawiki:
+  url: 'lgbtqia.wiki'
+  redirect: 'www.lgbtqia.wiki'
+  sslname: 'www.lgbtqia.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # *.miraheze.org to *.miraheze.org wiki redirects
 hellointernetwiki:

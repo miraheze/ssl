@@ -1481,6 +1481,10 @@ wikicompliancecom:
   url: 'wikicompliance.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwlgbtqiawiki:
+  url: 'www.lgbtqia.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 
 # beta
