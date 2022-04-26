@@ -1497,6 +1497,10 @@ mariopediaorg:
   url: 'mariopedia.org'
   ca: 'LetsEncrypt'
   disable_event: false
+pastportorg:
+  url: 'pastport.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
