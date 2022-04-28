@@ -487,6 +487,18 @@ polandballwiki:
   sslname: 'wildcard.miraheze.org-2020-2'
   ca: 'Sectigo'
   disable_event: true
+mariowiki:
+  url: 'mario.miraheze.org'
+  redirect: 'mariopedia.org'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  disable_event: true
+lgbtawiki:
+  url: 'lgbta.miraheze.org'
+  redirect: 'www.lgbtqia.wiki'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  disable_event: true
 
 # orain.org to miraheze.org wiki redirects
 allthetropesorain:
