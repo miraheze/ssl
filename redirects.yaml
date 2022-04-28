@@ -483,7 +483,7 @@ squareenixwiki:
   disable_event: true
 polandballwiki:
   url: 'polandball.miraheze.org'
-  redirect: 'polandballwiki.com'
+  redirect: 'www.polandballwiki.com'
   sslname: 'wildcard.miraheze.org-2020-2'
   ca: 'Sectigo'
   disable_event: true
