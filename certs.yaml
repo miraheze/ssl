@@ -224,10 +224,6 @@ wwwthesimswikicom:
   url: 'www.thesimswiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
-munwikiinfo:
-  url: 'munwiki.info'
-  ca: 'LetsEncrypt'
-  disable_event: false
 mh142com:
   url: 'mh142.com'
   ca: 'LetsEncrypt'
