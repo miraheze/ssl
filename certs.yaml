@@ -1505,6 +1505,11 @@ wikitintincf:
   url: 'wiki-tintin.cf'
   ca: 'LetsEncrypt'
   disable_event: false
+bnwikiyriorg:
+  url: 'bn.wikiyri.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
+
 
 # beta
 betaheze:
