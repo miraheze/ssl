@@ -1497,6 +1497,10 @@ pastportorg:
   url: 'pastport.org'
   ca: 'LetsEncrypt'
   disable_event: false
+persistwiki:
+  url: 'persist.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
