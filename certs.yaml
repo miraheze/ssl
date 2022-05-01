@@ -1509,6 +1509,10 @@ bnwikiyriorg:
   url: 'bn.wikiyri.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wikikachoworg:
+  url: 'wiki.kachow.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 
 # beta
