@@ -526,3 +526,10 @@ orain:
   sslname: 'orain.org'
   ca: 'LetsEncrypt'
   disable_event: true
+recaptimewiki:
+  url: 'recaptime.miraheze.org'
+  redirect: 'wiki.recaptime.eu.org'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
