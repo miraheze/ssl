@@ -1513,6 +1513,10 @@ wikikachoworg:
   url: 'wiki.kachow.org'
   ca: 'LetsEncrypt'
   disable_event: false
+aresrocketml:
+  url: 'aresrocket.ml'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 
 # beta
