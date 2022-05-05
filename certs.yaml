@@ -620,8 +620,8 @@ enfamepediaorg:
   url: 'en.famepedia.org'
   ca: 'LetsEncrypt'
   disable_event: false
-wikimirahezebotsorg:
-  url: 'wiki.mirahezebots.org'
+wikifossbotsorg:
+  url: 'wiki.fossbots.org'
   ca: 'LetsEncrypt'
   disable_event: false
 wikibikinibottomdiscordorg:
