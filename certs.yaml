@@ -1521,6 +1521,10 @@ veloren:
   url: 'wiki.veloren.net'
   ca: 'LetsEncrypt'
   disable_event: false
+datawikionline:
+  url: 'datawiki.online'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
