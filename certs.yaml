@@ -1529,6 +1529,10 @@ swestsorg:
   url: 'swests.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwwikitippde:
+  url: 'www.wikitipp.de'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
