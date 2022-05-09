@@ -322,7 +322,13 @@ lgbtqiawiki:
   sslname: 'www.lgbtqia.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-
+wwwirishfreemaninfocom:
+  url: 'www.irishfreemaninfo.com'
+  redirect: 'irishfreemaninfo.com'
+  sslname: 'irishfreemaninfo.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
+  
 # *.miraheze.org to *.miraheze.org wiki redirects
 hellointernetwiki:
   url: 'hellointernet.miraheze.org'
