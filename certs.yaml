@@ -1525,6 +1525,10 @@ datawikionline:
   url: 'datawiki.online'
   ca: 'LetsEncrypt'
   disable_event: false
+swestsorg:
+  url: 'swests.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
