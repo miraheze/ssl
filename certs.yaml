@@ -1541,6 +1541,10 @@ irishfreemaninfocom:
   url: 'irishfreemaninfo.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiinfomedia:
+  url: 'wiki.infomedia.co.uk'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
