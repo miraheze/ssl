@@ -328,6 +328,12 @@ wwwirishfreemaninfocom:
   sslname: 'irishfreemaninfo.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikirtapptk:
+  url: 'wiki.rtapp.tk'
+  additional_domain: 'wiki.recaptime.tk'
+  redirect: 'wiki.recaptime.eu.org'
+  ca: "LetsEncrypt"
+  disable_event: true
 
 # *.miraheze.org to *.miraheze.org wiki redirects
 hellointernetwiki:
@@ -505,12 +511,6 @@ recaptimewiki:
   sslname: 'wildcard.miraheze.org-2020-2'
   ca: 'Sectigo'
   hsts: 'strict'
-  disable_event: true
-wikirtapptk:
-  url: 'wiki.rtapp.tk'
-  additional_domain: 'wiki.recaptime.tk'
-  redirect: 'wiki.recaptime.eu.org'
-  ca: "LetsEncrypt"
   disable_event: true
 
 # orain.org to miraheze.org wiki redirects
