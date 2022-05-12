@@ -333,7 +333,7 @@ wikirtapptk:
   additional_domain: 'wiki.recaptime.tk'
   redirect: 'wiki.recaptime.eu.org'
   ca: "LetsEncrypt"
-  disable_event: true
+  disable_event: false
 
 # *.miraheze.org to *.miraheze.org wiki redirects
 hellointernetwiki:
