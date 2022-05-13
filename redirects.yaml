@@ -332,7 +332,7 @@ wikirtapptk:
   url: 'wiki.rtapp.tk'
   sslname: 'wiki.recaptime.eu.org'
   redirect: 'wiki.recaptime.eu.org'
-  ca: "LetsEncrypt"
+  ca: 'LetsEncrypt'
   disable_event: false
 wikirecaptimetk:
   url: 'wiki.recaptime.tk'
