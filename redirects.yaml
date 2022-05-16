@@ -328,6 +328,18 @@ wwwirishfreemaninfocom:
   sslname: 'irishfreemaninfo.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikirtapptk:
+  url: 'wiki.rtapp.tk'
+  redirect: 'wiki.recaptime.eu.org'
+  sslname: 'wiki.rtapp.tk'
+  ca: 'LetsEncrypt'
+  disable_event: false
+wikirecaptimetk:
+  url: 'wiki.recaptime.tk'
+  redirect: 'wiki.recaptime.eu.org'
+  sslname: 'wiki.recaptime.tk'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # *.miraheze.org to *.miraheze.org wiki redirects
 hellointernetwiki:
