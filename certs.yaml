@@ -1573,6 +1573,14 @@ robloxwiki:
   url: 'roblox-wiki.tk'
   ca: 'LetsEncrypt'
   disable_event: false
+wikirtapptk:
+  url: 'wiki.rtapp.tk'
+  ca: 'LetsEncrypt'
+  disable_event: false
+wikirecaptimetk:
+  url: 'wiki.recaptime.tk'
+  ca: 'LetsEncrypt'
+  disable_event: false
 wikiyahyabdxyz:
   url: 'wiki.yahyabd.xyz'
   ca: 'LetsEncrypt'
