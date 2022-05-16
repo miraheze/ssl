@@ -1573,6 +1573,10 @@ robloxwiki:
   url: 'roblox-wiki.tk'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiyahyabdxyz:
+  url: 'wiki.yahyabd.xyz'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
