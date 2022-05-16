@@ -330,14 +330,14 @@ wwwirishfreemaninfocom:
   disable_event: false
 wikirtapptk:
   url: 'wiki.rtapp.tk'
-  sslname: 'wiki.recaptime.eu.org'
   redirect: 'wiki.recaptime.eu.org'
+  sslname: 'wiki.rtapp.tk'
   ca: 'LetsEncrypt'
   disable_event: false
 wikirecaptimetk:
   url: 'wiki.recaptime.tk'
-  sslname: 'wiki.recaptime.eu.org'
   redirect: 'wiki.recaptime.eu.org'
+  sslname: 'wiki.recaptime.tk'
   ca: 'LetsEncrypt'
   disable_event: false
 
