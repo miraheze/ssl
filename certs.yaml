@@ -1553,6 +1553,10 @@ evilwiki:
   url: 'evil.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+enomniversalisorg:
+  url: 'en.omniversalis.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
