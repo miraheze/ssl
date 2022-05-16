@@ -1557,6 +1557,22 @@ enomniversalisorg:
   url: 'en.omniversalis.org'
   ca: 'LetsEncrypt'
   disable_event: false
+phytinfo:
+  url: 'phytinfo.cf'
+  ca: 'LetsEncrypt'
+  disable_event: false
+iolwiki:
+  url: 'iol.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
+rollofarms:
+  url: 'roll-of-arms.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
+robloxwiki:
+  url: 'roblox-wiki.tk'
+  ca: 'LetsEncrypt'
+  disable_event: false
 wikirtapptk:
   url: 'wiki.rtapp.tk'
   ca: 'LetsEncrypt'
