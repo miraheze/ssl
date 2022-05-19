@@ -1585,6 +1585,10 @@ wikiyahyabdxyz:
   url: 'wiki.yahyabd.xyz'
   ca: 'LetsEncrypt'
   disable_event: false
+knifepointhorrorwiki:
+  url: 'knifepointhorror.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
