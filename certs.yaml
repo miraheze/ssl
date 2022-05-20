@@ -576,22 +576,6 @@ famedataorg:
   url: 'famedata.org'
   ca: 'LetsEncrypt'
   disable_event: false
-enpetrawikiorg:
-  url: 'en.petrawiki.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
-filespetrawikiorg:
-  url: 'files.petrawiki.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
-translatepetrawikiorg:
-  url: 'translate.petrawiki.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
-hrpetrawikiorg:
-  url: 'hr.petrawiki.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 gpct777cf:
   url: 'gp.ct777.cf'
   ca: 'LetsEncrypt'
