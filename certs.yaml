@@ -252,10 +252,6 @@ mrlovewiki:
   url: 'mrlove.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-wikimastodonkr:
-  url: 'wiki.mastodon.kr'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikivalkyrienskiesorg:
   url: 'wiki.valkyrienskies.org'
   ca: 'LetsEncrypt'
