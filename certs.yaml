@@ -252,10 +252,6 @@ mrlovewiki:
   url: 'mrlove.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-wikimastodonkr:
-  url: 'wiki.mastodon.kr'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikivalkyrienskiesorg:
   url: 'wiki.valkyrienskies.org'
   ca: 'LetsEncrypt'
@@ -1334,11 +1330,6 @@ commonwealth0um:
   disable_event: false
 wikidereric:
   url: 'wiki.dereric.gq'
-  ca: 'LetsEncrypt'
-  disable_event: false
-pimiraheze:
-  url: '3.141592653589793238462643383279502884197169399375105820974944592.ml'
-  sslname: 'pi.miraheze.org'
   ca: 'LetsEncrypt'
   disable_event: false
 txtdex:
