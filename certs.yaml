@@ -1572,6 +1572,10 @@ studyabroadwiki:
   url: 'studyabroad.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwcgradegamesnet:
+  url: 'www.cgradegames.net'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
