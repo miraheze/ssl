@@ -379,6 +379,12 @@ betawiki:
   sslname: 'wildcard.miraheze.org-2020-2'
   ca: 'Sectigo'
   disable_event: true
+mirahezecf:
+  url: 'miraheze.cf'
+  redirect: 'miraheze.org'
+  sslname: 'miraheze.cf'
+  ca: 'LetsEncrypt'
+  disable_event: false
 mirahezetk:
   url: 'miraheze.tk'
   redirect: 'miraheze.org'
