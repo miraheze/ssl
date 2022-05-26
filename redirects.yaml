@@ -202,12 +202,6 @@ wwwethenewiki:
   sslname: 'ethene.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-wwwstardewmoddingwiki:
-  url: 'www.stardewmodding.wiki'
-  redirect: 'stardewmodding.wiki'
-  sslname: 'stardewmodding.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wwwfortiswiki:
   url: 'www.fortis.wiki'
   redirect: 'fortis.wiki'
