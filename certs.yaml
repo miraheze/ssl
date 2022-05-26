@@ -1576,6 +1576,14 @@ wwwcgradegamesnet:
   url: 'www.cgradegames.net'
   ca: 'LetsEncrypt'
   disable_event: false
+abeyancewikibumblebeestudiosse:
+  url: 'abeyancewiki.bumblebee-studios.se'
+  ca: 'LetsEncrypt'
+  disable_event: false
+wikiharlonservernet:
+  url: 'wiki.harlonserver.net'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
