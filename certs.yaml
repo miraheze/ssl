@@ -772,10 +772,6 @@ wwwpuzzleswiki:
   url: 'www.puzzles.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-stardewmoddingwiki:
-  url: 'stardewmodding.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikimomaart:
   url: 'wikimoma.art'
   ca: 'LetsEncrypt'
