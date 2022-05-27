@@ -1580,6 +1580,10 @@ wikiharlonservernet:
   url: 'wiki.harlonserver.net'
   ca: 'LetsEncrypt'
   disable_event: false
+wikihorizonsendnet:
+  url: 'wiki.horizonsend.net'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # beta
 betaheze:
