@@ -1593,3 +1593,7 @@ wikihorizonsendnet:
   url: 'wiki.horizonsend.net'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiotirnl:
+  url: 'wiki.otir.nl'
+  ca: 'LetsEncrypt'
+  disable_event: false
