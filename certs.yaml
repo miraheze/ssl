@@ -1,4 +1,13 @@
 ---
+# Beta
+betaheze:
+  url: 'betaheze.org'
+  additional_domain: '*.betaheze.org'
+  sslname: 'betaheze.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
+
+# Production
 antiguabarbudacalypso:
   url: 'antiguabarbudacalypso.com'
   ca: 'LetsEncrypt'
@@ -1582,13 +1591,5 @@ wikiharlonservernet:
   disable_event: false
 wikihorizonsendnet:
   url: 'wiki.horizonsend.net'
-  ca: 'LetsEncrypt'
-  disable_event: false
-
-# beta
-betaheze:
-  url: 'betaheze.org'
-  additional_domain: '*.betaheze.org'
-  sslname: 'betaheze.org'
   ca: 'LetsEncrypt'
   disable_event: false
