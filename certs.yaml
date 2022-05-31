@@ -1601,3 +1601,7 @@ feathercarenet:
   url: 'feathercare.net'
   ca: 'LetsEncrypt'
   disable_event: false
+helsinginpoytaroolipelaajat:
+  url: 'wiki.helsinginpoytaroolipelaajat.fi'
+  ca: 'LetsEncrypt'
+  disable_event: false
