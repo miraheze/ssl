@@ -1605,3 +1605,7 @@ helsinginpoytaroolipelaajat:
   url: 'wiki.helsinginpoytaroolipelaajat.fi'
   ca: 'LetsEncrypt'
   disable_event: false
+webkinzguide.com:
+  url: 'webkinzguide.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
