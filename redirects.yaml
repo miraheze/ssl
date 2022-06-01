@@ -1,4 +1,14 @@
 ---
+# miraheze.wiki redirects
+mirahezewiki:
+  url: 'miraheze.wiki'
+  redirect: 'meta.miraheze.org'
+  path_redirects:
+    ^/Fundraiser: 'meta.miraheze.org/wiki/Special:MyLanguage/Fundraiser'
+  sslname: 'miraheze.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: true
+
 wwwallthetropes:
   url: 'www.allthetropes.org'
   redirect: 'allthetropes.org'
@@ -9,14 +19,6 @@ wwwpermanentfuturelab:
   url: 'www.permanentfuturelab.wiki'
   redirect: 'permanentfuturelab.wiki'
   sslname: 'permanentfuturelab.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: true
-mirahezewiki:
-  url: 'miraheze.wiki'
-  redirect: 'meta.miraheze.org'
-  path_redirects:
-    ~* ^/Fundraiser: 'meta.miraheze.org/wiki/Special:MyLanguage/Fundraiser'
-  sslname: 'miraheze.wiki'
   ca: 'LetsEncrypt'
   disable_event: true
 mirahezecom:
