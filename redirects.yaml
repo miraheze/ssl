@@ -14,6 +14,8 @@ wwwpermanentfuturelab:
 mirahezewiki:
   url: 'miraheze.wiki'
   redirect: 'meta.miraheze.org'
+  path_redirects:
+    '/Fundraiser': 'meta.miraheze.org/wiki/Fundraiser'
   sslname: 'miraheze.wiki'
   ca: 'LetsEncrypt'
   disable_event: true
