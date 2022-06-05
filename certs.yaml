@@ -1621,3 +1621,7 @@ evilgeniuswikicom:
   url: 'evilgeniuswiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
+solaswikiorg:
+  url: 'solaswiki.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
