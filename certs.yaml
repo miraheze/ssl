@@ -1613,3 +1613,7 @@ landofliberos:
   url: 'landofliberos.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikieralackbfun:
+  url: 'wiki.era.lackb.fun'
+  ca: 'LetsEncrypt'
+  disable_event: false
