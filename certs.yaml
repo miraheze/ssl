@@ -1625,3 +1625,7 @@ solaswikiorg:
   url: 'solaswiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wikihylormctk:
+  url: 'wiki.hylormc.tk'
+  ca: 'LetsEncrypt'
+  disable_event: false
