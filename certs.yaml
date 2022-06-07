@@ -1633,3 +1633,7 @@ wikimastodonkr:
   url: 'wiki.mastodon.kr'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwdovearchives:
+  url: 'www.dovearchives.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
