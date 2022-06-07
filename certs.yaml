@@ -1629,3 +1629,7 @@ wikihylormctk:
   url: 'wiki.hylormc.tk'
   ca: 'LetsEncrypt'
   disable_event: false
+wikimastodonkr:
+  url: 'wiki.mastodon.kr'
+  ca: 'LetsEncrypt'
+  disable_event: false
