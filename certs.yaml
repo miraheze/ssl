@@ -1341,10 +1341,6 @@ txtdex:
   url: 'txt-dex.com'
   ca: 'LetsEncrypt'
   disable_event: false
-wikiripto:
-  url: 'wiki.ripto.gq'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wwwzetapedia:
   url: 'www.zetapedia.com'
   ca: 'LetsEncrypt'
