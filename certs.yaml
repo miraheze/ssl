@@ -1165,8 +1165,8 @@ wikimeowerorg:
   url: 'wiki.meower.org'
   ca: 'LetsEncrypt'
   disable_event: false
-clockupwikiorg:
-  url: 'clockupwiki.org'
+enclockupwikiorg:
+  url: 'en.clockupwiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
 wikileapitno:
