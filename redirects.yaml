@@ -114,12 +114,6 @@ iceriaorg:
   sslname: 'www.iceria.org'
   ca: 'LetsEncrypt'
   disable_event: true
-wwwerikapedia:
-  url: 'erikapedia.com'
-  redirect: 'www.erikapedia.com'
-  sslname: 'www.erikapedia.com'
-  ca: 'LetsEncrypt'
-  disable_event: true
 wwwpublictestwikicom:
   url: 'www.publictestwiki.com'
   redirect: 'publictestwiki.com'
@@ -262,12 +256,6 @@ wwwambientguitarorg:
   url: 'www.ambientguitar.org'
   redirect: 'ambientguitar.org'
   sslname: 'ambientguitar.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wwwaarthalcom:
-  url: 'www.aarthal.com'
-  redirect: 'aarthal.com'
-  sslname: 'aarthal.com'
   ca: 'LetsEncrypt'
   disable_event: false
 projectpatternscom:

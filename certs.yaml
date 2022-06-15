@@ -385,10 +385,6 @@ wikivinesheuorg:
   url: 'wiki.vinesh.eu.org'
   ca: 'LetsEncrypt'
   disable_event: false
-erikapediacom:
-  url: 'www.erikapedia.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 guiaesporonet:
   url: 'guia.esporo.net'
   ca: 'LetsEncrypt'
