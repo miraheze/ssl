@@ -1625,3 +1625,7 @@ wikimineboxfr:
   url: 'wiki.minebox.fr'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiexputracom:
+  url: 'wiki.exputra.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
