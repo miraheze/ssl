@@ -1593,10 +1593,6 @@ landofliberos:
   url: 'landofliberos.com'
   ca: 'LetsEncrypt'
   disable_event: false
-wikieralackbfun:
-  url: 'wiki.era.lackb.fun'
-  ca: 'LetsEncrypt'
-  disable_event: false
 evilgeniuswikicom:
   url: 'evilgeniuswiki.com'
   ca: 'LetsEncrypt'
@@ -1627,5 +1623,9 @@ wikimineboxfr:
   disable_event: false
 wikiexputracom:
   url: 'wiki.exputra.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
+wikierageuorg:
+  url: 'wiki.erag.eu.org'
   ca: 'LetsEncrypt'
   disable_event: false
