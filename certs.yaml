@@ -1629,3 +1629,7 @@ wikierageuorg:
   url: 'wiki.erag.eu.org'
   ca: 'LetsEncrypt'
   disable_event: false
+grkrepositoryarchiopediaorg:
+  url: 'grk.repository.archiopedia.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
