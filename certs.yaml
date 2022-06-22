@@ -1633,3 +1633,7 @@ grkrepositoryarchiopediaorg:
   url: 'grk.repository.archiopedia.org'
   ca: 'LetsEncrypt'
   disable_event: false
+itorabunnies1230com:
+  url: 'itora.bunnies1230.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
