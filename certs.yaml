@@ -1637,3 +1637,7 @@ itorabunnies1230com:
   url: 'itora.bunnies1230.com'
   ca: 'LetsEncrypt'
   disable_event: false
+turtletownca:
+  url: 'www.turtletown.ca'
+  ca: 'LetsEncrypt'
+  disable_event: false
