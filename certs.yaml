@@ -1633,3 +1633,7 @@ turtletownca:
   url: 'www.turtletown.ca'
   ca: 'LetsEncrypt'
   disable_event: false
+privacywikixyz:
+  url: 'privacywiki.xyz'
+  ca: 'LetsEncrypt'
+  disable_event: false
