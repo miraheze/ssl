@@ -12,10 +12,6 @@ antiguabarbudacalypso:
   url: 'antiguabarbudacalypso.com'
   ca: 'LetsEncrypt'
   disable_event: false
-spiral:
-  url: 'spiral.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
 permanentfuturelab:
   url: 'permanentfuturelab.wiki'
   ca: 'LetsEncrypt'
@@ -821,10 +817,6 @@ fortiswiki:
   url: 'fortis.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-factoriomodstk:
-  url: 'factorio-mods.tk'
-  ca: 'LetsEncrypt'
-  disable_event: false
 bluearchivewiki:
   url: 'bluearchive.wiki'
   ca: 'LetsEncrypt'
@@ -1081,10 +1073,6 @@ wikicontrolistesfr:
   url: 'wiki.controlistes.fr'
   ca: 'LetsEncrypt'
   disable_event: false
-wikimistleagueio:
-  url: 'wiki.mistleague.io'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikipacebiorg:
   url: 'wiki.pacebi.org'
   ca: 'LetsEncrypt'
@@ -1131,10 +1119,6 @@ scumwikicom:
   disable_event: false
 dkwikiorg:
   url: 'dkwiki.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
-sunrinnet:
-  url: 'sunrin.net'
   ca: 'LetsEncrypt'
   disable_event: false
 wikimeowerorg:
@@ -1239,10 +1223,6 @@ wikijkrstudiosorg:
   disable_event: false
 nottinghamwiki:
   url: 'nottingham.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wikithesohnlandgovinfo:
-  url: 'wiki.thesohnlandgov.info'
   ca: 'LetsEncrypt'
   disable_event: false
 m33ksml:
@@ -1483,10 +1463,6 @@ wwwwikitippde:
   disable_event: false
 wikiameristraliagovcom:
   url: 'wiki.ameristraliagov.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
-irishfreemaninfocom:
-  url: 'irishfreemaninfo.com'
   ca: 'LetsEncrypt'
   disable_event: false
 wikiinfomedia:
