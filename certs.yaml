@@ -1621,7 +1621,7 @@ puritwikipekr:
   url: 'puritwiki.p-e.kr'
   ca: 'LetsEncrypt'
   disable_event: false
-ffwiki.org:
+ffwikiorg:
   url: 'ffwiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
