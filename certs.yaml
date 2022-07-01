@@ -1617,3 +1617,7 @@ enwikiyriorg:
   url: 'en.wikiyri.org'
   ca: 'LetsEncrypt'
   disable_event: false
+puritwikipekr:
+  url: 'puritwiki.p-e.kr'
+  ca: 'LetsEncrypt'
+  disable_event: false
