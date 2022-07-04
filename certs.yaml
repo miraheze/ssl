@@ -1625,5 +1625,9 @@ phgalaxyeuorg:
   url: 'phgalaxy.eu.org
   ca: 'LetsEncrypt'
   disable_event: false
+grkarchiopediaorg:
+  url: 'grk.archiopedia.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 
