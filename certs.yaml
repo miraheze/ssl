@@ -1622,7 +1622,7 @@ ffwikiorg:
   ca: 'LetsEncrypt'
   disable_event: false
 phgalaxyeuorg:
-  url: 'phgalaxy.eu.org
+  url: 'phgalaxy.eu.org'
   ca: 'LetsEncrypt'
   disable_event: false
 grkarchiopediaorg:
