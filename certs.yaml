@@ -1633,5 +1633,9 @@ engarchiopediaorg:
   url: 'eng.archiopedia.org'
   ca: 'LetsEncrypt'
   disable_event: false
+enwikiretetga:
+  url: 'en.wikiretet.ga'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 
