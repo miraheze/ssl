@@ -486,6 +486,21 @@ recaptimewiki:
   ca: 'Sectigo'
   hsts: 'strict'
   disable_event: true
+rarewiki:
+  url: 'rare.miraheze.org'
+  redirect: 'rarewiki.org'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
+finalfantasywiki:
+  url: 'finalfantasy.miraheze.org'
+  redirect: 'ffwiki.org'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
+
 
 # orain.org to miraheze.org wiki redirects
 allthetropesorain:
