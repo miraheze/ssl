@@ -1629,5 +1629,9 @@ grkarchiopediaorg:
   url: 'grk.archiopedia.org'
   ca: 'LetsEncrypt'
   disable_event: false
+engarchiopediaorg:
+  url: 'eng.archiopedia.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 
