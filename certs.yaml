@@ -1637,3 +1637,7 @@ enwikiretetga:
   url: 'en.wikiretet.ga'
   ca: 'LetsEncrypt'
   disable_event: false
+slupefp64org:
+  url: 'slupe.fp64.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
