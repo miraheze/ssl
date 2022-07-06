@@ -1641,3 +1641,7 @@ slupefp64org:
   url: 'slupe.fp64.org'
   ca: 'LetsEncrypt'
   disable_event: false
+dkpediacom:
+  url: 'dkpedia.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
