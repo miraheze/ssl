@@ -500,6 +500,13 @@ finalfantasywiki:
   ca: 'Sectigo'
   hsts: 'strict'
   disable_event: true
+donkeykongwiki:
+  url: 'donkeykong.miraheze.org'
+  redirect: 'dkpedia.com'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
 
 
 # orain.org to miraheze.org wiki redirects
