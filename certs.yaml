@@ -1649,3 +1649,11 @@ drowikicom:
   url: 'drowiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikihsinseu:
+  url: 'wiki.hsins.eu'
+  ca: 'LetsEncrypt'
+  disable_event: false
+mcwikikirbygang:
+  url: 'mcwiki.kirbygang.tk'
+  ca: 'LetsEncrypt'
+  disable_event: false
