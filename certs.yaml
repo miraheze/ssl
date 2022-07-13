@@ -1669,3 +1669,11 @@ istpcomputingcom:
   url: 'istpcomputing.com'
   ca: 'LetsEncrypt'
   disable_event: false
+azwikiretetga:
+  url: 'az.wikiretet.ga'
+  ca: 'LetsEncrypt'
+  disable_event: false
+wwwwikiretetga:
+  url: 'www.wikiretet.ga'
+  ca: 'LetsEncrypt'
+  disable_event: false
