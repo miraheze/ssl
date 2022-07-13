@@ -1661,3 +1661,7 @@ sourceerageuorg:
   url: 'source.erag.eu.org'
   ca: 'LetsEncrypt'
   disable_event: false
+perpustaxaanwiki:
+  url: 'perpustaxaan.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
