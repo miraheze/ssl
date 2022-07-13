@@ -1665,3 +1665,7 @@ perpustaxaanwiki:
   url: 'perpustaxaan.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+istpcomputingcom:
+  url: 'istpcomputing.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
