@@ -1673,3 +1673,7 @@ wwwreplicationops:
   url: 'www.replication-ops.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiieg123com:
+  url: 'wiki.ieg123.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
