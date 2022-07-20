@@ -1677,3 +1677,11 @@ wikiieg123com:
   url: 'wiki.ieg123.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikisite97fr:
+  url: 'wiki.site97.fr'
+  ca: 'LetsEncrypt'
+  disable_event: false
+nexuswiki:
+  url: 'nexus.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
