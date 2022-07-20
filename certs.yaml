@@ -1669,8 +1669,8 @@ wwwwikiretetga:
   url: 'www.wikiretet.ga'
   ca: 'LetsEncrypt'
   disable_event: false
-wwwreplicationops:
-  url: 'www.replication-ops.com'
+replicationops:
+  url: 'replication-ops.com'
   ca: 'LetsEncrypt'
   disable_event: false
 wikiieg123com:
