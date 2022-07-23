@@ -1685,3 +1685,7 @@ nexuswiki:
   url: 'nexus.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+slymodsinfo:
+  url: 'slymods.info'
+  ca: 'LetsEncrypt'
+  disable_event: false
