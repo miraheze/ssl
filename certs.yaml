@@ -1697,3 +1697,7 @@ wikiauraxisco:
   url: 'wiki.auraxis.co'
   ca: 'LetsEncrypt'
   disable_event: false
+hastursnotebookorg:
+  url: 'hastursnotebook.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
