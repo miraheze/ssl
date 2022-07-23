@@ -1693,3 +1693,7 @@ wikimilkywayidlecom:
   url: 'wiki.milkywayidle.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiauraxisco:
+  url: 'wiki.auraxis.co'
+  ca: 'LetsEncrypt'
+  disable_event: false
