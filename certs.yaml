@@ -1689,3 +1689,7 @@ slymodsinfo:
   url: 'slymods.info'
   ca: 'LetsEncrypt'
   disable_event: false
+wikimilkywayidlecom:
+  url: 'wiki.milkywayidle.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
