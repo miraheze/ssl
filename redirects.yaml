@@ -527,6 +527,13 @@ taswinwiki:
   ca: 'Sectigo'
   hsts: 'strict'
   disable_event: true
+metroidwiki:
+  url: 'metroid.miraheze.org'
+  redirect: 'metroidpedia.com'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
 
 
 # orain.org to miraheze.org wiki redirects
