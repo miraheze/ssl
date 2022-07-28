@@ -1729,3 +1729,7 @@ ncuwikicom:
   url: 'ncuwiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
+chakramoe:
+  url: 'chakra.moe'
+  ca: 'LetsEncrypt'
+  disable_event: false
