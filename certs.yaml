@@ -1725,3 +1725,7 @@ metroidpediacom:
   url: 'metroidpedia.com'
   ca: 'LetsEncrypt'
   disable_event: false
+ncuwikicom:
+  url: 'ncuwiki.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
