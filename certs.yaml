@@ -1721,3 +1721,7 @@ mazakwikiorg:
   url: 'mazakwiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
+metroidpediacom:
+  url: 'metroidpedia.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
