@@ -1713,3 +1713,7 @@ wikinjcneuorg:
   url: '321nails.crpteam.club'
   ca: 'LetsEncrypt'
   disable_event: false
+wikipuucraftnet:
+  url: 'wiki.puucraft.net'
+  ca: 'LetsEncrypt'
+  disable_event: false
