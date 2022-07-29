@@ -1737,3 +1737,7 @@ smafallfestorg:
   url: 'smafallfest.org'
   ca: 'LetsEncrypt'
   disable_event: false
+creativecommonsid:
+  url: 'creativecommons.id'
+  ca: 'LetsEncrypt'
+  disable_event: false
