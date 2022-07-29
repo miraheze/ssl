@@ -1741,3 +1741,7 @@ creativecommonsid:
   url: 'creativecommons.id'
   ca: 'LetsEncrypt'
   disable_event: false
+houkai2cyou:
+  url: 'houkai2.cyou'
+  ca: 'LetsEncrypt'
+  disable_event: false
