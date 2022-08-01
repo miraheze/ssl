@@ -1745,3 +1745,7 @@ houkai2cyou:
   url: 'houkai2.cyou'
   ca: 'LetsEncrypt'
   disable_event: false
+elsterclopediemarithaimenl:
+  url: 'elsterclopedie.marithaime.nl'
+  ca: 'LetsEncrypt'
+  disable_event: false
