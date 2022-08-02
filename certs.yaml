@@ -72,10 +72,6 @@ autocountsoft:
   url: 'wiki.autocountsoft.com'
   ca: 'LetsEncrypt'
   disable_event: false
-kourouklides:
-  url: 'wiki.kourouklides.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 adadevelopersacademy:
   url: 'adadevelopersacademy.wiki'
   ca: 'LetsEncrypt'
