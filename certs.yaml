@@ -1745,3 +1745,7 @@ arcanewaterswikiorg:
   url: 'arcanewaterswiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
+yokaiwatchwikicom:
+  url: 'yokaiwatchwiki.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
