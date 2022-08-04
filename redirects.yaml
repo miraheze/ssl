@@ -534,6 +534,13 @@ metroidwiki:
   ca: 'Sectigo'
   hsts: 'strict'
   disable_event: true
+yokaiwatchwiki:
+  url: 'yokaiwatch.miraheze.org'
+  redirect: 'yokaiwatchwiki.com'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
 
 
 # orain.org to miraheze.org wiki redirects
