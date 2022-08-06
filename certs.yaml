@@ -1753,3 +1753,7 @@ itgwiki:
   url: 'itg.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+fidkoyomi-yanet:
+  url: 'fid.koyomi-ya.net'
+  ca: 'LetsEncrypt'
+  disable_event: false
