@@ -1749,3 +1749,7 @@ yokaiwatchwikicom:
   url: 'yokaiwatchwiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
+itgwiki:
+  url: 'itg.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
