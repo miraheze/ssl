@@ -1757,3 +1757,7 @@ fidkoyomi-yanet:
   url: 'fid.koyomi-ya.net'
   ca: 'LetsEncrypt'
   disable_event: false
+sonaponala:
+  url: 'sona.pona.la'
+  ca: 'LetsEncrypt'
+  disable_event: false
