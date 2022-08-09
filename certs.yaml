@@ -5,7 +5,7 @@ betaheze:
   additional_domain: '*.betaheze.org'
   sslname: 'betaheze.org'
   ca: 'LetsEncrypt'
-  disable_event: false
+  disable_event: true
 
 # Production
 antiguabarbudacalypso:
