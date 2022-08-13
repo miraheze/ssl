@@ -122,12 +122,6 @@ wwwpublictestwikicom:
   sslname: 'publictestwiki.com'
   ca: 'LetsEncrypt'
   disable_event: true
-wwwfraterniterebellioncom:
-  url: 'www.fraterniterebellion.com'
-  redirect: 'wiki.fraterniterebellion.com'
-  sslname: 'wiki.fraterniterebellion.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wwwopendatascotorg:
   url: 'www.opendatascot.org'
   redirect: 'opendatascot.org'
@@ -156,18 +150,6 @@ reviwikiinfo:
   url: 'reviwiki.info'
   redirect: 'revi.wiki'
   sslname: 'reviwiki.info'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wwwpornwikiorg:
-  url: 'www.pornwiki.org'
-  redirect: 'en.pornwiki.org'
-  sslname: 'www.pornwiki.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
-pornwikiorg:
-  url: 'pornwiki.org'
-  redirect: 'en.pornwiki.org'
-  sslname: 'pornwiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
 wwwtrollpastacom:

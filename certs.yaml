@@ -417,10 +417,6 @@ dcmultiversedcwikiscom:
   url: 'dc-multiverse.dcwikis.com'
   ca: 'LetsEncrypt'
   disable_event: false
-wikifraterniterebellioncom:
-  url: 'wiki.fraterniterebellion.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikiclimatechangeai:
   url: 'wiki.climatechange.ai'
   ca: 'LetsEncrypt'
@@ -629,14 +625,6 @@ wikimeregoscom:
   url: 'wiki.meregos.com'
   ca: 'LetsEncrypt'
   disable_event: false
-enpornwikiorg:
-  url: 'en.pornwiki.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
-filespornwikiorg:
-  url: 'files.pornwiki.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikiyumekaicu:
   url: 'wiki.yumeka.icu'
   ca: 'LetsEncrypt'
@@ -801,10 +789,6 @@ pwikidrydraytonvillagehallorguk:
   url: 'pwiki.drydraytonvillagehall.org.uk'
   ca: 'LetsEncrypt'
   disable_event: false
-usahaclick:
-  url: 'usaha.click'
-  ca: 'LetsEncrypt'
-  disable_event: false
 fortiswiki:
   url: 'fortis.wiki'
   ca: 'LetsEncrypt'
@@ -849,10 +833,6 @@ withcptrabid:
   url: 'with.cpt-ra.bid'
   ca: 'LetsEncrypt'
   disable_event: false
-sbswiki:
-  url: 'sbs.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wwwjourneythewordwiki:
   url: 'www.journeytheword.wiki'
   ca: 'LetsEncrypt'
@@ -867,14 +847,6 @@ steamdecklinuxwiki:
   disable_event: false
 wikiasterixcf:
   url: 'wiki-asterix.cf'
-  ca: 'LetsEncrypt'
-  disable_event: false
-otcgml:
-  url: 'otcg.ml'
-  ca: 'LetsEncrypt'
-  disable_event: false
-rww2org:
-  url: 'rww2.org'
   ca: 'LetsEncrypt'
   disable_event: false
 staratlaswikiorg:
@@ -1037,10 +1009,6 @@ wikiparappadev:
   url: 'wiki.parappa.dev'
   ca: 'LetsEncrypt'
   disable_event: false
-docsetk:
-  url: 'docse.tk'
-  ca: 'LetsEncrypt'
-  disable_event: false
 notesmridulpmin:
   url: 'notes.mridulpm.in'
   ca: 'LetsEncrypt'
@@ -1063,10 +1031,6 @@ wikipacebiorg:
   disable_event: false
 wikiprojectdiablo2com:
   url: 'wiki.projectdiablo2.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wikiwallymercom:
-  url: 'wiki.wallymer.com'
   ca: 'LetsEncrypt'
   disable_event: false
 mcdevgrantlmulxyz:
@@ -1241,10 +1205,6 @@ sammaditthicyou:
   url: 'sammaditthi.cyou'
   ca: 'LetsEncrypt'
   disable_event: false
-dndbellinrattinit:
-  url: 'dnd.bellinrattin.it'
-  ca: 'LetsEncrypt'
-  disable_event: false
 arrieretoilefr:
   url: 'arrieretoile.fr'
   ca: 'LetsEncrypt'
@@ -1267,10 +1227,6 @@ hifamepedia:
   disable_event: false
 commonwealth0um:
   url: 'commonwealth.0um.io'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wikidereric:
-  url: 'wiki.dereric.gq'
   ca: 'LetsEncrypt'
   disable_event: false
 txtdex:
@@ -1439,10 +1395,6 @@ datawikionline:
   disable_event: false
 swestsorg:
   url: 'swests.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wwwwikitippde:
-  url: 'www.wikitipp.de'
   ca: 'LetsEncrypt'
   disable_event: false
 wikiameristraliagovcom:
