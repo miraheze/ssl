@@ -1769,3 +1769,7 @@ wwwsekaipediaorg:
   url: 'www.sekaipedia.org'
   ca: 'LetsEncrypt'
   disable_event: false
+jakkidversepoggay:
+  url: 'jakkidverse.pog.gay'
+  ca: 'LetsEncrypt'
+  disable_event: false
