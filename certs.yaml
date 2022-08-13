@@ -1761,3 +1761,7 @@ sonaponala:
   url: 'sona.pona.la'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiartmechanicumcom:
+  url: 'wiki.artmechanicum.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
