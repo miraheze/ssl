@@ -523,6 +523,13 @@ yokaiwatchwiki:
   ca: 'Sectigo'
   hsts: 'strict'
   disable_event: true
+projectsekaiwiki:
+  url: 'projectsekai.miraheze.org'
+  redirect: 'www.sekaipedia.org'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
 
 
 # orain.org to miraheze.org wiki redirects
