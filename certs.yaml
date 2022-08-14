@@ -1705,3 +1705,7 @@ jakkidversepoggay:
   url: 'jakkidverse.pog.gay'
   ca: 'LetsEncrypt'
   disable_event: false
+wikibluevertigoorg:
+  url: 'wiki.bluevertigo.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
