@@ -182,24 +182,12 @@ wwwethenewiki:
   sslname: 'ethene.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-wwwfortiswiki:
-  url: 'www.fortis.wiki'
-  redirect: 'fortis.wiki'
-  sslname: 'fortis.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wwwmwcosmoscom:
   url: 'www.mwcosmos.com'
   redirect: 'mwcosmos.com'
   sslname: 'mwcosmos.com'
   ca: 'LetsEncrypt'
   disable_event: false
-fortismirahezeorg:
-  url: 'fortis.miraheze.org'
-  redirect: 'fortis.wiki'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'LetsEncrypt'
-  disable_event: true
 journeythewordwiki:
   url: 'journeytheword.wiki'
   redirect: 'www.journeytheword.wiki'
