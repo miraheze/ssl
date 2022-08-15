@@ -837,10 +837,6 @@ staratlaswikiorg:
   url: 'staratlaswiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
-idaltiluniumxyz:
-  url: 'id.altilunium.xyz'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikialathramccom:
   url: 'wiki.alathramc.com'
   ca: 'LetsEncrypt'
