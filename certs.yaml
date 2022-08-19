@@ -841,10 +841,6 @@ wikialathramccom:
   url: 'wiki.alathramc.com'
   ca: 'LetsEncrypt'
   disable_event: false
-vrcdevwiki:
-  url: 'vrcdev.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
 vaultagentisaicom:
   url: 'vault.agentisai.com'
   ca: 'LetsEncrypt'
