@@ -279,6 +279,12 @@ wwwistpcomputingcom:
   sslname: 'istpcomputing.com'
   ca: 'LetsEncrypt'
   disable_event: false
+dlfmwikitop:
+  url: 'www.dlfm-wiki.top'
+  redirect: 'dlfm-wiki.top'
+  sslname: 'dlfm-wiki.top'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # *.miraheze.org to *.miraheze.org wiki redirects
 hellointernetwiki:

@@ -1701,3 +1701,19 @@ wikibluevertigoorg:
   url: 'wiki.bluevertigo.org'
   ca: 'LetsEncrypt'
   disable_event: false
+psychevosorg:
+  url: 'psychevos.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
+wikiyermocapital:
+  url: 'wiki.yermocapital.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
+removededmml:
+  url: 'removededm.ml'
+  ca: 'LetsEncrypt'
+  disable_event: false
+dlfmwikitop:
+  url: 'dlfm-wiki.top'
+  ca: 'LetsEncrypt'
+  disable_event: false
