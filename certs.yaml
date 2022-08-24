@@ -1721,3 +1721,7 @@ rosettacodeorg:
   url: 'rosettacode.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiultravanillaworld:
+  url: 'wiki.ultravanilla.world'
+  ca: 'LetsEncrypt'
+  disable_event: false
