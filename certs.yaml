@@ -1725,3 +1725,7 @@ wikiultravanillaworld:
   url: 'wiki.ultravanilla.world'
   ca: 'LetsEncrypt'
   disable_event: false
+apuntestk:
+  url: 'apuntes.tk'
+  ca: 'LetsEncrypt'
+  disable_event: false
