@@ -1477,10 +1477,6 @@ trwikiretetga:
   url: 'tr.wikiretet.ga'
   ca: 'LetsEncrypt'
   disable_event: false
-wikimineboxfr:
-  url: 'wiki.minebox.fr'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikiexputracom:
   url: 'wiki.exputra.com'
   ca: 'LetsEncrypt'
