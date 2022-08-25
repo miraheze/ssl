@@ -124,10 +124,6 @@ wikiwhentheycryorg:
   url: 'wiki.whentheycry.org'
   ca: 'LetsEncrypt'
   disable_event: false
-tensegritywiki:
-  url: 'tensegritywiki.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 openhatch:
   url: 'wiki.openhatch.org'
   ca: 'LetsEncrypt'
