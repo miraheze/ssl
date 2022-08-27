@@ -1733,3 +1733,7 @@ lorecheckitws:
   url: 'lore.checkit.ws'
   ca: 'LetsEncrypt'
   disable_event: false
+wikimanuelortega:
+  url: 'wiki.manuelorte.ga'
+  ca: 'LetsEncrypt'
+  disable_event: false
