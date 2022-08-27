@@ -531,6 +531,20 @@ projectsekaiwiki:
   ca: 'Sectigo'
   hsts: 'strict'
   disable_event: true
+crashspyrowikiredir:
+  url: 'crashspyro.miraheze.org'
+  redirect: 'crashspyrowiki.com'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
+segawikiredir:
+  url: 'sega.miraheze.org'
+  redirect: 'segawiki.com'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
 
 
 # orain.org to miraheze.org wiki redirects

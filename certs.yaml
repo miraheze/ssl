@@ -1725,3 +1725,7 @@ crashspyrowikicom:
   url: 'crashspyrowiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
+segawikicom:
+  url: 'segawiki.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
