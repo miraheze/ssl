@@ -1729,3 +1729,7 @@ segawikicom:
   url: 'segawiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
+lorecheckitws:
+  url: 'lore.checkit.ws'
+  ca: 'LetsEncrypt'
+  disable_event: false
