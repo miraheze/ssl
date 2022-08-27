@@ -1721,3 +1721,7 @@ apuntestk:
   url: 'apuntes.tk'
   ca: 'LetsEncrypt'
   disable_event: false
+crashspyrowikicom:
+  url: 'crashspyrowiki.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
