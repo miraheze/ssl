@@ -1737,3 +1737,7 @@ wikimanuelortega:
   url: 'wiki.manuelorte.ga'
   ca: 'LetsEncrypt'
   disable_event: false
+techexputracom:
+  url: 'tech.exputra.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
