@@ -1745,3 +1745,7 @@ apeirologycom:
   url: 'apeirology.com'
   ca: 'LetsEncrypt'
   disable_event: false
+polandballwiki:
+  url: 'polandball.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
