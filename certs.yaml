@@ -977,10 +977,6 @@ grayravenscom:
   url: 'grayravens.com'
   ca: 'LetsEncrypt'
   disable_event: false
-wikiparappadev:
-  url: 'wiki.parappa.dev'
-  ca: 'LetsEncrypt'
-  disable_event: false
 notesmridulpmin:
   url: 'notes.mridulpm.in'
   ca: 'LetsEncrypt'
