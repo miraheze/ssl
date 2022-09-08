@@ -1761,3 +1761,7 @@ translatepetrawikiorg:
   url: 'translate.petrawiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wikicryptoroyaleone:
+  url: 'wiki.cryptoroyale.one'
+  ca: 'LetsEncrypt'
+  disable_event: false
