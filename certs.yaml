@@ -1765,3 +1765,7 @@ wikicryptoroyaleone:
   url: 'wiki.cryptoroyale.one'
   ca: 'LetsEncrypt'
   disable_event: false
+sparabelwiki:
+  url: 'sparabel.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
