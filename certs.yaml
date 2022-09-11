@@ -1773,3 +1773,7 @@ wikidwarvesrpcom:
   url: 'wiki.dwarvesrp.com'
   ca: 'LetsEncrypt'
   disable_event: false
+fallofsanctuarycom:
+  url: 'fallofsanctuary.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
