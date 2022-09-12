@@ -557,7 +557,7 @@ segawikiredir:
   ca: 'Sectigo'
   hsts: 'strict'
   disable_event: true
-datafamepediaorg:
+datafamepediaorgredirect:
   url: 'famedata.org'
   redirect: 'data.famepedia.org'
   sslname: 'famedata.org'
