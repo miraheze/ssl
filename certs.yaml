@@ -557,8 +557,8 @@ celestewiki:
   url: 'celeste.ink'
   ca: 'LetsEncrypt'
   disable_event: false
-famedataorg:
-  url: 'famedata.org'
+datafamepediaorg:
+  url: 'data.famepedia.org'
   ca: 'LetsEncrypt'
   disable_event: false
 gpct777cf:
