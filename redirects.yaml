@@ -303,6 +303,12 @@ petrawikiorg:
   sslname: 'en.petrawiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
+datafamepediaorgredirect:
+  url: 'famedata.org'
+  redirect: 'data.famepedia.org'
+  sslname: 'famedata.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # *.miraheze.org to *.miraheze.org wiki redirects
 hellointernetwiki:
@@ -557,12 +563,6 @@ segawikiredir:
   ca: 'Sectigo'
   hsts: 'strict'
   disable_event: true
-datafamepediaorgredirect:
-  url: 'famedata.org'
-  redirect: 'data.famepedia.org'
-  sslname: 'famedata.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 
 
 # orain.org to miraheze.org wiki redirects
