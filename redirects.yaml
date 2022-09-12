@@ -203,7 +203,7 @@ polandballwikicom:
   disable_event: false
 wwwfamedataorg:
   url: 'www.famedata.org'
-  redirect: 'famedata.org'
+  redirect: 'data.famepedia.org'
   sslname: 'famedata.org'
   ca: 'LetsEncrypt'
   disable_event: false
@@ -557,6 +557,12 @@ segawikiredir:
   ca: 'Sectigo'
   hsts: 'strict'
   disable_event: true
+datafamepediaorg:
+  url: 'famedata.org'
+  redirect: 'data.famepedia.org'
+  sslname: 'famedata.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 
 # orain.org to miraheze.org wiki redirects
