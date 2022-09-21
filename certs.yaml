@@ -1781,3 +1781,7 @@ enpornwikiorg:
   url: 'en.pornwiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
+filespornwikiorg:
+  url: 'files.pornwiki.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
