@@ -317,8 +317,8 @@ wwwpornwikiorg:
   disable_event: false
 pornwikiorg:
   url: 'pornwiki.org'
-  redirect: 'www.pornwiki.org'
-  sslname: 'www.pornwiki.org'
+  redirect: 'en.pornwiki.org'
+  sslname: 'en.pornwiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
 
