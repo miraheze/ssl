@@ -1777,3 +1777,7 @@ fallofsanctuarycom:
   url: 'fallofsanctuary.com'
   ca: 'LetsEncrypt'
   disable_event: false
+enpornwikiorg:
+  url: 'en.pornwiki.org'
+  ca: 'LetsEncrypt'
+  disable_event: false

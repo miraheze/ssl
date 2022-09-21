@@ -309,6 +309,18 @@ datafamepediaorgredirect:
   sslname: 'famedata.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwpornwikiorg:
+  url: 'www.pornwiki.org'
+  redirect: 'en.pornwiki.org'
+  sslname: 'en.pornwiki.org'
+  ca: 'LetsEncrypt
+  disable_event: false
+pornwikiorg:
+  url: 'pornwiki.org'
+  redirect: 'en.pornwiki.org'
+  sslname: 'en.pornwiki.org'
+  ca: 'LetsEncrypt
+  disable_event: false
 
 # *.miraheze.org to *.miraheze.org wiki redirects
 hellointernetwiki:
