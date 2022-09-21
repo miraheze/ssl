@@ -313,7 +313,7 @@ wwwpornwikiorg:
   url: 'www.pornwiki.org'
   redirect: 'en.pornwiki.org'
   sslname: 'en.pornwiki.org'
-  ca: 'LetsEncrypt
+  ca: 'LetsEncrypt'
   disable_event: false
 pornwikiorg:
   url: 'pornwiki.org'
