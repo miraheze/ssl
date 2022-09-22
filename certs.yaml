@@ -1785,3 +1785,8 @@ filespornwikiorg:
   url: 'files.pornwiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wikikabupediacom:
+  url: 'wiki.kabupedia.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
+
