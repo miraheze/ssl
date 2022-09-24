@@ -1789,3 +1789,7 @@ wikikabupediacom:
   url: 'wiki.kabupedia.com'
   ca: 'LetsEncrypt'
   disable_event: false
+privateyahyabdxyz:
+  url: 'private.yahyabd.xyz'
+  ca: 'LetsEncrypt'
+  disable_event: false
