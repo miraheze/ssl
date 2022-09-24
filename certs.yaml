@@ -1793,3 +1793,7 @@ privateyahyabdxyz:
   url: 'private.yahyabd.xyz'
   ca: 'LetsEncrypt'
   disable_event: false
+xndj1axyz:
+  url: 'xn--dj1a.xyz'
+  ca: 'LetsEncrypt'
+  disable_event: false
