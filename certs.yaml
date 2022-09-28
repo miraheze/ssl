@@ -1797,3 +1797,7 @@ xndj1axyz:
   url: 'xn--dj1a.xyz'
   ca: 'LetsEncrypt'
   disable_event: false
+minescapewiki:
+  url: 'minescape.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
