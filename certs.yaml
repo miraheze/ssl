@@ -1801,3 +1801,7 @@ minescapewiki:
   url: 'minescape.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wikitempleofludusorg:
+  url: 'wiki.templeofludus.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
