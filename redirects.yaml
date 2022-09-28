@@ -575,6 +575,13 @@ segawikiredir:
   ca: 'Sectigo'
   hsts: 'strict'
   disable_event: true
+closinglogos:
+  url: 'closinglogosgroup.miraheze.org'
+  redirect: 'avid.miraheze.org'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
 
 
 # orain.org to miraheze.org wiki redirects
