@@ -873,10 +873,6 @@ wikisimorghme:
   url: 'wiki.simorgh.me'
   ca: 'LetsEncrypt'
   disable_event: false
-popirainfo:
-  url: 'popira.info'
-  ca: 'LetsEncrypt'
-  disable_event: false
 commonspolandballwikicom:
   url: 'commons.polandballwiki.com'
   ca: 'LetsEncrypt'
@@ -901,10 +897,6 @@ wikipotabicom:
   url: 'wiki.potabi.com'
   ca: 'LetsEncrypt'
   disable_event: false
-jppopirainfo:
-  url: 'jp.popira.info'
-  ca: 'LetsEncrypt'
-  disable_event: false
 commonsballmediaorg:
   url: 'commons.ballmedia.org'
   ca: 'LetsEncrypt'
@@ -923,14 +915,6 @@ fanonpolandballwikicom:
   disable_event: false
 centralballmediaorg:
   url: 'central.ballmedia.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wikileaguecf:
-  url: 'wikileague.cf'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wwwconnorjwatnet:
-  url: 'www.connorjwat.net'
   ca: 'LetsEncrypt'
   disable_event: false
 ambientguitarorg:
@@ -1041,10 +1025,6 @@ wikimeowerorg:
   url: 'wiki.meower.org'
   ca: 'LetsEncrypt'
   disable_event: false
-enclockupwikiorg:
-  url: 'en.clockupwiki.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikileapitno:
   url: 'wiki.leapit.no'
   ca: 'LetsEncrypt'
@@ -1107,10 +1087,6 @@ dragonquestwikicom:
   disable_event: false
 crocwikicom:
   url: 'crocwiki.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
-experimycocom:
-  url: 'experimyco.com'
   ca: 'LetsEncrypt'
   disable_event: false
 wikimsnldcom:
@@ -1191,10 +1167,6 @@ theapplesecretswiki:
   disable_event: false
 hifamepedia:
   url: 'hi.famepedia.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
-commonwealth0um:
-  url: 'commonwealth.0um.io'
   ca: 'LetsEncrypt'
   disable_event: false
 txtdex:
@@ -1393,10 +1365,6 @@ rollofarms:
   url: 'roll-of-arms.com'
   ca: 'LetsEncrypt'
   disable_event: false
-robloxwiki:
-  url: 'roblox-wiki.tk'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikiyahyabdxyz:
   url: 'wiki.yahyabd.xyz'
   ca: 'LetsEncrypt'
@@ -1577,10 +1545,6 @@ replicationops:
   url: 'replication-ops.com'
   ca: 'LetsEncrypt'
   disable_event: false
-wikiieg123com:
-  url: 'wiki.ieg123.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikisite97fr:
   url: 'wiki.site97.fr'
   ca: 'LetsEncrypt'
@@ -1723,14 +1687,6 @@ crashspyrowikicom:
   disable_event: false
 segawikicom:
   url: 'segawiki.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
-lorecheckitws:
-  url: 'lore.checkit.ws'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wikimanuelortega:
-  url: 'wiki.manuelorte.ga'
   ca: 'LetsEncrypt'
   disable_event: false
 techexputracom:
