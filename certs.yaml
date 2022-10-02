@@ -1761,3 +1761,7 @@ wikitempleofludusorg:
   url: 'wiki.templeofludus.org'
   ca: 'LetsEncrypt'
   disable_event: false
+trainscnrailwikiorg:
+  url: 'trains.cnrailwiki.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
