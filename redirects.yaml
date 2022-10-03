@@ -589,6 +589,13 @@ templatewiki:
   ca: 'Sectigo'
   hsts: 'strict'
   disable_event: true
+schizoidnightmareswikiredir:
+  url: 'schizoidnightmares.miraheze.org'
+  redirect: 'schizoidnightmares.wiki'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
 
 
 # orain.org to miraheze.org wiki redirects
