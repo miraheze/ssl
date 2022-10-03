@@ -469,10 +469,6 @@ minecraftathomewiki:
   url: 'wiki.minecraftathome.com'
   ca: 'LetsEncrypt'
   disable_event: false
-entrancewikiwiki:
-  url: 'wikipariksha.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 historyestillorg:
   url: 'history.estill.org'
   ca: 'LetsEncrypt'
@@ -835,10 +831,6 @@ staratlaswikiorg:
   disable_event: false
 wikialathramccom:
   url: 'wiki.alathramc.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
-vaultagentisaicom:
-  url: 'vault.agentisai.com'
   ca: 'LetsEncrypt'
   disable_event: false
 wikieversdcom:
@@ -1241,10 +1233,6 @@ wikivirtualjet:
   url: 'wiki.virtualjet.net'
   ca: 'LetsEncrypt'
   disable_event: false
-wwwagentisaicom:
-  url: 'www.agentisai.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 royalwikiorg:
   url: 'royal-wiki.org'
   ca: 'LetsEncrypt'
@@ -1339,10 +1327,6 @@ swestsorg:
   disable_event: false
 wikiinfomedia:
   url: 'wiki.infomedia.co.uk'
-  ca: 'LetsEncrypt'
-  disable_event: false
-cloudwikiorg:
-  url: 'cloudwiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
 evilwiki:
