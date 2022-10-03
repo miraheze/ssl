@@ -1777,3 +1777,7 @@ widedataorg:
   url: 'widedata.org'
   ca: 'LetsEncrypt'
   disable_event: false
+witchingworld:
+  url: 'witchingworld.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
