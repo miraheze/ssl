@@ -1773,3 +1773,7 @@ schizoidnightmareswiki:
   url: 'schizoidnightmares.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+widedataorg:
+  url: 'widedata.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
