@@ -1765,3 +1765,7 @@ rarewarewikicom:
   url: 'rarewarewiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
+fidkoyminet:
+  url: 'fid.koymi.net'
+  ca: 'LetsEncrypt'
+  disable_event: false
