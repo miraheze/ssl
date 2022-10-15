@@ -501,7 +501,7 @@ recaptimewiki:
   disable_event: true
 rarewiki:
   url: 'rare.miraheze.org'
-  redirect: 'rarewiki.org'
+  redirect: 'rarewarewiki.com'
   sslname: 'wildcard.miraheze.org-2020-2'
   ca: 'Sectigo'
   hsts: 'strict'
