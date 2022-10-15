@@ -1769,3 +1769,7 @@ fidkoyminet:
   url: 'fid.koymi.net'
   ca: 'LetsEncrypt'
   disable_event: false
+resourcesafricanvisionorg:
+  url: 'resources.africanvision.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
