@@ -1773,3 +1773,7 @@ resourcesafricanvisionorg:
   url: 'resources.africanvision.org'
   ca: 'LetsEncrypt'
   disable_event: false
+enclockupwikiorg:
+  url: 'en.clockupwiki.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
