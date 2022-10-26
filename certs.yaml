@@ -1783,7 +1783,7 @@ fotnswikicom:
   disable_event: false
 wikizahirame:
   url: 'wiki.zahira.me'
-  ca: 'LetsEncrypt
+  ca: 'LetsEncrypt'
   disable_event: false
 wikiblockatecom:
   url: 'wiki.blockate.com'
