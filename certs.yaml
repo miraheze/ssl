@@ -1781,3 +1781,7 @@ fotnswikicom:
   url: 'fotnswiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikizahirame:
+  url: 'wiki.zahira.me'
+  ca: 'LetsEncrypt
+  disable_event: false
