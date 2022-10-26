@@ -1785,3 +1785,7 @@ wikizahirame:
   url: 'wiki.zahira.me'
   ca: 'LetsEncrypt
   disable_event: false
+wikiblockatecom:
+  url: 'wiki.blockate.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
