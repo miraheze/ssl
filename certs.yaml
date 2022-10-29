@@ -1797,3 +1797,7 @@ wikilimarunet:
   url: 'wiki.limaru.net'
   ca: 'LetsEncrypt'
   disable_event: false
+acgnsfdeveuorg:
+  url: 'acgn.sfdev.eu.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
