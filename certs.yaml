@@ -1801,3 +1801,7 @@ acgnsfdeveuorg:
   url: 'acgn.sfdev.eu.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wikikinkpediaorg:
+  url: 'wiki.kinkpedia.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
