@@ -317,6 +317,12 @@ pornwikiorg:
   disable_event: false
 
 # *.miraheze.org to *.miraheze.org wiki redirects
+wwwredirect:
+  url: 'www.miraheze.org'
+  redirect: 'miraheze.org'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  disable_event: true
 hellointernetwiki:
   url: 'hellointernet.miraheze.org'
   redirect: 'podpedia.miraheze.org/wiki/Portal:HelloInternet'
