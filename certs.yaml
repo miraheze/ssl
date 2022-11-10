@@ -1813,3 +1813,11 @@ bankerpediacom:
   url: 'bankerpedia.com'
   ca: 'LetsEncrypt'
   disable_event: false
+ewgfwiki:
+  url: 'ewgf.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
+twistwoodtaleswikicom:
+  url: 'www.twistwoodtaleswiki.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
