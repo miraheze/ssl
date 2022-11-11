@@ -1821,3 +1821,7 @@ twistwoodtaleswikicom:
   url: 'www.twistwoodtaleswiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
+tinkrpediacom:
+  url: 'tinkrpedia.com.crt'
+  ca: 'LetsEncrypt'
+  disable_event: false
