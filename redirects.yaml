@@ -47,12 +47,6 @@ piwik:
   ca: 'Sectigo'
   hsts: 'strict'
   disable_event: true
-wwwmarinebiodiversitymatrix:
-  url: 'www.marinebiodiversitymatrix.org'
-  redirect: 'marinebiodiversitymatrix.org'
-  sslname: 'marinebiodiversitymatrix.org'
-  ca: 'LetsEncrypt'
-  disable_event: true
 wikithesimswikicom:
   url: 'wiki.thesimswiki.com'
   redirect: 'www.thesimswiki.com'
@@ -123,12 +117,6 @@ wwwpublictestwikicom:
   sslname: 'publictestwiki.com'
   ca: 'LetsEncrypt'
   disable_event: true
-wwwopendatascotorg:
-  url: 'www.opendatascot.org'
-  redirect: 'opendatascot.org'
-  sslname: 'opendatascot.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 christipedianl:
   url: 'christipedia.nl'
   redirect: 'www.christipedia.nl'
@@ -213,18 +201,6 @@ enfamepediaorg-1:
   sslname: 'en.famepedia.org'
   ca: 'LetsEncrypt'
   disable_event: false
-ballmediaorg:
-  url: 'ballmedia.org'
-  redirect: 'central.ballmedia.org'
-  sslname: 'ballmedia.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wwwballmediaorg:
-  url: 'www.ballmedia.org'
-  redirect: 'central.ballmedia.org'
-  sslname: 'ballmedia.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wwwambientguitarorg:
   url: 'www.ambientguitar.org'
   redirect: 'ambientguitar.org'
@@ -235,12 +211,6 @@ projectpatternscom:
   url: 'www.project-patterns.com'
   redirect: 'project-patterns.com'
   sslname: 'project-patterns.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
-scum-wikicom:
-  url: 'www.scum-wiki.com'
-  redirect: 'scum-wiki.com'
-  sslname: 'scum-wiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
 proficientprofitclick:
