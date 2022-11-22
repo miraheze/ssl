@@ -255,12 +255,6 @@ wwwrosettacodeorg:
   sslname: 'rosettacode.org'
   ca: 'LetsEncrypt'
   disable_event: false
-wwwpetrawikiorg:
-  url: 'www.petrawiki.org'
-  redirect: 'en.petrawiki.org'
-  sslname: 'en.petrawiki.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 petrawikiorg:
   url: 'petrawiki.org'
   redirect: 'en.petrawiki.org'
