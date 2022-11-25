@@ -1,7 +1,7 @@
 -----BEGIN CERTIFICATE-----
-MIIGIjCCBQqgAwIBAgISAwaWlLoMgP3W03BnELbBxI6vMA0GCSqGSIb3DQEBCwUA
+MIIGIjCCBQqgAwIBAgISAyOCSEnTEXQndNEOVuQAYIsaMA0GCSqGSIb3DQEBCwUA
 MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
-EwJSMzAeFw0yMjExMjUyMjAwNDNaFw0yMzAyMjMyMjAwNDJaMBkxFzAVBgNVBAMT
+EwJSMzAeFw0yMjExMjUyMjU1MzZaFw0yMzAyMjMyMjU1MzVaMBkxFzAVBgNVBAMT
 DmFvOTAucGluaG8ub3JnMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEA
 x7nFJ50FZHr9VlpgwETKmetKW3ZYQYygUi3mbvW7a+xUcDlEcRXULM/DIuqXIOQ2
 bsqvtHyKKEp8iYYBn0ofEu9EVpV+Mg3tqoTG12IGyoQv+lzWaBTZV1ECgyHMB7N0
@@ -21,17 +21,17 @@ AQUFBzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6
 Ly9yMy5pLmxlbmNyLm9yZy8wGQYDVR0RBBIwEIIOYW85MC5waW5oby5vcmcwTAYD
 VR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYa
 aHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEEBgorBgEEAdZ5AgQCBIH1BIHy
-APAAdgB6MoxU2LcttiDqOOBSHumEFnAyE4VNO9IrwTpXo1LrUgAAAYSxBZR2AAAE
-AwBHMEUCID8POjYrLUTZjrvRVj9IQVW2gnOBeZzN6GOwFwfxFwDiAiEA0WKkPmwd
-G5DI1aI7F2pNoacD6wsICCRdiC4UBlD/wlgAdgCt9776fP8QyIudPZwePhhqtGcp
-Xc+xDCTKhYY069yCigAAAYSxBZRtAAAEAwBHMEUCIBPKzzoJ89pWas7tH20Emu2h
-MsA+buFbzbPs5F4L2MaoAiEA0ULJBT4a7WUmTH/vckZ/rwnNd30aF4saHX8cFiyl
-hqUwDQYJKoZIhvcNAQELBQADggEBABR/YVKjXkqluOjYV7MZ1F24NHab9i1QjR06
-fNpwK3YYYK8wZK7Yddq3b54Kwb58YsancViYqHKwG9srezbkrCMbhtQozVT6XBIA
-/N0Xo4qKnnPt51Z0buJlrlCgj4uaaTjMFgN274i94gbrmSxxxqD7hkBNyp25mP9j
-T+epz2M6g2LgUIea/GdRS6O/IDHE/l9J5BuelUugEESqMJVv20NpkPHV2itRGZ8Z
-TG2dx2DGLUtRYekJH1yuzvyOTnJVK9EhT9JD18WaB+/ZyJF0KuPmLESNyf8D5fUA
-6rQTgXRqAtonL59x9EPXbQqR0YFVEr3HOHDZCxbXv6cXSZQwxFg=
+APAAdgB6MoxU2LcttiDqOOBSHumEFnAyE4VNO9IrwTpXo1LrUgAAAYSxN9NGAAAE
+AwBHMEUCIC+9m/ovX0ODRVM6DUSLD2P3JNqiJvyeuV5YEE+rU8TRAiEArXMnAG14
+aIHBIZDyIYgzBh59rwNG3cI1piUDF8yNhZMAdgC3Pvsk35xNunXyOcW6WPRsXfxC
+z3qfNcSeHQmBJe20mQAAAYSxN9UxAAAEAwBHMEUCICl8tMbFjlaaRjg60qp8489P
+1A2N790oZaKiWY0Kr9SCAiEAmfwgZYI/vMmrnROguWNebRJVqSsZ5p1fIrcv6Z6Y
+s3UwDQYJKoZIhvcNAQELBQADggEBAEL7y+c3w08Tv+hG4+s6m+zDQMzZfoZpHQ+A
+neIrQxO/pjz5QVqppdePXZmhOJJ4OvFo4qe+QTL24yTELEBdaU1U/6wdFEnjxZSZ
+g8yPx+KJoTctv0nu9YALryveWny1YPmcb8zYz5qBeL5dMA3T6F8neDGm9sHEdEOV
+mCrvEpTdu4BwLPPaNmY8AqTz/l/kZb+KMVIv8GZdWwvEB/n7sbkrpcXaJRltVpRk
+pVfzZGHei0BkXSoYfiZ8VRkyMX80hsoVvZzLhsD4L8jm1S0q8eWwRMa8yXrXsuj7
+VcB0VIKekbwHhtgHTXKn2IQ5jjivS4n+OCi4Y5kze+lCnzHi16Y=
 -----END CERTIFICATE-----
 -----BEGIN CERTIFICATE-----
 MIIFFjCCAv6gAwIBAgIRAJErCErPDBinU/bWLiWnX1owDQYJKoZIhvcNAQELBQAw
@@ -94,19 +94,3 @@ WCLKTVXkcGdtwlfFRjlBz4pYg1htmf5X6DYO8A4jqv2Il9DjXA6USbW1FzXSLr9O
 he8Y4IWS6wY7bCkjCWDcRQJMEhg76fsO3txE+FiYruq9RUWhiF1myv4Q6W+CyBFC
 Dfvp7OOGAN6dEOM4+qR9sdjoSYKEBpsr6GtPAQw4dy753ec5
 -----END CERTIFICATE-----
-Private key is being copied and pushed to /home/ssl-admins/ssl-keys
-[master a8e8335] add ao90.pinho.org key
- Committer: root <root@miraheze.org>
-Your name and email address were configured automatically based
-on your username and hostname. Please check that they are accurate.
-You can suppress this message by setting them explicitly:
-
-    git config --global user.name "Your Name"
-    git config --global user.email you@example.com
-
-After doing this, you may fix the identity used for this commit with:
-
-    git commit --amend --reset-author
-
- 1 file changed, 52 insertions(+), 52 deletions(-)
- rewrite ao90.pinho.org.key (96%)
