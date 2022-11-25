@@ -1,7 +1,7 @@
 -----BEGIN CERTIFICATE-----
-MIIGKjCCBRKgAwIBAgISBP4/GXaXKIytHmkTVVyRxMdlMA0GCSqGSIb3DQEBCwUA
+MIIGKjCCBRKgAwIBAgISBBeGA5YSr/NRueOruwcLYMP4MA0GCSqGSIb3DQEBCwUA
 MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
-EwJSMzAeFw0yMjExMjUyMjA0MTVaFw0yMzAyMjMyMjA0MTRaMB0xGzAZBgNVBAMT
+EwJSMzAeFw0yMjExMjUyMjIzMzlaFw0yMzAyMjMyMjIzMzhaMB0xGzAZBgNVBAMT
 EmNyZWF0aXZlY29tbW9ucy5pZDCCAiIwDQYJKoZIhvcNAQEBBQADggIPADCCAgoC
 ggIBAPz8OOLSzdcD+ws8McCTXbLruG2GrnYhMY4Os7u5gkA3RCb/lm0CX4dz3620
 5qqlNgAIUz6qY1E1826XaLAW/pADxEFN30ryBrbgtS3ElQDTqFScnr2N21LTMT06
@@ -21,17 +21,17 @@ BggrBgEFBQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZo
 dHRwOi8vcjMuaS5sZW5jci5vcmcvMB0GA1UdEQQWMBSCEmNyZWF0aXZlY29tbW9u
 cy5pZDBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsG
 AQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisGAQQB1nkC
-BAIEgfUEgfIA8AB3AHoyjFTYty22IOo44FIe6YQWcDIThU070ivBOlejUutSAAAB
-hLEI0NYAAAQDAEgwRgIhAJeZTEpRbjzXe+5JJbGECGbKK5pvAXxVwevx1F9u7Efl
-AiEAtYdDl2j7J9JLT8dxKhnUUyCvwv5EISM20ejxXCZ/hrQAdQBvU3asMfAxGdiZ
-AKRRFf93FRwR2QLBACkGjbIImjfZEwAAAYSxCNJlAAAEAwBGMEQCICafDPIT6V33
-2NKLSfMgrKQYwW9TnADrsF64J3+3keSgAiARBMqas15bQNP4pPKyyU/FWrOvF3Ya
-cEEK2Xgkg751ijANBgkqhkiG9w0BAQsFAAOCAQEAdcewBYIN7khOktTF8rjsfAFA
-arIn/W1gwR4dAkt8TrRwOlsNVKwF1rvWWGFnYfV4vSQva+ZYXGZv6EGwDQX5BfB3
-/7HHeP6rd3Z1PZcwhOMgzcdbF38D7WSgjUvoNnpoaFhHBKshOxLZ98NDwg1kQlqM
-BuYXon2FI4GePgTTNDOu/pY96Y5wTvaDDcL8AK9pyLKiKSd0bTh3j7uz8LMThbek
-urFeuIskuEVT+s/EJXNvb+VEQj7IPbK8jVdbppevpP/b7Sc1ofM7TM9l6pcFb3PR
-y+QhDrvzo37+91nFhuboFUmhwLmilYv4cJLIcKz74pzsgQJJXpFLt3iBHZw4Ww==
+BAIEgfUEgfIA8AB2AHoyjFTYty22IOo44FIe6YQWcDIThU070ivBOlejUutSAAAB
+hLEakmoAAAQDAEcwRQIgUfSMzIipcE2ZBB2tz03oq9DNqgq9RDizmtUULCdqeLkC
+IQC+u2MNJ4mdAJMo/VBhLNGq14LoYvWrMP6S+QgiavhxzgB2AOg+0No+9QY1MudX
+KLyJa8kD08vREWvs62nhd31tBr1uAAABhLEakkoAAAQDAEcwRQIgJrE9f+IEzIo3
+BK/TG6XibXnhA72S5tjWMjiLJLyNIw0CIQCRadyzeaXhLRI8b0Co1CUMhRqywNC8
+yT9IwLnrYpKs7TANBgkqhkiG9w0BAQsFAAOCAQEARpsrmmcrYXJlxJUVkgIVhsNh
+89i2WXSV9lCQJ5QKuf6+8mBuv8fMKbQ7Ze8WuMNwj12WCc/OqTVN4u/6uqtbPcgL
+zkMnLtFmA8HLQz0JC31jmNboqmHfd8w9MBRtxAvvbIGykAJ6oi/9M07zquB1xwhF
+F1hwz2kCdSkRQMg1rKcGe4zjP/s8XnAEmcHGtGLL+SwE96TOK2I6zB/zJmtG0BbJ
+NbrwcDkH+U1mEGP+3MKZQjlA6s5DvXCBN9qKjyz8DNodIDuoV53rhp6OAh/F0eYd
+5hZAx+ua+iLZJPqLLmJVU8t3MdFjHyY0nHzEaKW1+l6XnvWV+FD92CYnU03ajw==
 -----END CERTIFICATE-----
 -----BEGIN CERTIFICATE-----
 MIIFFjCCAv6gAwIBAgIRAJErCErPDBinU/bWLiWnX1owDQYJKoZIhvcNAQELBQAw
@@ -94,19 +94,3 @@ WCLKTVXkcGdtwlfFRjlBz4pYg1htmf5X6DYO8A4jqv2Il9DjXA6USbW1FzXSLr9O
 he8Y4IWS6wY7bCkjCWDcRQJMEhg76fsO3txE+FiYruq9RUWhiF1myv4Q6W+CyBFC
 Dfvp7OOGAN6dEOM4+qR9sdjoSYKEBpsr6GtPAQw4dy753ec5
 -----END CERTIFICATE-----
-Private key is being copied and pushed to /home/ssl-admins/ssl-keys
-[master a49c7a2] add creativecommons.id key
- Committer: root <root@miraheze.org>
-Your name and email address were configured automatically based
-on your username and hostname. Please check that they are accurate.
-You can suppress this message by setting them explicitly:
-
-    git config --global user.name "Your Name"
-    git config --global user.email you@example.com
-
-After doing this, you may fix the identity used for this commit with:
-
-    git commit --amend --reset-author
-
- 1 file changed, 52 insertions(+), 52 deletions(-)
- rewrite creativecommons.id.key (96%)
