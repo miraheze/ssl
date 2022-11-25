@@ -1,7 +1,7 @@
 -----BEGIN CERTIFICATE-----
-MIIGHTCCBQWgAwIBAgISBAKIlW6outkF/nnQNa59Mx9uMA0GCSqGSIb3DQEBCwUA
+MIIGHDCCBQSgAwIBAgISBIW1DyZFwcrpXlWUEIOfCiyTMA0GCSqGSIb3DQEBCwUA
 MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
-EwJSMzAeFw0yMjExMjUyMjAzMzRaFw0yMzAyMjMyMjAzMzNaMBYxFDASBgNVBAMT
+EwJSMzAeFw0yMjExMjUyMjIzMTVaFw0yMzAyMjMyMjIzMTRaMBYxFDASBgNVBAMT
 C2Npdndpa2kub3JnMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEArUgc
 ARSDpL4/YR3TuGBZ094kZmGMZ+1tk9nx4GW/UVYpA41ZOyRRnmcdJFIVyrhFkzya
 MudWguKKb00ec5QBbDWvprw2fCq8mQOjyHb20HGHwVxkGsBCBiJb6G5rUNrjG6OP
@@ -13,25 +13,25 @@ RmX/JF7Kaz0jYp+DAe9ZD5v+ImhSld5qgWwBda/f/ClnLEh+4W5dyY73rJtSas26
 MvZau1XIzZ9bZLzVYRWZ/upRpHHHs5CgQoiCctQvmlAU2Davux2kQdmPQ4/SCUUS
 Fmkm1Rah5EmBsXtykr89/LbjApwf/nqM/hg5leTuQmS7+UxK9rkpn+oFW5FI5yGP
 CnDWznOsSR3dJnecULAv5RW7wckRTYJCWy+u95cmapaW19sNDQsfxHitTeJk20j5
-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
+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
-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
+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
 -----END CERTIFICATE-----
 -----BEGIN CERTIFICATE-----
 MIIFFjCCAv6gAwIBAgIRAJErCErPDBinU/bWLiWnX1owDQYJKoZIhvcNAQELBQAw
@@ -94,19 +94,3 @@ WCLKTVXkcGdtwlfFRjlBz4pYg1htmf5X6DYO8A4jqv2Il9DjXA6USbW1FzXSLr9O
 he8Y4IWS6wY7bCkjCWDcRQJMEhg76fsO3txE+FiYruq9RUWhiF1myv4Q6W+CyBFC
 Dfvp7OOGAN6dEOM4+qR9sdjoSYKEBpsr6GtPAQw4dy753ec5
 -----END CERTIFICATE-----
-Private key is being copied and pushed to /home/ssl-admins/ssl-keys
-[master a86fd32] add civwiki.org key
- Committer: root <root@miraheze.org>
-Your name and email address were configured automatically based
-on your username and hostname. Please check that they are accurate.
-You can suppress this message by setting them explicitly:
-
-    git config --global user.name "Your Name"
-    git config --global user.email you@example.com
-
-After doing this, you may fix the identity used for this commit with:
-
-    git commit --amend --reset-author
-
- 1 file changed, 52 insertions(+), 52 deletions(-)
- rewrite civwiki.org.key (96%)
