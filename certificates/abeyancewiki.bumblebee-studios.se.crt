@@ -1,7 +1,7 @@
 -----BEGIN CERTIFICATE-----
-MIIGRzCCBS+gAwIBAgISBM0OGAe28B7Puql0HI6l8we+MA0GCSqGSIb3DQEBCwUA
+MIIGSDCCBTCgAwIBAgISA80KQdd0zetHoHdDR8ogc6XcMA0GCSqGSIb3DQEBCwUA
 MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
-EwJSMzAeFw0yMjExMjUyMTU5MzVaFw0yMzAyMjMyMTU5MzRaMCwxKjAoBgNVBAMT
+EwJSMzAeFw0yMjExMjUyMjUwNDZaFw0yMzAyMjMyMjUwNDVaMCwxKjAoBgNVBAMT
 IWFiZXlhbmNld2lraS5idW1ibGViZWUtc3R1ZGlvcy5zZTCCAiIwDQYJKoZIhvcN
 AQEBBQADggIPADCCAgoCggIBAMJovzCmmFn48Lc3dObdnnPamFdF7m+Ci7lDlOHj
 9GwsF2AMbFFUYuePD7wPchxLXqYECIw9q6C/ceAkrv67PZ4aqQ++NvrgwxCFa6EY
@@ -14,25 +14,25 @@ W8nD3wGsPLoBw/vvsv9ow6/zAlUJGExayAoBfvCpRGRRIyrpFdJUJtiKgRApYfDj
 vCBYN7LEfZDeZQBb0O/DNGUM7h+zjfrYsPLLTo/2HPiNDfWTYyJ+MR50LCLcu1YJ
 fkjzsEzbZ6n5nY7CQL76WRvFtDK91sExVHNT+Kd1VhahJ5UjsnHTy3bAIkmDX6Pg
 672hvEg1c7yBklIl/ewlk4AlDPG1iOH61FIzoLbiC3PbfD/z6nCdjMP0zdHh7kl0
-bqvjAgMBAAGjggJbMIICVzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYB
+bqvjAgMBAAGjggJcMIICWDAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYB
 BQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFLvT8KAVgagf
 m/QW+wm5tmL/LqxyMB8GA1UdIwQYMBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUG
 CCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3Jn
 MCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5vcmcvMCwGA1UdEQQlMCOC
 IWFiZXlhbmNld2lraS5idW1ibGViZWUtc3R1ZGlvcy5zZTBMBgNVHSAERTBDMAgG
 BmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3Bz
-LmxldHNlbmNyeXB0Lm9yZzCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB1ALc++yTf
-nE26dfI5xbpY9Gxd/ELPep81xJ4dCYEl7bSZAAABhLEEiToAAAQDAEYwRAIgKHmd
-XNdMord+y+Cis8taXrgZ5NzIGHEjmKhwtWsN7IoCICqIQsK4WUXfqMHnGPY/IZxn
-qgwfGNzePgAcKXef6eP/AHYA6D7Q2j71BjUy51covIlryQPTy9ERa+zraeF3fW0G
-vW4AAAGEsQSI5gAABAMARzBFAiEA2wRdaw9+IsuUrUi6CICOrXY1XG8n6epXW9cX
-pskcxvcCIBCONWAD7yfvSvAUlPuO5MV2ClQL73ejVGGAWqbYP6BfMA0GCSqGSIb3
-DQEBCwUAA4IBAQCnokzVk7/NC/FCubwSZM7Sp7dNyJQK7FIab7TvEkFhZiij2YiS
-Q6tno0aze3qz5B4q7NJ1pqSwcGg03PLBkqBD0qZbDx1jvpjDqBACAuCRdWXd110T
-M/nHpT+tLBwBmisV8QpGtpnFQAC1pqUhQWdEkiY6c4jAfslPn8Yd7PHxs9TYzU4s
-Bp8AsuwYXARw8NUXwlEdZcAvU96U1T53puhFmT069xV3sBDxhSLVwNncgmS9n8bY
-95sUcVuFme29z+oMuLqFWc5mb68J/JRreOu+l4QowN182q6Ucmp+bJU6yJ3IV3ol
-8GCKIKdbRJ9OrpsenVcGiAJewjG+GNEgPqTW
+LmxldHNlbmNyeXB0Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2AHoyjFTY
+ty22IOo44FIe6YQWcDIThU070ivBOlejUutSAAABhLEzZvcAAAQDAEcwRQIhAMZw
+8fLYY6bUU1yYe5SA+62Ju6CniwtaVlWw62KIA8cFAiAa3dy7tWkhUvN/IQGt+Tw0
+HXkY5YQpomh7MNvHQC9RsQB2AK33vvp8/xDIi509nB4+GGq0Zyldz7EMJMqFhjTr
+3IKKAAABhLEzZvwAAAQDAEcwRQIgb0lAgyqr/jLGV1YplClVcI9O9aC36gU/045j
+oedcO4cCIQDNL2EAtamv3sJp2W8NxBtaaESGHOvQf+Mi7IhYUPiUKTANBgkqhkiG
+9w0BAQsFAAOCAQEAU5dl9oXV4TVeNFNEh/AwNrjUkczqqXMQhyeeLhbXMyLR85V1
+NnQhhWXHPMlcibae93frns+urhWCicdeN/ILNg2/fl9oTZYc7nsjRWCD08B8rUlL
+QuM2mUz8uAf56mMwGZ9eJMvSn4thrmDriP47UCQIndmDIpIxyOPdsUx4C1J5ajET
+gg9zGQ4Bdb//+soT/oYWS72PTKtgQ4rcQfKp5Q0JSNiyxcq8WNxQIvh05pH65RIG
+dr2w0Bc9gbPcVWOtjS7+kEC7PrGNUwsseK6iFUFM4Ak3ripoHyY+0BibjmGPSMPZ
+U675bKkcaHTXft3Opx4K376SHo+WA8ruop4PYA==
 -----END CERTIFICATE-----
 -----BEGIN CERTIFICATE-----
 MIIFFjCCAv6gAwIBAgIRAJErCErPDBinU/bWLiWnX1owDQYJKoZIhvcNAQELBQAw
@@ -95,19 +95,7 @@ WCLKTVXkcGdtwlfFRjlBz4pYg1htmf5X6DYO8A4jqv2Il9DjXA6USbW1FzXSLr9O
 he8Y4IWS6wY7bCkjCWDcRQJMEhg76fsO3txE+FiYruq9RUWhiF1myv4Q6W+CyBFC
 Dfvp7OOGAN6dEOM4+qR9sdjoSYKEBpsr6GtPAQw4dy753ec5
 -----END CERTIFICATE-----
-Private key is being copied and pushed to /home/ssl-admins/ssl-keys
-[master 7ea9ff4] add abeyancewiki.bumblebee-studios.se key
- Committer: root <root@miraheze.org>
-Your name and email address were configured automatically based
-on your username and hostname. Please check that they are accurate.
-You can suppress this message by setting them explicitly:
+On branch master
+Your branch is up to date with 'origin/master'.
 
-    git config --global user.name "Your Name"
-    git config --global user.email you@example.com
-
-After doing this, you may fix the identity used for this commit with:
-
-    git commit --amend --reset-author
-
- 1 file changed, 52 insertions(+), 52 deletions(-)
- rewrite abeyancewiki.bumblebee-studios.se.key (96%)
+nothing to commit, working tree clean
