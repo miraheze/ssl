@@ -1,7 +1,7 @@
 -----BEGIN CERTIFICATE-----
-MIIGLzCCBRegAwIBAgISBLpXMfpQ/ydKgOufH2hBp+5lMA0GCSqGSIb3DQEBCwUA
+MIIGMDCCBRigAwIBAgISBH+/NlwMn7p8uqbs9UNSjJz1MA0GCSqGSIb3DQEBCwUA
 MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
-EwJSMzAeFw0yMjExMjUyMTQ0NDlaFw0yMzAyMjMyMTQ0NDhaMBcxFTATBgNVBAMT
+EwJSMzAeFw0yMjExMjUyMTU3MDJaFw0yMzAyMjMyMTU3MDFaMBcxFTATBgNVBAMT
 DG13Y29zbW9zLmNvbTCCAiIwDQYJKoZIhvcNAQEBBQADggIPADCCAgoCggIBALou
 1DI9Zn0pJhgkIaGIScmmDzq3VWD4YvJrRcYxCEh8SFfaW4uQyBGQxJqFNVCNsWCc
 COQBuckmw3VqNH95ZwmK+q881APmRwiZjFqXQwGYAaJGmkz+lUzg1rLmwkz1vYyB
@@ -13,26 +13,26 @@ mU9U7+Mez1SRULHeHFG+JYSYWCS9IwRS6DlWaDP2M0TTFQE3IJawsHO2l3byW1y3
 K/Wq4zswbH72B/tJ7lI+/bJ8m6lY5EJ6PkutV55obhVoHSkDQlpSci+Jb+uAUlQA
 uxIGIccgH03Bs0GoGNyCxrB/ErDNfUXyDAU8f6Q4yOuBiOpJv7iHpH4ZvpurhpWL
 UV7grn1beM0/mToGojx9rk+zNUOOcrLNQblZlOJb1L8D+BhX9RdDJ1qfGYoC/hUp
-ExDjAdFd1vSd98cqXoYyGNiQ6hSSgIkB7tYQimyVAgMBAAGjggJYMIICVDAOBgNV
+ExDjAdFd1vSd98cqXoYyGNiQ6hSSgIkB7tYQimyVAgMBAAGjggJZMIICVTAOBgNV
 HQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1Ud
 EwEB/wQCMAAwHQYDVR0OBBYEFGg0HyB01d5Bge4VByv1zdxbVY+IMB8GA1UdIwQY
 MBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEF
 BQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8v
 cjMuaS5sZW5jci5vcmcvMCkGA1UdEQQiMCCCDG13Y29zbW9zLmNvbYIQd3d3Lm13
 Y29zbW9zLmNvbTBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAo
-MCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQMGCisG
-AQQB1nkCBAIEgfQEgfEA7wB1ALc++yTfnE26dfI5xbpY9Gxd/ELPep81xJ4dCYEl
-7bSZAAABhLD3BLEAAAQDAEYwRAIfRofSTsLAfnWh2nHnHSKQdEF5hI+REPntPHjq
-G8dYvQIhAIsYTCh3s1NrAnB9qbDldYuY0sMwPSEvavX9mUF693QIAHYAejKMVNi3
-LbYg6jjgUh7phBZwMhOFTTvSK8E6V6NS61IAAAGEsPcE3AAABAMARzBFAiEApWJ8
-cBicMJoVdvFynDOxvFSBT/clUap6wBd8Joo/1c8CIANwu+9Gl5IO4fOCPqNJgY3W
-l7+QkozR3pJYEDYn3u1NMA0GCSqGSIb3DQEBCwUAA4IBAQB4StkA9bZy+rZvKUAA
-pBTJanMzpn7IxHE9BZ1cjgOyveJ2LLzrOBHtkk5a+G0DSy7BdIQg1ryfw4NPA+/5
-MDbqvLz1TYyVStJm1A9rUlhtiw2wROqEw2bPAse11HE1hZqlepzuBhu1NpPoyEzy
-o8lFkH672FErbfJIDFbX2GI7ogTTZKN/2XLOEDp2f0tQ4lfcjtnWkrLr8zy9+Jiz
-XjKW9CZI/NGLq4ywdWlwOwZK6hjdxwZzFdtn14ZryxlFa/MMQg4E3qVmWioE64m0
-XR1+9/7+D2ubiHjsLatCh82X3xVKlN2kE1wWgc+KMSvJ5/ym7CKhREYi3IZCjJhB
-ePDg
+MCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisG
+AQQB1nkCBAIEgfUEgfIA8AB3ALc++yTfnE26dfI5xbpY9Gxd/ELPep81xJ4dCYEl
+7bSZAAABhLECNDsAAAQDAEgwRgIhAKMEQMZ4FHbgu1loWDz9FE+9effgcgrdY6CJ
+yupl7C0bAiEA4eX8eaQopgB7YowiegzxeKhe0W75pZBpodfG4DfrHrMAdQB6MoxU
+2LcttiDqOOBSHumEFnAyE4VNO9IrwTpXo1LrUgAAAYSxAjZNAAAEAwBGMEQCIBWi
+JOxSVUKtrZZPxWuM6h7FAQU5qDCnRPlbHOD6kQ1WAiBiLBa/ewaqx7ZXdJxpKWSc
+IGtYHLDrWlNl76sbLypACDANBgkqhkiG9w0BAQsFAAOCAQEAsodVut98hJ22yXTX
+61xYl14ucOLTpYxiUb3iJT+DWVMiv4lN5OagX/g48h/tn3rXKt5X+AgXDawALanP
+bPAdPTkfcKVvL3UkxcXk0UwTj1PdVapTBPH/V+wCtAE7tXxQh23UPYYHbN6V8C8L
+sNT4850G+UTxIIeWmXExs9xm3IO3No8RF/a/xNTQp/rvKx8NB8hwKYNFKsFsAUDa
+VA46m5iXk122NEahD72ViyIMweRCQ2ek0Q2tjdPLpk29vIyHIgOLBEX/vvld2ODC
+I8cqyjU3cy03tcJ9tiTeDpXucZJuZMBj9GaPLsujWPH66io7CSkL3MVuxGZyUxzN
+ShJwKA==
 -----END CERTIFICATE-----
 -----BEGIN CERTIFICATE-----
 MIIFFjCCAv6gAwIBAgIRAJErCErPDBinU/bWLiWnX1owDQYJKoZIhvcNAQELBQAw
@@ -96,18 +96,7 @@ he8Y4IWS6wY7bCkjCWDcRQJMEhg76fsO3txE+FiYruq9RUWhiF1myv4Q6W+CyBFC
 Dfvp7OOGAN6dEOM4+qR9sdjoSYKEBpsr6GtPAQw4dy753ec5
 -----END CERTIFICATE-----
 Private key is being copied and pushed to /home/ssl-admins/ssl-keys
-[master 5d988c7] add mwcosmos.com key
- Committer: root <root@miraheze.org>
-Your name and email address were configured automatically based
-on your username and hostname. Please check that they are accurate.
-You can suppress this message by setting them explicitly:
+On branch master
+Your branch is up to date with 'origin/master'.
 
-    git config --global user.name "Your Name"
-    git config --global user.email you@example.com
-
-After doing this, you may fix the identity used for this commit with:
-
-    git commit --amend --reset-author
-
- 1 file changed, 52 insertions(+), 52 deletions(-)
- rewrite mwcosmos.com.key (96%)
+nothing to commit, working tree clean
