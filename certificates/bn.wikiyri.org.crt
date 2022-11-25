@@ -1,7 +1,7 @@
 -----BEGIN CERTIFICATE-----
-MIIGIzCCBQugAwIBAgISBEKL5Mi/ci9zsGAkX0M08SBhMA0GCSqGSIb3DQEBCwUA
+MIIGITCCBQmgAwIBAgISBMGAQZh5SFDGavQfknL0GB5hMA0GCSqGSIb3DQEBCwUA
 MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
-EwJSMzAeFw0yMjExMjUyMjAyNThaFw0yMzAyMjMyMjAyNTdaMBkxFzAVBgNVBAMT
+EwJSMzAeFw0yMjExMjUyMjIyNDRaFw0yMzAyMjMyMjIyNDNaMBkxFzAVBgNVBAMT
 DmJuLndpa2l5cmkub3JnMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEA
 44zlEMZFbCYf4XCn1qywdlX/qLAOqsFm0Oq+zgu3HfpNsk0z8JCo7GtqcMd8EKtl
 Z4djKtXfmQyToNkB6JzhESLYLtdp7JWt+tD3rRXrwBiTGymhFV1VYYhwfCq+R0gV
@@ -13,25 +13,25 @@ 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
-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
+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
-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
+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
 -----END CERTIFICATE-----
 -----BEGIN CERTIFICATE-----
 MIIFFjCCAv6gAwIBAgIRAJErCErPDBinU/bWLiWnX1owDQYJKoZIhvcNAQELBQAw
@@ -94,19 +94,3 @@ WCLKTVXkcGdtwlfFRjlBz4pYg1htmf5X6DYO8A4jqv2Il9DjXA6USbW1FzXSLr9O
 he8Y4IWS6wY7bCkjCWDcRQJMEhg76fsO3txE+FiYruq9RUWhiF1myv4Q6W+CyBFC
 Dfvp7OOGAN6dEOM4+qR9sdjoSYKEBpsr6GtPAQw4dy753ec5
 -----END CERTIFICATE-----
-Private key is being copied and pushed to /home/ssl-admins/ssl-keys
-[master fbbf04d] add bn.wikiyri.org key
- Committer: root <root@miraheze.org>
-Your name and email address were configured automatically based
-on your username and hostname. Please check that they are accurate.
-You can suppress this message by setting them explicitly:
-
-    git config --global user.name "Your Name"
-    git config --global user.email you@example.com
-
-After doing this, you may fix the identity used for this commit with:
-
-    git commit --amend --reset-author
-
- 1 file changed, 52 insertions(+), 52 deletions(-)
- rewrite bn.wikiyri.org.key (96%)
