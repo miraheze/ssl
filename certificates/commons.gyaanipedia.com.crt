@@ -1,7 +1,7 @@
 -----BEGIN CERTIFICATE-----
-MIIGNjCCBR6gAwIBAgISAz0YWFhnaQGXkHkmJIvZG4PJMA0GCSqGSIb3DQEBCwUA
+MIIGNTCCBR2gAwIBAgISBBpUva9BKMVzkDOmwvf9pDa5MA0GCSqGSIb3DQEBCwUA
 MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
-EwJSMzAeFw0yMjExMjUyMjAzNDdaFw0yMzAyMjMyMjAzNDZaMCIxIDAeBgNVBAMT
+EwJSMzAeFw0yMjExMjUyMjIzMjNaFw0yMzAyMjMyMjIzMjJaMCIxIDAeBgNVBAMT
 F2NvbW1vbnMuZ3lhYW5pcGVkaWEuY29tMIICIjANBgkqhkiG9w0BAQEFAAOCAg8A
 MIICCgKCAgEAuGe0E0dVzaWWntTQeZKNQFnOlmAtqhekkVeuNx15eG82q6TgYnMf
 6WUR7QhtJ4rW8t1dKXY6kVT+PV+3e2Co1Ge1oDJRZWSOgakPVJmUNeIO3facqP52
@@ -14,25 +14,25 @@ Hn+B1doUiu634ls1VB+PRlf85RmHfaW+essiLZsjWLnePrdz+XcqpP3GaWg2Jsg4
 y1W5BQ2Onkirr9Mn8V7cB8i0k37rEfhJaM85GlcF3CZetiA/OgQkZwDESp70euXb
 rGNXxw109rR7Novt2Op8Vtj8LyozrbXqbDzK2NNa3tXRAMzd4a6vbDcM8NW6/cKL
 FU04woBZXoz7drnbnptRo+UyOwPZuBXBo0ViuXT5hwoGgKafhE1F9iECAwEAAaOC
-AlQwggJQMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYB
+AlMwggJPMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYB
 BQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUhOm5aDBEyJj2+fqWA28mRX5s
 MqAwHwYDVR0jBBgwFoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEE
 STBHMCEGCCsGAQUFBzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUH
 MAKGFmh0dHA6Ly9yMy5pLmxlbmNyLm9yZy8wIgYDVR0RBBswGYIXY29tbW9ucy5n
 eWFhbmlwZWRpYS5jb20wTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMB
-AQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEG
-BgorBgEEAdZ5AgQCBIH3BIH0APIAdwB6MoxU2LcttiDqOOBSHumEFnAyE4VNO9Ir
-wTpXo1LrUgAAAYSxCGHoAAAEAwBIMEYCIQCh8N+xylgfzkl5ehWJwNYIr/mzcPhf
-4tUrOi6caDJ/agIhANKo+zgjged98VkIPGZxE2DOHe3OeKvfAnansYw0w5U9AHcA
-rfe++nz/EMiLnT2cHj4YarRnKV3PsQwkyoWGNOvcgooAAAGEsQhh+gAABAMASDBG
-AiEAoHiBmCxEmDk3tOIT12enLZBsV1cNNNIIF/vEHSTmZbUCIQDC3CBmASSu5InG
-7FoFoynCeEawAt9sElhqcYHvl4GnHDANBgkqhkiG9w0BAQsFAAOCAQEAabVtHz8e
-5dH2NN7riYwxGynFtcAolpmJGK8f+OUBObw9lUUOtjnpUokyRxg1iuUFOE9Q6znJ
-p5i1G9iXrbRw/S6rzfpwb2P+5xaZHRO6lSsGUlfBka9OGyQNGFLJ2vos6n3ZHCvA
-Ok1D6C5xCfu7ezloqdn7bzTEkdP5YuV2vF0XpKVISxzYOb9AkGobJeQctcX06J51
-eoexdR7IXeDKxHBh8kRRPbr5I0yp8x2JO2hKpgLIcCdZupH28wZPxRH9M6cdgnff
-uQiAANFvu8qLg5rGQLh2q7qBBiP9ERW7t3Ci0wjk1HeVQjN6CBx8SrOZqNCXQ9yU
-VKycouTGXtmE0g==
+AQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEF
+BgorBgEEAdZ5AgQCBIH2BIHzAPEAdgB6MoxU2LcttiDqOOBSHumEFnAyE4VNO9Ir
+wTpXo1LrUgAAAYSxGlVLAAAEAwBHMEUCIQC1zQ1PQYzmUsV1FXHHpEnS0PyIugow
+fgytOXlTcnxxrAIgWSLzGG1oOl/cU1z10pR0uoKTDDMinK/GBKd5z964O+kAdwBv
+U3asMfAxGdiZAKRRFf93FRwR2QLBACkGjbIImjfZEwAAAYSxGlaqAAAEAwBIMEYC
+IQC5rtBzElq+VnJ4SK+k8aitn0x8AZbDtRchIEht+rJw+wIhAMNNqAHCy9yP7PqU
+KmsBCMS0FXjLtiU48ijzN59CzAsbMA0GCSqGSIb3DQEBCwUAA4IBAQCbwPSmLyFu
+Vj5G2aS43b3xnd3KiuGnq4A6zUfxJWkdesdxDOkVD6/FfsVzsD4Gk21jZub4r5Vn
+B6XMEIuJ+jFpZW98hpxynX+LtduwjXXdFj/IpLhH87L/UowEtbRYHkhIEX6WTeoi
+PNjzk54/ofNt1jxZe58HSKuJECqokNQPHYmGfupImiIqKQcYbISqBLKpDD4FXOfd
+lRNibof5Wi4FTpojGE2ZXRP3D8aX3mjRJciEvUD1iXgVslkiVj+tmUvv5MQtWk5O
+1kvOl3Sj4/DJ07TmIAXFo/fGkgSzrCCJx+vDfNAG12Z+x4PCAAlHsqZu5MKxiXx0
+iyFtxSnGQETD
 -----END CERTIFICATE-----
 -----BEGIN CERTIFICATE-----
 MIIFFjCCAv6gAwIBAgIRAJErCErPDBinU/bWLiWnX1owDQYJKoZIhvcNAQELBQAw
@@ -95,19 +95,3 @@ WCLKTVXkcGdtwlfFRjlBz4pYg1htmf5X6DYO8A4jqv2Il9DjXA6USbW1FzXSLr9O
 he8Y4IWS6wY7bCkjCWDcRQJMEhg76fsO3txE+FiYruq9RUWhiF1myv4Q6W+CyBFC
 Dfvp7OOGAN6dEOM4+qR9sdjoSYKEBpsr6GtPAQw4dy753ec5
 -----END CERTIFICATE-----
-Private key is being copied and pushed to /home/ssl-admins/ssl-keys
-[master 51c3134] add commons.gyaanipedia.com key
- Committer: root <root@miraheze.org>
-Your name and email address were configured automatically based
-on your username and hostname. Please check that they are accurate.
-You can suppress this message by setting them explicitly:
-
-    git config --global user.name "Your Name"
-    git config --global user.email you@example.com
-
-After doing this, you may fix the identity used for this commit with:
-
-    git commit --amend --reset-author
-
- 1 file changed, 52 insertions(+), 52 deletions(-)
- rewrite commons.gyaanipedia.com.key (96%)
