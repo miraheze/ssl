@@ -1,7 +1,7 @@
 -----BEGIN CERTIFICATE-----
-MIIGGzCCBQOgAwIBAgISA9x+g0SVVpRvLSFclO2qVzJUMA0GCSqGSIb3DQEBCwUA
+MIIGGzCCBQOgAwIBAgISBKnGDJiY20Nt/Jgw/vcfMwYkMA0GCSqGSIb3DQEBCwUA
 MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
-EwJSMzAeFw0yMjExMjUyMjAzMTVaFw0yMzAyMjMyMjAzMTRaMBYxFDASBgNVBAMT
+EwJSMzAeFw0yMjExMjUyMjIzMDJaFw0yMzAyMjMyMjIzMDFaMBYxFDASBgNVBAMT
 C2NlbGVzdGUuaW5rMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAtEkQ
 XbvIdo9WEKqWdBAhMmNW21MvRrQIwSJD4Z6udiP1hKJOUHPzI/zwyn5WsX02t37w
 mWcoFKBNTqojHtP9E71IGtX0u2q5peF966JUzE7N6W9cC1OqFRPl5x0QpTAxHx3d
@@ -20,18 +20,18 @@ FoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUF
 BzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9y
 My5pLmxlbmNyLm9yZy8wFgYDVR0RBA8wDYILY2VsZXN0ZS5pbmswTAYDVR0gBEUw
 QzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDov
-L2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdQC3
-Pvsk35xNunXyOcW6WPRsXfxCz3qfNcSeHQmBJe20mQAAAYSxB+TNAAAEAwBGMEQC
-IGfL5EXtBiAPiti8sy337Cg4t5DMrwj2H47aD7BTQij4AiBB8649hEJDwszFdtQg
-yeJuJ81cCrtYnFY++eYehgw9pgB2AK33vvp8/xDIi509nB4+GGq0Zyldz7EMJMqF
-hjTr3IKKAAABhLEH5PsAAAQDAEcwRQIhAORcVE+8oZdAYzyZBQYuDrPvPeqREuBD
-fJE0OJOEWkcKAiBkGyLP+ymC7dQ0CTHmznkT8ca3rXi1qXOXdvhBY1lueDANBgkq
-hkiG9w0BAQsFAAOCAQEArBUyN7LPNExnIN/r6BQ0oZIXGob/74C0VuJje2UZrpaE
-K56H+7I5cpQ+0haPLIlaZLyS3nR/YHyJ67Uw9MjoTtYnEle6/dW5x2FQQPsiZZjE
-bwPDSe7BwjBKonl/F3ydworZ/mVgxWu5jRFMUZM3++5BK+T4WyiZdik6s98x42KB
-wuf8aVm92bQOhvKGD5sZcYkKTo+Ugg9oBsxDH7QJN4RpZMJbt+p4VYd7zbnr5IdT
-xJayCms1kpZTSDZpES4uJHgUxZxUUG/7n5Tf2uuEJZX1I9jiKQLXAJ7W4Kj/iOI2
-GKq8wRo03PRkm/7D42JR/mPO9sCwhfRuDByb89NtSg==
+L2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdQDo
+PtDaPvUGNTLnVyi8iWvJA9PL0RFr7Otp4Xd9bQa9bgAAAYSxGgRMAAAEAwBGMEQC
+IAx8BIWC+cGYPDBqS77umll7MBwyCBQXvPZLiMIBmYQNAiBzWkZeBGtscjUp8490
+RDQGQojznGGYINpBYzKhJqntAAB2AHoyjFTYty22IOo44FIe6YQWcDIThU070ivB
+OlejUutSAAABhLEaBnkAAAQDAEcwRQIgZB41iUoWYzvivlW5vmLpZQ3PMXFl3XMc
+RU8uMOVMHbcCIQCSCscGx/bY7YZkJtHW/QUi/QoRhq5xOIiFeOt8/0I8mDANBgkq
+hkiG9w0BAQsFAAOCAQEADqlyN1XGCf+fpGNWccWQaK7nHAr7dAy8QXbiIYZ+HtYi
+LBUTW5foSosdfzX3El1gauL52Pa1ZPX1AVDtVuSk9v8LEGL7KGmzcaoYoyMnfxYy
+AeCCuiGXHP18DCU8SJ8VWICkHxQUXKV9cpiPySD4waFUOMSdDWbyKiCrsDLNQk+r
+ykBizKtt938QiMcdkg4+4poTt+lHdRRdpIhmSwrHF4nOnZFjS2ayUJiDOlVC4/S4
+2SXsdc4qwtMnd22+IZ+1WqYfR9O1j8qWNRB+DWupvFlnRrsMdCqDm29tk7ii0tx5
++BpVVVVbKjSHeLh1AqmvCb92vE8WqGg7Ufg3/YPwdQ==
 -----END CERTIFICATE-----
 -----BEGIN CERTIFICATE-----
 MIIFFjCCAv6gAwIBAgIRAJErCErPDBinU/bWLiWnX1owDQYJKoZIhvcNAQELBQAw
@@ -94,19 +94,3 @@ WCLKTVXkcGdtwlfFRjlBz4pYg1htmf5X6DYO8A4jqv2Il9DjXA6USbW1FzXSLr9O
 he8Y4IWS6wY7bCkjCWDcRQJMEhg76fsO3txE+FiYruq9RUWhiF1myv4Q6W+CyBFC
 Dfvp7OOGAN6dEOM4+qR9sdjoSYKEBpsr6GtPAQw4dy753ec5
 -----END CERTIFICATE-----
-Private key is being copied and pushed to /home/ssl-admins/ssl-keys
-[master 16ccb8c] add celeste.ink key
- Committer: root <root@miraheze.org>
-Your name and email address were configured automatically based
-on your username and hostname. Please check that they are accurate.
-You can suppress this message by setting them explicitly:
-
-    git config --global user.name "Your Name"
-    git config --global user.email you@example.com
-
-After doing this, you may fix the identity used for this commit with:
-
-    git commit --amend --reset-author
-
- 1 file changed, 52 insertions(+), 52 deletions(-)
- rewrite celeste.ink.key (96%)
