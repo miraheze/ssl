@@ -1,7 +1,7 @@
 -----BEGIN CERTIFICATE-----
-MIIGQDCCBSigAwIBAgISBBnH6Fr2vR5HAwcdZcdMZiWiMA0GCSqGSIb3DQEBCwUA
+MIIGPzCCBSegAwIBAgISBHTlTnLDSVxsgcTy17YJh6DWMA0GCSqGSIb3DQEBCwUA
 MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
-EwJSMzAeFw0yMjExMjUyMjAwMTNaFw0yMzAyMjMyMjAwMTJaMBwxGjAYBgNVBAMT
+EwJSMzAeFw0yMjExMjUyMjUxMTZaFw0yMzAyMjMyMjUxMTVaMBwxGjAYBgNVBAMT
 EWFtYmllbnRndWl0YXIub3JnMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKC
 AgEA6PtzUXxMnLfExrqz624WjqjSIZ0PN8itl/ElwhonKgZLv0+KjTkdoX29+PHq
 ae1PiNy78bxImGa5iVAbY2vasefj5t6s2nO5RGj+9jYuDKz0YqeNE85PZK4ITi1p
@@ -13,7 +13,7 @@ RyvZYdnt0nsE9YB7cRs4RIAC15AJ6M5CHGu0Z52MWZ+RYpAM1gHTn09ybvtqW1Lc
 z3HSNCK9B0yKHnlb0JIqFA5iVr2gVoqs0Y1oXRM1nwBLIzvwNk3BwIc9aNxcRYXV
 8Yl12uDf9TxuHBj8xNw586tcNaYKbaAkkUPubJrRGXMXQ0/lNKagfWrhzxyn+wus
 EP9mMjr/us2GrUZvFK01Jp2q8R+0pn1ANEDYaVL/QsmD4anpRpeqmNEAOdEPfLhZ
-z1lT7anK/W8f3gq/fvmfs1prA4XLlamRnywWOm29qZIDiCUCAwEAAaOCAmQwggJg
+z1lT7anK/W8f3gq/fvmfs1prA4XLlamRnywWOm29qZIDiCUCAwEAAaOCAmMwggJf
 MA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIw
 DAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQU0YCnlPLDibt/qihP1rIuueykijQwHwYD
 VR0jBBgwFoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEG
@@ -21,18 +21,18 @@ CCsGAQUFBzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0
 dHA6Ly9yMy5pLmxlbmNyLm9yZy8wMwYDVR0RBCwwKoIRYW1iaWVudGd1aXRhci5v
 cmeCFXd3dy5hbWJpZW50Z3VpdGFyLm9yZzBMBgNVHSAERTBDMAgGBmeBDAECATA3
 BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNy
-eXB0Lm9yZzCCAQUGCisGAQQB1nkCBAIEgfYEgfMA8QB2AHoyjFTYty22IOo44FIe
-6YQWcDIThU070ivBOlejUutSAAABhLEFHn0AAAQDAEcwRQIhAJ5ZDcgoYgD36ZfK
-xC8eBFGryUodrf9xxG1+3fsPWz22AiA+L1XB3qefbs0vc1U1QvTPvu8fDWBumUXV
-Nf2aHWln+gB3AK33vvp8/xDIi509nB4+GGq0Zyldz7EMJMqFhjTr3IKKAAABhLEF
-HnQAAAQDAEgwRgIhAMl46DctZBtHjU1aJrtqh0XHMV6Kf68APa3ChG4Z8zHgAiEA
-04P/sg2o26e8+5VHiNzKoTWOqAUkvJmIEpjppQyXjc0wDQYJKoZIhvcNAQELBQAD
-ggEBAEqXQKcAg8tmFEz5WAxHR89O7gnsb43UjW4+4lOkpfDIff80ZKCB1W4OKcFk
-TUG69AK9Kr+mkKk0S0T7NplbMRUk/QJRPyRQIzNF/BWiyf9tfmTFKYtVAoBQzamg
-co8CMnmD7o+h40v2FWBHxU+IlMb/weGHazQME+p338Ttm3i3Zdf3RgVHyPX/oE+n
-ptU2zDOZcRg5WL6nZOBvekrLsXaZ9116LQwyPKtqN1aQblpKGlYaSnlyboze5kop
-iJH5GEkBLWF7k/6zV9cviXwcvtZVhXcXV/DsjH4VrJVbnpHVMbcEgPG3NCklSaa+
-tW9hrfSomtmyEUxcwOxCM6tumfI=
+eXB0Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB1ALc++yTfnE26dfI5xbpY
+9Gxd/ELPep81xJ4dCYEl7bSZAAABhLEz3XoAAAQDAEYwRAIgB+BKIAZ+RLI4gTSv
+Rr32Fqkx0feHjLzxubYSlUA7tkoCICM4sxIic0pZ3e4bBtMu9dsqKF+sZDOvGT3f
+IUOh4821AHcAejKMVNi3LbYg6jjgUh7phBZwMhOFTTvSK8E6V6NS61IAAAGEsTPf
+mAAABAMASDBGAiEA+bFIcYJt/K7iUxNjbMQ07FbF1oSv7EmF3sQNrHBiJ3cCIQDo
+z3y7agcdEyG5MOlT2mA6tkFv5tntZVsqD8hlpiHIQjANBgkqhkiG9w0BAQsFAAOC
+AQEAP6NTipC+pxqbK9MpiiEduglh/IACNkSqj6/aPtzO5JXVIPCFEn1XyctLIg4s
+eGJB84v7sAQHCHJ5d/fSHdNot9SQH41D/Q+0F1LtAy1Nab4mgWYFRpEjKZWyd4RK
+wPgvqekpY7N4TggQCOT0MXVEBMpoJ8lyWBL4IqUlJvDpfhS4HbJhCiaGc+ZUdTw1
+6L9v34CVHknqh1yJ1ogx7mwIT7UuGJeB7nU9zWtouHZSprIcGj43zUWndv7dMmH/
+j74Uji9vhxfKJ9EPrBSkanrrHZ6LMTC1O3KW3KRLNv/ea3y5/5kJ8YsBQM5MY0Js
+VSgTSzfSFmk9HNHel2VJj/ZVaw==
 -----END CERTIFICATE-----
 -----BEGIN CERTIFICATE-----
 MIIFFjCCAv6gAwIBAgIRAJErCErPDBinU/bWLiWnX1owDQYJKoZIhvcNAQELBQAw
@@ -95,19 +95,7 @@ WCLKTVXkcGdtwlfFRjlBz4pYg1htmf5X6DYO8A4jqv2Il9DjXA6USbW1FzXSLr9O
 he8Y4IWS6wY7bCkjCWDcRQJMEhg76fsO3txE+FiYruq9RUWhiF1myv4Q6W+CyBFC
 Dfvp7OOGAN6dEOM4+qR9sdjoSYKEBpsr6GtPAQw4dy753ec5
 -----END CERTIFICATE-----
-Private key is being copied and pushed to /home/ssl-admins/ssl-keys
-[master 519f0e9] add ambientguitar.org key
- Committer: root <root@miraheze.org>
-Your name and email address were configured automatically based
-on your username and hostname. Please check that they are accurate.
-You can suppress this message by setting them explicitly:
+On branch master
+Your branch is up to date with 'origin/master'.
 
-    git config --global user.name "Your Name"
-    git config --global user.email you@example.com
-
-After doing this, you may fix the identity used for this commit with:
-
-    git commit --amend --reset-author
-
- 1 file changed, 52 insertions(+), 52 deletions(-)
- rewrite ambientguitar.org.key (96%)
+nothing to commit, working tree clean
