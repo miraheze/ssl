@@ -1,7 +1,7 @@
 -----BEGIN CERTIFICATE-----
-MIIGHTCCBQWgAwIBAgISAxeCsR4iwa3zeJ1SN3z5C7ISMA0GCSqGSIb3DQEBCwUA
+MIIGGzCCBQOgAwIBAgISAyeo3SXIVyqVtmtC1ImiiyLWMA0GCSqGSIb3DQEBCwUA
 MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
-EwJSMzAeFw0yMjExMjUyMjAyMDZaFw0yMzAyMjMyMjAyMDVaMBYxFDASBgNVBAMT
+EwJSMzAeFw0yMjExMjUyMjU2NTVaFw0yMzAyMjMyMjU2NTRaMBYxFDASBgNVBAMT
 C2JhbmFuby53aWtpMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEA5KCO
 VIaqNuSX6Pe3aoJaJmwfrIRksFX93mPwklrQjZR9gG3Fs0CV/OLBcQs1U0vrAoF2
 F414WDillVSoJ/x1w4ikrU6XtpSh65+mUzVfu9pwAOJhm3nCAJ4yTOXr0/OkBRKE
@@ -13,25 +13,25 @@ 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
-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
+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
-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
+L2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdgC3
+Pvsk35xNunXyOcW6WPRsXfxCz3qfNcSeHQmBJe20mQAAAYSxOQWRAAAEAwBHMEUC
+IQDsTQsm+H7EsFLJ7SeCdgmajoD68ps+nMkHS28jmYAdBQIgaMj/Yn2yglOQBeeB
+hrbh+8zg9zBN5CVAS25m1UXVtbsAdQBvU3asMfAxGdiZAKRRFf93FRwR2QLBACkG
+jbIImjfZEwAAAYSxOQW9AAAEAwBGMEQCIA+8OxtToSe9HQmf2NW0mcr52f93/sWT
+3oZIlcVdkUDbAiBJpxcNo0a1NSFnHrYD9PaLz+n84GacZ37oa2GjptVPSTANBgkq
+hkiG9w0BAQsFAAOCAQEAZTGuZ0m1J+MnBrRHyERJQ1vioY8D1BNqs1j87GK3AjJ9
+8WYdyuyWrws40gwYofS4DAqgE/TER4lKZG6CKWqrTTvWGByWfw1y25ChS3OalxaI
+TSnIbRs8y+SvvqcfoXxyqiKccuC9WonOxSlGJfXDoUkAXqkn8rpYyHelJU/hIENF
+UxnaWJrW94pJEPWbY/dw5vsLtbivJrhm9BuZPx5P2MD6eMFtQ5bXpQ++MnPNwhhV
+cwS6wP7/QyOaGW2KHYLjZn7SqM3xy7Sihl65Coe+TPp9Lkw0arcr/CbKlu5OtEF2
+D3ie0xCuxykFcPC4rpwf1TbbPcB/MT9O1YKosysopw==
 -----END CERTIFICATE-----
 -----BEGIN CERTIFICATE-----
 MIIFFjCCAv6gAwIBAgIRAJErCErPDBinU/bWLiWnX1owDQYJKoZIhvcNAQELBQAw
@@ -94,19 +94,3 @@ WCLKTVXkcGdtwlfFRjlBz4pYg1htmf5X6DYO8A4jqv2Il9DjXA6USbW1FzXSLr9O
 he8Y4IWS6wY7bCkjCWDcRQJMEhg76fsO3txE+FiYruq9RUWhiF1myv4Q6W+CyBFC
 Dfvp7OOGAN6dEOM4+qR9sdjoSYKEBpsr6GtPAQw4dy753ec5
 -----END CERTIFICATE-----
-Private key is being copied and pushed to /home/ssl-admins/ssl-keys
-[master bd60356] add banano.wiki key
- Committer: root <root@miraheze.org>
-Your name and email address were configured automatically based
-on your username and hostname. Please check that they are accurate.
-You can suppress this message by setting them explicitly:
-
-    git config --global user.name "Your Name"
-    git config --global user.email you@example.com
-
-After doing this, you may fix the identity used for this commit with:
-
-    git commit --amend --reset-author
-
- 1 file changed, 52 insertions(+), 52 deletions(-)
- rewrite banano.wiki.key (96%)
