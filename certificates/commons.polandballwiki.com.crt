@@ -1,7 +1,7 @@
 -----BEGIN CERTIFICATE-----
-MIIGOjCCBSKgAwIBAgISAx77Jc8OqFafC8Nw3UVpJY2VMA0GCSqGSIb3DQEBCwUA
+MIIGODCCBSCgAwIBAgISBP5TpOIsd5RLOCvrm1OryJ/qMA0GCSqGSIb3DQEBCwUA
 MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
-EwJSMzAeFw0yMjExMjUyMjAzNTNaFw0yMzAyMjMyMjAzNTJaMCUxIzAhBgNVBAMT
+EwJSMzAeFw0yMjExMjUyMjIzMjdaFw0yMzAyMjMyMjIzMjZaMCUxIzAhBgNVBAMT
 GmNvbW1vbnMucG9sYW5kYmFsbHdpa2kuY29tMIICIjANBgkqhkiG9w0BAQEFAAOC
 Ag8AMIICCgKCAgEAqxt0r49VNZVwmpGjA9h9Kro58Y2J/k4XyQyeY2k3vAOJDyxk
 +KY7RBVlxZPyiAVy24xUh8Fxte7dYdgfj8zBQlJO5JKR7Xjubr5a0wAQ9qeKhliI
@@ -14,25 +14,25 @@ ogdDMkvAt+EJOi4p18ivVn/TXaLW6kpzLqSaU8X8vO0HnqupeBjxsm6Ubepfvcyo
 VQpe0CVqAWi364sjCrySodTgtgJPtHS0zFtW0MTSH7PACCusA7NFJR5pjgom6tEg
 bzb3AaUlhMXJ5H5Su/Qqtb0mmJwoM+YLBSaAuJBWrNmS9Wbm35J1SFMyz9s6nDgB
 CP0f+H8ncBTGtmMPSYxcq5/fjYmC19tjIcTb0mQJl+odqfOmorLWFGjN1msCAwEA
-AaOCAlUwggJRMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYI
+AaOCAlMwggJPMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYI
 KwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUzjBiNfEbCAhgi0riBvEn
 j91OgIYwHwYDVR0jBBgwFoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUH
 AQEESTBHMCEGCCsGAQUFBzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYB
 BQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNyLm9yZy8wJQYDVR0RBB4wHIIaY29tbW9u
 cy5wb2xhbmRiYWxsd2lraS5jb20wTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYB
 BAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5v
-cmcwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgB6MoxU2LcttiDqOOBSHumEFnAy
-E4VNO9IrwTpXo1LrUgAAAYSxCHgZAAAEAwBHMEUCIEL202ugKg6THGHLXODAWsYc
-D078zvadbIm7R8RyQTYIAiEA8JLmIjKxFyo+zTSZKQu5w0bwi7STd1V2/g0TdYwy
-hVkAdgCt9776fP8QyIudPZwePhhqtGcpXc+xDCTKhYY069yCigAAAYSxCHgpAAAE
-AwBHMEUCIQDVV/RvGxVgpxPveep2idR6Zkbpo0T9Rjni2H7CpKMt5QIgYh7cG8Ds
-yHyHgH2tXcZGSJEfRo/TQFjcwPWMOMSDJdQwDQYJKoZIhvcNAQELBQADggEBAA8D
-0q1QV6VtBU7H7bSAC9FwDIM7shT0XRB5fe2p42riGevuTEVZs8hIjhzeevyzMoAy
-rIgbh5VEuJCPh2q98XBHInEJvP+bAjUzgXbwO9ePnsHvW2IdQMfZaKDDQmFuFubw
-riOlAEDoHucPSkUzlT1wyzmaH5raENj4cAORtcRH5vk/yCIOb1E6vPrG3hiFxPeS
-5F6ikY3KyiquhGwTAaVyqHMWrrKwiLio5HXIIBK0ssgg7psxxL4xiCaukw6bqJZY
-kSkzDWhVoyHENbh0hP8WlPc5gkXmHrmP3nC7H8YpuUMv0nBtuYk9VKSdJasXdRv7
-0wTH6Ia/bnK+tYlYEU4=
+cmcwggECBgorBgEEAdZ5AgQCBIHzBIHwAO4AdQC3Pvsk35xNunXyOcW6WPRsXfxC
+z3qfNcSeHQmBJe20mQAAAYSxGmUwAAAEAwBGMEQCICR8+Bczf0CvZ9raWeZRnvrD
+HxNlBCeRF9lbZm/8Yrm5AiAw75VLwxFofjBJcRejiJl3znbfo0vxpwhdQosgxQgF
+2AB1AOg+0No+9QY1MudXKLyJa8kD08vREWvs62nhd31tBr1uAAABhLEaZSoAAAQD
+AEYwRAIgfbZvRPwPyViOh014XEQtaJ9sB4E6I0f5ehBQMrIMTcwCIB+uRNbIm3Kz
+316sHBl390rFVQXPLtdgKW3ub4H/KcxxMA0GCSqGSIb3DQEBCwUAA4IBAQAsT5ch
+GqtWhTfdskyxyloEn2/+v5QeXJPEIZ2hYvVMuYNXesynp7kXarClXDqkDQiQFP5Z
+sQP+v5olSS96fkx4/ZAXGjKP57DP7Kqjmeus/HJpQ+X0FZDFBLfn4GkuzIMNmXM7
+C0taAA0z65U+GrL0EFB7gM7MA195hsMjqy+r9AjgnEjg4wKhv8RHzMZGAKmyLh/d
+FRZczErP0KmPiTVgyeJrFA+E40xvYzL7+HioWyJP0aJN5JI3XetKa8K2Sf5Z4MPJ
+1jZo+5GXiJV261/olAWLO9iKFV6HrgNOod5ivKpsfC02Kc9Mm1bfb5Xqj+ub99Hr
+kxCls/juC2viNxsW
 -----END CERTIFICATE-----
 -----BEGIN CERTIFICATE-----
 MIIFFjCCAv6gAwIBAgIRAJErCErPDBinU/bWLiWnX1owDQYJKoZIhvcNAQELBQAw
@@ -95,19 +95,3 @@ WCLKTVXkcGdtwlfFRjlBz4pYg1htmf5X6DYO8A4jqv2Il9DjXA6USbW1FzXSLr9O
 he8Y4IWS6wY7bCkjCWDcRQJMEhg76fsO3txE+FiYruq9RUWhiF1myv4Q6W+CyBFC
 Dfvp7OOGAN6dEOM4+qR9sdjoSYKEBpsr6GtPAQw4dy753ec5
 -----END CERTIFICATE-----
-Private key is being copied and pushed to /home/ssl-admins/ssl-keys
-[master c99f8e8] add commons.polandballwiki.com key
- Committer: root <root@miraheze.org>
-Your name and email address were configured automatically based
-on your username and hostname. Please check that they are accurate.
-You can suppress this message by setting them explicitly:
-
-    git config --global user.name "Your Name"
-    git config --global user.email you@example.com
-
-After doing this, you may fix the identity used for this commit with:
-
-    git commit --amend --reset-author
-
- 1 file changed, 52 insertions(+), 52 deletions(-)
- rewrite commons.polandballwiki.com.key (96%)
