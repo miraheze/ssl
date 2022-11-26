@@ -231,12 +231,6 @@ wikirtapptk:
   sslname: 'wiki.rtapp.tk'
   ca: 'LetsEncrypt'
   disable_event: false
-wikirecaptimetk:
-  url: 'wiki.recaptime.tk'
-  redirect: 'wiki.recaptime.eu.org'
-  sslname: 'wiki.recaptime.tk'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wwwistpcomputingcom:
   url: 'www.istpcomputing.com'
   redirect: 'istpcomputing.com'
