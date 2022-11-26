@@ -2,3 +2,7 @@ freedomplanetwikicom:
   url: 'freedomplanetwiki.com'
   ca: 'LetsEncrypt'
   disable-event: false
+freedomplanetwikicom:
+  url: 'freedomplanetwiki.com'
+  ca: 'LetsEncrypt'
+  disable-event: false
