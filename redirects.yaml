@@ -225,12 +225,6 @@ lgbtqiawiki:
   sslname: 'www.lgbtqia.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-wikirtapptk:
-  url: 'wiki.rtapp.tk'
-  redirect: 'wiki.recaptime.eu.org'
-  sslname: 'wiki.rtapp.tk'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wwwistpcomputingcom:
   url: 'www.istpcomputing.com'
   redirect: 'istpcomputing.com'
