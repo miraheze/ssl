@@ -1781,3 +1781,7 @@ feignwikitk:
   ca: 'LetsEncrypt'
   disable_event: false
 >>>>>>> a2bd6eca9eff058590137ea8970c154832c784bd
+freedomplanetwikicom:
+  url: 'freedomplanetwiki.com'
+  ca: 'LetsEncrypt'
+  disable-event: false
