@@ -5,13 +5,6 @@ betaheze:
   additional_domain: '*.betaheze.org'
   sslname: 'betaheze.org'
   ca: 'LetsEncrypt'
-<<<<<<< HEAD
-  disable-event: false
-freedomplanetwikicom:
-  url: 'freedomplanetwiki.com'
-  ca: 'LetsEncrypt'
-  disable-event: false
-=======
   disable_event: true
 
 # Production
