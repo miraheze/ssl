@@ -409,8 +409,8 @@ wikierislycom:
   url: 'wiki.erisly.com'
   ca: 'LetsEncrypt'
   disable_event: false
-dcmultiversedcwikiscom:
-  url: 'dc-multiverse.dcwikis.com'
+dcmultiversewikicom:
+  url: 'dcmultiversewiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
 wikiclimatechangeai:
@@ -1779,9 +1779,5 @@ freedomplanetwikicom:
   disable_event: false
 td10org:
   url: 'td10.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
-dcmultiversewikicom:
-  url: 'dcmultiversewiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
