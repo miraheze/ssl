@@ -1781,3 +1781,7 @@ td10org:
   url: 'td10.org'
   ca: 'LetsEncrypt'
   disable_event: false
+dcmultiversewikicom:
+  url: 'dcmultiversewiki.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
