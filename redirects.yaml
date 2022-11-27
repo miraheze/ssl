@@ -267,6 +267,18 @@ pornwikiorg:
   sslname: 'en.pornwiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
+dcmultiversedcwikiscom:
+  url: 'dc-multiverse.dcwikis.com'
+  redirect: 'dcmultiversewiki.com'
+  sslname: 'dc-multiverse.dcwikis.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
+wwwdcmultiversewikicom:
+  url: 'www.dcmultiversewiki.com'
+  redirect: 'dcmultiversewiki.com'
+  sslname: 'dcmultiversewiki.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # *.miraheze.org to *.miraheze.org wiki redirects
 wwwredirect:
@@ -362,13 +374,13 @@ mirahezegq:
   disable_event: false
 dcwikiredirect:
   url: 'dc.miraheze.org'
-  redirect: 'dc-multiverse.dcwikis.com'
+  redirect: 'dcmultiversewiki.com'
   sslname: 'wildcard.miraheze.org-2020-2'
   ca: 'Sectigo'
   disable_event: true
 dcmultiversewiki:
   url: 'dcmultiverse.miraheze.org'
-  redirect: 'dc-multiverse.dcwikis.com'
+  redirect: 'dcmultiversewiki.com'
   sslname: 'wildcard.miraheze.org-2020-2'
   ca: 'Sectigo'
   disable_event: true
