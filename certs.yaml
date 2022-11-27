@@ -1777,3 +1777,7 @@ freedomplanetwikicom:
   url: 'freedomplanetwiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
+td10org:
+  url: 'td10.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
