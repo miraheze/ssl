@@ -1780,10 +1780,6 @@ td10org:
   url: 'td10.org'
   ca: 'LetsEncrypt'
   disable_event: false
-njteliminationml:
-  url: 'njtelimination.ml'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikialbrusmusicru:
   url: 'wiki.albrusmusic.ru'
   ca: 'LetsEncrypt'
