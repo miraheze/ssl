@@ -688,10 +688,6 @@ wikicreaturathegamecom:
   url: 'wiki.creaturathegame.com'
   ca: 'LetsEncrypt'
   disable_event: false
-totwiki:
-  url: 'tot.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wwwarruxyz:
   url: 'www.arru.xyz'
   ca: 'LetsEncrypt'
