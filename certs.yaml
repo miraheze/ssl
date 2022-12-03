@@ -1788,3 +1788,7 @@ chuckepediacom:
   url: 'chuckepedia.com'
   ca: 'LetsEncrypt'
   disable_event: false
+njteliminationml:
+  url: 'njtelimination.ml'
+  ca: 'LetsEncrypt'
+  disable_event: false
