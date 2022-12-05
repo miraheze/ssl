@@ -47,6 +47,13 @@ piwik:
   ca: 'Sectigo'
   hsts: 'strict'
   disable_event: true
+static:
+  url: 'static-new.miraheze.org'
+  redirect: 'static.miraheze.org'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
 wikithesimswikicom:
   url: 'wiki.thesimswiki.com'
   redirect: 'www.thesimswiki.com'
