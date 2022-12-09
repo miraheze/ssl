@@ -1808,3 +1808,7 @@ alphabirdswikigq:
   url: 'alphabirdswiki.gq'
   ca: 'LetsEncrypt'
   disable_event: false
+redkrayolawikiorg:
+  url: 'redkrayolawiki.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
