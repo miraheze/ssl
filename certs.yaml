@@ -1784,3 +1784,7 @@ njteliminationml:
   url: 'njtelimination.ml'
   ca: 'LetsEncrypt'
   disable_event: false
+wowswiki:
+  url: 'wows.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
