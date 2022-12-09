@@ -1800,3 +1800,7 @@ yoshipediacom:
   url: 'yoshipedia.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiyunachannelcom:
+  url: 'wiki.yunachannel.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
