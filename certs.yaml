@@ -1796,3 +1796,7 @@ petparentsga:
   url: 'petparents.ga'
   ca: 'LetsEncrypt'
   disable_event: false
+yoshipediacom:
+  url: 'yoshipedia.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
