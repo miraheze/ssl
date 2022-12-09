@@ -1804,3 +1804,7 @@ wikiyunachannelcom:
   url: 'wiki.yunachannel.com'
   ca: 'LetsEncrypt'
   disable_event: false
+alphabirdswikigq:
+  url: 'alphabirdswiki.gq'
+  ca: 'LetsEncrypt'
+  disable_event: false
