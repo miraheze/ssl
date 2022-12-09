@@ -1788,3 +1788,7 @@ wowswiki:
   url: 'wows.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wizardiawiki:
+  url: 'wizardia.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
