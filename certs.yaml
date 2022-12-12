@@ -1812,3 +1812,7 @@ redkrayolawikiorg:
   url: 'redkrayolawiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
+chuckepediacom:
+  url: 'chuckepedia.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
