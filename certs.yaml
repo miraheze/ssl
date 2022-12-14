@@ -1824,3 +1824,7 @@ eoawikiga:
   url: 'eoa-wiki.ga'
   ca: 'LetsEncrypt'
   disable_event: false
+wikisukotuzecom:
+  url: 'wiki.sukotuze.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
