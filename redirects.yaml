@@ -567,6 +567,13 @@ houkai2ndwiki:
   ca: 'Sectigo'
   hsts: 'strict'
   disable_event: true
+yoshiwikiredir:
+  url: 'yoshi.miraheze.org'
+  redirect: 'yoshipedia.com'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
 
 
 # orain.org to miraheze.org wiki redirects
