@@ -1820,3 +1820,7 @@ openjusticeinfo:
   url: 'open-justice.info'
   ca: 'LetsEncrypt'
   disable_event: false
+eoawikiga:
+  url: 'eoa-wiki.ga'
+  ca: 'LetsEncrypt'
+  disable_event: false
