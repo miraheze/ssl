@@ -1816,3 +1816,7 @@ wikipulsuscc:
   url: 'wiki.pulsus.cc'
   ca: 'LetsEncrypt'
   disable_event: false
+openjusticeinfo:
+  url: 'open-justice.info'
+  ca: 'LetsEncrypt'
+  disable_event: false
