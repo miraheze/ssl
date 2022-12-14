@@ -1812,3 +1812,7 @@ chuckepediacom:
   url: 'chuckepedia.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikipulsuscc:
+  url: 'wiki.pulsus.cc'
+  ca: 'LetsEncrypt'
+  disable_event: false
