@@ -1832,3 +1832,7 @@ gtfowikicn:
   url: 'gtfo-wiki.cn'
   ca: 'LetsEncrypt'
   disable_event: false
+citizenwikicn:
+  url: 'citizenwiki.cn'
+  ca: 'LetsEncrypt'
+  disable_event: false
