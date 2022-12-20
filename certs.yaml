@@ -1844,3 +1844,7 @@ dutkikrokr:
   url: 'dutki.kro.kr'
   ca: 'LetsEncrypt'
   disable_event: false
+emmytherobotwiki:
+  url: 'emmytherobot.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
