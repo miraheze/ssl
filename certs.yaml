@@ -1848,3 +1848,7 @@ emmytherobotwiki:
   url: 'emmytherobot.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wariopediacom:
+  url: 'wariopedia.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
