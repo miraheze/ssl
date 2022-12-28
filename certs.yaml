@@ -1848,3 +1848,7 @@ wariopediacom:
   url: 'wariopedia.com'
   ca: 'LetsEncrypt'
   disable_event: false
+lophocmatnguwiki:
+  url: 'lophocmatngu.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
