@@ -1852,3 +1852,7 @@ lophocmatnguwiki:
   url: 'lophocmatngu.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wikisongnguxyz:
+  url: 'wiki.songngu.xyz'
+  ca: 'LetsEncrypt'
+  disable_event: false
