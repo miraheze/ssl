@@ -574,7 +574,13 @@ yoshiwikiredir:
   ca: 'Sectigo'
   hsts: 'strict'
   disable_event: true
-
+staticnewredir:
+  url: 'static-new.miraheze.org'
+  redirect: 'static.miraheze.org'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
 
 # orain.org to miraheze.org wiki redirects
 allthetropesorain:
