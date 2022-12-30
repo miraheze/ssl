@@ -1860,3 +1860,7 @@ wwwmemipedialol:
   url: 'www.memipedia.lol'
   ca: 'LetsEncrypt'
   disable_event: false
+kodiakwiki:
+  url: 'kodiak.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
