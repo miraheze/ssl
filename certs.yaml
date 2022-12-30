@@ -1856,3 +1856,7 @@ wikisongnguxyz:
   url: 'wiki.songngu.xyz'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwmemipedialol:
+  url: 'www.memipedia.lol'
+  ca: 'LetsEncrypt'
+  disable_event: false
