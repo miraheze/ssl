@@ -574,6 +574,13 @@ yoshiwikiredir:
   ca: 'Sectigo'
   hsts: 'strict'
   disable_event: true
+wariowikiredir:
+  url: 'wario.miraheze.org'
+  redirect: 'wariopedia.com'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
 
 
 # orain.org to miraheze.org wiki redirects
