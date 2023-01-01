@@ -1864,3 +1864,7 @@ kodiakwiki:
   url: 'kodiak.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiff6worldscollidecom:
+  url: 'wiki.ff6worldscollide.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
