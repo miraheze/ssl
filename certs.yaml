@@ -1868,3 +1868,7 @@ wikiff6worldscollidecom:
   url: 'wiki.ff6worldscollide.com'
   ca: 'LetsEncrypt'
   disable_event: false
+readerswhoknowpaneidoversecom:
+  url: 'readerswhoknow.paneidoverse.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
