@@ -1876,3 +1876,7 @@ wwwpomologiaorg:
   url: 'www.pomologia.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiclosaicom:
+  url: 'wiki.closai.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
