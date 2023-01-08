@@ -948,10 +948,6 @@ wikidigitalcandelacom:
   url: 'wiki.digitalcandela.com'
   ca: 'LetsEncrypt'
   disable_event: false
-hoodwikixyz:
-  url: 'hoodwiki.xyz'
-  ca: 'LetsEncrypt'
-  disable_event: false
 pokemonwikiinfo:
   url: 'pokemonwiki.info'
   ca: 'LetsEncrypt'
