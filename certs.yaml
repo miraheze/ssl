@@ -984,10 +984,6 @@ hosekiwiki:
   url: 'hoseki.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-kisekiwiki:
-  url: 'kiseki.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikipbptanarchytk:
   url: 'wiki.pbptanarchy.tk'
   ca: 'LetsEncrypt'
