@@ -1016,10 +1016,6 @@ wildbowikinet:
   url: 'wildbowiki.net'
   ca: 'LetsEncrypt'
   disable_event: false
-wikilu9io:
-  url: 'wiki.lu9.io'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikirosestulipsandlibertycom:
   url: 'wiki.rosestulipsandliberty.com'
   ca: 'LetsEncrypt'
