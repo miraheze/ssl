@@ -996,10 +996,6 @@ kisekiwiki:
   url: 'kiseki.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-encyclopediaroboticaorg:
-  url: 'encyclopediarobotica.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikipbptanarchytk:
   url: 'wiki.pbptanarchy.tk'
   ca: 'LetsEncrypt'
