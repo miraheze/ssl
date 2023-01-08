@@ -1880,7 +1880,3 @@ wikiclosaicom:
   url: 'wiki.closai.com'
   ca: 'LetsEncrypt'
   disable_event: false
-wwwthesimswikicom:
-  url: 'www.thesimswiki.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
