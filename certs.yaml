@@ -1864,3 +1864,7 @@ wikimaxusspace:
   url: 'wiki.maxus.space'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiesnmilanostataleit:
+  url: 'wiki.esnmilanostatale.it'
+  ca: 'LetsEncrypt'
+  disable_event: false
