@@ -1860,3 +1860,7 @@ wikiclosaicom:
   url: '100acg.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wikimaxusspace:
+  url: 'wiki.maxus.space'
+  ca: 'LetsEncrypt'
+  disable_event: false
