@@ -1856,3 +1856,7 @@ wikiclosaicom:
   url: 'wiki.closai.com'
   ca: 'LetsEncrypt'
   disable_event: false
+100acgwiki:
+  url: '100acg.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
