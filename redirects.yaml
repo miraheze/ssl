@@ -279,6 +279,12 @@ wwwdcmultiversewikicom:
   sslname: 'dcmultiversewiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwdeadpremwiki:
+  url: 'www.deadprem.wiki'
+  redirect: 'deadprem.wiki'
+  sslname: 'deadprem.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # *.miraheze.org to *.miraheze.org wiki redirects
 wwwredirect:
