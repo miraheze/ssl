@@ -1868,3 +1868,7 @@ wikiesnmilanostataleit:
   url: 'wiki.esnmilanostatale.it'
   ca: 'LetsEncrypt'
   disable_event: false
+deadpremwiki:
+  url: 'deadprem.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
