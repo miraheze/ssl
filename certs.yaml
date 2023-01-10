@@ -552,10 +552,6 @@ celestewiki:
   url: 'celeste.ink'
   ca: 'LetsEncrypt'
   disable_event: false
-datafamepediaorg:
-  url: 'data.famepedia.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 gpct777cf:
   url: 'gp.ct777.cf'
   ca: 'LetsEncrypt'
