@@ -285,64 +285,8 @@ wwwdeadpremwiki:
   sslname: 'deadprem.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-
-# *.miraheze.org to *.miraheze.org wiki redirects
-wwwredirect:
-  url: 'www.miraheze.org'
-  redirect: 'miraheze.org'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
-  disable_event: true
-wikimiraheze:
-  url: 'wiki.miraheze.org'
-  redirect: 'meta.miraheze.org'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
-  hsts: 'strict'
-  disable_event: true
-test3wiki:
-  url: 'test3.miraheze.org'
-  redirect: 'beta.betaheze.org'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
-  hsts: 'strict'
-  disable_event: true
-betawiki:
-  url: 'beta.miraheze.org'
-  redirect: 'beta.betaheze.org'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
-  disable_event: true
-mirahezecf:
-  url: 'miraheze.cf'
-  redirect: 'miraheze.org'
-  sslname: 'miraheze.cf'
-  ca: 'LetsEncrypt'
-  disable_event: false
-mirahezetk:
-  url: 'miraheze.tk'
-  redirect: 'miraheze.org'
-  sslname: 'miraheze.tk'
-  ca: 'LetsEncrypt'
-  disable_event: false
-mirahezeml:
-  url: 'miraheze.ml'
-  redirect: 'miraheze.org'
-  sslname: 'miraheze.ml'
-  ca: 'LetsEncrypt'
-  disable_event: false
-mirahezega:
-  url: 'miraheze.ga'
-  redirect: 'miraheze.org'
-  sslname: 'miraheze.ga'
-  ca: 'LetsEncrypt'
-  disable_event: false
-mirahezegq:
-  url: 'miraheze.gq'
-  redirect: 'miraheze.org'
-  sslname: 'miraheze.gq'
-  ca: 'LetsEncrypt'
-  disable_event: false
+  
+# *.miraheze.org to wiki custom domains redirects
 dcwikiredirect:
   url: 'dc.miraheze.org'
   redirect: 'dcmultiversewiki.com'
@@ -492,20 +436,6 @@ segawikiredir:
   ca: 'Sectigo'
   hsts: 'strict'
   disable_event: true
-closinglogos:
-  url: 'closinglogosgroup.miraheze.org'
-  redirect: 'avid.miraheze.org'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
-  hsts: 'strict'
-  disable_event: true
-templatewiki:
-  url: 'template.miraheze.org'
-  redirect: 'dev.miraheze.org'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
-  hsts: 'strict'
-  disable_event: true
 schizoidnightmareswikiredir:
   url: 'schizoidnightmares.miraheze.org'
   redirect: 'schizoidnightmares.wiki'
@@ -530,6 +460,78 @@ yoshiwikiredir:
 wariowikiredir:
   url: 'wario.miraheze.org'
   redirect: 'wariopedia.com'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
+  
+# *.miraheze.org to *.miraheze.org wiki redirects
+wwwredirect:
+  url: 'www.miraheze.org'
+  redirect: 'miraheze.org'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  disable_event: true
+wikimiraheze:
+  url: 'wiki.miraheze.org'
+  redirect: 'meta.miraheze.org'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
+test3wiki:
+  url: 'test3.miraheze.org'
+  redirect: 'beta.betaheze.org'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
+betawiki:
+  url: 'beta.miraheze.org'
+  redirect: 'beta.betaheze.org'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  disable_event: true
+mirahezecf:
+  url: 'miraheze.cf'
+  redirect: 'miraheze.org'
+  sslname: 'miraheze.cf'
+  ca: 'LetsEncrypt'
+  disable_event: false
+mirahezetk:
+  url: 'miraheze.tk'
+  redirect: 'miraheze.org'
+  sslname: 'miraheze.tk'
+  ca: 'LetsEncrypt'
+  disable_event: false
+mirahezeml:
+  url: 'miraheze.ml'
+  redirect: 'miraheze.org'
+  sslname: 'miraheze.ml'
+  ca: 'LetsEncrypt'
+  disable_event: false
+mirahezega:
+  url: 'miraheze.ga'
+  redirect: 'miraheze.org'
+  sslname: 'miraheze.ga'
+  ca: 'LetsEncrypt'
+  disable_event: false
+mirahezegq:
+  url: 'miraheze.gq'
+  redirect: 'miraheze.org'
+  sslname: 'miraheze.gq'
+  ca: 'LetsEncrypt'
+  disable_event: false
+closinglogos:
+  url: 'closinglogosgroup.miraheze.org'
+  redirect: 'avid.miraheze.org'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
+templatewiki:
+  url: 'template.miraheze.org'
+  redirect: 'dev.miraheze.org'
   sslname: 'wildcard.miraheze.org-2020-2'
   ca: 'Sectigo'
   hsts: 'strict'
