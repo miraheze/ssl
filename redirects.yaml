@@ -293,44 +293,9 @@ wwwredirect:
   sslname: 'wildcard.miraheze.org-2020-2'
   ca: 'Sectigo'
   disable_event: true
-hellointernetwiki:
-  url: 'hellointernet.miraheze.org'
-  redirect: 'podpedia.miraheze.org/wiki/Portal:HelloInternet'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
-  hsts: 'strict'
-  disable_event: true
-unmadewiki:
-  url: 'unmade.miraheze.org'
-  redirect: 'podpedia.miraheze.org/wiki/Portal:Unmade'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
-  hsts: 'strict'
-  disable_event: true
-intpwiki:
-  url: 'intp.miraheze.org'
-  redirect: 'taswin.miraheze.org'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
-  hsts: 'strict'
-  disable_event: true
 wikimiraheze:
   url: 'wiki.miraheze.org'
   redirect: 'meta.miraheze.org'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
-  hsts: 'strict'
-  disable_event: true
-test1wiki:
-  url: 'test1.miraheze.org'
-  redirect: 'beta.betaheze.org'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
-  hsts: 'strict'
-  disable_event: true
-test2wiki:
-  url: 'test2.miraheze.org'
-  redirect: 'beta.betaheze.org'
   sslname: 'wildcard.miraheze.org-2020-2'
   ca: 'Sectigo'
   hsts: 'strict'
@@ -390,27 +355,9 @@ dcmultiversewiki:
   sslname: 'wildcard.miraheze.org-2020-2'
   ca: 'Sectigo'
   disable_event: true
-animatedfeetwiki:
-  url: 'animatedfeet.miraheze.org'
-  redirect: 'drawnfeet.miraheze.org'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
-  disable_event: true
-animatefeetwiki:
-  url: 'animefeet.miraheze.org'
-  redirect: 'drawnfeet.miraheze.org'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
-  disable_event: true
 allthetropeswiki:
   url: 'allthetropes.miraheze.org'
   redirect: 'allthetropes.org'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
-  disable_event: true
-civclassicmirahezewiki:
-  url: 'civclassic.miraheze.org'
-  redirect: 'civwiki.miraheze.org'
   sslname: 'wildcard.miraheze.org-2020-2'
   ca: 'Sectigo'
   disable_event: true
@@ -587,7 +534,6 @@ wariowikiredir:
   ca: 'Sectigo'
   hsts: 'strict'
   disable_event: true
-
 
 # orain.org to miraheze.org wiki redirects
 allthetropesorain:
