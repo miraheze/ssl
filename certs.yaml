@@ -1868,3 +1868,7 @@ deadpremwiki:
   url: 'deadprem.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+itadminwikipl:
+  url: 'itadminwiki.pl'
+  ca: 'LetsEncrypt'
+  disable_event: false
