@@ -443,13 +443,6 @@ schizoidnightmareswikiredir:
   ca: 'Sectigo'
   hsts: 'strict'
   disable_event: true
-houkai2ndwiki:
-  url: 'houkai2nd.miraheze.org'
-  redirect: 'houkai2.cyou'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
-  hsts: 'strict'
-  disable_event: true
 yoshiwikiredir:
   url: 'yoshi.miraheze.org'
   redirect: 'yoshipedia.com'
