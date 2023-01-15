@@ -1,4 +1,15 @@
 ---
+# miraheze.wiki redirects
+mirahezewiki:
+  url: 'miraheze.wiki'
+  redirect: 'meta.miraheze.org'
+  path_redirects:
+    ^/br: 'phabricator.miraheze.org/maniphest/task/edit/form/20/'
+    ^/Fundraiser: 'meta.miraheze.org/wiki/Special:MyLanguage/Fundraiser'
+  sslname: 'miraheze.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: true
+
 wwwallthetropes:
   url: 'www.allthetropes.org'
   redirect: 'allthetropes.org'
@@ -9,12 +20,6 @@ wwwpermanentfuturelab:
   url: 'www.permanentfuturelab.wiki'
   redirect: 'permanentfuturelab.wiki'
   sslname: 'permanentfuturelab.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: true
-mirahezewiki:
-  url: 'miraheze.wiki'
-  redirect: 'meta.miraheze.org'
-  sslname: 'miraheze.wiki'
   ca: 'LetsEncrypt'
   disable_event: true
 mirahezecom:
@@ -41,12 +46,6 @@ piwik:
   sslname: 'wildcard.miraheze.org-2020-2'
   ca: 'Sectigo'
   hsts: 'strict'
-  disable_event: true
-wwwmarinebiodiversitymatrix:
-  url: 'www.marinebiodiversitymatrix.org'
-  redirect: 'marinebiodiversitymatrix.org'
-  sslname: 'marinebiodiversitymatrix.org'
-  ca: 'LetsEncrypt'
   disable_event: true
 wikithesimswikicom:
   url: 'wiki.thesimswiki.com'
@@ -112,42 +111,12 @@ iceriaorg:
   sslname: 'www.iceria.org'
   ca: 'LetsEncrypt'
   disable_event: true
-wwwerikapedia:
-  url: 'erikapedia.com'
-  redirect: 'www.erikapedia.com'
-  sslname: 'www.erikapedia.com'
-  ca: 'LetsEncrypt'
-  disable_event: true
 wwwpublictestwikicom:
   url: 'www.publictestwiki.com'
   redirect: 'publictestwiki.com'
   sslname: 'publictestwiki.com'
   ca: 'LetsEncrypt'
   disable_event: true
-wwwfraterniterebellioncom:
-  url: 'www.fraterniterebellion.com'
-  redirect: 'wiki.fraterniterebellion.com'
-  sslname: 'wiki.fraterniterebellion.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wwwopendatascotorg:
-  url: 'www.opendatascot.org'
-  redirect: 'opendatascot.org'
-  sslname: 'opendatascot.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
-petrawikiorg:
-  url: 'petrawiki.org'
-  redirect: 'en.petrawiki.org'
-  sslname: 'en.petrawiki.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wwwpetrawikiorg:
-  url: 'www.petrawiki.org'
-  redirect: 'en.petrawiki.org'
-  sslname: 'en.petrawiki.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 christipedianl:
   url: 'christipedia.nl'
   redirect: 'www.christipedia.nl'
@@ -170,24 +139,6 @@ reviwikiinfo:
   url: 'reviwiki.info'
   redirect: 'revi.wiki'
   sslname: 'reviwiki.info'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wwwwikimirahezebotsorg:
-  url: 'www.wiki.mirahezebots.org'
-  redirect: 'wiki.mirahezebots.org'
-  sslname: 'wiki.mirahezebots.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wwwpornwikiorg:
-  url: 'www.pornwiki.org'
-  redirect: 'en.pornwiki.org'
-  sslname: 'www.pornwiki.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
-pornwikiorg:
-  url: 'pornwiki.org'
-  redirect: 'en.pornwiki.org'
-  sslname: 'pornwiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
 wwwtrollpastacom:
@@ -220,36 +171,12 @@ wwwethenewiki:
   sslname: 'ethene.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-wwwstardewmoddingwiki:
-  url: 'www.stardewmodding.wiki'
-  redirect: 'stardewmodding.wiki'
-  sslname: 'stardewmodding.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wwwrecyclerieuzegeorg:
-  url: 'www.recyclerie-uzege.org'
-  redirect: 'www.arru.xyz'
-  sslname: 'www.recyclerie-uzege.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wwwfortiswiki:
-  url: 'www.fortis.wiki'
-  redirect: 'fortis.wiki'
-  sslname: 'fortis.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wwwmwcosmoscom:
   url: 'www.mwcosmos.com'
   redirect: 'mwcosmos.com'
   sslname: 'mwcosmos.com'
   ca: 'LetsEncrypt'
   disable_event: false
-fortismirahezeorg:
-  url: 'fortis.miraheze.org'
-  redirect: 'fortis.wiki'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'LetsEncrypt'
-  disable_event: true
 journeythewordwiki:
   url: 'journeytheword.wiki'
   redirect: 'www.journeytheword.wiki'
@@ -264,7 +191,7 @@ polandballwikicom:
   disable_event: false
 wwwfamedataorg:
   url: 'www.famedata.org'
-  redirect: 'famedata.org'
+  redirect: 'data.famepedia.org'
   sslname: 'famedata.org'
   ca: 'LetsEncrypt'
   disable_event: false
@@ -274,28 +201,10 @@ enfamepediaorg-1:
   sslname: 'en.famepedia.org'
   ca: 'LetsEncrypt'
   disable_event: false
-ballmediaorg:
-  url: 'ballmedia.org'
-  redirect: 'central.ballmedia.org'
-  sslname: 'ballmedia.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wwwballmediaorg:
-  url: 'www.ballmedia.org'
-  redirect: 'central.ballmedia.org'
-  sslname: 'ballmedia.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wwwambientguitarorg:
   url: 'www.ambientguitar.org'
   redirect: 'ambientguitar.org'
   sslname: 'ambientguitar.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wwwaarthalcom:
-  url: 'www.aarthal.com'
-  redirect: 'aarthal.com'
-  sslname: 'aarthal.com'
   ca: 'LetsEncrypt'
   disable_event: false
 projectpatternscom:
@@ -304,22 +213,10 @@ projectpatternscom:
   sslname: 'project-patterns.com'
   ca: 'LetsEncrypt'
   disable_event: false
-scum-wikicom:
-  url: 'www.scum-wiki.com'
-  redirect: 'scum-wiki.com'
-  sslname: 'scum-wiki.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 proficientprofitclick:
   url: 'proficientprofit.click'
   redirect: 'www.proficientprofit.click'
   sslname: 'www.proficientprofit.click'
-  ca: 'LetsEncrypt'
-  disable_event: false
-agentisaicom:
-  url: 'agentisai.com'
-  redirect: 'www.agentisai.com'
-  sslname: 'www.agentisai.com'
   ca: 'LetsEncrypt'
   disable_event: false
 lgbtqiawiki:
@@ -328,120 +225,83 @@ lgbtqiawiki:
   sslname: 'www.lgbtqia.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwistpcomputingcom:
+  url: 'www.istpcomputing.com'
+  redirect: 'istpcomputing.com'
+  sslname: 'istpcomputing.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
+dlfmwikitop:
+  url: 'www.dlfm-wiki.top'
+  redirect: 'dlfm-wiki.top'
+  sslname: 'dlfm-wiki.top'
+  ca: 'LetsEncrypt'
+  disable_event: false
+wwwrosettacodeorg:
+  url: 'www.rosettacode.org'
+  redirect: 'rosettacode.org'
+  sslname: 'rosettacode.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
+petrawikiorg:
+  url: 'petrawiki.org'
+  redirect: 'en.petrawiki.org'
+  sslname: 'en.petrawiki.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
+datafamepediaorgredirect:
+  url: 'famedata.org'
+  redirect: 'data.famepedia.org'
+  sslname: 'famedata.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
+wwwpornwikiorg:
+  url: 'www.pornwiki.org'
+  redirect: 'en.pornwiki.org'
+  sslname: 'en.pornwiki.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
+pornwikiorg:
+  url: 'pornwiki.org'
+  redirect: 'en.pornwiki.org'
+  sslname: 'en.pornwiki.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
+dcmultiversedcwikiscom:
+  url: 'dc-multiverse.dcwikis.com'
+  redirect: 'dcmultiversewiki.com'
+  sslname: 'dc-multiverse.dcwikis.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
+wwwdcmultiversewikicom:
+  url: 'www.dcmultiversewiki.com'
+  redirect: 'dcmultiversewiki.com'
+  sslname: 'dcmultiversewiki.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
+wwwdeadpremwiki:
+  url: 'www.deadprem.wiki'
+  redirect: 'deadprem.wiki'
+  sslname: 'deadprem.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
-# *.miraheze.org to *.miraheze.org wiki redirects
-hellointernetwiki:
-  url: 'hellointernet.miraheze.org'
-  redirect: 'podpedia.miraheze.org/wiki/Portal:HelloInternet'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
-  hsts: 'strict'
-  disable_event: true
-unmadewiki:
-  url: 'unmade.miraheze.org'
-  redirect: 'podpedia.miraheze.org/wiki/Portal:Unmade'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
-  hsts: 'strict'
-  disable_event: true
-intpwiki:
-  url: 'intp.miraheze.org'
-  redirect: 'taswin.miraheze.org'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
-  hsts: 'strict'
-  disable_event: true
-wikimiraheze:
-  url: 'wiki.miraheze.org'
-  redirect: 'meta.miraheze.org'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
-  hsts: 'strict'
-  disable_event: true
-test1wiki:
-  url: 'test1.miraheze.org'
-  redirect: 'beta.betaheze.org'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
-  hsts: 'strict'
-  disable_event: true
-test2wiki:
-  url: 'test2.miraheze.org'
-  redirect: 'beta.betaheze.org'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
-  hsts: 'strict'
-  disable_event: true
-test3wiki:
-  url: 'test3.miraheze.org'
-  redirect: 'beta.betaheze.org'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
-  hsts: 'strict'
-  disable_event: true
-betawiki:
-  url: 'beta.miraheze.org'
-  redirect: 'beta.betaheze.org'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
-  disable_event: true
-mirahezetk:
-  url: 'miraheze.tk'
-  redirect: 'miraheze.org'
-  sslname: 'miraheze.tk'
-  ca: 'LetsEncrypt'
-  disable_event: false
-mirahezeml:
-  url: 'miraheze.ml'
-  redirect: 'miraheze.org'
-  sslname: 'miraheze.ml'
-  ca: 'LetsEncrypt'
-  disable_event: false
-mirahezega:
-  url: 'miraheze.ga'
-  redirect: 'miraheze.org'
-  sslname: 'miraheze.ga'
-  ca: 'LetsEncrypt'
-  disable_event: false
-mirahezegq:
-  url: 'miraheze.gq'
-  redirect: 'miraheze.org'
-  sslname: 'miraheze.gq'
-  ca: 'LetsEncrypt'
-  disable_event: false
+# *.miraheze.org to wiki custom domains redirects
 dcwikiredirect:
   url: 'dc.miraheze.org'
-  redirect: 'dc-multiverse.dcwikis.com'
+  redirect: 'dcmultiversewiki.com'
   sslname: 'wildcard.miraheze.org-2020-2'
   ca: 'Sectigo'
   disable_event: true
 dcmultiversewiki:
   url: 'dcmultiverse.miraheze.org'
-  redirect: 'dc-multiverse.dcwikis.com'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
-  disable_event: true
-animatedfeetwiki:
-  url: 'animatedfeet.miraheze.org'
-  redirect: 'drawnfeet.miraheze.org'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
-  disable_event: true
-animatefeetwiki:
-  url: 'animefeet.miraheze.org'
-  redirect: 'drawnfeet.miraheze.org'
+  redirect: 'dcmultiversewiki.com'
   sslname: 'wildcard.miraheze.org-2020-2'
   ca: 'Sectigo'
   disable_event: true
 allthetropeswiki:
   url: 'allthetropes.miraheze.org'
   redirect: 'allthetropes.org'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
-  disable_event: true
-civclassicmirahezewiki:
-  url: 'civclassic.miraheze.org'
-  redirect: 'civwiki.miraheze.org'
   sslname: 'wildcard.miraheze.org-2020-2'
   ca: 'Sectigo'
   disable_event: true
@@ -481,7 +341,7 @@ squareenixwiki:
   sslname: 'wildcard.miraheze.org-2020-2'
   ca: 'Sectigo'
   disable_event: true
-polandballwiki:
+polandballwikiredirect:
   url: 'polandball.miraheze.org'
   redirect: 'www.polandballwiki.com'
   sslname: 'wildcard.miraheze.org-2020-2'
@@ -498,6 +358,176 @@ lgbtawiki:
   redirect: 'www.lgbtqia.wiki'
   sslname: 'wildcard.miraheze.org-2020-2'
   ca: 'Sectigo'
+  disable_event: true
+recaptimewiki:
+  url: 'recaptime.miraheze.org'
+  redirect: 'wiki.recaptime.eu.org'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
+rarewiki:
+  url: 'rare.miraheze.org'
+  redirect: 'rarewarewiki.com'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
+finalfantasywiki:
+  url: 'finalfantasy.miraheze.org'
+  redirect: 'ffwiki.org'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
+donkeykongwiki:
+  url: 'donkeykong.miraheze.org'
+  redirect: 'dkpedia.com'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
+erawikisourcewiki:
+  url: 'erawikisource.miraheze.org'
+  redirect: 'source.erag.eu.org'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
+taswinwiki:
+  url: 'taswin.miraheze.org'
+  redirect: 'istpcomputing.com'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
+metroidwiki:
+  url: 'metroid.miraheze.org'
+  redirect: 'metroidpedia.com'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
+yokaiwatchwiki:
+  url: 'yokaiwatch.miraheze.org'
+  redirect: 'yokaiwatchwiki.com'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
+projectsekaiwiki:
+  url: 'projectsekai.miraheze.org'
+  redirect: 'www.sekaipedia.org'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
+crashspyrowikiredir:
+  url: 'crashspyro.miraheze.org'
+  redirect: 'crashspyrowiki.com'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
+segawikiredir:
+  url: 'sega.miraheze.org'
+  redirect: 'segawiki.com'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
+schizoidnightmareswikiredir:
+  url: 'schizoidnightmares.miraheze.org'
+  redirect: 'schizoidnightmares.wiki'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
+yoshiwikiredir:
+  url: 'yoshi.miraheze.org'
+  redirect: 'yoshipedia.com'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
+wariowikiredir:
+  url: 'wario.miraheze.org'
+  redirect: 'wariopedia.com'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
+
+# *.miraheze.org to *.miraheze.org wiki redirects
+wwwredirect:
+  url: 'www.miraheze.org'
+  redirect: 'miraheze.org'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  disable_event: true
+wikimiraheze:
+  url: 'wiki.miraheze.org'
+  redirect: 'meta.miraheze.org'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
+test3wiki:
+  url: 'test3.miraheze.org'
+  redirect: 'beta.betaheze.org'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
+betawiki:
+  url: 'beta.miraheze.org'
+  redirect: 'beta.betaheze.org'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  disable_event: true
+mirahezecf:
+  url: 'miraheze.cf'
+  redirect: 'miraheze.org'
+  sslname: 'miraheze.cf'
+  ca: 'LetsEncrypt'
+  disable_event: false
+mirahezetk:
+  url: 'miraheze.tk'
+  redirect: 'miraheze.org'
+  sslname: 'miraheze.tk'
+  ca: 'LetsEncrypt'
+  disable_event: false
+mirahezeml:
+  url: 'miraheze.ml'
+  redirect: 'miraheze.org'
+  sslname: 'miraheze.ml'
+  ca: 'LetsEncrypt'
+  disable_event: false
+mirahezega:
+  url: 'miraheze.ga'
+  redirect: 'miraheze.org'
+  sslname: 'miraheze.ga'
+  ca: 'LetsEncrypt'
+  disable_event: false
+mirahezegq:
+  url: 'miraheze.gq'
+  redirect: 'miraheze.org'
+  sslname: 'miraheze.gq'
+  ca: 'LetsEncrypt'
+  disable_event: false
+closinglogos:
+  url: 'closinglogosgroup.miraheze.org'
+  redirect: 'avid.miraheze.org'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
+templatewiki:
+  url: 'template.miraheze.org'
+  redirect: 'dev.miraheze.org'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
   disable_event: true
 
 # orain.org to miraheze.org wiki redirects
