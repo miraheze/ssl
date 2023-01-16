@@ -1880,3 +1880,7 @@ comprehensibleinputwikiorg:
   url: 'comprehensibleinputwiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwamusementparkarchivescom:
+  url: 'www.amusementparkarchives.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
