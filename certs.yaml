@@ -1872,3 +1872,7 @@ itadminwikipl:
   url: 'itadminwiki.pl'
   ca: 'LetsEncrypt'
   disable_event: false
+test2specialchatorg:
+  url: 'test2.specialchat.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
