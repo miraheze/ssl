@@ -1876,3 +1876,7 @@ test2specialchatorg:
   url: 'test2.specialchat.org'
   ca: 'LetsEncrypt'
   disable_event: false
+comprehensibleinputwikiorg:
+  url: 'comprehensibleinputwiki.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
