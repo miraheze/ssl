@@ -1888,3 +1888,7 @@ decyclopediatk:
   url: 'decyclopedia.tk'
   ca: 'LetsEncrypt'
   disable_event: false
+wikigeoparkcorumbataicombr:
+  url: 'wiki.geoparkcorumbatai.com.br'
+  ca: 'LetsEncrypt'
+  disable_event: false
