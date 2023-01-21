@@ -1892,3 +1892,7 @@ wikigeoparkcorumbataicombr:
   url: 'wiki.geoparkcorumbatai.com.br'
   ca: 'LetsEncrypt'
   disable_event: false
+wonderfuleverydayorg:
+  url: 'wonderfuleveryday.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
