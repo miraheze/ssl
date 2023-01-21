@@ -529,6 +529,13 @@ templatewiki:
   ca: 'Sectigo'
   hsts: 'strict'
   disable_event: true
+thelangyalist_redirect:
+  url: 'thelangyalist.miraheze.org'
+  redirect: 'nirvanainfire.miraheze.org'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
 
 # orain.org to miraheze.org wiki redirects
 allthetropesorain:
