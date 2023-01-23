@@ -1900,7 +1900,3 @@ wiki3point0science:
   url: 'wiki.3point0.science'
   ca: 'LetsEncrypt'
   disable_event: false
-threedomwikipcastsite:
-  url: 'threedomwiki.pcast.site'
-  ca: 'LetsEncrypt'
-  disable_event: false
