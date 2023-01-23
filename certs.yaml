@@ -1896,3 +1896,7 @@ wonderfuleverydayorg:
   url: 'wonderfuleveryday.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wiki3point0science:
+  url: 'wiki.3point0.science'
+  ca: 'LetsEncrypt'
+  disable_event: false
