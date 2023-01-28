@@ -1908,3 +1908,7 @@ wikiyuanpieuorg:
   url: 'wiki.yuanpi.eu.org'
   ca: 'LetsEncrypt'
   disable_event: false
+zhacgwiki:
+  url: 'zhacg.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
