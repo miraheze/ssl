@@ -1904,3 +1904,7 @@ wikiwidwwacouk:
   url: 'wiki.widwwa.co.uk'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiyuanpieuorg:
+  url: 'wiki.yuanpi.eu.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
