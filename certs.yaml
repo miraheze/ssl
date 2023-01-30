@@ -1912,3 +1912,7 @@ zhacgwiki:
   url: 'zhacg.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+worldtriggerwikicom:
+  url: 'worldtriggerwiki.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
