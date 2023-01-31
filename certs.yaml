@@ -1932,3 +1932,7 @@ fanonlophocmatnguwiki:
   url: 'fanon.lophocmatngu.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+natiospheraepolandballwiki:
+  url: 'natiospherae.polandball.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
