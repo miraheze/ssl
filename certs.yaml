@@ -1940,3 +1940,7 @@ escountryhumanspolandballwiki:
   url: 'es.countryhumans.polandball.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+rucountryhumanspolandballwiki:
+  url: 'ru.countryhumans.polandball.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
