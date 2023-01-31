@@ -1916,3 +1916,7 @@ worldtriggerwikicom:
   url: 'worldtriggerwiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
+teamballspolandballwiki:
+  url: 'teamballs.polandball.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
