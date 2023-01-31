@@ -1928,3 +1928,7 @@ mercytheking1543euorg:
   url: 'mercy.theking1543.eu.org'
   ca: 'LetsEncrypt'
   disable_event: false
+fanonlophocmatnguwiki:
+  url: 'fanon.lophocmatngu.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
