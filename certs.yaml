@@ -1920,3 +1920,7 @@ teamballspolandballwiki:
   url: 'teamballs.polandball.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+raraspolandballwiki:
+  url: 'raras.polandball.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
