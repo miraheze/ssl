@@ -1936,3 +1936,7 @@ natiospheraepolandballwiki:
   url: 'natiospherae.polandball.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+escountryhumanspolandballwiki:
+  url: 'es.countryhumans.polandball.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
