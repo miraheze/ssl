@@ -1872,3 +1872,75 @@ itadminwikipl:
   url: 'itadminwiki.pl'
   ca: 'LetsEncrypt'
   disable_event: false
+test2specialchatorg:
+  url: 'test2.specialchat.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
+comprehensibleinputwikiorg:
+  url: 'comprehensibleinputwiki.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
+wwwamusementparkarchivescom:
+  url: 'www.amusementparkarchives.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
+decyclopediatk:
+  url: 'decyclopedia.tk'
+  ca: 'LetsEncrypt'
+  disable_event: false
+wikigeoparkcorumbataicombr:
+  url: 'wiki.geoparkcorumbatai.com.br'
+  ca: 'LetsEncrypt'
+  disable_event: false
+wonderfuleverydayorg:
+  url: 'wonderfuleveryday.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
+wiki3point0science:
+  url: 'wiki.3point0.science'
+  ca: 'LetsEncrypt'
+  disable_event: false
+wikiwidwwacouk:
+  url: 'wiki.widwwa.co.uk'
+  ca: 'LetsEncrypt'
+  disable_event: false
+wikiyuanpieuorg:
+  url: 'wiki.yuanpi.eu.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
+zhacgwiki:
+  url: 'zhacg.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
+worldtriggerwikicom:
+  url: 'worldtriggerwiki.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
+teamballspolandballwiki:
+  url: 'teamballs.polandball.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
+raraspolandballwiki:
+  url: 'raras.polandball.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
+mercytheking1543euorg:
+  url: 'mercy.theking1543.eu.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
+fanonlophocmatnguwiki:
+  url: 'fanon.lophocmatngu.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
+natiospheraepolandballwiki:
+  url: 'natiospherae.polandball.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
+escountryhumanspolandballwiki:
+  url: 'es.countryhumans.polandball.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
+rucountryhumanspolandballwiki:
+  url: 'ru.countryhumans.polandball.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
