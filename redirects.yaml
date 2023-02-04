@@ -479,19 +479,6 @@ wikimiraheze:
   ca: 'Sectigo'
   hsts: 'strict'
   disable_event: true
-test3wiki:
-  url: 'test3.miraheze.org'
-  redirect: 'beta.betaheze.org'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
-  hsts: 'strict'
-  disable_event: true
-betawiki:
-  url: 'beta.miraheze.org'
-  redirect: 'beta.betaheze.org'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
-  disable_event: true
 mirahezecf:
   url: 'miraheze.cf'
   redirect: 'miraheze.org'
