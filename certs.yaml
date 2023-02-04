@@ -1948,3 +1948,7 @@ wikiandreijirohukeuorg:
   url: 'wiki.andreijiroh.uk.eu.org'
   ca: 'LetsEncrypt'
   disable_event: false
+hcwtomatdev:
+  url: 'hcw.tomat.dev'
+  ca: 'LetsEncrypt'
+  disable_event: false
