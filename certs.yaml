@@ -1952,3 +1952,7 @@ hcwtomatdev:
   url: 'hcw.tomat.dev'
   ca: 'LetsEncrypt'
   disable_event: false
+wxvneteuorg:
+  url: 'w.xvnet.eu.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
