@@ -305,8 +305,8 @@ allthetropeswiki:
   sslname: 'wildcard.miraheze.org-2020-2'
   ca: 'Sectigo'
   disable_event: true
-pokemon2wiki:
-  url: 'pokemon2.miraheze.org'
+pokemonwiki:
+  url: 'pokemon.miraheze.org'
   redirect: 'pokemonwiki.info'
   sslname: 'wildcard.miraheze.org-2020-2'
   ca: 'Sectigo'
