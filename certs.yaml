@@ -1956,3 +1956,7 @@ wxvneteuorg:
   url: 'w.xvnet.eu.org'
   ca: 'LetsEncrypt'
   disable_event: false
+ieunigonnet:
+  url: 'ie.unigon.net'
+  ca: 'LetsEncrypt'
+  disable_event: false
