@@ -1964,3 +1964,7 @@ apocryphawiki:
   url: 'apocrypha.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+bristolstudenthousingcooporg:
+  url: 'bristolstudenthousingcoop.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
