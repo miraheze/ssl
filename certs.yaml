@@ -1968,3 +1968,7 @@ bristolstudenthousingcooporg:
   url: 'bristolstudenthousingcoop.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wikinmcgames:
+  url: 'wiki.nmc.games'
+  ca: 'Cloudflare'
+  disable_event: false
