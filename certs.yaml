@@ -1960,3 +1960,7 @@ ieunigonnet:
   url: 'ie.unigon.net'
   ca: 'LetsEncrypt'
   disable_event: false
+apocryphawiki:
+  url: 'apocrypha.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
