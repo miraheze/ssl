@@ -1972,3 +1972,7 @@ wikinmcgames:
   url: 'wiki.nmc.games'
   ca: 'LetsEncrypt'
   disable_event: false
+wikipwaadiaworks:
+  url: 'wikipwaadia.works'
+  ca: 'LetsEncrypt'
+  disable_event: false
