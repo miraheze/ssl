@@ -237,12 +237,6 @@ petrawikiorg:
   sslname: 'en.petrawiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
-datafamepediaorgredirect:
-  url: 'famedata.org'
-  redirect: 'data.famepedia.org'
-  sslname: 'famedata.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wwwpornwikiorg:
   url: 'www.pornwiki.org'
   redirect: 'en.pornwiki.org'
