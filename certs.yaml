@@ -1892,10 +1892,6 @@ tudiencomovn:
   url: 'tudien.como.vn'
   ca: 'LetsEncrypt'
   disable_event: false
-wikidrycleaninglobbynet:
-  url: 'wiki.drycleaninglobby.net'
-  ca: 'LetsEncrypt'
-  disable_event: false
 nijigenwiki:
   url: 'nijigen.wiki'
   ca: 'LetsEncrypt'
