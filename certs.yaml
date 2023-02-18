@@ -1896,7 +1896,3 @@ nijigenwiki:
   url: 'nijigen.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-xnimrry7s001sedacf:
-  url: 'xn--imrry7s001seda.cf'
-  ca: 'LetsEncrypt'
-  disable_event: false
