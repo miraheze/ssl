@@ -1896,3 +1896,7 @@ nijigenwiki:
   url: 'nijigen.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+kirisamekissatencf:
+  url: 'kirisame-kissaten.cf'
+  ca: 'LetsEncrypt'
+  disable_event: false
