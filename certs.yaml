@@ -1908,3 +1908,7 @@ wikioasismpcom:
   url: 'wiki.oasismp.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikikingmingshrimpcom:
+  url: 'wiki.kingmingshrimp.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
