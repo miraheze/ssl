@@ -1904,3 +1904,7 @@ knowledgebaseclientmanagercoza:
   url: 'knowledgebase.clientmanager.co.za'
   ca: 'LetsEncrypt'
   disable_event: false
+wikioasismpcom:
+  url: 'wiki.oasismp.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
