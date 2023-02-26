@@ -1912,3 +1912,7 @@ wikikingmingshrimpcom:
   url: 'wiki.kingmingshrimp.com'
   ca: 'LetsEncrypt'
   disable_event: false
+leborkinfopl:
+  url: 'lebork.info.pl'
+  ca: 'LetsEncrypt'
+  disable_event: false
