@@ -1904,3 +1904,7 @@ leborkinfopl:
   url: 'lebork.info.pl'
   ca: 'LetsEncrypt'
   disable_event: false
+hcwtomatdev:
+  url: 'hcw.tomat.dev'
+  ca: 'LetsEncrypt'
+  disable_event: false
