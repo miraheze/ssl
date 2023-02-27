@@ -960,10 +960,6 @@ hosekiwiki:
   url: 'hoseki.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-wikipbptanarchytk:
-  url: 'wiki.pbptanarchy.tk'
-  ca: 'LetsEncrypt'
-  disable_event: false
 nlxlivingorg:
   url: 'nl.xliving.org'
   ca: 'LetsEncrypt'
@@ -1832,10 +1828,6 @@ mercytheking1543euorg:
   url: 'mercy.theking1543.eu.org'
   ca: 'LetsEncrypt'
   disable_event: false
-fanonlophocmatnguwiki:
-  url: 'fanon.lophocmatngu.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
 natiospheraepolandballwiki:
   url: 'natiospherae.polandball.wiki'
   ca: 'LetsEncrypt'
@@ -1850,10 +1842,6 @@ rucountryhumanspolandballwiki:
   disable_event: false
 wikiandreijirohukeuorg:
   url: 'wiki.andreijiroh.uk.eu.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
-hcwtomatdev:
-  url: 'hcw.tomat.dev'
   ca: 'LetsEncrypt'
   disable_event: false
 wxvneteuorg:
