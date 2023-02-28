@@ -1912,3 +1912,7 @@ wikidenbytech:
   url: 'wiki.denby.tech'
   ca: 'LetsEncrypt'
   disable_event: false
+kalonsreveriecom:
+  url: 'kalons-reverie.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
