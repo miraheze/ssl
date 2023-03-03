@@ -1920,3 +1920,7 @@ wikilitektop:
   url: 'wiki.litek.top'
   ca: 'LetsEncrypt'
   disable_event: false
+ukreligiononfiremarinua:
+  url: 'uk.religiononfire.mar.in.ua'
+  ca: 'LetsEncrypt'
+  disable_event: false
