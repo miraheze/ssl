@@ -1924,3 +1924,7 @@ ukreligiononfiremarinua:
   url: 'uk.religiononfire.mar.in.ua'
   ca: 'LetsEncrypt'
   disable_event: false
+enreligiononfiremarinua:
+  url: 'en.religiononfire.mar.in.ua'
+  ca: 'LetsEncrypt'
+  disable_event: false
