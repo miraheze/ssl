@@ -1928,3 +1928,7 @@ enreligiononfiremarinua:
   url: 'en.religiononfire.mar.in.ua'
   ca: 'LetsEncrypt'
   disable_event: false
+cloudneptunewiki:
+  url: 'cloud.neptune.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
