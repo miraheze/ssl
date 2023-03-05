@@ -1932,3 +1932,7 @@ cloudneptunewiki:
   url: 'cloud.neptune.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+datawikiyriorg:
+  url: 'data.wikiyri.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
