@@ -1936,3 +1936,7 @@ datawikiyriorg:
   url: 'data.wikiyri.org'
   ca: 'LetsEncrypt'
   disable_event: false
+ptpolandballwiki:
+  url: 'pt.polandball.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
