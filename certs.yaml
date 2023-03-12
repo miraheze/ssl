@@ -1940,3 +1940,7 @@ ptpolandballwiki:
   url: 'pt.polandball.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+corruwiki:
+  url: 'corru.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
