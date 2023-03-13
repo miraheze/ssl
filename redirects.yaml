@@ -6,6 +6,7 @@ mirahezewiki:
   path_redirects:
     ^/br: 'phabricator.miraheze.org/maniphest/task/edit/form/20/'
     ^/Fundraiser: 'meta.miraheze.org/wiki/Special:MyLanguage/Fundraiser'
+    ^/f: 'meta.miraheze.org/wiki/Special:MyLanguage/Fundraiser'
   sslname: 'miraheze.wiki'
   ca: 'LetsEncrypt'
   disable_event: true
