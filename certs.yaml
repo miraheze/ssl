@@ -1944,3 +1944,7 @@ corruwiki:
   url: 'corru.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+kbnenaorg:
+  url: 'kb.nena.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
