@@ -446,6 +446,13 @@ ajhalili2006wiki:
   ca: 'Sectigo'
   hsts: 'strict'
   disable_event: true
+nenawikiorgredir:
+  url: 'nenawiki.org'
+  redirect: 'kb.nena.org'
+  sslname: 'kb.nena.org'
+  ca: 'LetsEncrypt'
+  hsts: 'strict'
+  disable_event: true
 
 # *.miraheze.org to *.miraheze.org wiki redirects
 wwwredirect:
