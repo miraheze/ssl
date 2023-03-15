@@ -1960,3 +1960,7 @@ wikimcmarochurunet:
   url: 'wiki.mc.marochuru.net'
   ca: 'LetsEncrypt'
   disable_event: false
+wikirsfworld:
+  url: 'wiki.rsf.world'
+  ca: 'LetsEncrypt'
+  disable_event: false
