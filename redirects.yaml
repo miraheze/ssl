@@ -267,6 +267,12 @@ wwwdeadpremwiki:
   sslname: 'deadprem.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+nenawikiorgredir:
+  url: 'nenawiki.org'
+  redirect: 'kb.nena.org'
+  sslname: 'kb.nena.org'
+  ca: 'LetsEncrypt'
+  disable_event: true
 
 # *.miraheze.org to wiki custom domains redirects
 dcwikiredirect:
@@ -444,13 +450,6 @@ ajhalili2006wiki:
   redirect: 'wiki.andreijiroh.uk.eu.org'
   sslname: 'wildcard.miraheze.org-2020-2'
   ca: 'Sectigo'
-  hsts: 'strict'
-  disable_event: true
-nenawikiorgredir:
-  url: 'nenawiki.org'
-  redirect: 'kb.nena.org'
-  sslname: 'nenawiki.org'
-  ca: 'LetsEncrypt'
   hsts: 'strict'
   disable_event: true
 
