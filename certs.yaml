@@ -1956,3 +1956,7 @@ wikisusquorg:
   url: 'wiki.susqu.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wikimcmarochurunet:
+  url: 'wiki.mc.marochuru.net'
+  ca: 'LetsEncrypt'
+  disable_event: false
