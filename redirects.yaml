@@ -449,7 +449,7 @@ ajhalili2006wiki:
 nenawikiorgredir:
   url: 'nenawiki.org'
   redirect: 'kb.nena.org'
-  sslname: 'kb.nena.org'
+  sslname: 'nenawiki.org'
   ca: 'LetsEncrypt'
   hsts: 'strict'
   disable_event: true
