@@ -932,10 +932,6 @@ projectpatternscom:
   url: 'project-patterns.com'
   ca: 'LetsEncrypt'
   disable_event: false
-thenintendowikiorg:
-  url: 'thenintendowiki.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 smashbroswikicom:
   url: 'smashbroswiki.com'
   ca: 'LetsEncrypt'
