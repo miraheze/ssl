@@ -1976,3 +1976,7 @@ dftwikiyriorg:
   url: 'dft.wikiyri.org'
   ca: 'LetsEncrypt'
   disable_event: false
+thenintendowikicom:
+  url: 'thenintendowiki.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
