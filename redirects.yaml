@@ -273,6 +273,12 @@ nenawikiorgredir:
   sslname: 'kb.nena.org'
   ca: 'LetsEncrypt'
   disable_event: true
+wwwobeymewikiredir:
+  url: 'www.obeymewiki.com'
+  redirect: 'obeymewiki.com'
+  sslname: 'obeymewiki.com'
+  ca: 'LetsEncrypt'
+  disable_event: true
 
 # *.miraheze.org to wiki custom domains redirects
 dcwikiredirect:
