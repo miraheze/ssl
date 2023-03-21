@@ -1968,3 +1968,7 @@ wikiaetherexplorersscience:
   url: 'wiki.aetherexplorers.science'
   ca: 'LetsEncrypt'
   disable_event: false
+talumnneptunewiki:
+  url: 'talumn.neptune.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
