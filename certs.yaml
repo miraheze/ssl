@@ -1964,3 +1964,7 @@ wikirsfworld:
   url: 'wiki.rsf.world'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiaetherexplorersscience:
+  url: 'wiki.aetherexplorers.science'
+  ca: 'LetsEncrypt'
+  disable_event: false
