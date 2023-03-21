@@ -1964,3 +1964,7 @@ wikirsfworld:
   url: 'wiki.rsf.world'
   ca: 'LetsEncrypt'
   disable_event: false
+obeymewikicom:
+  url: 'obeymewiki.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
