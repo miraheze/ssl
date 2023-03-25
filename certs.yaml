@@ -1980,3 +1980,7 @@ hkrailwiki:
   url: 'hkrail.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiarsroboticsorg:
+  url: 'wiki.arsrobotics.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
