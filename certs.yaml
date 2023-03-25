@@ -1984,3 +1984,7 @@ wikiarsroboticsorg:
   url: 'wiki.arsrobotics.org'
   ca: 'LetsEncrypt'
   disable_event: false
+kombinateuorg:
+  url: 'kombinat.eu.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
