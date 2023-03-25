@@ -1976,7 +1976,3 @@ thenintendowikicom:
   url: 'thenintendowiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
-hkrailwiki:
-  url: 'hkrail.wiki'
-  ca: 'Cloudflare'
-  disable_event: false
