@@ -1988,3 +1988,7 @@ kombinateuorg:
   url: 'kombinat.eu.org'
   ca: 'LetsEncrypt'
   disable_event: false
+encyclopediaroboticaorg:
+  url: 'encyclopediarobotica.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
