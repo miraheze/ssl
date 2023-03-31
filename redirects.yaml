@@ -249,18 +249,6 @@ pornwikiorg:
   sslname: 'en.pornwiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
-dcmultiversedcwikiscom:
-  url: 'dc-multiverse.dcwikis.com'
-  redirect: 'dcmultiversewiki.com'
-  sslname: 'dc-multiverse.dcwikis.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wwwdcmultiversewikicom:
-  url: 'www.dcmultiversewiki.com'
-  redirect: 'dcmultiversewiki.com'
-  sslname: 'dcmultiversewiki.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wwwdeadpremwiki:
   url: 'www.deadprem.wiki'
   redirect: 'deadprem.wiki'
@@ -287,18 +275,6 @@ trfursredir:
   disable_event: true
 
 # *.miraheze.org to wiki custom domains redirects
-dcwikiredirect:
-  url: 'dc.miraheze.org'
-  redirect: 'dcmultiversewiki.com'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
-  disable_event: true
-dcmultiversewiki:
-  url: 'dcmultiverse.miraheze.org'
-  redirect: 'dcmultiversewiki.com'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
-  disable_event: true
 allthetropeswiki:
   url: 'allthetropes.miraheze.org'
   redirect: 'allthetropes.org'
