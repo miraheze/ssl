@@ -48,10 +48,6 @@ speleo:
   url: 'speleo.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-nenawiki:
-  url: 'nenawiki.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 tulpa:
   url: 'wiki.tulpa.info'
   ca: 'LetsEncrypt'
