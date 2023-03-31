@@ -279,6 +279,12 @@ wwwobeymewikiredir:
   sslname: 'obeymewiki.com'
   ca: 'LetsEncrypt'
   disable_event: true
+trfursredir:
+  url: 'trfurs.net'
+  redirect: 'wiki.trfurs.net'
+  sslname: 'wiki.trfurs.net'
+  ca: 'LetsEncrypt'
+  disable_event: true
 
 # *.miraheze.org to wiki custom domains redirects
 dcwikiredirect:
