@@ -1992,3 +1992,7 @@ encyclopediaroboticaorg:
   url: 'encyclopediarobotica.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wikitrfursnet:
+  url: 'wiki.trfurs.net'
+  ca: 'LetsEncrypt'
+  disable_event: false
