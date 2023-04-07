@@ -2000,3 +2000,7 @@ developerandtesterswikifeignwikitk:
   url: 'developer-and-testers.wiki.feign-wiki.tk'
   ca: 'LetsEncrypt'
   disable_event: false
+wikianempireofdreamscom:
+  url: 'wiki.anempireofdreams.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
