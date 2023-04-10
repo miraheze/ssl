@@ -2008,3 +2008,7 @@ wikihsdfzorgcn:
   url: 'wiki.hsdfz.org.cn'
   ca: 'LetsEncrypt'
   disable_event: false
+beamngmoddingcom:
+  url: 'beamngmodding.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
