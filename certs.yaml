@@ -2004,3 +2004,7 @@ wikianempireofdreamscom:
   url: 'wiki.anempireofdreams.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikihsdfzorgcn:
+  url: 'wiki.hsdfz.org.cn'
+  ca: 'LetsEncrypt'
+  disable_event: false
