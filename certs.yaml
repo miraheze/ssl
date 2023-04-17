@@ -2016,3 +2016,7 @@ studioniuboss123com:
   url: 'studio.niuboss123.com'
   ca: 'LetsEncrypt'
   disable_event: false
+elephantsggreigcom:
+  url: 'elephants.ggreig.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
