@@ -2020,3 +2020,7 @@ elephantsggreigcom:
   url: 'elephants.ggreig.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikitheinversecouk:
+  url: 'wiki.theinverse.co.uk'
+  ca: 'LetsEncrypt'
+  disable_event: false
