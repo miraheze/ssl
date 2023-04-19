@@ -2032,3 +2032,7 @@ cheeseepediaorg:
   url: 'cheeseepedia.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwsamafiaorg:
+  url: 'www.samafia.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
