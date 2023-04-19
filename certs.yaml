@@ -2028,3 +2028,7 @@ dodgecirclecom:
   url: 'dodgecircle.com'
   ca: 'LetsEncrypt'
   disable_event: false
+cheeseepediaorg:
+  url: 'cheeseepedia.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
