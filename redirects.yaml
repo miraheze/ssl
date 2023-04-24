@@ -171,12 +171,6 @@ wwwethenewiki:
   sslname: 'ethene.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-wwwmwcosmoscom:
-  url: 'www.mwcosmos.com'
-  redirect: 'mwcosmos.com'
-  sslname: 'mwcosmos.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 journeythewordwiki:
   url: 'journeytheword.wiki'
   redirect: 'www.journeytheword.wiki'
