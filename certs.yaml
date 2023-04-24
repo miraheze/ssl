@@ -400,10 +400,6 @@ wikicounterculturelabsorg:
   url: 'wiki.counterculturelabs.org'
   ca: 'LetsEncrypt'
   disable_event: false
-dcmultiversewikicom:
-  url: 'dcmultiversewiki.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikiclimatechangeai:
   url: 'wiki.climatechange.ai'
   ca: 'LetsEncrypt'
@@ -742,10 +738,6 @@ pwikidrydraytonvillagehallorguk:
   disable_event: false
 bluearchivewiki:
   url: 'bluearchive.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
-mwcosmoscom:
-  url: 'mwcosmos.com'
   ca: 'LetsEncrypt'
   disable_event: false
 wikimaskr:
