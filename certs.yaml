@@ -2028,3 +2028,7 @@ wwwsamafiaorg:
   url: 'www.samafia.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wikialtiluniummyid:
+  url: 'wiki.altilunium.my.id'
+  ca: 'LetsEncrypt'
+  disable_event: false
