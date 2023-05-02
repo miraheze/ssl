@@ -2040,3 +2040,7 @@ wikigtnewhorizonscom:
   url: 'wiki.gtnewhorizons.com'
   ca: 'LetsEncrypt'
   disable_event: false
+xomnipediaorg:
+  url: 'xomnipedia.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
