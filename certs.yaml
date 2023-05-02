@@ -2036,3 +2036,7 @@ wikimcsoftorg:
   url: 'wiki.mcsoft.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wikigtnewhorizonscom:
+  url: 'wiki.gtnewhorizons.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
