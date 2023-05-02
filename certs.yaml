@@ -2044,3 +2044,7 @@ xomnipediaorg:
   url: 'xomnipedia.org'
   ca: 'LetsEncrypt'
   disable_event: false
+vmklegacywiki:
+  url: 'vmklegacy.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
