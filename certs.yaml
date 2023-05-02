@@ -1452,10 +1452,6 @@ removededmml:
   url: 'removededm.ml'
   ca: 'LetsEncrypt'
   disable_event: false
-dlfmwikitop:
-  url: 'dlfm-wiki.top'
-  ca: 'LetsEncrypt'
-  disable_event: false
 rosettacodeorg:
   url: 'rosettacode.org'
   ca: 'LetsEncrypt'
