@@ -2052,3 +2052,7 @@ wikicoolstationspace:
   url: 'wiki.coolstation.space'
   ca: 'LetsEncrypt'
   disable_event: false
+internalwikicoolstationspace:
+  url: 'internalwiki.coolstation.space'
+  ca: 'LetsEncrypt'
+  disable_event: false
