@@ -2048,3 +2048,7 @@ nullcpuemudevorg:
   url: 'null-cpu.emudev.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wikicoolstationspace:
+  url: 'wiki.coolstation.space'
+  ca: 'LetsEncrypt'
+  disable_event: false
