@@ -2056,3 +2056,7 @@ internalwikicoolstationspace:
   url: 'internalwiki.coolstation.space'
   ca: 'LetsEncrypt'
   disable_event: false
+wikikirbygangcom:
+  url: 'wiki.kirbygang.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
