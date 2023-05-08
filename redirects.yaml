@@ -183,12 +183,6 @@ polandballwikicom:
   sslname: 'www.polandballwiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
-enfamepediaorg-1:
-  url: 'famepedia.org'
-  redirect: 'en.famepedia.org'
-  sslname: 'en.famepedia.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wwwambientguitarorg:
   url: 'www.ambientguitar.org'
   redirect: 'ambientguitar.org'
@@ -211,12 +205,6 @@ wwwistpcomputingcom:
   url: 'www.istpcomputing.com'
   redirect: 'istpcomputing.com'
   sslname: 'istpcomputing.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
-dlfmwikitop:
-  url: 'www.dlfm-wiki.top'
-  redirect: 'dlfm-wiki.top'
-  sslname: 'dlfm-wiki.top'
   ca: 'LetsEncrypt'
   disable_event: false
 wwwrosettacodeorg:
@@ -249,22 +237,10 @@ wwwdeadpremwiki:
   sslname: 'deadprem.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-nenawikiorgredir:
-  url: 'nenawiki.org'
-  redirect: 'kb.nena.org'
-  sslname: 'kb.nena.org'
-  ca: 'LetsEncrypt'
-  disable_event: true
 wwwobeymewikiredir:
   url: 'www.obeymewiki.com'
   redirect: 'obeymewiki.com'
   sslname: 'obeymewiki.com'
-  ca: 'LetsEncrypt'
-  disable_event: true
-trfursredir:
-  url: 'trfurs.net'
-  redirect: 'wiki.trfurs.net'
-  sslname: 'wiki.trfurs.net'
   ca: 'LetsEncrypt'
   disable_event: true
 
