@@ -333,13 +333,6 @@ donkeykongwiki:
   ca: 'Sectigo'
   hsts: 'strict'
   disable_event: true
-erawikisourcewiki:
-  url: 'erawikisource.miraheze.org'
-  redirect: 'source.erag.eu.org'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
-  hsts: 'strict'
-  disable_event: true
 taswinwiki:
   url: 'taswin.miraheze.org'
   redirect: 'istpcomputing.com'
