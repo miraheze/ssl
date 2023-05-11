@@ -1944,3 +1944,7 @@ dlfmwikitop:
   url: 'dlfm-wiki.top'
   ca: 'LetsEncrypt'
   disable_event: false
+okaoyu666cn:
+  url: 'o.kaoyu666.cn'
+  ca: 'LetsEncrypt'
+  disable_event: false
