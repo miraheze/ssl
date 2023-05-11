@@ -1940,3 +1940,7 @@ wikikirbygangcom:
   url: 'wiki.kirbygang.com'
   ca: 'LetsEncrypt'
   disable_event: false
+dlfmwikitop:
+  url: 'dlfm-wiki.top'
+  ca: 'LetsEncrypt'
+  disable_event: false
