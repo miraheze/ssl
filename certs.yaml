@@ -1948,3 +1948,7 @@ okaoyu666cn:
   url: 'o.kaoyu666.cn'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwhebammenwikide:
+  url: 'www.hebammenwiki.de'
+  ca: 'LetsEncrypt'
+  disable_event: false
