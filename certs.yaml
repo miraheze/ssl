@@ -1952,3 +1952,7 @@ wwwhebammenwikide:
   url: 'www.hebammenwiki.de'
   ca: 'LetsEncrypt'
   disable_event: false
+bushcraftwikicom:
+  url: 'bushcraftwiki.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
