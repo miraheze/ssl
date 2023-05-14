@@ -1956,3 +1956,7 @@ bushcraftwikicom:
   url: 'bushcraftwiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiwalkscapeapp:
+  url: 'wiki.walkscape.app'
+  ca: 'LetsEncrypt'
+  disable_event: false
