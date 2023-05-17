@@ -1960,3 +1960,7 @@ wikiwalkscapeapp:
   url: 'wiki.walkscape.app'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiooerooo:
+  url: 'wiki.ooer.ooo'
+  ca: 'LetsEncrypt'
+  disable_event: false
