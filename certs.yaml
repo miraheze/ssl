@@ -1964,3 +1964,7 @@ wikiooerooo:
   url: 'wiki.ooer.ooo'
   ca: 'LetsEncrypt'
   disable_event: false
+gilwiki:
+  url: 'gil.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
