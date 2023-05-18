@@ -1968,3 +1968,7 @@ gilwiki:
   url: 'gil.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+fanonpediacom:
+  url: 'fanonpedia.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
