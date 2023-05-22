@@ -1980,3 +1980,7 @@ wikitheluxuryelevatorcom:
   url: 'wiki.theluxuryelevator.com'
   ca: 'LetsEncrypt'
   disable_event: false
+mirawwwglitchcitywiki:
+  url: 'mirawww.glitchcity.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
