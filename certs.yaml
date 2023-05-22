@@ -1972,3 +1972,7 @@ fanonpediacom:
   url: 'fanonpedia.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwvanillaanarchynet:
+  url: 'www.vanillaanarchy.net'
+  ca: 'LetsEncrypt'
+  disable_event: false
