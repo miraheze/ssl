@@ -1988,3 +1988,7 @@ eurocomwiki:
   url: 'eurocom.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+crustypediaorg:
+  url: 'crustypedia.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
