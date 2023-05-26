@@ -2000,3 +2000,7 @@ theenglishlakesuk:
   url: 'theenglishlakes.uk'
   ca: 'LetsEncrypt'
   disable_event: false
+wikigestaltonlineca:
+  url: 'wiki.gestaltonline.ca'
+  ca: 'LetsEncrypt'
+  disable_event: false
