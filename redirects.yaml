@@ -243,6 +243,12 @@ wwwobeymewikiredir:
   sslname: 'obeymewiki.com'
   ca: 'LetsEncrypt'
   disable_event: true
+wwwglitchcity:
+  url: 'www.glitchcity.wiki'
+  redirect: 'glitchcity.wiki'
+  sslname: 'glitchcity.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: true
 
 # *.miraheze.org to wiki custom domains redirects
 allthetropeswiki:
