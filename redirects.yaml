@@ -249,6 +249,12 @@ wwwglitchcity:
   sslname: 'glitchcity.wiki'
   ca: 'LetsEncrypt'
   disable_event: true
+pyramidgameswiki:
+  url: 'www.pyramidgames.wiki'
+  redirect: 'pyramidgames.wiki'
+  sslname: 'pyramidgames.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: true
 
 # *.miraheze.org to wiki custom domains redirects
 allthetropeswiki:
