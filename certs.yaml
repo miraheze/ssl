@@ -2016,3 +2016,7 @@ pyramidgameswiki:
   url: 'pyramidgames.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+librepediawiki:
+  url: 'librepedia.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
