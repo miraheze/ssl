@@ -2020,3 +2020,7 @@ librepediawiki:
   url: 'librepedia.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwmoiswikinet:
+  url: 'www.moiswiki.net'
+  ca: 'LetsEncrypt'
+  disable_event: false
