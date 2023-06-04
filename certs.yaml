@@ -2032,3 +2032,7 @@ periloustimescom:
   url: 'perilous-times.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikisofurrygames:
+  url: 'wiki.sofurry.games'
+  ca: 'LetsEncrypt'
+  disable_event: false
