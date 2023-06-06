@@ -992,10 +992,6 @@ burnoutwiki:
   url: 'burnout.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-wikiscpsharp:
-  url: 'wiki.scpsharp.ga'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikissangyongsports:
   url: 'wiki.ssangyongsports.eu.org'
   ca: 'LetsEncrypt'
@@ -1184,10 +1180,6 @@ wwwdovearchives:
   url: 'www.dovearchives.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-trwikiretetga:
-  url: 'tr.wikiretet.ga'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikiexputracom:
   url: 'wiki.exputra.com'
   ca: 'LetsEncrypt'
@@ -1224,10 +1216,6 @@ engarchiopediaorg:
   url: 'eng.archiopedia.org'
   ca: 'LetsEncrypt'
   disable_event: false
-enwikiretetga:
-  url: 'en.wikiretet.ga'
-  ca: 'LetsEncrypt'
-  disable_event: false
 dkpediacom:
   url: 'dkpedia.com'
   ca: 'LetsEncrypt'
@@ -1250,14 +1238,6 @@ perpustaxaanwiki:
   disable_event: false
 istpcomputingcom:
   url: 'istpcomputing.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
-azwikiretetga:
-  url: 'az.wikiretet.ga'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wwwwikiretetga:
-  url: 'www.wikiretet.ga'
   ca: 'LetsEncrypt'
   disable_event: false
 replicationops:
@@ -1548,10 +1528,6 @@ wizardiawiki:
   url: 'wizardia.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-petparentsga:
-  url: 'petparents.ga'
-  ca: 'LetsEncrypt'
-  disable_event: false
 yoshipediacom:
   url: 'yoshipedia.com'
   ca: 'LetsEncrypt'
@@ -1574,10 +1550,6 @@ wikipulsuscc:
   disable_event: false
 openjusticeinfo:
   url: 'open-justice.info'
-  ca: 'LetsEncrypt'
-  disable_event: false
-eoawikiga:
-  url: 'eoa-wiki.ga'
   ca: 'LetsEncrypt'
   disable_event: false
 wikisukotuzecom:
@@ -1730,10 +1702,6 @@ apocryphawiki:
   disable_event: false
 bristolstudenthousingcooporg:
   url: 'bristolstudenthousingcoop.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wikinmcgames:
-  url: 'wiki.nmc.games'
   ca: 'LetsEncrypt'
   disable_event: false
 wikipwaadiaworks:
@@ -1992,10 +1960,6 @@ crustypediaorg:
   url: 'crustypedia.org'
   ca: 'LetsEncrypt'
   disable_event: false
-wikipixandbitgay:
-  url: 'wiki.pixandbit.gay'
-  ca: 'LetsEncrypt'
-  disable_event: false
 theenglishlakesuk:
   url: 'theenglishlakes.uk'
   ca: 'LetsEncrypt'
@@ -2022,10 +1986,6 @@ librepediawiki:
   disable_event: false
 wwwmoiswikinet:
   url: 'www.moiswiki.net'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wikigabpteuorg:
-  url: 'wiki.gab.pt.eu.org'
   ca: 'LetsEncrypt'
   disable_event: false
 periloustimescom:
