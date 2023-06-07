@@ -455,12 +455,6 @@ mirahezeml:
   sslname: 'miraheze.ml'
   ca: 'LetsEncrypt'
   disable_event: false
-mirahezega:
-  url: 'miraheze.ga'
-  redirect: 'miraheze.org'
-  sslname: 'miraheze.ga'
-  ca: 'LetsEncrypt'
-  disable_event: false
 mirahezegq:
   url: 'miraheze.gq'
   redirect: 'miraheze.org'
