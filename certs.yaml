@@ -2008,3 +2008,7 @@ wikisofurrygames:
   url: 'wiki.sofurry.games'
   ca: 'LetsEncrypt'
   disable_event: false
+wikicubestudiosxyz:
+  url: 'wiki.cubestudios.xyz'
+  ca: 'LetsEncrypt'
+  disable_event: false
