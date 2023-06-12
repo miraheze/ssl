@@ -1036,10 +1036,6 @@ wikiaoemodscom:
   url: 'wiki.aoemods.com'
   ca: 'LetsEncrypt'
   disable_event: false
-pmwikicubestudios:
-  url: 'pmwiki.cubestudios.xyz'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikicjgh:
   url: 'wiki.cjgh.xyz'
   ca: 'LetsEncrypt'
