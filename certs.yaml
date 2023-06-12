@@ -2016,3 +2016,7 @@ wwwavidwiki:
   url: 'www.avid.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wikirandomstuffimadepage:
+  url: 'wiki.randomstuffimade.page'
+  ca: 'LetsEncrypt'
+  disable_event: false
