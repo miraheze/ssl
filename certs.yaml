@@ -1960,6 +1960,10 @@ crustypediaorg:
   url: 'crustypedia.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wikipixandbitgay:
+  url: 'wiki.pixandbit.gay'
+  ca: 'LetsEncrypt'
+  disable_event: false
 theenglishlakesuk:
   url: 'theenglishlakes.uk'
   ca: 'LetsEncrypt'
