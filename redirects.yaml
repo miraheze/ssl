@@ -255,6 +255,12 @@ pyramidgameswiki:
   sslname: 'pyramidgames.wiki'
   ca: 'LetsEncrypt'
   disable_event: true
+avidwiki:
+  url: 'avid.wiki'
+  redirect: 'www.avid.wiki'
+  sslname: 'www.avid.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: true
 
 # *.miraheze.org to wiki custom domains redirects
 allthetropeswiki:
@@ -418,6 +424,13 @@ ajhalili2006wiki:
 fanpediawiki:
   url: 'fanpedia.miraheze.org'
   redirect: 'fanonpedia.com'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
+avidwikimh:
+  url: 'avid.miraheze.org'
+  redirect: 'www.avid.wiki'
   sslname: 'wildcard.miraheze.org-2020-2'
   ca: 'Sectigo'
   hsts: 'strict'
