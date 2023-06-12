@@ -1992,6 +1992,10 @@ wwwmoiswikinet:
   url: 'www.moiswiki.net'
   ca: 'LetsEncrypt'
   disable_event: false
+wikigabpteuorg:
+  url: 'wiki.gab.pt.eu.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
 periloustimescom:
   url: 'perilous-times.com'
   ca: 'LetsEncrypt'
