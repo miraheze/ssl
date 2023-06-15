@@ -2016,3 +2016,7 @@ wikirandomstuffimadepage:
   url: 'wiki.randomstuffimade.page'
   ca: 'LetsEncrypt'
   disable_event: false
+steemwiki:
+  url: 'steem.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
