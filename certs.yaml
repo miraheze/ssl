@@ -564,10 +564,6 @@ wikiastralprojectionsorg:
   url: 'wiki.astralprojections.org'
   ca: 'LetsEncrypt'
   disable_event: false
-biblestrengthorg:
-  url: 'biblestrength.net'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikimeregoscom:
   url: 'wiki.meregos.com'
   ca: 'LetsEncrypt'
