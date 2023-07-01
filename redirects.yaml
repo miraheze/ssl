@@ -177,12 +177,6 @@ journeythewordwiki:
   sslname: 'www.journeytheword.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-polandballwikicom:
-  url: 'polandballwiki.com'
-  redirect: 'www.polandballwiki.com'
-  sslname: 'www.polandballwiki.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wwwambientguitarorg:
   url: 'www.ambientguitar.org'
   redirect: 'ambientguitar.org'
@@ -302,12 +296,6 @@ dragonquest2wiki:
 squareenixwiki:
   url: 'squareenix.miraheze.org'
   redirect: 'squareenixwiki.com'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
-  disable_event: true
-polandballwikiredirect:
-  url: 'polandball.miraheze.org'
-  redirect: 'www.polandballwiki.com'
   sslname: 'wildcard.miraheze.org-2020-2'
   ca: 'Sectigo'
   disable_event: true
