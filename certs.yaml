@@ -236,10 +236,6 @@ guiacineastaspt:
   url: 'guia.cineastas.pt'
   ca: 'LetsEncrypt'
   disable_event: false
-mrlovewiki:
-  url: 'mrlove.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikivalkyrienskiesorg:
   url: 'wiki.valkyrienskies.org'
   ca: 'LetsEncrypt'
@@ -1562,10 +1558,6 @@ emmytherobotwiki:
   disable_event: false
 wariopediacom:
   url: 'wariopedia.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
-lophocmatnguwiki:
-  url: 'lophocmatngu.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
 wikisongnguxyz:
