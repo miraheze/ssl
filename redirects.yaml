@@ -255,6 +255,12 @@ avidwiki:
   sslname: 'www.avid.wiki'
   ca: 'LetsEncrypt'
   disable_event: true
+pastportwiki:
+  url: 'www.pastport.org'
+  redirect: 'pastport.org'
+  sslname: 'pastport.org'
+  ca: 'LetsEncrypt'
+  disable_event: true
 
 # *.miraheze.org to wiki custom domains redirects
 allthetropeswiki:
