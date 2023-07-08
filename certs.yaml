@@ -2016,3 +2016,7 @@ wikiluemirxyz:
   url: 'wiki.luemir.xyz'
   ca: 'LetsEncrypt'
   disable_event: false
+alternatewikitombrickscom:
+  url: 'alternatewiki.tombricks.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
