@@ -2020,7 +2020,3 @@ alternatewikitombrickscom:
   url: 'alternatewiki.tombricks.com'
   ca: 'LetsEncrypt'
   disable_event: false
-pastportorg:
-  url: 'pastport.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
