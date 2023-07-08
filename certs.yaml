@@ -2012,3 +2012,7 @@ steemwiki:
   url: 'steem.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiluemirxyz:
+  url: 'wiki.luemir.xyz'
+  ca: 'LetsEncrypt'
+  disable_event: false
