@@ -2012,3 +2012,7 @@ alternatewikitombrickscom:
   url: 'alternatewiki.tombricks.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikistarshipsailingnet:
+  url: 'wiki.starshipsailing.net'
+  ca: 'LetsEncrypt'
+  disable_event: false
