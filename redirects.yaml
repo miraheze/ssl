@@ -261,6 +261,12 @@ pastportwiki:
   sslname: 'pastport.org'
   ca: 'LetsEncrypt'
   disable_event: true
+pyramidgameswiki:
+  url: 'pyramidgames.wiki'
+  redirect: 'looneypyramids.wiki'
+  sslname: 'pyramidgames.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: true
 
 # *.miraheze.org to wiki custom domains redirects
 allthetropeswiki:
