@@ -2016,3 +2016,7 @@ wikistarshipsailingnet:
   url: 'wiki.starshipsailing.net'
   ca: 'LetsEncrypt'
   disable_event: false
+looneypyramidswiki:
+  url: 'looneypyramids.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
