@@ -2020,3 +2020,7 @@ looneypyramidswiki:
   url: 'looneypyramids.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+encyclopediaeuorg:
+  url: 'encyclopedia.eu.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
