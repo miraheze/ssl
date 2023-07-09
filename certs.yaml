@@ -1964,10 +1964,6 @@ glitchcitywiki:
   url: 'glitchcity.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-pyramidgameswiki:
-  url: 'pyramidgames.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
 librepediawiki:
   url: 'librepedia.wiki'
   ca: 'LetsEncrypt'
