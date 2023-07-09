@@ -245,7 +245,7 @@ wwwglitchcity:
   disable_event: true
 pyramidgameswiki:
   url: 'www.pyramidgames.wiki'
-  redirect: 'pyramidgames.wiki'
+  redirect: 'looneypyramids.wiki'
   sslname: 'pyramidgames.wiki'
   ca: 'LetsEncrypt'
   disable_event: true
@@ -259,6 +259,12 @@ pastportwiki:
   url: 'www.pastport.org'
   redirect: 'pastport.org'
   sslname: 'pastport.org'
+  ca: 'LetsEncrypt'
+  disable_event: true
+looneypyramidgameswiki:
+  url: 'pyramidgames.wiki'
+  redirect: 'looneypyramids.wiki'
+  sslname: 'pyramidgames.wiki'
   ca: 'LetsEncrypt'
   disable_event: true
 
