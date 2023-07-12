@@ -1204,10 +1204,6 @@ dkpediacom:
   url: 'dkpedia.com'
   ca: 'LetsEncrypt'
   disable_event: false
-drowikicom:
-  url: 'drowiki.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 mcwikikirbygang:
   url: 'mcwiki.kirbygang.tk'
   ca: 'LetsEncrypt'
