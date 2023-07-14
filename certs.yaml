@@ -1652,10 +1652,6 @@ raraspolandballwiki:
   url: 'raras.polandball.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-mercytheking1543euorg:
-  url: 'mercy.theking1543.eu.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 natiospheraepolandballwiki:
   url: 'natiospherae.polandball.wiki'
   ca: 'LetsEncrypt'
