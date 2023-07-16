@@ -2020,3 +2020,7 @@ encyclopediaeuorg:
   url: 'encyclopedia.eu.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiqueenscourtgames:
+  url: 'wiki.queenscourt.games'
+  ca: 'LetsEncrypt'
+  disable_event: false
