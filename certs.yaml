@@ -2052,3 +2052,7 @@ touhouplacewiki:
   url: 'touhouplace.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+9b9twiki:
+  url: '9b9t.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
