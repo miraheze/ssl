@@ -2048,3 +2048,7 @@ dftwikiyriorg:
   url: 'dft.wikiyri.org'
   ca: 'LetsEncrypt'
   disable_event: false
+touhouplacewiki:
+  url: 'touhouplace.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
