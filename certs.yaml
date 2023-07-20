@@ -2044,3 +2044,7 @@ enwikiyriorg:
   url: 'en.wikiyri.org'
   ca: 'LetsEncrypt'
   disable_event: false
+dftwikiyriorg:
+  url: 'dft.wikiyri.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
