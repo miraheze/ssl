@@ -2056,3 +2056,7 @@ touhouplacewiki:
   url: '9b9t.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+echoeswikicom:
+  url: 'echoes-wiki.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
