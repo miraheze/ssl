@@ -2040,3 +2040,7 @@ datawikiyriorg:
   url: 'data.wikiyri.org'
   ca: 'LetsEncrypt'
   disable_event: false
+enwikiyriorg:
+  url: 'en.wikiyri.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
