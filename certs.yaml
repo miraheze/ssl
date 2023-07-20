@@ -2024,3 +2024,7 @@ wikiqueenscourtgames:
   url: 'wiki.queenscourt.games'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiknowledgerevolutioneu:
+  url: 'wiki.knowledgerevolution.eu'
+  ca: 'LetsEncrypt'
+  disable_event: false
