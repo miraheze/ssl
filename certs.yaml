@@ -2036,3 +2036,7 @@ shirokous:
   url: 'shiroko.us'
   ca: 'LetsEncrypt'
   disable_event: false
+datawikiyriorg:
+  url: 'data.wikiyri.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
