@@ -2060,3 +2060,7 @@ echoeswikicom:
   url: 'echoes-wiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
+familiacorsicom:
+  url: 'familiacorsi.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
