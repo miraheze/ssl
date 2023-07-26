@@ -325,7 +325,7 @@ lgbtawiki:
   disable_event: true
 recaptimewiki:
   url: 'recaptime.miraheze.org'
-  redirect: 'wiki.recaptime.eu.org'
+  redirect: 'squad.lorebooks.eu.org'
   sslname: 'wildcard.miraheze.org-2020-2'
   ca: 'Sectigo'
   hsts: 'strict'
