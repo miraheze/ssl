@@ -1356,10 +1356,6 @@ apeirologycom:
   url: 'apeirology.com'
   ca: 'LetsEncrypt'
   disable_event: false
-polandballwiki:
-  url: 'polandball.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
 enpetrawikiorg:
   url: 'en.petrawiki.org'
   ca: 'LetsEncrypt'
@@ -1644,20 +1640,8 @@ worldtriggerwikicom:
   url: 'worldtriggerwiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
-teamballspolandballwiki:
-  url: 'teamballs.polandball.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
-raraspolandballwiki:
-  url: 'raras.polandball.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
 mercytheking1543euorg:
   url: 'mercy.theking1543.eu.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
-natiospheraepolandballwiki:
-  url: 'natiospherae.polandball.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
 escountryhumanspolandballwiki:
@@ -1754,10 +1738,6 @@ enreligiononfiremarinua:
   disable_event: false
 cloudneptunewiki:
   url: 'cloud.neptune.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
-ptpolandballwiki:
-  url: 'pt.polandball.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
 corruwiki:
