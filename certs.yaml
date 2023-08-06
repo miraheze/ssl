@@ -1328,10 +1328,6 @@ psychevosorg:
   url: 'psychevos.org'
   ca: 'LetsEncrypt'
   disable_event: false
-removededmml:
-  url: 'removededm.ml'
-  ca: 'LetsEncrypt'
-  disable_event: false
 rosettacodeorg:
   url: 'rosettacode.org'
   ca: 'LetsEncrypt'
