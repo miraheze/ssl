@@ -708,10 +708,6 @@ wikisimorghme:
   url: 'wiki.simorgh.me'
   ca: 'LetsEncrypt'
   disable_event: false
-commonspolandballwikicom:
-  url: 'commons.polandballwiki.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 ambientwiki:
   url: 'ambient.wiki'
   ca: 'LetsEncrypt'
