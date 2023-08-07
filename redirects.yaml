@@ -231,12 +231,6 @@ pyramidgameswiki:
   sslname: 'pyramidgames.wiki'
   ca: 'LetsEncrypt'
   disable_event: true
-avidwiki:
-  url: 'avid.wiki'
-  redirect: 'www.avid.wiki'
-  sslname: 'www.avid.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: true
 pastportwiki:
   url: 'www.pastport.org'
   redirect: 'pastport.org'
