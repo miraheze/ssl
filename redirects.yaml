@@ -153,12 +153,6 @@ puzzleswiki:
   sslname: 'www.puzzles.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-wwwelectrowikiorg:
-  url: 'www.electrowiki.org'
-  redirect: 'electrowiki.org'
-  sslname: 'electrowiki.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wwwethenewiki:
   url: 'www.ethene.wiki'
   redirect: 'ethene.wiki'
