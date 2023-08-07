@@ -2064,3 +2064,7 @@ familiacorsicom:
   url: 'familiacorsi.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikigeniusorg:
+  url: 'wikigenius.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
