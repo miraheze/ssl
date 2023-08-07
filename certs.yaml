@@ -700,10 +700,6 @@ wikisimorghme:
   url: 'wiki.simorgh.me'
   ca: 'LetsEncrypt'
   disable_event: false
-ambientwiki:
-  url: 'ambient.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
 avaswiki:
   url: 'avas.wiki'
   ca: 'LetsEncrypt'
