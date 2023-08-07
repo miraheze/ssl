@@ -380,10 +380,6 @@ historysdteforg:
   url: 'history.sdtef.org'
   ca: 'LetsEncrypt'
   disable_event: false
-acheronrhowiki:
-  url: 'beaconspace.unrestrictedlorefare.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikidanvsnet:
   url: 'wiki.danvs.net'
   ca: 'LetsEncrypt'
