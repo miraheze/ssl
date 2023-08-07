@@ -1616,10 +1616,6 @@ worldtriggerwikicom:
   url: 'worldtriggerwiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
-mercytheking1543euorg:
-  url: 'mercy.theking1543.eu.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 escountryhumanspolandballwiki:
   url: 'es.countryhumans.polandball.wiki'
   ca: 'LetsEncrypt'
