@@ -1284,10 +1284,6 @@ yokaiwatchwikicom:
   url: 'yokaiwatchwiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
-fidkoyomiyanet:
-  url: 'fid.koyomi-ya.net'
-  ca: 'LetsEncrypt'
-  disable_event: false
 sonaponala:
   url: 'sona.pona.la'
   ca: 'LetsEncrypt'
