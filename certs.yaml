@@ -1132,10 +1132,6 @@ hastursnotebookorg:
   url: 'hastursnotebook.org'
   ca: 'LetsEncrypt'
   disable_event: false
-wikinjcneuorg:
-  url: 'wiki.nj.cn.eu.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 321nailscrpteam:
   url: '321nails.crpteam.club'
   ca: 'LetsEncrypt'
