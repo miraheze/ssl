@@ -320,10 +320,6 @@ indexpdcommunityir:
   url: 'index.pdcommunity.ir'
   ca: 'LetsEncrypt'
   disable_event: false
-spcodexwiki:
-  url: 'spcodex.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
 ricochetwiki:
   url: 'wiki.ricochetuniverse.com'
   ca: 'LetsEncrypt'
