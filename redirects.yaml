@@ -27,7 +27,7 @@ mirahezecom:
   redirect: 'meta.miraheze.org'
   sslname: 'miraheze.com'
   ca: 'LetsEncrypt'
-  disable_event: true
+  disable_event: false
 wwwsdiyinfo:
   url: 'www.sdiy.info'
   redirect: 'sdiy.info'
@@ -183,12 +183,12 @@ wwwambientguitarorg:
   sslname: 'ambientguitar.org'
   ca: 'LetsEncrypt'
   disable_event: false
-projectpatternscom:
+wwwprojectpatternscom:
   url: 'www.project-patterns.com'
   redirect: 'project-patterns.com'
   sslname: 'project-patterns.com'
   ca: 'LetsEncrypt'
-  disable_event: false
+  disable_event: true
 lgbtqiawiki:
   url: 'lgbtqia.wiki'
   redirect: 'www.lgbtqia.wiki'
@@ -435,6 +435,12 @@ avidwikimh:
   ca: 'Sectigo'
   hsts: 'strict'
   disable_event: true
+wikiyriorg:
+  url: 'wikiyri.org'
+  redirect: 'en.wikiyri.org'
+  sslname: 'wikiyri.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # *.miraheze.org to *.miraheze.org wiki redirects
 wwwredirect:

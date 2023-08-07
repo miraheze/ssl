@@ -320,10 +320,6 @@ indexpdcommunityir:
   url: 'index.pdcommunity.ir'
   ca: 'LetsEncrypt'
   disable_event: false
-spcodexwiki:
-  url: 'spcodex.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
 ricochetwiki:
   url: 'wiki.ricochetuniverse.com'
   ca: 'LetsEncrypt'
@@ -1208,10 +1204,6 @@ drowikicom:
   url: 'drowiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
-mcwikikirbygang:
-  url: 'mcwiki.kirbygang.tk'
-  ca: 'LetsEncrypt'
-  disable_event: false
 labwikimimocom:
   url: 'lab.wikimimo.com'
   ca: 'LetsEncrypt'
@@ -1230,10 +1222,6 @@ replicationops:
   disable_event: false
 wikisite97fr:
   url: 'wiki.site97.fr'
-  ca: 'LetsEncrypt'
-  disable_event: false
-nexuswiki:
-  url: 'nexus.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
 slymodsinfo:
@@ -1328,10 +1316,6 @@ psychevosorg:
   url: 'psychevos.org'
   ca: 'LetsEncrypt'
   disable_event: false
-removededmml:
-  url: 'removededm.ml'
-  ca: 'LetsEncrypt'
-  disable_event: false
 rosettacodeorg:
   url: 'rosettacode.org'
   ca: 'LetsEncrypt'
@@ -1354,10 +1338,6 @@ techexputracom:
   disable_event: false
 apeirologycom:
   url: 'apeirology.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
-polandballwiki:
-  url: 'polandball.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
 enpetrawikiorg:
@@ -1456,10 +1436,6 @@ wikiblockatecom:
   url: 'wiki.blockate.com'
   ca: 'LetsEncrypt'
   disable_event: false
-wikithundamoocom:
-  url: 'wiki.thundamoo.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikilimarunet:
   url: 'wiki.limaru.net'
   ca: 'LetsEncrypt'
@@ -1478,10 +1454,6 @@ ewgfwiki:
   disable_event: false
 twistwoodtaleswikicom:
   url: 'www.twistwoodtaleswiki.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
-gamelollipopml:
-  url: 'gamelollipop.ml'
   ca: 'LetsEncrypt'
   disable_event: false
 feignwikitk:
@@ -1644,18 +1616,6 @@ worldtriggerwikicom:
   url: 'worldtriggerwiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
-teamballspolandballwiki:
-  url: 'teamballs.polandball.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
-raraspolandballwiki:
-  url: 'raras.polandball.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
-natiospheraepolandballwiki:
-  url: 'natiospherae.polandball.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
 escountryhumanspolandballwiki:
   url: 'es.countryhumans.polandball.wiki'
   ca: 'LetsEncrypt'
@@ -1750,10 +1710,6 @@ enreligiononfiremarinua:
   disable_event: false
 cloudneptunewiki:
   url: 'cloud.neptune.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
-ptpolandballwiki:
-  url: 'pt.polandball.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
 corruwiki:
@@ -2014,5 +1970,69 @@ looneypyramidswiki:
   disable_event: false
 encyclopediaeuorg:
   url: 'encyclopedia.eu.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
+wikiqueenscourtgames:
+  url: 'wiki.queenscourt.games'
+  ca: 'LetsEncrypt'
+  disable_event: false
+wikiknowledgerevolutioneu:
+  url: 'wiki.knowledgerevolution.eu'
+  ca: 'LetsEncrypt'
+  disable_event: false
+telepediawikiorg:
+  url: 'telepedia-wiki.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
+shirokous:
+  url: 'shiroko.us'
+  ca: 'LetsEncrypt'
+  disable_event: false
+datawikiyriorg:
+  url: 'data.wikiyri.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
+enwikiyriorg:
+  url: 'en.wikiyri.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
+dftwikiyriorg:
+  url: 'dft.wikiyri.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
+touhouplacewiki:
+  url: 'touhouplace.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
+9b9twiki:
+  url: '9b9t.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
+echoeswikicom:
+  url: 'echoes-wiki.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
+familiacorsicom:
+  url: 'familiacorsi.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
+wikigeniusorg:
+  url: 'wikigenius.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
+bnwikiyriorg:
+  url: 'bn.wikiyri.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
+wwwesolibrarycom:
+  url: 'www.esolibrary.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
+wikiesufranchisecom:
+  url: 'wiki.esufranchise.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
+wikitheatlaslive:
+  url: 'wiki.theatlas.live'
   ca: 'LetsEncrypt'
   disable_event: false
