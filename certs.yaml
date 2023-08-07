@@ -864,10 +864,6 @@ burnoutwiki:
   url: 'burnout.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-wikiravynoscom:
-  url: 'wiki.ravynos.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 thestorieskr:
   url: 'thestories.kr'
   ca: 'LetsEncrypt'
