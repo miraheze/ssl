@@ -732,10 +732,6 @@ fanonpolandballwikicom:
   url: 'fanon.polandballwiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
-ambientguitarorg:
-  url: 'ambientguitar.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 gssidemwiki:
   url: 'gs.sidem.wiki'
   ca: 'LetsEncrypt'
