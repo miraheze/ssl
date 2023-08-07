@@ -148,32 +148,12 @@ joustro:
   url: 'wiki.joust.ro'
   ca: 'LetsEncrypt'
   disable_event: false
-engyaanipedia:
-  url: 'en.gyaanipedia.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
-higyaanipediacom:
-  url: 'hi.gyaanipedia.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
-pagyaanipediacom:
-  url: 'pa.gyaanipedia.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
-mrgyaanipediacom:
-  url: 'mr.gyaanipedia.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikis23org:
   url: 'wiki.s23.org'
   ca: 'LetsEncrypt'
   disable_event: false
 wikithuniseu:
   url: 'wiki.thunis.eu'
-  ca: 'LetsEncrypt'
-  disable_event: false
-commonsgyaanipediacom:
-  url: 'commons.gyaanipedia.com'
   ca: 'LetsEncrypt'
   disable_event: false
 wikipablojprietocomes:
@@ -190,10 +170,6 @@ vmcodexnet:
   disable_event: false
 visedayidorg:
   url: 'vise.dayid.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
-metagyaanipediacom:
-  url: 'meta.gyaanipedia.com'
   ca: 'LetsEncrypt'
   disable_event: false
 runzeppelinru:
@@ -328,20 +304,12 @@ wikivillagecollaborativenet:
   url: 'wiki.villagecollaborative.net'
   ca: 'LetsEncrypt'
   disable_event: false
-esgyaanipediacom:
-  url: 'es.gyaanipedia.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wwwiceriaorg:
   url: 'www.iceria.org'
   ca: 'LetsEncrypt'
   disable_event: false
 icclopediawiki:
   url: 'icclopedia.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
-frgyaanipediawiki:
-  url: 'fr.gyaanipedia.com'
   ca: 'LetsEncrypt'
   disable_event: false
 wikiminkyukim:
@@ -444,20 +412,12 @@ mediawikiecfineu:
   url: 'mediawiki.ecfin.eu'
   ca: 'LetsEncrypt'
   disable_event: false
-degyaanipediacom:
-  url: 'de.gyaanipedia.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikitriplescriptsorg:
   url: 'wiki.triplescripts.org'
   ca: 'LetsEncrypt'
   disable_event: false
 wikiminelandeu:
   url: 'wiki.mineland.eu'
-  ca: 'LetsEncrypt'
-  disable_event: false
-lggyaanipediacom:
-  url: 'lg.gyaanipedia.com'
   ca: 'LetsEncrypt'
   disable_event: false
 wikiseredrauxyz:
@@ -560,10 +520,6 @@ wwwfossilfighterswikicom:
   url: 'www.fossilfighterswiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
-bngyaanipediacom:
-  url: 'bn.gyaanipedia.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikiaridiaspace:
   url: 'wiki.aridia.space'
   ca: 'LetsEncrypt'
@@ -578,10 +534,6 @@ heavyironmoddingorg:
   disable_event: false
 wikifbpmlorg:
   url: 'wiki.fbpml.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
-zhgyaanipediacom:
-  url: 'zh.gyaanipedia.com'
   ca: 'LetsEncrypt'
   disable_event: false
 wwwhoolehistoryheritagesocietyorguk:
