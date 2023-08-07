@@ -27,7 +27,7 @@ mirahezecom:
   redirect: 'meta.miraheze.org'
   sslname: 'miraheze.com'
   ca: 'LetsEncrypt'
-  disable_event: true
+  disable_event: false
 wwwsdiyinfo:
   url: 'www.sdiy.info'
   redirect: 'sdiy.info'
