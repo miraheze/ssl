@@ -219,12 +219,6 @@ wwwdeadpremwiki:
   sslname: 'deadprem.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-wwwobeymewikiredir:
-  url: 'www.obeymewiki.com'
-  redirect: 'obeymewiki.com'
-  sslname: 'obeymewiki.com'
-  ca: 'LetsEncrypt'
-  disable_event: true
 wwwglitchcity:
   url: 'www.glitchcity.wiki'
   redirect: 'glitchcity.wiki'
