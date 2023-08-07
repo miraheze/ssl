@@ -536,10 +536,6 @@ wikiglobasanet:
   url: 'wiki.globasa.net'
   ca: 'LetsEncrypt'
   disable_event: false
-wikifossbotsorg:
-  url: 'wiki.fossbots.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikibikinibottomdiscordorg:
   url: 'wiki.bikinibottomdiscord.org'
   ca: 'LetsEncrypt'
