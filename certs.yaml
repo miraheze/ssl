@@ -2080,3 +2080,7 @@ wikiesufranchisecom:
   url: 'wiki.esufranchise.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikitheatlaslive:
+  url: 'wiki.theatlas.live'
+  ca: 'LetsEncrypt'
+  disable_event: false
