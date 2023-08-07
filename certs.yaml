@@ -952,10 +952,6 @@ burnoutwiki:
   url: 'burnout.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-wikissangyongsports:
-  url: 'wiki.ssangyongsports.eu.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikiravynoscom:
   url: 'wiki.ravynos.com'
   ca: 'LetsEncrypt'
