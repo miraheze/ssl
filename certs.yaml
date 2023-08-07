@@ -412,10 +412,6 @@ historysdteforg:
   url: 'history.sdtef.org'
   ca: 'LetsEncrypt'
   disable_event: false
-rotnwiki:
-  url: 'wiki.rebirthofthenight.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 acheronrhowiki:
   url: 'beaconspace.unrestrictedlorefare.com'
   ca: 'LetsEncrypt'
