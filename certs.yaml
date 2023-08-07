@@ -1444,10 +1444,6 @@ wikiblockatecom:
   url: 'wiki.blockate.com'
   ca: 'LetsEncrypt'
   disable_event: false
-wikithundamoocom:
-  url: 'wiki.thundamoo.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikilimarunet:
   url: 'wiki.limaru.net'
   ca: 'LetsEncrypt'
