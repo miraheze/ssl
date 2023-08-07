@@ -1200,10 +1200,6 @@ dkpediacom:
   url: 'dkpedia.com'
   ca: 'LetsEncrypt'
   disable_event: false
-drowikicom:
-  url: 'drowiki.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 labwikimimocom:
   url: 'lab.wikimimo.com'
   ca: 'LetsEncrypt'
