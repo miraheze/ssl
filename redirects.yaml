@@ -188,7 +188,7 @@ projectpatternscom:
   redirect: 'project-patterns.com'
   sslname: 'project-patterns.com'
   ca: 'LetsEncrypt'
-  disable_event: false
+  disable_event: true
 lgbtqiawiki:
   url: 'lgbtqia.wiki'
   redirect: 'www.lgbtqia.wiki'
