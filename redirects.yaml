@@ -435,6 +435,12 @@ avidwikimh:
   ca: 'Sectigo'
   hsts: 'strict'
   disable_event: true
+wikiyri:
+  url: 'wikiyri.org'
+  redirect: 'en.wikiyri.org'
+  sslname: 'wikiyri.org'
+  ca: 'LetsEncrypt'
+  disable_event: true
 
 # *.miraheze.org to *.miraheze.org wiki redirects
 wwwredirect:
