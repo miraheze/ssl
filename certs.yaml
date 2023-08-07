@@ -760,10 +760,6 @@ notesmridulpmin:
   url: 'notes.mridulpm.in'
   ca: 'LetsEncrypt'
   disable_event: false
-wikipanelorg:
-  url: 'wikipanel.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikicontrolistesfr:
   url: 'wiki.controlistes.fr'
   ca: 'LetsEncrypt'
