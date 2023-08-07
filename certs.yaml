@@ -2068,10 +2068,6 @@ wikigeniusorg:
   url: 'wikigenius.org'
   ca: 'LetsEncrypt'
   disable_event: false
-wikiyriorg:
-  url: 'wikiyri.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 bnwikiyriorg:
   url: 'bn.wikiyri.org'
   ca: 'LetsEncrypt'
