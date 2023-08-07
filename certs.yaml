@@ -60,10 +60,6 @@ worlduniversityandschool:
   url: 'wiki.worlduniversityandschool.org'
   ca: 'LetsEncrypt'
   disable_event: false
-nonbinary:
-  url: 'nonbinary.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
 autocountsoft:
   url: 'wiki.autocountsoft.com'
   ca: 'LetsEncrypt'
