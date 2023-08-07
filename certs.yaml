@@ -692,10 +692,6 @@ wikieversdcom:
   url: 'wiki.eversd.com'
   ca: 'LetsEncrypt'
   disable_event: false
-ptpolandballwikicom:
-  url: 'pt.polandballwiki.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 robloxapiwiki:
   url: 'robloxapi.wiki'
   ca: 'LetsEncrypt'
