@@ -165,12 +165,6 @@ journeythewordwiki:
   sslname: 'www.journeytheword.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-wwwambientguitarorg:
-  url: 'www.ambientguitar.org'
-  redirect: 'ambientguitar.org'
-  sslname: 'ambientguitar.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wwwprojectpatternscom:
   url: 'www.project-patterns.com'
   redirect: 'project-patterns.com'
