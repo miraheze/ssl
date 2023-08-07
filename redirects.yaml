@@ -183,7 +183,7 @@ wwwambientguitarorg:
   sslname: 'ambientguitar.org'
   ca: 'LetsEncrypt'
   disable_event: false
-projectpatternscom:
+wwwprojectpatternscom:
   url: 'www.project-patterns.com'
   redirect: 'project-patterns.com'
   sslname: 'project-patterns.com'
