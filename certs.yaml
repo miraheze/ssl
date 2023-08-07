@@ -1316,10 +1316,6 @@ wikialbrusmusicru:
   url: 'wiki.albrusmusic.ru'
   ca: 'LetsEncrypt'
   disable_event: false
-njteliminationml:
-  url: 'njtelimination.ml'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wowswiki:
   url: 'wows.wiki'
   ca: 'LetsEncrypt'
