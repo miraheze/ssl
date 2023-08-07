@@ -960,10 +960,6 @@ thestorieskr:
   url: 'thestories.kr'
   ca: 'LetsEncrypt'
   disable_event: false
-obeymewikicom:
-  url: 'obeymewiki.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikimostlyvet:
   url: 'wiki.mostly.vet'
   ca: 'LetsEncrypt'
