@@ -1108,10 +1108,6 @@ largedueuorg:
   url: 'largedu.eu.org'
   ca: 'LetsEncrypt'
   disable_event: false
-studyabroadwiki:
-  url: 'studyabroad.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wwwcgradegamesnet:
   url: 'www.cgradegames.net'
   ca: 'LetsEncrypt'
