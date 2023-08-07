@@ -696,10 +696,6 @@ robloxapiwiki:
   url: 'robloxapi.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-staffpolandballwikicom:
-  url: 'staff.polandballwiki.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 pwscpolandballwikicom:
   url: 'pwsc.polandballwiki.com'
   ca: 'LetsEncrypt'
