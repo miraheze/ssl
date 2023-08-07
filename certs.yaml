@@ -660,10 +660,6 @@ inourownwordsonline:
   url: 'inourownwords.online'
   ca: 'LetsEncrypt'
   disable_event: false
-wikithedevgq:
-  url: 'wiki.thedev.gq'
-  ca: 'LetsEncrypt'
-  disable_event: false
 thestarsarerightorg:
   url: 'thestarsareright.org'
   ca: 'LetsEncrypt'
