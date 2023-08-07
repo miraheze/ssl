@@ -1204,10 +1204,6 @@ drowikicom:
   url: 'drowiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
-mcwikikirbygang:
-  url: 'mcwiki.kirbygang.tk'
-  ca: 'LetsEncrypt'
-  disable_event: false
 labwikimimocom:
   url: 'lab.wikimimo.com'
   ca: 'LetsEncrypt'
