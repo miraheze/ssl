@@ -636,10 +636,6 @@ wikicreaturathegamecom:
   url: 'wiki.creaturathegame.com'
   ca: 'LetsEncrypt'
   disable_event: false
-wwwarruxyz:
-  url: 'www.arru.xyz'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikibeergeekscoil:
   url: 'wiki.beergeeks.co.il'
   ca: 'LetsEncrypt'

@@ -147,12 +147,6 @@ wwwtrollpastacom:
   sslname: 'trollpasta.com'
   ca: 'LetsEncrypt'
   disable_event: false
-arruxyz:
-  url: 'arru.xyz'
-  redirect: 'www.arru.xyz'
-  sslname: 'www.arru.xyz'
-  ca: 'LetsEncrypt'
-  disable_event: false
 puzzleswiki:
   url: 'puzzles.wiki'
   redirect: 'www.puzzles.wiki'
