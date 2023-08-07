@@ -435,7 +435,7 @@ avidwikimh:
   ca: 'Sectigo'
   hsts: 'strict'
   disable_event: true
-wikiyri:
+wikiyriorg:
   url: 'wikiyri.org'
   redirect: 'en.wikiyri.org'
   sslname: 'wikiyri.org'
