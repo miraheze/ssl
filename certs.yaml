@@ -1080,10 +1080,6 @@ enomniversalisorg:
   url: 'en.omniversalis.org'
   ca: 'LetsEncrypt'
   disable_event: false
-phytinfo:
-  url: 'phytinfo.cf'
-  ca: 'LetsEncrypt'
-  disable_event: false
 iolwiki:
   url: 'iol.wiki'
   ca: 'LetsEncrypt'
