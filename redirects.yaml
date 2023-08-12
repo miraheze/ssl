@@ -398,13 +398,6 @@ fanpediawiki:
   ca: 'Sectigo'
   hsts: 'strict'
   disable_event: true
-avidwikimh:
-  url: 'avid.miraheze.org'
-  redirect: 'www.avid.wiki'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
-  hsts: 'strict'
-  disable_event: true
 wikiyriorg:
   url: 'wikiyri.org'
   redirect: 'en.wikiyri.org'
