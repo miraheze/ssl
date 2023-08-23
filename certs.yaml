@@ -1852,3 +1852,7 @@ psychoengineering:
   url: 'psycho.engineering'
   ca: 'LetsEncrypt'
   disable_event: false
+removededmcom:
+  url: 'removededm.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
