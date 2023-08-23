@@ -1832,3 +1832,7 @@ sonicpediaorg:
   url: 'sonicpedia.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wikioverwoodxyz:
+  url: 'wiki.overwood.xyz'
+  ca: 'LetsEncrypt'
+  disable_event: false
