@@ -1836,3 +1836,7 @@ wikioverwoodxyz:
   url: 'wiki.overwood.xyz'
   ca: 'LetsEncrypt'
   disable_event: false
+wikitmyt105leyhpcom:
+  url: 'wiki.tmyt105.leyhp.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
