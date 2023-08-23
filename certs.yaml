@@ -1840,3 +1840,7 @@ wikitmyt105leyhpcom:
   url: 'wiki.tmyt105.leyhp.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikijsalorg:
+  url: 'wiki.jsal.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
