@@ -1844,3 +1844,7 @@ wikijsalorg:
   url: 'wiki.jsal.org'
   ca: 'LetsEncrypt'
   disable_event: false
+rodzinkawiki:
+  url: 'rodzinka.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
