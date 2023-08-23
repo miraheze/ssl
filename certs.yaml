@@ -1848,3 +1848,7 @@ rodzinkawiki:
   url: 'rodzinka.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+psychoengineering:
+  url: 'psycho.engineering'
+  ca: 'LetsEncrypt'
+  disable_event: false
