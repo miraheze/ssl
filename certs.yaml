@@ -1732,10 +1732,6 @@ wikicubestudiosxyz:
   url: 'wiki.cubestudios.xyz'
   ca: 'LetsEncrypt'
   disable_event: false
-wikirandomstuffimadepage:
-  url: 'wiki.randomstuffimade.page'
-  ca: 'LetsEncrypt'
-  disable_event: false
 steemwiki:
   url: 'steem.wiki'
   ca: 'LetsEncrypt'
