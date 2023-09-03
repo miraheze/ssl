@@ -1856,3 +1856,7 @@ removededmcom:
   url: 'removededm.com'
   ca: 'LetsEncrypt'
   disable_event: false
+glitchcitywiki:
+  url: 'glitchcity.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
