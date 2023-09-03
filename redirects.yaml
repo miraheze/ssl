@@ -183,12 +183,6 @@ wwwistpcomputingcom:
   sslname: 'istpcomputing.com'
   ca: 'LetsEncrypt'
   disable_event: false
-wwwrosettacodeorg:
-  url: 'www.rosettacode.org'
-  redirect: 'rosettacode.org'
-  sslname: 'rosettacode.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 petrawikiorg:
   url: 'petrawiki.org'
   redirect: 'en.petrawiki.org'

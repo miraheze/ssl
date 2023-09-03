@@ -1144,10 +1144,6 @@ psychevosorg:
   url: 'psychevos.org'
   ca: 'LetsEncrypt'
   disable_event: false
-rosettacodeorg:
-  url: 'rosettacode.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 apuntestk:
   url: 'apuntes.tk'
   ca: 'LetsEncrypt'
