@@ -231,6 +231,12 @@ looneypyramidgameswiki:
   sslname: 'pyramidgames.wiki'
   ca: 'LetsEncrypt'
   disable_event: true
+looneypyramidgameswiki:
+  url: 'wiki.fediverse.kr'
+  redirect: 'wiki.mastodon.kr'
+  sslname: 'wiki.fediverse.kr'
+  ca: 'LetsEncrypt'
+  disable_event: true
 
 # *.miraheze.org to wiki custom domains redirects
 allthetropeswiki:
