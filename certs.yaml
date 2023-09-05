@@ -1840,7 +1840,3 @@ removededmcom:
   url: 'removededm.com'
   ca: 'LetsEncrypt'
   disable_event: false
-wikifediversekr:
-  url: 'wiki.fediverse.kr'
-  ca: 'LetsEncrypt'
-  disable_event: false
