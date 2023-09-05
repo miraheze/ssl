@@ -231,7 +231,7 @@ looneypyramidgameswiki:
   sslname: 'pyramidgames.wiki'
   ca: 'LetsEncrypt'
   disable_event: true
-looneypyramidgameswiki:
+wikifediversekr:
   url: 'wiki.fediverse.kr'
   redirect: 'wiki.mastodon.kr'
   sslname: 'wiki.fediverse.kr'
