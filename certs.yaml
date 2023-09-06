@@ -1836,3 +1836,7 @@ removededmcom:
   url: 'removededm.com'
   ca: 'LetsEncrypt'
   disable_event: false
+partopediaru:
+  url: 'partopedia.ru'
+  ca: 'LetsEncrypt'
+  disable_event: false
