@@ -1844,3 +1844,7 @@ wwwwidedataorg:
   url: 'www.widedata.org'
   ca: 'LetsEncrypt'
   disable_event: false
+osfirsttimerwiki:
+  url: 'osfirsttimer.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
