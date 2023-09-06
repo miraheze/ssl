@@ -1840,3 +1840,7 @@ partopediaru:
   url: 'partopedia.ru'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwwidedataorg:
+  url: 'www.widedata.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
