@@ -1860,3 +1860,7 @@ archivesrezehnoorg:
   url: 'archives.rezehno.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wikilewisgillcom:
+  url: 'wiki.lewisgill.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
