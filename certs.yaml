@@ -1856,3 +1856,7 @@ wikisheepservermcnet:
   url: 'wiki.sheepservermc.net'
   ca: 'LetsEncrypt'
   disable_event: false
+archivesrezehnoorg:
+  url: 'archives.rezehno.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
