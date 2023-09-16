@@ -1852,3 +1852,7 @@ wikicol6de:
   url: 'wiki.col6.de'
   ca: 'LetsEncrypt'
   disable_event: false
+wikisheepservermcnet:
+  url: 'wiki.sheepservermc.net'
+  ca: 'LetsEncrypt'
+  disable_event: false
