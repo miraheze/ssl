@@ -1848,3 +1848,7 @@ osfirsttimerwiki:
   url: 'osfirsttimer.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wikicol6de:
+  url: 'wiki.col6.de'
+  ca: 'LetsEncrypt'
+  disable_event: false
