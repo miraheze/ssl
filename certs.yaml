@@ -1868,3 +1868,7 @@ zomvillespixiemetacom:
   url: 'zomvilles.pixiemeta.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikimanospt:
+  url: 'wiki.manos.pt'
+  ca: 'LetsEncrypt'
+  disable_event: false
