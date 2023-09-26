@@ -1884,3 +1884,7 @@ wikicorgicamtv:
   url: 'wiki.corgicam.tv'
   ca: 'LetsEncrypt'
   disable_event: false
+burnoutwiki:
+  url: 'burnout.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
