@@ -880,10 +880,6 @@ wikiaoemodscom:
   url: 'wiki.aoemods.com'
   ca: 'LetsEncrypt'
   disable_event: false
-wikicjgh:
-  url: 'wiki.cjgh.xyz'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikirecaptimeeu:
   url: 'wiki.recaptime.eu.org'
   ca: 'LetsEncrypt'
