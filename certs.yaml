@@ -152,10 +152,6 @@ wikithuniseu:
   url: 'wiki.thunis.eu'
   ca: 'LetsEncrypt'
   disable_event: false
-wikipablojprietocomes:
-  url: 'wiki.pablojprieto.com.es'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikinowchessorg:
   url: 'wiki.nowchess.org'
   ca: 'LetsEncrypt'
