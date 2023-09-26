@@ -1224,10 +1224,6 @@ enclockupwikiorg:
   url: 'en.clockupwiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
-fotnswikicom:
-  url: 'fotnswiki.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikizahirame:
   url: 'wiki.zahira.me'
   ca: 'LetsEncrypt'
