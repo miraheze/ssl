@@ -1880,3 +1880,7 @@ wikihspdev0t0jp:
   url: 'wiki.hspdev.0t0.jp'
   ca: 'LetsEncrypt'
   disable_event: false
+wikicorgicamtv:
+  url: 'wiki.corgicam.tv'
+  ca: 'LetsEncrypt'
+  disable_event: false
