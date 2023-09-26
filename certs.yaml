@@ -1876,3 +1876,7 @@ tintinpediafr:
   url: 'tintinpedia.fr'
   ca: 'LetsEncrypt'
   disable_event: false
+wikihspdev0t0jp:
+  url: 'wiki.hspdev.0t0.jp'
+  ca: 'LetsEncrypt'
+  disable_event: false
