@@ -404,6 +404,12 @@ wikiyriorg:
   sslname: 'wikiyri.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwtintinpediafr:
+  url: 'www.tintinpedia.fr'
+  redirect: 'tintinpedia.fr'
+  sslname: 'tintinpedia.fr'
+  ca: 'LetsEncrypt'
+  disable_event: true
 
 # *.miraheze.org to *.miraheze.org wiki redirects
 wwwredirect:
