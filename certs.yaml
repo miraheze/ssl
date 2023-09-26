@@ -384,10 +384,6 @@ opendatascotorg:
   url: 'opendatascot.org'
   ca: 'LetsEncrypt'
   disable_event: false
-savagepediawiki:
-  url: 'savagepedia.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikianglishinfo:
   url: 'wiki.anglish.info'
   ca: 'LetsEncrypt'
