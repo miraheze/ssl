@@ -152,10 +152,6 @@ wikithuniseu:
   url: 'wiki.thunis.eu'
   ca: 'LetsEncrypt'
   disable_event: false
-wikipablojprietocomes:
-  url: 'wiki.pablojprieto.com.es'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikinowchessorg:
   url: 'wiki.nowchess.org'
   ca: 'LetsEncrypt'
@@ -736,20 +732,12 @@ grayravenscom:
   url: 'grayravens.com'
   ca: 'LetsEncrypt'
   disable_event: false
-notesmridulpmin:
-  url: 'notes.mridulpm.in'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikicontrolistesfr:
   url: 'wiki.controlistes.fr'
   ca: 'LetsEncrypt'
   disable_event: false
 wikiprojectdiablo2com:
   url: 'wiki.projectdiablo2.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
-mcdevgrantlmulxyz:
-  url: 'mcdev.grantlmul.xyz'
   ca: 'LetsEncrypt'
   disable_event: false
 wikidigitalcandelacom:
@@ -878,10 +866,6 @@ mystiversewiki:
   disable_event: false
 wikiaoemodscom:
   url: 'wiki.aoemods.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wikicjgh:
-  url: 'wiki.cjgh.xyz'
   ca: 'LetsEncrypt'
   disable_event: false
 wikirecaptimeeu:
@@ -1136,10 +1120,6 @@ psychevosorg:
   url: 'psychevos.org'
   ca: 'LetsEncrypt'
   disable_event: false
-apuntestk:
-  url: 'apuntes.tk'
-  ca: 'LetsEncrypt'
-  disable_event: false
 crashspyrowikicom:
   url: 'crashspyrowiki.com'
   ca: 'LetsEncrypt'
@@ -1232,10 +1212,6 @@ enclockupwikiorg:
   url: 'en.clockupwiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
-fotnswikicom:
-  url: 'fotnswiki.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikizahirame:
   url: 'wiki.zahira.me'
   ca: 'LetsEncrypt'
@@ -1250,10 +1226,6 @@ wikilimarunet:
   disable_event: false
 acgnsfdeveuorg:
   url: 'acgn.sfdev.eu.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wikikinkpediaorg:
-  url: 'wiki.kinkpedia.org'
   ca: 'LetsEncrypt'
   disable_event: false
 ewgfwiki:
