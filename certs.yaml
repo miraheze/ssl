@@ -736,10 +736,6 @@ grayravenscom:
   url: 'grayravens.com'
   ca: 'LetsEncrypt'
   disable_event: false
-notesmridulpmin:
-  url: 'notes.mridulpm.in'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikicontrolistesfr:
   url: 'wiki.controlistes.fr'
   ca: 'LetsEncrypt'
