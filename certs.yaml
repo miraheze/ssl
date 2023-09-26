@@ -1124,10 +1124,6 @@ psychevosorg:
   url: 'psychevos.org'
   ca: 'LetsEncrypt'
   disable_event: false
-apuntestk:
-  url: 'apuntes.tk'
-  ca: 'LetsEncrypt'
-  disable_event: false
 crashspyrowikicom:
   url: 'crashspyrowiki.com'
   ca: 'LetsEncrypt'
