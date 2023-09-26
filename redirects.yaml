@@ -410,6 +410,12 @@ wwwtintinpediafr:
   sslname: 'tintinpedia.fr'
   ca: 'LetsEncrypt'
   disable_event: true
+wwwburnoutwiki:
+  url: 'www.burnout.wiki'
+  redirect: 'burnout.wiki'
+  sslname: 'burnout.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: true
 
 # *.miraheze.org to *.miraheze.org wiki redirects
 wwwredirect:
