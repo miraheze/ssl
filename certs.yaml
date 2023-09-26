@@ -1888,3 +1888,7 @@ kingdomdeathwiki:
   url: 'kingdomdeath.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+minehuttarnadev:
+  url: 'minehut.tarna.dev'
+  ca: 'LetsEncrypt'
+  disable_event: false
