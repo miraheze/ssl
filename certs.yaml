@@ -1348,10 +1348,6 @@ wikiff6worldscollidecom:
   url: 'wiki.ff6worldscollide.com'
   ca: 'LetsEncrypt'
   disable_event: false
-readerswhoknowpaneidoversecom:
-  url: 'readerswhoknow.paneidoverse.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wwwpomologiaorg:
   url: 'www.pomologia.org'
   ca: 'LetsEncrypt'
