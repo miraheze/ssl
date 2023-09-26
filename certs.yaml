@@ -1872,3 +1872,7 @@ wikimanospt:
   url: 'wiki.manos.pt'
   ca: 'LetsEncrypt'
   disable_event: false
+tintinpediafr:
+  url: 'tintinpedia.fr'
+  ca: 'LetsEncrypt'
+  disable_event: false
