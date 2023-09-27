@@ -470,6 +470,13 @@ thelangyalist_redirect:
   ca: 'Sectigo'
   hsts: 'strict'
   disable_event: true
+tintinpedia_redirect:
+  url: 'tintinpedia.miraheze.org'
+  redirect: 'tintinpedia.fr'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
 
 # orain.org to miraheze.org wiki redirects
 allthetropesorain:
