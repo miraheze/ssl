@@ -416,6 +416,13 @@ wwwburnoutwiki:
   sslname: 'burnout.wiki'
   ca: 'LetsEncrypt'
   disable_event: true
+tintinpediawiki_redirect:
+  url: 'tintinpedia.miraheze.org'
+  redirect: 'tintinpedia.fr'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
 
 # *.miraheze.org to *.miraheze.org wiki redirects
 wwwredirect:
@@ -466,13 +473,6 @@ templatewiki:
 thelangyalist_redirect:
   url: 'thelangyalist.miraheze.org'
   redirect: 'nirvanainfire.miraheze.org'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
-  hsts: 'strict'
-  disable_event: true
-tintinpedia_redirect:
-  url: 'tintinpedia.miraheze.org'
-  redirect: 'tintinpedia.fr'
   sslname: 'wildcard.miraheze.org-2020-2'
   ca: 'Sectigo'
   hsts: 'strict'
