@@ -1844,3 +1844,7 @@ wikizamnhackingnet:
   url: 'wiki.zamnhacking.net'
   ca: 'LetsEncrypt'
   disable_event: false
+mhdhpj568euorg:
+  url: 'mhdh.pj568.eu.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
