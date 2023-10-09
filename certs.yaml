@@ -1840,3 +1840,7 @@ minehuttarnadev:
   url: 'minehut.tarna.dev'
   ca: 'LetsEncrypt'
   disable_event: false
+wikizamnhackingnet:
+  url: 'wiki.zamnhacking.net'
+  ca: 'LetsEncrypt'
+  disable_event: false
