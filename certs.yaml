@@ -708,14 +708,6 @@ fanonpolandballwikicom:
   url: 'fanon.polandballwiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
-gssidemwiki:
-  url: 'gs.sidem.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wwwsidemwiki:
-  url: 'www.sidem.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikiwisrailde:
   url: 'wiki.wisrail.de'
   ca: 'LetsEncrypt'
