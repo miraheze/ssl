@@ -1848,3 +1848,7 @@ wikicutefamenet:
   url: 'wiki.cutefame.net'
   ca: 'LetsEncrypt'
   disable_event: false
+gogiganticwiki:
+  url: 'gogigantic.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
