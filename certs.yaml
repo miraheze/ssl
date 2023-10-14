@@ -1860,3 +1860,7 @@ mockgovernmentscom:
   url: 'mockgovernments.com'
   ca: 'LetsEncrypt'
   disable_event: false
+pandorastalewiki:
+  url: 'pandorastale.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
