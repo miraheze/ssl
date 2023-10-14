@@ -1852,3 +1852,7 @@ gogiganticwiki:
   url: 'gogigantic.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wikigrabtoolslive:
+  url: 'wiki.grab-tools.live'
+  ca: 'LetsEncrypt'
+  disable_event: false
