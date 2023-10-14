@@ -1844,3 +1844,7 @@ wikimoorestech:
   url: 'wiki.moores.tech'
   ca: 'LetsEncrypt'
   disable_event: false
+wikicutefamenet:
+  url: 'wiki.cutefame.net'
+  ca: 'LetsEncrypt'
+  disable_event: false
