@@ -1864,3 +1864,7 @@ pandorastalewiki:
   url: 'pandorastale.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+worldtobuildwiki:
+  url: 'worldtobuild.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
