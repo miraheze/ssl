@@ -1856,3 +1856,7 @@ wikigrabtoolslive:
   url: 'wiki.grab-tools.live'
   ca: 'LetsEncrypt'
   disable_event: false
+mockgovernmentscom:
+  url: 'mockgovernments.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
