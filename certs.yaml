@@ -1868,3 +1868,7 @@ worldtobuildwiki:
   url: 'worldtobuild.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wikisolarconquestnet:
+  url: 'wiki.solarconquest.net'
+  ca: 'LetsEncrypt'
+  disable_event: false
