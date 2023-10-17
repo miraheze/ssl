@@ -1,9 +1,9 @@
 ---
 # Beta
-betaheze:
-  url: 'betaheze.org'
-  additional_domain: '*.betaheze.org'
-  sslname: 'betaheze.org'
+mirabeta:
+  url: 'mirabeta.org'
+  additional_domain: '*.mirabeta.org'
+  sslname: 'mirabeta.org'
   ca: 'LetsEncrypt'
   disable_event: true
 
