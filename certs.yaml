@@ -1868,3 +1868,7 @@ wikielysiamcxyz:
   url: 'wiki.elysiamc.xyz'
   ca: 'LetsEncrypt'
   disable_event: false
+themagicalworld:
+  url: 'themagical.world'
+  ca: 'LetsEncrypt'
+  disable_event: false
