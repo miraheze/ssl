@@ -1176,10 +1176,6 @@ trainscnrailwikiorg:
   url: 'trains.cnrailwiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
-wikielysiamctk:
-  url: 'wiki.elysiamc.tk'
-  ca: 'LetsEncrypt'
-  disable_event: false
 schizoidnightmareswiki:
   url: 'schizoidnightmares.wiki'
   ca: 'LetsEncrypt'
