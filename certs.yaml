@@ -1868,3 +1868,7 @@ wikisolarconquestnet:
   url: 'wiki.solarconquest.net'
   ca: 'LetsEncrypt'
   disable_event: false
+wikielysiamcxyz:
+  url: 'wiki.elysiamc.xyz'
+  ca: 'LetsEncrypt'
+  disable_event: false
