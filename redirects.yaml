@@ -237,6 +237,12 @@ wikifediversekr:
   sslname: 'wiki.fediverse.kr'
   ca: 'LetsEncrypt'
   disable_event: true
+wwwthemagicalworld:
+  url: 'www.themagical.world'
+  redirect: 'themagical.world'
+  sslname: 'themagical.world'
+  ca: 'LetsEncrypt'
+  disable_event: true
 
 # *.miraheze.org to wiki custom domains redirects
 allthetropeswiki:
