@@ -1872,3 +1872,7 @@ themagicalworld:
   url: 'themagical.world'
   ca: 'LetsEncrypt'
   disable_event: false
+wikicandelabremcom:
+  url: 'wiki.candelabrem.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
