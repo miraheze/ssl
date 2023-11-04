@@ -1880,3 +1880,7 @@ citiessimulzkr:
   url: 'cities.simulz.kr'
   ca: 'LetsEncrypt'
   disable_event: false
+polcompballwiki:
+  url: 'polcompball.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
