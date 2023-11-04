@@ -171,12 +171,6 @@ wwwprojectpatternscom:
   sslname: 'project-patterns.com'
   ca: 'LetsEncrypt'
   disable_event: true
-lgbtqiawiki:
-  url: 'lgbtqia.wiki'
-  redirect: 'www.lgbtqia.wiki'
-  sslname: 'www.lgbtqia.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wwwistpcomputingcom:
   url: 'www.istpcomputing.com'
   redirect: 'istpcomputing.com'
