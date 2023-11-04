@@ -1872,3 +1872,7 @@ archivesthemarksidecom:
   url: 'archives.themarkside.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikistrangereonscom:
+  url: 'wiki.strangereons.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
