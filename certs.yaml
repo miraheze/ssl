@@ -1876,3 +1876,7 @@ wikistrangereonscom:
   url: 'wiki.strangereons.com'
   ca: 'LetsEncrypt'
   disable_event: false
+citiessimulzkr:
+  url: 'cities.simulz.kr'
+  ca: 'LetsEncrypt'
+  disable_event: false
