@@ -423,6 +423,13 @@ tintinpediawiki_redirect:
   ca: 'Sectigo'
   hsts: 'strict'
   disable_event: true
+polcompball_redirect:
+  url: 'polcompball.miraheze.org'
+  redirect: 'polcompball.wiki'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
 
 # *.miraheze.org to *.miraheze.org wiki redirects
 wwwredirect:
