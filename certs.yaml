@@ -1888,3 +1888,7 @@ wwwclinithequefr:
   url: 'www.clinitheque.fr'
   ca: 'LetsEncrypt'
   disable_event: false
+richteriancom:
+  url: 'richterian.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
