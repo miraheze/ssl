@@ -1892,3 +1892,7 @@ richteriancom:
   url: 'richterian.com'
   ca: 'LetsEncrypt'
   disable_event: false
+coffeewikinet:
+  url: 'coffeewiki.net'
+  ca: 'LetsEncrypt'
+  disable_event: false
