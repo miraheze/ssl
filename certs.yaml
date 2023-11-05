@@ -1884,3 +1884,7 @@ polcompballwiki:
   url: 'polcompball.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwclinithequefr:
+  url: 'www.clinitheque.fr'
+  ca: 'LetsEncrypt'
+  disable_event: false
