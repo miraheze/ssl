@@ -287,12 +287,6 @@ mariowiki:
   sslname: 'wildcard.miraheze.org-2020-2'
   ca: 'Sectigo'
   disable_event: true
-lgbtawiki:
-  url: 'lgbta.miraheze.org'
-  redirect: 'www.lgbtqia.wiki'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
-  disable_event: true
 recaptimewiki:
   url: 'recaptime.miraheze.org'
   redirect: 'wiki.recaptime.eu.org'
