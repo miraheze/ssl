@@ -1904,10 +1904,6 @@ deberlinwikiorg:
   url: 'de.berlinwiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
-fidkoyminet:
-  url: 'fid.koymi.net'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wwwgengbaiketop:
   url: 'www.gengbaike.top'
   ca: 'LetsEncrypt'
