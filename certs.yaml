@@ -1900,3 +1900,7 @@ wikivotgg:
   url: 'wiki.vot.gg'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiaclevocom:
+  url: 'wiki.aclevo.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
