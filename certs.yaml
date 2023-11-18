@@ -1928,3 +1928,7 @@ wikithemarksidecom:
   url: 'wiki.themarkside.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikirlaborguk:
+  url: 'wiki.rlab.org.uk'
+  ca: 'LetsEncrypt'
+  disable_event: false
