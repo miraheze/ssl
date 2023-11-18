@@ -1916,3 +1916,7 @@ wwwgengbaiketop:
   url: 'www.gengbaike.top'
   ca: 'LetsEncrypt'
   disable_event: false
+progressbar95wiki:
+  url: 'progressbar95.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
