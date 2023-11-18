@@ -1896,3 +1896,7 @@ coffeewikinet:
   url: 'coffeewiki.net'
   ca: 'LetsEncrypt'
   disable_event: false
+wikivotgg:
+  url: 'wiki.vot.gg'
+  ca: 'LetsEncrypt'
+  disable_event: false
