@@ -1904,3 +1904,7 @@ wikiaclevocom:
   url: 'wiki.aclevo.com'
   ca: 'LetsEncrypt'
   disable_event: false
+deberlinwikiorg:
+  url: 'de.berlinwiki.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
