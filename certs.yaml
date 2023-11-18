@@ -1920,3 +1920,7 @@ progressbar95wiki:
   url: 'progressbar95.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+enclockupwiki:
+  url: 'en.clockup.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
