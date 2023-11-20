@@ -1920,3 +1920,7 @@ hardcorewiki:
   url: 'hardcore.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+tssmwiki:
+  url: 'tssm.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
