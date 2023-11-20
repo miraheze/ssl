@@ -72,10 +72,6 @@ maccnyc:
   url: 'wiki.macc.nyc'
   ca: 'LetsEncrypt'
   disable_event: false
-sdiy:
-  url: 'sdiy.info'
-  ca: 'LetsEncrypt'
-  disable_event: false
 jcs:
   url: 'wiki.gesamtschule-nordkirchen.de'
   ca: 'LetsEncrypt'
