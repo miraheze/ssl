@@ -28,12 +28,6 @@ mirahezecom:
   sslname: 'miraheze.com'
   ca: 'LetsEncrypt'
   disable_event: false
-wwwsdiyinfo:
-  url: 'www.sdiy.info'
-  redirect: 'sdiy.info'
-  sslname: 'sdiy.info'
-  ca: 'LetsEncrypt'
-  disable_event: true
 wwwdariawiki:
   url: 'www.dariawiki.org'
   redirect: 'dariawiki.org'
