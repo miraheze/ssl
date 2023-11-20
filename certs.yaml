@@ -1916,3 +1916,7 @@ wikirlaborguk:
   url: 'wiki.rlab.org.uk'
   ca: 'LetsEncrypt'
   disable_event: false
+hardcorewiki:
+  url: 'hardcore.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
