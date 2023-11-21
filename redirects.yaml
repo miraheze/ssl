@@ -231,6 +231,12 @@ wwwthemagicalworld:
   sslname: 'themagical.world'
   ca: 'LetsEncrypt'
   disable_event: true
+simswikicom:
+  url: 'thesimswiki.com'
+  redirect: 'www.thesimswiki.com'
+  sslname: 'www.thesimswiki.com'
+  ca: 'LetsEncrypt'
+  disable_event: true
 
 # *.miraheze.org to wiki custom domains redirects
 allthetropeswiki:
