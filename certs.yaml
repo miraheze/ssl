@@ -1924,3 +1924,7 @@ tssmwiki:
   url: 'tssm.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+rockrevolutionwiki:
+  url: 'rockrevolution.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
