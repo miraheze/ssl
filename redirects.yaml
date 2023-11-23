@@ -424,6 +424,13 @@ polcompball_redirect:
   ca: 'Sectigo'
   hsts: 'strict'
   disable_event: true
+pandorastale:
+  url: 'pandorastale.miraheze.org'
+  redirect: 'pandorastale.wiki'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
 
 # *.miraheze.org to *.miraheze.org wiki redirects
 wwwredirect:
