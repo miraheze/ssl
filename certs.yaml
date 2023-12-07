@@ -1928,3 +1928,7 @@ rockrevolutionwiki:
   url: 'rockrevolution.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wikislamicaorg:
+  url: 'wikislamica.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
