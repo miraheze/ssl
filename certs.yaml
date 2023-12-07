@@ -1932,3 +1932,7 @@ wikislamicaorg:
   url: 'wikislamica.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wikimcjonesgay:
+  url: 'wiki.mcjones.gay'
+  ca: 'LetsEncrypt'
+  disable_event: false
