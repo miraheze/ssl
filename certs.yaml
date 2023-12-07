@@ -1936,3 +1936,7 @@ wikimcjonesgay:
   url: 'wiki.mcjones.gay'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiivycm:
+  url: 'wiki.ivy.cm'
+  ca: 'LetsEncrypt'
+  disable_event: false
