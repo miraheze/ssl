@@ -1944,3 +1944,7 @@ archivesnsgovorg:
   url: 'archives.nsgov.org'
   ca: 'LetsEncrypt'
   disable_event: false
+fashiondreamerwiki:
+  url: 'fashiondreamer.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
