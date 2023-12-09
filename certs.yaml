@@ -1940,3 +1940,7 @@ wikipixandbitgay:
   url: 'wiki.pixandbit.gay'
   ca: 'LetsEncrypt'
   disable_event: false
+archivesnsgovorg:
+  url: 'archives.nsgov.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
