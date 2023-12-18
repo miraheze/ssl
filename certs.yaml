@@ -1248,10 +1248,6 @@ wikisukotuzecom:
   url: 'wiki.sukotuze.com'
   ca: 'LetsEncrypt'
   disable_event: false
-gtfowikicn:
-  url: 'gtfo-wiki.cn'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikizulaclubnet:
   url: 'wiki.zulaclub.net'
   ca: 'LetsEncrypt'
