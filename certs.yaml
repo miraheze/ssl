@@ -1960,3 +1960,7 @@ wikiseamlyio:
   url: 'wiki.seamly.io'
   ca: 'LetsEncrypt'
   disable_event: false
+wikappediacc:
+  url: 'wikappedia.cc'
+  ca: 'LetsEncrypt'
+  disable_event: false
