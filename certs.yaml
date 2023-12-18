@@ -1960,3 +1960,7 @@ wikicityrporg:
   url: 'wiki.cityrp.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiseamlyio:
+  url: 'wiki.seamly.io'
+  ca: 'LetsEncrypt'
+  disable_event: false
