@@ -1964,3 +1964,7 @@ wikappediacc:
   url: 'wikappedia.cc'
   ca: 'LetsEncrypt'
   disable_event: false
+barengrezamyid:
+  url: 'barengreza.my.id'
+  ca: 'LetsEncrypt'
+  disable_event: false
