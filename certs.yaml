@@ -1968,3 +1968,7 @@ barengrezamyid:
   url: 'barengreza.my.id'
   ca: 'LetsEncrypt'
   disable_event: false
+wikicosmicdeathfunguscom:
+  url: 'wiki.cosmicdeathfungus.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
