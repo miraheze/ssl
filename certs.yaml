@@ -1972,3 +1972,7 @@ wikicosmicdeathfunguscom:
   url: 'wiki.cosmicdeathfungus.com'
   ca: 'LetsEncrypt'
   disable_event: false
+xn80ahcnmgnyjxnp1ai:
+  url: 'xn--80ahcnmgnyj.xn--p1ai'
+  ca: 'LetsEncrypt'
+  disable_event: false
