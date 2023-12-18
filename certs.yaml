@@ -1952,3 +1952,7 @@ wikimaxshubnet:
   url: 'wiki.maxshub.net'
   ca: 'LetsEncrypt'
   disable_event: false
+wikihacklabsrorg:
+  url: 'wiki.hacklabsr.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
