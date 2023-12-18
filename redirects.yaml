@@ -431,6 +431,13 @@ pandorastale:
   ca: 'Sectigo'
   hsts: 'strict'
   disable_event: true
+321nailswiki:
+  url: '321nailswiki.miraheze.org'
+  redirect: '321nails.crpteam.club'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
 
 # *.miraheze.org to *.miraheze.org wiki redirects
 wwwredirect:
