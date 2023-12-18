@@ -1948,3 +1948,7 @@ wikimetaiitgnorg:
   url: 'wiki.metaiitgn.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wikimaxshubnet:
+  url: 'wiki.maxshub.net'
+  ca: 'LetsEncrypt'
+  disable_event: false
