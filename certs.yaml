@@ -1980,3 +1980,7 @@ wwwdocumentopublicocombr:
   url: 'www.documentopublico.com.br'
   ca: 'LetsEncrypt'
   disable_event: false
+wikimahdiruizlinepm:
+  url: 'wiki.mahdiruiz.line.pm'
+  ca: 'LetsEncrypt'
+  disable_event: false
