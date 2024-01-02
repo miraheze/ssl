@@ -1988,3 +1988,7 @@ wikitdrwebtop:
   url: 'wiki.tdrweb.top'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiwildportcom:
+  url: 'wiki.wildport.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
