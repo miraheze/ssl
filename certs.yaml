@@ -2000,3 +2000,7 @@ wikijagtekorg:
   url: 'wiki.jagtek.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiomegabuilduk:
+  url: 'wiki.omegabuild.uk'
+  ca: 'LetsEncrypt'
+  disable_event: false
