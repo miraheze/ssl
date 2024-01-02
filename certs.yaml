@@ -2012,3 +2012,7 @@ quadballwiki:
   url: 'quadball.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+otherkinwiki:
+  url: 'otherkin.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
