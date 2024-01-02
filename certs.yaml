@@ -764,10 +764,6 @@ wikipixliesnet:
   url: 'wiki.pixlies.net'
   ca: 'LetsEncrypt'
   disable_event: false
-wikirosestulipsandlibertycom:
-  url: 'wiki.rosestulipsandliberty.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 dragonquestwikicom:
   url: 'dragonquestwiki.com'
   ca: 'LetsEncrypt'
