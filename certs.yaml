@@ -1984,3 +1984,7 @@ wikimahdiruizlinepm:
   url: 'wiki.mahdiruiz.line.pm'
   ca: 'LetsEncrypt'
   disable_event: false
+wikitdrwebtop:
+  url: 'wiki.tdrweb.top'
+  ca: 'LetsEncrypt'
+  disable_event: false
