@@ -2008,3 +2008,7 @@ beidipediacom:
   url: 'beidipedia.com'
   ca: 'LetsEncrypt'
   disable_event: false
+quadballwiki:
+  url: 'quadball.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
