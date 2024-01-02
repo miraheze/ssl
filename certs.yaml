@@ -2016,3 +2016,7 @@ otherkinwiki:
   url: 'otherkin.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+lostmediawikiru:
+  url: 'lostmediawiki.ru'
+  ca: 'LetsEncrypt'
+  disable_event: false
