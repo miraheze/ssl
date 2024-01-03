@@ -2020,3 +2020,7 @@ wikirosestulipsandlibertycom:
   url: 'wiki.rosestulipsandliberty.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikitaescombr:
+  url: 'wiki.taes.com.br'
+  ca: 'LetsEncrypt'
+  disable_event: false
