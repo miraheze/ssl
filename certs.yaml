@@ -2024,3 +2024,7 @@ wikitaescombr:
   url: 'wiki.taes.com.br'
   ca: 'LetsEncrypt'
   disable_event: false
+ruteirailwayf5si:
+  url: 'ru-teirailway.f5.si'
+  ca: 'LetsEncrypt'
+  disable_event: false
