@@ -2028,3 +2028,7 @@ ruteirailwayf5si:
   url: 'ru-teirailway.f5.si'
   ca: 'LetsEncrypt'
   disable_event: false
+wikibarengrezamyid:
+  url: 'wiki.barengreza.my.id'
+  ca: 'LetsEncrypt'
+  disable_event: false
