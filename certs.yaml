@@ -2032,3 +2032,7 @@ wikibarengrezamyid:
   url: 'wiki.barengreza.my.id'
   ca: 'LetsEncrypt'
   disable_event: false
+airlineinsiderorg:
+  url: 'airlineinsider.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
