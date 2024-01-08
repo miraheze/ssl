@@ -2036,3 +2036,7 @@ airlineinsiderorg:
   url: 'airlineinsider.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiburylandnet:
+  url: 'wiki.buryland.net'
+  ca: 'LetsEncrypt'
+  disable_event: false
