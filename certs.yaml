@@ -2040,3 +2040,7 @@ wikiburylandnet:
   url: 'wiki.buryland.net'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiworldxorg:
+  url: 'wiki.worldx.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
