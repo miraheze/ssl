@@ -2044,7 +2044,3 @@ wikiworldxorg:
   url: 'wiki.worldx.org'
   ca: 'LetsEncrypt'
   disable_event: false
-enclockupwiki:
-  url: 'en.clockup.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
