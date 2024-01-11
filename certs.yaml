@@ -2044,3 +2044,7 @@ wikiworldxorg:
   url: 'wiki.worldx.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wikik2chome:
+  url: 'wiki.k2cho.me'
+  ca: 'LetsEncrypt'
+  disable_event: false
