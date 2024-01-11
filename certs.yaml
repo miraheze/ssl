@@ -2052,3 +2052,7 @@ wikik2chome:
   url: 'wiki.k2cho.me'
   ca: 'LetsEncrypt'
   disable_event: false
+kinnikupediaorg:
+  url: 'kinnikupedia.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
