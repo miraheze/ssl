@@ -2052,3 +2052,7 @@ kinnikupediaorg:
   url: 'kinnikupedia.org'
   ca: 'LetsEncrypt'
   disable_event: false
+kinnikupediaorg:
+  url: 'kinnikupedia.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
