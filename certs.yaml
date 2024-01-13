@@ -8,6 +8,12 @@ mirabeta:
   disable_event: true
 
 # Production
+wikitidenet:
+  url: 'wikitide.net'
+  additional_domain: '*.wikitide.net'
+  sslname: 'wikitide.net'
+  ca: 'LetsEncrypt'
+  disable_event: true
 antiguabarbudacalypso:
   url: 'antiguabarbudacalypso.com'
   ca: 'LetsEncrypt'
