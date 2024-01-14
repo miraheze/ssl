@@ -2058,3 +2058,7 @@ kinnikupediaorg:
   url: 'kinnikupedia.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wikilesunkcom:
+  url: 'wiki.lesunk.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
