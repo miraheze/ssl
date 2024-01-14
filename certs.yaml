@@ -1202,10 +1202,6 @@ wikialbrusmusicru:
   url: 'wiki.albrusmusic.ru'
   ca: 'LetsEncrypt'
   disable_event: false
-wowswiki:
-  url: 'wows.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wizardiawiki:
   url: 'wizardia.wiki'
   ca: 'LetsEncrypt'
