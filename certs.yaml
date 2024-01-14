@@ -378,10 +378,6 @@ opendatascotorg:
   url: 'opendatascot.org'
   ca: 'LetsEncrypt'
   disable_event: false
-wikianglishinfo:
-  url: 'wiki.anglish.info'
-  ca: 'LetsEncrypt'
-  disable_event: false
 historyestillorg:
   url: 'history.estill.org'
   ca: 'LetsEncrypt'
