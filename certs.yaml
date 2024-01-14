@@ -1350,10 +1350,6 @@ bristolstudenthousingcooporg:
   url: 'bristolstudenthousingcoop.org'
   ca: 'LetsEncrypt'
   disable_event: false
-wikinmcgames:
-  url: 'wiki.nmc.games'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikipwaadiaworks:
   url: 'wikipwaadia.works'
   ca: 'LetsEncrypt'
