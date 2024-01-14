@@ -802,10 +802,6 @@ storytimejdstroycf:
   url: 'storytime.jdstroy.cf'
   ca: 'LetsEncrypt'
   disable_event: false
-txtdex:
-  url: 'txt-dex.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikipediayogfrontooo:
   url: 'wikipedia.yogfront.ooo'
   ca: 'LetsEncrypt'
