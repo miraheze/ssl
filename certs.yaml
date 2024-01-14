@@ -1298,10 +1298,6 @@ wikipwaadiaworks:
   url: 'wikipwaadia.works'
   ca: 'LetsEncrypt'
   disable_event: false
-wikibloxoteltk:
-  url: 'wiki.bloxotel.tk'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikidrycleaninglobbynet:
   url: 'wiki.drycleaninglobby.net'
   ca: 'LetsEncrypt'
