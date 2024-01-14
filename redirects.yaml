@@ -365,13 +365,6 @@ yoshiwikiredir:
   ca: 'Sectigo'
   hsts: 'strict'
   disable_event: true
-wariowikiredir:
-  url: 'wario.miraheze.org'
-  redirect: 'wariopedia.com'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
-  hsts: 'strict'
-  disable_event: true
 ajhalili2006wiki:
   url: 'ajhalili2006.miraheze.org'
   redirect: 'wiki.andreijiroh.uk.eu.org'
