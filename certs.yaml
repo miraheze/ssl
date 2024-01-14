@@ -450,10 +450,6 @@ celestewiki:
   url: 'celeste.ink'
   ca: 'LetsEncrypt'
   disable_event: false
-wikislimelabnet:
-  url: 'wiki.slimelab.net'
-  ca: 'LetsEncrypt'
-  disable_event: false
 ptgraalmilitarycom:
   url: 'pt.graalmilitary.com'
   ca: 'LetsEncrypt'
