@@ -189,12 +189,6 @@ pornwikiorg:
   sslname: 'en.pornwiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
-wwwdeadpremwiki:
-  url: 'www.deadprem.wiki'
-  redirect: 'deadprem.wiki'
-  sslname: 'deadprem.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wwwglitchcity:
   url: 'www.glitchcity.wiki'
   redirect: 'glitchcity.wiki'
