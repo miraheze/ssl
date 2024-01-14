@@ -238,10 +238,6 @@ programmingred:
   url: 'programming.red'
   ca: 'LetsEncrypt'
   disable_event: false
-wikiconworldsorg:
-  url: 'wiki.conworlds.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wwwbaharnaorg:
   url: 'www.baharna.org'
   ca: 'LetsEncrypt'
