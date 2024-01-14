@@ -1406,10 +1406,6 @@ talumnneptunewiki:
   url: 'talumn.neptune.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-thenintendowikicom:
-  url: 'thenintendowiki.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikiarsroboticsorg:
   url: 'wiki.arsrobotics.org'
   ca: 'LetsEncrypt'
