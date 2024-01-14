@@ -1182,10 +1182,6 @@ acgnsfdeveuorg:
   url: 'acgn.sfdev.eu.org'
   ca: 'LetsEncrypt'
   disable_event: false
-ewgfwiki:
-  url: 'ewgf.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
 feignwikitk:
   url: 'feign-wiki.tk'
   ca: 'LetsEncrypt'
