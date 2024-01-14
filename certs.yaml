@@ -1654,10 +1654,6 @@ bnwikiyriorg:
   url: 'bn.wikiyri.org'
   ca: 'LetsEncrypt'
   disable_event: false
-wwwesolibrarycom:
-  url: 'www.esolibrary.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikiesufranchisecom:
   url: 'wiki.esufranchise.com'
   ca: 'LetsEncrypt'
