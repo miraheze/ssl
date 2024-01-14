@@ -958,10 +958,6 @@ wwwdovearchives:
   url: 'www.dovearchives.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-wikiexputracom:
-  url: 'wiki.exputra.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 grkrepositoryarchiopediaorg:
   url: 'grk.repository.archiopedia.org'
   ca: 'LetsEncrypt'
