@@ -1242,10 +1242,6 @@ wikisukotuzecom:
   url: 'wiki.sukotuze.com'
   ca: 'LetsEncrypt'
   disable_event: false
-wikizulaclubnet:
-  url: 'wiki.zulaclub.net'
-  ca: 'LetsEncrypt'
-  disable_event: false
 dutkikrokr:
   url: 'dutki.kro.kr'
   ca: 'LetsEncrypt'
