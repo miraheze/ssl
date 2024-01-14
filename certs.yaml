@@ -1142,10 +1142,6 @@ minescapewiki:
   url: 'minescape.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-trainscnrailwikiorg:
-  url: 'trains.cnrailwiki.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 schizoidnightmareswiki:
   url: 'schizoidnightmares.wiki'
   ca: 'LetsEncrypt'
