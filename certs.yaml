@@ -1194,10 +1194,6 @@ ewgfwiki:
   url: 'ewgf.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-twistwoodtaleswikicom:
-  url: 'www.twistwoodtaleswiki.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 feignwikitk:
   url: 'feign-wiki.tk'
   ca: 'LetsEncrypt'
