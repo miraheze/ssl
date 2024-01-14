@@ -1266,10 +1266,6 @@ comprehensibleinputwikiorg:
   url: 'comprehensibleinputwiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
-decyclopediatk:
-  url: 'decyclopedia.tk'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikigeoparkcorumbataicombr:
   url: 'wiki.geoparkcorumbatai.com.br'
   ca: 'LetsEncrypt'
