@@ -1214,10 +1214,6 @@ wikiyunachannelcom:
   url: 'wiki.yunachannel.com'
   ca: 'LetsEncrypt'
   disable_event: false
-alphabirdswikigq:
-  url: 'alphabirdswiki.gq'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikipulsuscc:
   url: 'wiki.pulsus.cc'
   ca: 'LetsEncrypt'
