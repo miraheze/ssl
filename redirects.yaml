@@ -245,12 +245,6 @@ pokemonwiki:
   sslname: 'wildcard.miraheze.org-2020-2'
   ca: 'Sectigo'
   disable_event: true
-nintendowiki:
-  url: 'nintendo.miraheze.org'
-  redirect: 'thenintendowiki.com'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
-  disable_event: true
 smashbroswiki:
   url: 'smashbros.miraheze.org'
   redirect: 'smashbroswiki.com'
