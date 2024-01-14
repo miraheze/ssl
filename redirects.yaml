@@ -218,7 +218,7 @@ wikifediversekr:
   redirect: 'wiki.mastodon.kr'
   sslname: 'wiki.fediverse.kr'
   ca: 'LetsEncrypt'
-  disable_event: true
+  disable_event: false
 wwwthemagicalworld:
   url: 'www.themagical.world'
   redirect: 'themagical.world'
