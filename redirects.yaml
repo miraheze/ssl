@@ -295,13 +295,6 @@ rarewiki:
   ca: 'Sectigo'
   hsts: 'strict'
   disable_event: true
-finalfantasywiki:
-  url: 'finalfantasy.miraheze.org'
-  redirect: 'ffwiki.org'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
-  hsts: 'strict'
-  disable_event: true
 donkeykongwiki:
   url: 'donkeykong.miraheze.org'
   redirect: 'dkpedia.com'
