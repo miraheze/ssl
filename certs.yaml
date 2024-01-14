@@ -986,10 +986,6 @@ puritwikipekr:
   url: 'puritwiki.p-e.kr'
   ca: 'LetsEncrypt'
   disable_event: false
-ffwikiorg:
-  url: 'ffwiki.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 grkarchiopediaorg:
   url: 'grk.archiopedia.org'
   ca: 'LetsEncrypt'
