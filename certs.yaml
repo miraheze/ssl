@@ -1950,3 +1950,7 @@ wikilesunkcom:
   url: 'wiki.lesunk.com'
   ca: 'LetsEncrypt'
   disable_event: false
+chobotswiki:
+  url: 'chobots.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
