@@ -1954,3 +1954,7 @@ chobotswiki:
   url: 'chobots.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+tnowiki:
+  url: 'tno.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
