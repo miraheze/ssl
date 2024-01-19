@@ -480,6 +480,20 @@ japanesefeaturephones_redirect:
   ca: 'Sectigo'
   hsts: 'strict'
   disable_event: true
+inext_redirect:
+  url: 'inext.miraheze.org'
+  redirect: 'inextandkaylaandrachelverse.miraheze.org'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
+kaylaandrachel_redirect:
+  url: 'kaylaandrachel.miraheze.org'
+  redirect: 'inextandkaylaandrachelverse.miraheze.org'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
 
 # orain.org to miraheze.org wiki redirects
 allthetropesorain:
