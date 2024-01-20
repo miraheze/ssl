@@ -1966,3 +1966,7 @@ wikisequoiafabricaorg:
   url: 'wiki.sequoiafabrica.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wikishowtapeselectioncom:
+  url: 'wiki.showtapeselection.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
