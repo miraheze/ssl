@@ -1962,3 +1962,7 @@ starveilwiki:
   url: 'starveil.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wikisequoiafabricaorg:
+  url: 'wiki.sequoiafabrica.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
