@@ -1970,3 +1970,7 @@ wikishowtapeselectioncom:
   url: 'wiki.showtapeselection.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikimhemyid:
+  url: 'wiki.mhe.my.id'
+  ca: 'LetsEncrypt'
+  disable_event: false
