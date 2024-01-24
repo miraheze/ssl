@@ -1974,3 +1974,7 @@ wikimhemyid:
   url: 'wiki.mhe.my.id'
   ca: 'LetsEncrypt'
   disable_event: false
+wikigamergeekedus:
+  url: 'wiki.gamergeeked.us'
+  ca: 'LetsEncrypt'
+  disable_event: false
