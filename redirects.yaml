@@ -231,6 +231,12 @@ simswikicom:
   sslname: 'www.thesimswiki.com'
   ca: 'LetsEncrypt'
   disable_event: true
+wwwlostidolswiki:
+  url: 'www.lostidols.wiki'
+  redirect: 'lostidols.wiki'
+  sslname: 'lostidols.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: true
 
 # *.miraheze.org to wiki custom domains redirects
 allthetropeswiki:
