@@ -1986,3 +1986,7 @@ wwwsatepediacom:
   url: 'www.satepedia.com'
   ca: 'LetsEncrypt'
   disable_event: false
+lostidolswiki:
+  url: 'lostidols.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
