@@ -1982,3 +1982,7 @@ ff8wiki:
   url: 'ff8.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwsatepediacom:
+  url: 'www.satepedia.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
