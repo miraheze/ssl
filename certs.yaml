@@ -1978,3 +1978,7 @@ wikigamergeekedus:
   url: 'wiki.gamergeeked.us'
   ca: 'LetsEncrypt'
   disable_event: false
+ff8wiki:
+  url: 'ff8.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
