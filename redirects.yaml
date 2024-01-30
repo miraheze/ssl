@@ -298,7 +298,7 @@ donkeykongwiki:
   disable_event: true
 taswinwiki:
   url: 'taswin.miraheze.org'
-  redirect: 'istpcomputing.com'
+  redirect: 'www.istpcomputing.com'
   sslname: 'wildcard.miraheze.org-2020-2'
   ca: 'Sectigo'
   hsts: 'strict'
