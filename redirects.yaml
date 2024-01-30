@@ -165,12 +165,6 @@ wwwprojectpatternscom:
   sslname: 'project-patterns.com'
   ca: 'LetsEncrypt'
   disable_event: true
-wwwistpcomputingcom:
-  url: 'www.istpcomputing.com'
-  redirect: 'istpcomputing.com'
-  sslname: 'istpcomputing.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 petrawikiorg:
   url: 'petrawiki.org'
   redirect: 'en.petrawiki.org'
