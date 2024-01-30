@@ -1986,3 +1986,7 @@ lostidolswiki:
   url: 'lostidols.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwistpcomputingcom:
+  url: 'www.istpcomputing.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
