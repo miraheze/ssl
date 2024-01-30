@@ -1990,3 +1990,7 @@ wwwistpcomputingcom:
   url: 'www.istpcomputing.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwdurawikicom:
+  url: 'www.durawiki.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
