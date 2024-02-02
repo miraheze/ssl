@@ -1994,3 +1994,7 @@ wwwdurawikicom:
   url: 'www.durawiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikisadboyzpodcom:
+  url: 'wiki.sadboyzpod.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
