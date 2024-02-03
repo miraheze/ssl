@@ -1998,3 +1998,7 @@ wikisadboyzpodcom:
   url: 'wiki.sadboyzpod.com'
   ca: 'LetsEncrypt'
   disable_event: false
+holocronnet:
+  url: 'holocron.net'
+  ca: 'LetsEncrypt'
+  disable_event: false
