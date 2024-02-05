@@ -2002,3 +2002,7 @@ holocronnet:
   url: 'holocron.net'
   ca: 'LetsEncrypt'
   disable_event: false
+atlasstarworldzone:
+  url: 'atlas.starworld.zone'
+  ca: 'LetsEncrypt'
+  disable_event: false
