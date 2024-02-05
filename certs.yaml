@@ -2006,3 +2006,7 @@ atlasstarworldzone:
   url: 'atlas.starworld.zone'
   ca: 'LetsEncrypt'
   disable_event: false
+tdrwiki:
+  url: 'tdr.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
