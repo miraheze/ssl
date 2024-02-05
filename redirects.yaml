@@ -528,3 +528,19 @@ orain:
   sslname: 'orain.org'
   ca: 'LetsEncrypt'
   disable_event: true
+
+# Phorge redirects
+phorge:
+  url: 'phorge.miraheze.org'
+  redirect: 'issue-tracker.miraheze.org'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
+phabricator:
+  url: 'phabricator.miraheze.org'
+  redirect: 'issue-tracker.miraheze.org'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
