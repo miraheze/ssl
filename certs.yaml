@@ -2010,3 +2010,7 @@ tdrwiki:
   url: 'tdr.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wikidragonsmppro:
+  url: 'wiki.dragonsmp.pro'
+  ca: 'LetsEncrypt'
+  disable_event: false
