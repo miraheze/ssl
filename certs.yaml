@@ -2022,3 +2022,7 @@ wikichicorypizza:
   url: 'wiki.chicory.pizza'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwebcatme:
+  url: 'www.ebcat.me'
+  ca: 'LetsEncrypt'
+  disable_event: false
