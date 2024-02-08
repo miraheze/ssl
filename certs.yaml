@@ -2014,3 +2014,7 @@ wikidragonsmppro:
   url: 'wiki.dragonsmp.pro'
   ca: 'LetsEncrypt'
   disable_event: false
+educationgcedin:
+  url: 'education.gced.in'
+  ca: 'LetsEncrypt'
+  disable_event: false
