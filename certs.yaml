@@ -2018,3 +2018,7 @@ educationgcedin:
   url: 'education.gced.in'
   ca: 'LetsEncrypt'
   disable_event: false
+wikichicorypizza:
+  url: 'wiki.chicory.pizza'
+  ca: 'LetsEncrypt'
+  disable_event: false
