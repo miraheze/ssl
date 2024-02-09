@@ -2032,3 +2032,7 @@ wwwebcatme:
   url: 'www.ebcat.me'
   ca: 'LetsEncrypt'
   disable_event: false
+mwcosmoscom:
+  url: 'mwcosmos.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
