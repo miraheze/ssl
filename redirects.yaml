@@ -10,6 +10,15 @@ mirahezewiki:
   ca: 'LetsEncrypt'
   disable_event: true
 
+# wikitide.org redirects
+wikitideredirect:
+  url: 'wikitide.org'
+  additional_domain: 'www.wikitide.org'
+  redirect: 'miraheze.org'
+  sslname: 'wikitide.org'
+  ca: 'LetsEncrypt'
+  disable_event: true
+
 wwwallthetropes:
   url: 'www.allthetropes.org'
   redirect: 'allthetropes.org'
@@ -549,4 +558,10 @@ phabricator:
   sslname: 'wildcard.miraheze.org-2020-2'
   ca: 'Sectigo'
   hsts: 'strict'
+  disable_event: true
+issuetrackerwikitide:
+  url: 'issue-tracker.wikitide.org'
+  redirect: 'issue-tracker.miraheze.org'
+  sslname: 'wikitide.org'
+  ca: 'LetsEncrypt'
   disable_event: true
