@@ -231,6 +231,12 @@ wwwlostidolswiki:
   sslname: 'lostidols.wiki'
   ca: 'LetsEncrypt'
   disable_event: true
+wwwmwcosmoscom:
+  url: 'www.mwcosmos.com'
+  redirect: 'mwcosmos.com'
+  sslname: 'mwcosmos.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
 
 # *.miraheze.org to wiki custom domains redirects
 allthetropeswiki:
