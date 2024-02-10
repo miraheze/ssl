@@ -442,6 +442,14 @@ removededmsongswiki:
   hsts: 'strict'
   disable_event: true
 
+# *.wikitide.org to wiki custom domains redirects
+polcompball_wikitide_redirect:
+  url: 'polcompball.wikitide.org'
+  redirect: 'polcompball.wiki'
+  sslname: 'wikitide.org'
+  ca: 'LetsEncrypt'
+  disable_event: true
+
 # *.miraheze.org to *.miraheze.org wiki redirects
 wwwredirect:
   url: 'www.miraheze.org'
