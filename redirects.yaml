@@ -246,6 +246,18 @@ wwwmwcosmoscom:
   sslname: 'mwcosmos.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwfarthestfrontierwiki:
+  url: 'www.farthestfrontier.wiki'
+  redirect: 'farthestfrontier.wiki'
+  sslname: 'farthestfrontier.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
+wwwrosettacodeorg:
+  url: 'www.rosettacode.org'
+  redirect: 'rosettacode.org'
+  sslname: 'rosettacode.org'
+  ca: 'LetsEncrypt'
+  disable_event: true
 
 # *.miraheze.org to wiki custom domains redirects
 allthetropeswiki:
