@@ -462,12 +462,6 @@ mirahezecf:
   sslname: 'miraheze.cf'
   ca: 'LetsEncrypt'
   disable_event: false
-mirahezetk:
-  url: 'miraheze.tk'
-  redirect: 'miraheze.org'
-  sslname: 'miraheze.tk'
-  ca: 'LetsEncrypt'
-  disable_event: false
 closinglogos:
   url: 'closinglogosgroup.miraheze.org'
   redirect: 'avid.miraheze.org'
