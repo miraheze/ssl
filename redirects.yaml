@@ -8,7 +8,7 @@ mirahezewiki:
     ^/Fundraiser: 'meta.miraheze.org/wiki/Special:MyLanguage/Fundraiser'
   sslname: 'miraheze.wiki'
   ca: 'LetsEncrypt'
-  disable_event: true
+  disable_event: false
 
 # wikitide.org redirects
 wikitideredirect:
