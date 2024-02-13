@@ -2043,3 +2043,7 @@ patrykstanvelescrimearu:
   url: 'patrykstan.veles-crimea.ru'
   ca: 'LetsEncrypt'
   disable_event: false
+tfukapp:
+  url: 'tfuk.app'
+  ca: 'LetsEncrypt'
+  disable_event: false
