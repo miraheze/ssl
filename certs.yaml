@@ -2047,3 +2047,7 @@ tfukapp:
   url: 'tfuk.app'
   ca: 'LetsEncrypt'
   disable_event: false
+wikikkstudioeuorg:
+  url: 'wiki.kkstudio.eu.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
