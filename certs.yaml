@@ -2051,3 +2051,7 @@ wikikkstudioeuorg:
   url: 'wiki.kkstudio.eu.org'
   ca: 'LetsEncrypt'
   disable_event: false
+ladswiki:
+  url: 'lads.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
