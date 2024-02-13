@@ -2039,3 +2039,7 @@ sdiyinfo:
   url: 'sdiy.info'
   ca: 'LetsEncrypt'
   disable_event: false
+patrykstanvelescrimearu:
+  url: 'patrykstan.veles-crimea.ru'
+  ca: 'LetsEncrypt'
+  disable_event: false
