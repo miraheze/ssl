@@ -2055,3 +2055,7 @@ ladswiki:
   url: 'lads.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wikib3313org:
+  url: 'wiki.b3313.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
