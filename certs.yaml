@@ -2063,3 +2063,7 @@ wiki10keyplus:
   url: 'wiki.10key.plus'
   ca: 'LetsEncrypt'
   disable_event: false
+nintendowikiwiki:
+  url: 'nintendowiki.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
