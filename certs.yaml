@@ -2059,3 +2059,7 @@ wikib3313org:
   url: 'wiki.b3313.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wiki10keyplus:
+  url: 'wiki.10key.plus'
+  ca: 'LetsEncrypt'
+  disable_event: false
