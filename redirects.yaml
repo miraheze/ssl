@@ -19,6 +19,15 @@ wikitideredirect:
   ca: 'LetsEncrypt'
   disable_event: true
 
+# wiki.surf redirect
+wikisurfredirect:
+  url: 'wiki.surf'
+  additional_domain: 'www.wiki.surf'
+  redirect: 'meta.miraheze.org/wiki/Special:UrlShortner'
+  sslname: 'wiki.surf'
+  ca: 'LetsEncrypt'
+  disable_event: true
+
 wwwallthetropes:
   url: 'www.allthetropes.org'
   redirect: 'allthetropes.org'
