@@ -23,7 +23,7 @@ wikitideredirect:
 wikisurfredirect:
   url: 'wiki.surf'
   additional_domain: 'www.wiki.surf'
-  redirect: 'meta.miraheze.org/wiki/Special:UrlShortner'
+  redirect: 'meta.miraheze.org/wiki/Special:UrlShortener'
   sslname: 'wiki.surf'
   ca: 'LetsEncrypt'
   disable_event: true
