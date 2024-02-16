@@ -450,7 +450,13 @@ removededmsongswiki:
   ca: 'Sectigo'
   hsts: 'strict'
   disable_event: true
-
+nintendowikiwiki_forcedredit:
+  url: 'nintendo.miraheze.org'
+  redirect: 'nintendowiki.wiki'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
 # *.wikitide.org to wiki custom domains redirects
 polcompball_wikitide_redirect:
   url: 'polcompball.wikitide.org'
