@@ -2067,3 +2067,7 @@ nintendowikiwiki:
   url: 'nintendowiki.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+agesofconflictwiki:
+  url: 'agesofconflict.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
