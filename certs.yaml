@@ -1,4 +1,3 @@
----
 # Beta
 mirabeta:
   url: 'mirabeta.org'
@@ -163,10 +162,6 @@ wikinowchessorg:
   url: 'wiki.nowchess.org'
   ca: 'LetsEncrypt'
   disable_event: false
-vmcodexnet:
-  url: 'vmcodex.net'
-  ca: 'LetsEncrypt'
-  disable_event: false
 visedayidorg:
   url: 'vise.dayid.org'
   ca: 'LetsEncrypt'
@@ -321,10 +316,6 @@ guiaesporonet:
   disable_event: false
 hololivewiki:
   url: 'hololive.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wikithehallxyz:
-  url: 'wiki.thehall.xyz'
   ca: 'LetsEncrypt'
   disable_event: false
 archivestellurgistswiki:
@@ -495,10 +486,6 @@ wikiaridiaspace:
   url: 'wiki.aridia.space'
   ca: 'LetsEncrypt'
   disable_event: false
-wikiwilderyogieu:
-  url: 'wiki.wilderyogi.eu'
-  ca: 'LetsEncrypt'
-  disable_event: false
 heavyironmoddingorg:
   url: 'heavyironmodding.org'
   ca: 'LetsEncrypt'
@@ -517,10 +504,6 @@ yourfitcc:
   disable_event: false
 wmworldsktzlive:
   url: 'wmworld.sktz.live'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wikiumbranetmandelbrotgamescom:
-  url: 'wiki.umbranet.mandelbrotgames.com'
   ca: 'LetsEncrypt'
   disable_event: false
 wwwwinenjoynet:
@@ -649,10 +632,6 @@ wikiapicobuzz:
   disable_event: false
 steamdecklinuxwiki:
   url: 'steamdecklinux.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
-staratlaswikiorg:
-  url: 'staratlaswiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
 wikialathramccom:
@@ -791,24 +770,12 @@ forecastingwiki:
   url: 'forecasting.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-arrieretoilefr:
-  url: 'arrieretoile.fr'
-  ca: 'LetsEncrypt'
-  disable_event: false
 storytimejdstroycf:
   url: 'storytime.jdstroy.cf'
   ca: 'LetsEncrypt'
   disable_event: false
-wikipediayogfrontooo:
-  url: 'wikipedia.yogfront.ooo'
-  ca: 'LetsEncrypt'
-  disable_event: false
 burnoutwiki:
   url: 'burnout.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
-thestorieskr:
-  url: 'thestories.kr'
   ca: 'LetsEncrypt'
   disable_event: false
 wikimostlyvet:
@@ -1103,10 +1070,6 @@ translatepetrawikiorg:
   url: 'translate.petrawiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
-wikicryptoroyaleone:
-  url: 'wiki.cryptoroyale.one'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikidwarvesrpcom:
   url: 'wiki.dwarvesrp.com'
   ca: 'LetsEncrypt'
@@ -1203,10 +1166,6 @@ emmytherobotwiki:
   url: 'emmytherobot.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-wikisongnguxyz:
-  url: 'wiki.songngu.xyz'
-  ca: 'LetsEncrypt'
-  disable_event: false
 kodiakwiki:
   url: 'kodiak.wiki'
   ca: 'LetsEncrypt'
@@ -1229,10 +1188,6 @@ wikiclosaicom:
   disable_event: false
 wikiesnmilanostataleit:
   url: 'wiki.esnmilanostatale.it'
-  ca: 'LetsEncrypt'
-  disable_event: false
-itadminwikipl:
-  url: 'itadminwiki.pl'
   ca: 'LetsEncrypt'
   disable_event: false
 test2specialchatorg:
@@ -1263,10 +1218,6 @@ wikiyuanpieuorg:
   url: 'wiki.yuanpi.eu.org'
   ca: 'LetsEncrypt'
   disable_event: false
-zhacgwiki:
-  url: 'zhacg.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
 worldtriggerwikicom:
   url: 'worldtriggerwiki.com'
   ca: 'LetsEncrypt'
@@ -1291,20 +1242,12 @@ bristolstudenthousingcooporg:
   url: 'bristolstudenthousingcoop.org'
   ca: 'LetsEncrypt'
   disable_event: false
-wikipwaadiaworks:
-  url: 'wikipwaadia.works'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikidrycleaninglobbynet:
   url: 'wiki.drycleaninglobby.net'
   ca: 'LetsEncrypt'
   disable_event: false
 nijigenwiki:
   url: 'nijigen.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
-kirisamekissatencf:
-  url: 'kirisame-kissaten.cf'
   ca: 'LetsEncrypt'
   disable_event: false
 wikioasismpcom:
@@ -1421,10 +1364,6 @@ wwwsamafiaorg:
   disable_event: false
 wikialtiluniummyid:
   url: 'wiki.altilunium.my.id'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wikimcsoftorg:
-  url: 'wiki.mcsoft.org'
   ca: 'LetsEncrypt'
   disable_event: false
 wikigtnewhorizonscom:
@@ -1761,10 +1700,6 @@ richteriancom:
   disable_event: false
 coffeewikinet:
   url: 'coffeewiki.net'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wikivotgg:
-  url: 'wiki.vot.gg'
   ca: 'LetsEncrypt'
   disable_event: false
 wikiaclevocom:

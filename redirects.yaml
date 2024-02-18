@@ -1,4 +1,3 @@
----
 # miraheze.wiki redirects
 mirahezewiki:
   url: 'miraheze.wiki'
@@ -479,12 +478,6 @@ wikimiraheze:
   ca: 'Sectigo'
   hsts: 'strict'
   disable_event: true
-mirahezecf:
-  url: 'miraheze.cf'
-  redirect: 'miraheze.org'
-  sslname: 'miraheze.cf'
-  ca: 'LetsEncrypt'
-  disable_event: false
 closinglogos:
   url: 'closinglogosgroup.miraheze.org'
   redirect: 'avid.miraheze.org'
