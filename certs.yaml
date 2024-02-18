@@ -1,4 +1,3 @@
----
 # Beta
 mirabeta:
   url: 'mirabeta.org'
@@ -719,10 +718,6 @@ dkwikiorg:
   url: 'dkwiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
-wikimeowerorg:
-  url: 'wiki.meower.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikileapitno:
   url: 'wiki.leapit.no'
   ca: 'LetsEncrypt'
@@ -933,10 +928,6 @@ grkrepositoryarchiopediaorg:
   disable_event: false
 itorabunnies1230com:
   url: 'itora.bunnies1230.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
-turtletownca:
-  url: 'www.turtletown.ca'
   ca: 'LetsEncrypt'
   disable_event: false
 privacywikixyz:
@@ -1339,10 +1330,6 @@ wikianempireofdreamscom:
   url: 'wiki.anempireofdreams.com'
   ca: 'LetsEncrypt'
   disable_event: false
-wikihsdfzorgcn:
-  url: 'wiki.hsdfz.org.cn'
-  ca: 'LetsEncrypt'
-  disable_event: false
 beamngmoddingcom:
   url: 'beamngmodding.com'
   ca: 'LetsEncrypt'
@@ -1373,10 +1360,6 @@ wikigtnewhorizonscom:
   disable_event: false
 xomnipediaorg:
   url: 'xomnipedia.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
-vmklegacywiki:
-  url: 'vmklegacy.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
 nullcpuemudevorg:
@@ -1623,10 +1606,6 @@ kingdomdeathwiki:
   url: 'kingdomdeath.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-minehuttarnadev:
-  url: 'minehut.tarna.dev'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikizamnhackingnet:
   url: 'wiki.zamnhacking.net'
   ca: 'LetsEncrypt'
@@ -1771,10 +1750,6 @@ wikimetaiitgnorg:
   url: 'wiki.metaiitgn.org'
   ca: 'LetsEncrypt'
   disable_event: false
-wikimaxshubnet:
-  url: 'wiki.maxshub.net'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikihacklabsrorg:
   url: 'wiki.hacklabsr.org'
   ca: 'LetsEncrypt'
@@ -1793,10 +1768,6 @@ wikappediacc:
   disable_event: false
 wikicosmicdeathfunguscom:
   url: 'wiki.cosmicdeathfungus.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
-xn80ahcnmgnyjxnp1ai:
-  url: 'xn--80ahcnmgnyj.xn--p1ai'
   ca: 'LetsEncrypt'
   disable_event: false
 wwwdocumentopublicocombr:
