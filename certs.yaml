@@ -1979,3 +1979,7 @@ agesofconflictwiki:
   url: 'agesofconflict.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+polandballwikicom:
+  url: 'polandballwiki.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
