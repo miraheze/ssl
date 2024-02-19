@@ -1987,7 +1987,4 @@ wikicaseclickercom:
   url: 'wiki.case-clicker.com'
   ca: 'LetsEncrypt'
   disable_event: false
-wikicaseclickercom:
-  url: 'wiki.case-clicker.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
+
