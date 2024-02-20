@@ -1988,3 +1988,7 @@ wikicaseclickercom:
   ca: 'LetsEncrypt'
   disable_event: false
 
+eroslocksteelnet:
+  url: 'eros.locksteel.net'
+  ca: 'LetsEncrypt'
+  disable_event: false
