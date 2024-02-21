@@ -78,6 +78,13 @@ wwwmh142com:
   sslname: 'mh142.com'
   ca: 'LetsEncrypt'
   disable_event: true
+statusredirect:
+  url: 'status.miraheze.org'
+  redirect: 'mirahezestatus.net'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
 commonswikiwiki:
   url: 'commonswiki.miraheze.org'
   redirect: 'commons.miraheze.org'
