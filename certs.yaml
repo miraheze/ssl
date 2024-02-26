@@ -1996,3 +1996,7 @@ wikimineplaynl:
   url: 'wiki.mineplay.nl'
   ca: 'LetsEncrypt'
   disable_event: false
+lgbtqiawiki:
+  url: 'lgbtqia.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
