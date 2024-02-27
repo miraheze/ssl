@@ -2016,3 +2016,7 @@ evaderobtosprocom:
   url: 'evade.robtospro.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikicubeconflictcom:
+  url: 'wiki.cube-conflict.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
