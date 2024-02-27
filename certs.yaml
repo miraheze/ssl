@@ -2012,3 +2012,7 @@ wikimegaearthcom:
   url: 'wiki.mega-earth.com'
   ca: 'LetsEncrypt'
   disable_event: false
+evaderobtosprocom:
+  url: 'evade.robtospro.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
