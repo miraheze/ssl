@@ -2004,3 +2004,7 @@ rosettacodeorg:
   url: 'rosettacode.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wikihwfibcom:
+  url: 'wiki.hwfib.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
