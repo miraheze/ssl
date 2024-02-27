@@ -2008,3 +2008,7 @@ wikihwfibcom:
   url: 'wiki.hwfib.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikimegaearthcom:
+  url: 'wiki.mega-earth.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
