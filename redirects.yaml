@@ -268,6 +268,12 @@ wwwpolandballwikicom:
   sslname: 'polandballwiki.com'
   ca: 'LetsEncrypt'
   disable_event: true
+wwwlgbtqiawiki:
+  url: 'www.lgbtqia.wiki'
+  redirect: 'lgbtqia.wiki'
+  sslname: 'lgbtqia.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: true
 
 # *.miraheze.org to wiki custom domains redirects
 allthetropeswiki:
