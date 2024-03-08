@@ -2040,3 +2040,7 @@ lpfteamnl:
   url: 'lpfteam.nl'
   ca: 'LetsEncrypt'
   disable_event: false
+phightingwiki:
+  url: 'phighting.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
