@@ -2032,3 +2032,7 @@ betasagan4org:
   url: 'beta.sagan4.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwngnlwiki:
+  url: 'www.ngnl.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
