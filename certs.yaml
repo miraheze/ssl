@@ -2036,3 +2036,7 @@ wwwngnlwiki:
   url: 'www.ngnl.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+lpfteamnl:
+  url: 'lpfteam.nl'
+  ca: 'LetsEncrypt'
+  disable_event: false
