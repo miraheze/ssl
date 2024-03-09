@@ -2044,3 +2044,7 @@ phightingwiki:
   url: 'phighting.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wikigreatphermesiacom:
+  url: 'wiki.greatphermesia.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
