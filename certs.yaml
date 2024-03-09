@@ -2048,3 +2048,7 @@ wikigreatphermesiacom:
   url: 'wiki.greatphermesia.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikicogscilive:
+  url: 'wiki.cogsci.live'
+  ca: 'LetsEncrypt'
+  disable_event: false
