@@ -2052,3 +2052,7 @@ wikicogscilive:
   url: 'wiki.cogsci.live'
   ca: 'LetsEncrypt'
   disable_event: false
+wikijerrylytop:
+  url: 'wiki.jerryly.top'
+  ca: 'LetsEncrypt'
+  disable_event: false
