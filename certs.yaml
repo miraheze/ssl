@@ -2064,3 +2064,7 @@ wikithelastdimensionnet:
   url: 'wiki.thelastdimension.net'
   ca: 'LetsEncrypt'
   disable_event: false
+pso2ngswiki:
+  url: 'pso2ngs.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
