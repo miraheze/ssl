@@ -2056,3 +2056,7 @@ wikijerrylytop:
   url: 'wiki.jerryly.top'
   ca: 'LetsEncrypt'
   disable_event: false
+drachroniclesvoxelgay:
+  url: 'drachronicles.voxel.gay'
+  ca: 'LetsEncrypt'
+  disable_event: false
