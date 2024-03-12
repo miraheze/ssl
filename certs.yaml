@@ -2060,3 +2060,7 @@ drachroniclesvoxelgay:
   url: 'drachronicles.voxel.gay'
   ca: 'LetsEncrypt'
   disable_event: false
+wikithelastdimensionnet:
+  url: 'wiki.thelastdimension.net'
+  ca: 'LetsEncrypt'
+  disable_event: false
