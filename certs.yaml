@@ -2068,3 +2068,7 @@ pso2ngswiki:
   url: 'pso2ngs.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+aryavartpediaonline:
+  url: 'aryavartpedia.online'
+  ca: 'LetsEncrypt'
+  disable_event: false
