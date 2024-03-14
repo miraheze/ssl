@@ -2072,3 +2072,7 @@ aryavartpediaonline:
   url: 'aryavartpedia.online'
   ca: 'LetsEncrypt'
   disable_event: false
+dccomicswikicom:
+  url: 'dccomicswiki.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
