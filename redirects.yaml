@@ -280,6 +280,12 @@ wwwrosettacodeorg:
   sslname: 'rosettacode.org'
   ca: 'LetsEncrypt'
   disable_event: true
+wwwdccomicswikicom:
+  url: 'www.dccomicswiki.com'
+  redirect: 'dccomicswiki.com'
+  sslname: 'dccomicswiki.com'
+  ca: 'LetsEncrypt'
+  disable_event: true
 
 # *.miraheze.org to wiki custom domains redirects
 allthetropeswiki:
