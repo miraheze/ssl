@@ -2080,3 +2080,7 @@ grayzonewarfarewiki:
   url: 'grayzonewarfare.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+osrwikiorg:
+  url: 'osrwiki.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
