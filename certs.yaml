@@ -2076,3 +2076,7 @@ wikicorfyi:
   url: 'wiki.cor.fyi'
   ca: 'LetsEncrypt'
   disable_event: false
+grayzonewarfarewiki:
+  url: 'grayzonewarfare.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
