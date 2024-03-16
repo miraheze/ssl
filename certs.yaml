@@ -2076,3 +2076,7 @@ dccomicswikicom:
   url: 'dccomicswiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikicorfyi:
+  url: 'wiki.cor.fyi'
+  ca: 'LetsEncrypt'
+  disable_event: false
