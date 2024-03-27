@@ -5155,10 +5155,6 @@ speleo:
   ca: LetsEncrypt
   disable_event: false
   url: speleo.wiki
-spiceandwolfwiki:
-  ca: LetsEncrypt
-  disable_event: false
-  url: spiceandwolf.wiki
 squareenixwikicom:
   ca: LetsEncrypt
   disable_event: false
