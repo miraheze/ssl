@@ -2085,18 +2085,18 @@ osrwikiorg:
   ca: 'LetsEncrypt'
   disable_event: false
 wikigowashtenaworg:
-  url: wiki.gowashtenaw.org
-  ca: LetsEncrypt
+  url: 'wiki.gowashtenaw.org'
+  ca: 'LetsEncrypt'
   disable_event: false
 wikiblackorchestranet:
-  url: wiki.blackorchestra.net
-  ca: LetsEncrypt
+  url: 'wiki.blackorchestra.net'
+  ca: 'LetsEncrypt'
   disable_event: false
 aryavratpediaco:
-  url: aryavratpedia.co
-  ca: LetsEncrypt
+  url: 'aryavratpedia.co'
+  ca: 'LetsEncrypt'
   disable_event: false
 volunteerforukrainecom:
-  url: volunteerforukraine.com
-  ca: LetsEncrypt
+  url: 'volunteerforukraine.com'
+  ca: 'LetsEncrypt'
   disable_event: false
