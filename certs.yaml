@@ -2100,3 +2100,7 @@ volunteerforukrainecom:
   url: 'volunteerforukraine.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwkinitopedialol:
+  url: 'www.kinitopedia.lol'
+  ca: 'LetsEncrypt'
+  disable_event: false
