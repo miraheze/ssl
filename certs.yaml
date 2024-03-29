@@ -2120,3 +2120,7 @@ wiltshirexyz:
   url: 'wiltshire.xyz'
   ca: 'LetsEncrypt'
   disable_event: false
+rainversewiki:
+  url: 'rainverse.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
