@@ -2108,3 +2108,7 @@ wikiate42ru:
   url: 'wiki.ate42.ru'
   ca: 'LetsEncrypt'
   disable_event: false
+wikimaribelhearncom:
+  url: 'wiki.maribelhearn.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
