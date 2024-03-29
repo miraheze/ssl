@@ -2116,3 +2116,7 @@ exordiumwiki:
   url: 'exordium.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wiltshirexyz:
+  url: 'wiltshire.xyz'
+  ca: 'LetsEncrypt'
+  disable_event: false
