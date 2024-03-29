@@ -2124,3 +2124,7 @@ rainversewiki:
   url: 'rainverse.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+spiceandwolfwiki:
+  url: 'spiceandwolf.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
