@@ -2112,3 +2112,7 @@ wikimaribelhearncom:
   url: 'wiki.maribelhearn.com'
   ca: 'LetsEncrypt'
   disable_event: false
+exordiumwiki:
+  url: 'exordium.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
