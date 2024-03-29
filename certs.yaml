@@ -2104,3 +2104,7 @@ wwwkinitopedialol:
   url: 'www.kinitopedia.lol'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiate42ru:
+  url: 'wiki.ate42.ru'
+  ca: 'LetsEncrypt'
+  disable_event: false
