@@ -2132,3 +2132,7 @@ farthestfrontierwiki:
   url: 'farthestfrontier.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+alphasagan4org:
+  url: 'alpha.sagan4.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
