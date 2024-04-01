@@ -575,13 +575,6 @@ isvwikiorain:
   sslname: 'orain.org'
   ca: 'LetsEncrypt'
   disable_event: true
-orain:
-  url: 'orain.org'
-  additional_domain: '*.orain.org'
-  redirect: 'meta.miraheze.org'
-  sslname: 'orain.org'
-  ca: 'LetsEncrypt'
-  disable_event: true
 
 # Phorge redirects
 phorge:
