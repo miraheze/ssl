@@ -8,6 +8,11 @@ mirabeta:
   disable_event: true
 
 # Production
+orainorg:
+  url: '*.orain.org'
+  sslname: 'orain.org'
+  ca: 'LetsEncrypt'
+  disable_event: true
 wikitidenet:
   url: 'wikitide.net'
   additional_domain: '*.wikitide.net'
