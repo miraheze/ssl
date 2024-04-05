@@ -2149,3 +2149,7 @@ ennobleworkorg:
   url: 'en.noblework.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wikikscucforg:
+  url: 'wiki.kscucf.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
