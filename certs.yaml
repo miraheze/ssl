@@ -2145,3 +2145,7 @@ wikioriviumio:
   url: 'wiki.orivium.io'
   ca: 'LetsEncrypt'
   disable_event: false
+ennobleworkorg:
+  url: 'en.noblework.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
