@@ -2141,3 +2141,7 @@ alphasagan4org:
   url: 'alpha.sagan4.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wikioriviumio:
+  url: 'wiki.orivium.io'
+  ca: 'LetsEncrypt'
+  disable_event: false
