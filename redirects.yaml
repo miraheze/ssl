@@ -289,6 +289,12 @@ wwwdccomicswikicom:
   sslname: 'dccomicswiki.com'
   ca: 'LetsEncrypt'
   disable_event: true
+wwwthegreatwaruk:
+  url: 'www.thegreatwar.uk'
+  redirect: 'thegreatwar.uk'
+  sslname: 'thegreatwar.uk'
+  ca: 'LetsEncrypt'
+  disable_event: true
 
 # *.miraheze.org to wiki custom domains redirects
 allthetropeswiki:
