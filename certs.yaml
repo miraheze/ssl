@@ -2153,3 +2153,7 @@ wikikscucforg:
   url: 'wiki.kscucf.org'
   ca: 'LetsEncrypt'
   disable_event: false
+thegreatwaruk:
+  url: 'thegreatwar.uk'
+  ca: 'LetsEncrypt'
+  disable_event: false
