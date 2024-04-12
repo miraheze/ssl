@@ -2161,3 +2161,7 @@ wikimyehseu:
   url: 'wiki.myehs.eu'
   ca: 'LetsEncrypt'
   disable_event: false
+baublesme:
+  url: 'baubles.me'
+  ca: 'LetsEncrypt'
+  disable_event: false
