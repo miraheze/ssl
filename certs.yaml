@@ -2169,3 +2169,7 @@ worldlesswiki:
   url: 'worldless.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwlangrisserwiki:
+  url: 'www.langrisser.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
