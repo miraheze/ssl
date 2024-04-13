@@ -2165,3 +2165,7 @@ baublesme:
   url: 'baubles.me'
   ca: 'LetsEncrypt'
   disable_event: false
+worldlesswiki:
+  url: 'worldless.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
