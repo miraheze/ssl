@@ -2181,3 +2181,7 @@ neurologiahpmcom:
   url: 'neurologiahpm.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikilifesprogresscom:
+  url: 'wiki.lifesprogress.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
