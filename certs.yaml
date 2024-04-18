@@ -2173,3 +2173,7 @@ wwwlangrisserwiki:
   url: 'www.langrisser.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+moddedminecraftwiki:
+  url: 'moddedminecraft.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
