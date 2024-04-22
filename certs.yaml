@@ -2185,3 +2185,7 @@ wikilifesprogresscom:
   url: 'wiki.lifesprogress.com'
   ca: 'LetsEncrypt'
   disable_event: false
+isocasgorg:
+  url: 'isocasg.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
