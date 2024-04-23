@@ -2189,3 +2189,7 @@ isocasgorg:
   url: 'isocasg.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wikijilljimmycom:
+  url: 'wiki.jill-jimmy.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
