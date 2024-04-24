@@ -2201,3 +2201,7 @@ wikisimplifiedcodingorg:
   url: 'wiki.simplifiedcoding.org'
   ca: 'LetsEncrypt'
   disable_event: false
+msmhacksuk:
+  url: 'msmhacks.uk'
+  ca: 'LetsEncrypt'
+  disable_event: false
