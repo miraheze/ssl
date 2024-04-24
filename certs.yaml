@@ -2193,3 +2193,7 @@ wikijilljimmycom:
   url: 'wiki.jill-jimmy.com'
   ca: 'LetsEncrypt'
   disable_event: false
+eosdevxyz:
+  url: 'eosdev.xyz'
+  ca: 'LetsEncrypt'
+  disable_event: false
