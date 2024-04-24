@@ -2197,3 +2197,7 @@ eosdevxyz:
   url: 'eosdev.xyz'
   ca: 'LetsEncrypt'
   disable_event: false
+wikisimplifiedcodingorg:
+  url: 'wiki.simplifiedcoding.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
