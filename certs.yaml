@@ -2209,3 +2209,7 @@ iradwiki:
   url: 'irad.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiwubbygamecom:
+  url: 'wiki.wubbygame.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
