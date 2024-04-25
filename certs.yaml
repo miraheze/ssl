@@ -2205,3 +2205,7 @@ msmhacksuk:
   url: 'msmhacks.uk'
   ca: 'LetsEncrypt'
   disable_event: false
+iradwiki:
+  url: 'irad.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
