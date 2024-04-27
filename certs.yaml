@@ -2213,3 +2213,7 @@ wikiwubbygamecom:
   url: 'wiki.wubbygame.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikieggsdstudioscom:
+  url: 'wiki.eggsdstudios.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
