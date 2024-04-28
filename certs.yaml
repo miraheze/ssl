@@ -2217,3 +2217,7 @@ wikieggsdstudioscom:
   url: 'wiki.eggsdstudios.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wkmrliaomedia:
+  url: 'wkmr.liao.media'
+  ca: 'LetsEncrypt'
+  disable_event: false
