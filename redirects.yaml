@@ -265,6 +265,12 @@ wwwmwcosmoscom:
   sslname: 'mwcosmos.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwpolandballwikicom:
+  url: 'www.polandballwiki.com'
+  redirect: 'polandballwiki.com'
+  sslname: 'polandballwiki.com'
+  ca: 'LetsEncrypt'
+  disable_event: true
 wwwlgbtqiawiki:
   url: 'www.lgbtqia.wiki'
   redirect: 'lgbtqia.wiki'
