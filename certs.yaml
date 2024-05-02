@@ -2221,3 +2221,7 @@ wkmrliaomedia:
   url: 'wkmr.liao.media'
   ca: 'LetsEncrypt'
   disable_event: false
+wikithemanaworldorg:
+  url: 'wiki.themanaworld.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
