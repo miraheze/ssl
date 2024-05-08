@@ -2229,3 +2229,7 @@ wikisecondrenaissancenet:
   url: 'wiki.secondrenaissance.net'
   ca: 'LetsEncrypt'
   disable_event: false
+wikicowglxyz:
+  url: 'wiki.cowgl.xyz'
+  ca: 'LetsEncrypt'
+  disable_event: false
