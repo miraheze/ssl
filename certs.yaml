@@ -2225,3 +2225,7 @@ wikithemanaworldorg:
   url: 'wiki.themanaworld.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wikisecondrenaissancenet:
+  url: 'wiki.secondrenaissance.net'
+  ca: 'LetsEncrypt'
+  disable_event: false
