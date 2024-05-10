@@ -211,6 +211,12 @@ pornwikiorg:
   sslname: 'en.pornwiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwdcmultiversewikicom:
+  url: 'www.dcmultiversewiki.com'
+  redirect: 'dcmultiversewiki.com'
+  sslname: 'dcmultiversewiki.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
 wwwglitchcity:
   url: 'www.glitchcity.wiki'
   redirect: 'glitchcity.wiki'
@@ -290,7 +296,31 @@ wwwthegreatwaruk:
   ca: 'LetsEncrypt'
   disable_event: true
 
-# *.miraheze.org to wiki custom domains redirects
+# *.miraheze.org/*.wikitide.org to wiki custom domains redirects
+mhdcwiki:
+  url: 'dc.miraheze.org'
+  redirect: 'dcmultiversewiki.com'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  disable_event: true
+wtdcwiki:
+  url: 'dc.wikitide.org'
+  redirect: 'dcmultiversewiki.com'
+  sslname: 'wikitide.org'
+  ca: 'LetsEncrypt'
+  disable_event: true
+mhdcmultiversewiki:
+  url: 'dcmultiverse.miraheze.org'
+  redirect: 'dcmultiversewiki.com'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  disable_event: true
+wtdcmultiversewiki:
+  url: 'dcmultiverse.wikitide.org'
+  redirect: 'dcmultiversewiki.com'
+  sslname: 'wikitide.org'
+  ca: 'LetsEncrypt'
+  disable_event: true
 allthetropeswiki:
   url: 'allthetropes.miraheze.org'
   redirect: 'allthetropes.org'
