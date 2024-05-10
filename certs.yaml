@@ -2233,3 +2233,7 @@ wikicowglxyz:
   url: 'wiki.cowgl.xyz'
   ca: 'LetsEncrypt'
   disable_event: false
+dcmultiversewikicom:
+  url: 'dcmultiversewiki.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
