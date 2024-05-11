@@ -2237,3 +2237,7 @@ dcmultiversewikicom:
   url: 'dcmultiversewiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
+rippaversewikicom:
+  url: 'rippaversewiki.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
