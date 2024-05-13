@@ -2245,3 +2245,7 @@ wikipokrewnet:
   url: 'wiki.pokrew.net'
   ca: 'LetsEncrypt'
   disable_event: false
+marvelcinematicuniversewiki:
+  url: 'marvelcinematicuniverse.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
