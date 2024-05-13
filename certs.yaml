@@ -2241,3 +2241,7 @@ rippaversewikicom:
   url: 'rippaversewiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikipokrewnet:
+  url: 'wiki.pokrew.net'
+  ca: 'LetsEncrypt'
+  disable_event: false
