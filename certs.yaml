@@ -2245,3 +2245,7 @@ marvelcinematicuniversewiki:
   url: 'marvelcinematicuniverse.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+urbanshadeorg:
+  url: 'urbanshade.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
