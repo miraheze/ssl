@@ -252,10 +252,6 @@ wikicdntennisca:
   url: 'wiki.cdntennis.ca'
   ca: 'LetsEncrypt'
   disable_event: false
-vedopediawitchesempirecom:
-  url: 'vedopedia.witches-empire.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 fcsongcontestseu:
   url: 'fc.songcontests.eu'
   ca: 'LetsEncrypt'
