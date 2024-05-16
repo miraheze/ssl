@@ -2249,3 +2249,7 @@ urbanshadeorg:
   url: 'urbanshade.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wikijunkstorexyz:
+  url: 'wiki.junkstore.xyz'
+  ca: 'LetsEncrypt'
+  disable_event: false
