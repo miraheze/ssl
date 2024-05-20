@@ -2257,3 +2257,7 @@ wikineonaidev:
   url: 'wiki.neonai.dev'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiencyclopbdinfo:
+  url: 'wiki.encyclopbd.info'
+  ca: 'LetsEncrypt'
+  disable_event: false
