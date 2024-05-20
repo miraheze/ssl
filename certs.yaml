@@ -2253,3 +2253,7 @@ wikijunkstorexyz:
   url: 'wiki.junkstore.xyz'
   ca: 'LetsEncrypt'
   disable_event: false
+wikineonaidev:
+  url: 'wiki.neonai.dev'
+  ca: 'LetsEncrypt'
+  disable_event: false
