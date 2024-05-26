@@ -2261,3 +2261,7 @@ wikiencyclopbdinfo:
   url: 'wiki.encyclopbd.info'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiventistudiofr:
+  url: 'wiki.ventistudio.fr'
+  ca: 'LetsEncrypt'
+  disable_event: false
