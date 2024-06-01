@@ -2269,3 +2269,7 @@ wikipenguinmodcom:
   url: 'wiki.penguinmod.com'
   ca: 'LetsEncrypt'
   disable_event: false
+boneswordwiki:
+  url: 'bonesword.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
