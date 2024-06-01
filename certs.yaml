@@ -2265,3 +2265,7 @@ wikiventistudiofr:
   url: 'wiki.ventistudio.fr'
   ca: 'LetsEncrypt'
   disable_event: false
+wikipenguinmodcom:
+  url: 'wiki.penguinmod.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
