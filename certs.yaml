@@ -2273,3 +2273,7 @@ boneswordwiki:
   url: 'bonesword.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+capixabapediavipnunescom:
+  url: 'capixabapedia.vipnunes.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
