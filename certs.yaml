@@ -2277,3 +2277,7 @@ capixabapediavipnunescom:
   url: 'capixabapedia.vipnunes.com'
   ca: 'LetsEncrypt'
   disable_event: false
+zhtardiswiki:
+  url: 'zh.tardis.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
