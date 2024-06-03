@@ -2281,3 +2281,7 @@ zhtardiswiki:
   url: 'zh.tardis.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wiki18trip:
+  url: 'wiki.18t.rip'
+  ca: 'LetsEncrypt'
+  disable_event: false
