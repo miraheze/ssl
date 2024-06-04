@@ -2285,3 +2285,7 @@ wiki18trip:
   url: 'wiki.18t.rip'
   ca: 'LetsEncrypt'
   disable_event: false
+wikihitscanorg:
+  url: 'wiki.hitscan.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
