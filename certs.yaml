@@ -2289,3 +2289,7 @@ wikihitscanorg:
   url: 'wiki.hitscan.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwstreamerlorecom:
+  url: 'www.streamerlore.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
