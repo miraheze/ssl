@@ -332,12 +332,6 @@ allthetropeswiki:
   sslname: 'wildcard.miraheze.org-2020-2'
   ca: 'Sectigo'
   disable_event: true
-pokemonwiki:
-  url: 'pokemon.miraheze.org'
-  redirect: 'pokemonwiki.info'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
-  disable_event: true
 smashbroswiki:
   url: 'smashbros.miraheze.org'
   redirect: 'smashbroswiki.com'
