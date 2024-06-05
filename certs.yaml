@@ -2293,3 +2293,7 @@ wwwstreamerlorecom:
   url: 'www.streamerlore.com'
   ca: 'LetsEncrypt'
   disable_event: false
+cpmusicwikicom:
+  url: 'cpmusicwiki.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
