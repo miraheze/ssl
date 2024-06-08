@@ -2177,3 +2177,7 @@ annapolishistorywikiorg:
   url: 'annapolishistorywiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
+terraformingli:
+  url: 'terraforming.li'
+  ca: 'LetsEncrypt'
+  disable_event: false
