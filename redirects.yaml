@@ -247,12 +247,6 @@ wikifediversekr:
   sslname: 'wiki.fediverse.kr'
   ca: 'LetsEncrypt'
   disable_event: false
-wwwthemagicalworld:
-  url: 'www.themagical.world'
-  redirect: 'themagical.world'
-  sslname: 'themagical.world'
-  ca: 'LetsEncrypt'
-  disable_event: true
 simswikicom:
   url: 'thesimswiki.com'
   redirect: 'www.thesimswiki.com'
@@ -281,12 +275,6 @@ wwwrosettacodeorg:
   url: 'www.rosettacode.org'
   redirect: 'rosettacode.org'
   sslname: 'rosettacode.org'
-  ca: 'LetsEncrypt'
-  disable_event: true
-wwwdccomicswikicom:
-  url: 'www.dccomicswiki.com'
-  redirect: 'dccomicswiki.com'
-  sslname: 'dccomicswiki.com'
   ca: 'LetsEncrypt'
   disable_event: true
 wwwthegreatwaruk:
@@ -459,12 +447,6 @@ fanpediawiki:
   ca: 'Sectigo'
   hsts: 'strict'
   disable_event: true
-wikiyriorg:
-  url: 'wikiyri.org'
-  redirect: 'en.wikiyri.org'
-  sslname: 'wikiyri.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wwwtintinpediafr:
   url: 'www.tintinpedia.fr'
   redirect: 'tintinpedia.fr'
