@@ -2173,3 +2173,7 @@ wikiroutedoodlecom:
   url: 'wiki.routedoodle.com'
   ca: 'LetsEncrypt'
   disable_event: false
+annapolishistorywikiorg:
+  url: 'annapolishistorywiki.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
