@@ -45,7 +45,6 @@ wwwpermanentfuturelab:
   disable_event: true
 mirahezecom:
   url: 'miraheze.com'
-  redirect: 'meta.miraheze.org'
   sslname: 'miraheze.com'
   ca: 'LetsEncrypt'
   disable_event: false
