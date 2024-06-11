@@ -2181,3 +2181,7 @@ terraformingli:
   url: 'terraforming.li'
   ca: 'LetsEncrypt'
   disable_event: false
+ampswikigd:
+  url: 'amps.wiki.gd'
+  ca: 'LetsEncrypt'
+  disable_event: false
