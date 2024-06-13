@@ -2181,3 +2181,7 @@ ampswikigd:
   url: 'amps.wiki.gd'
   ca: 'LetsEncrypt'
   disable_event: false
+osdevwiki:
+  url: 'osdev.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
