@@ -2197,3 +2197,7 @@ bobobaywiki:
   url: 'bobobay.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+poupediacom:
+  url: 'poupedia.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
