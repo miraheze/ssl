@@ -2193,3 +2193,7 @@ wikirotary9220net:
   url: 'wiki.rotary9220.net'
   ca: 'LetsEncrypt'
   disable_event: false
+bobobaywiki:
+  url: 'bobobay.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
