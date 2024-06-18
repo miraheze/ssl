@@ -2189,3 +2189,7 @@ pizzatowerwiki:
   url: 'pizzatower.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wikirotary9220net:
+  url: 'wiki.rotary9220.net'
+  ca: 'LetsEncrypt'
+  disable_event: false
