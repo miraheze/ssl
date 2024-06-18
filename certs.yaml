@@ -2185,3 +2185,7 @@ osdevwiki:
   url: 'osdev.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+pizzatowerwiki:
+  url: 'pizzatower.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
