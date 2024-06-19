@@ -502,6 +502,13 @@ nintendowikiwiki_forcedredit:
   ca: 'Sectigo'
   hsts: 'strict'
   disable_event: true
+pizzatowerwiki:
+  url: 'pizzatower.miraheze.org'
+  redirect: 'pizzatower.wiki'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
 rippaversewiki:
   url: 'rippaverse.wikitide.org'
   redirect: 'rippaversewiki.com'
