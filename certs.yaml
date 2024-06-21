@@ -2209,3 +2209,7 @@ wikieastsidegamersno:
   url: 'wiki.eastsidegamers.no'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiminigamemadnessnet:
+  url: 'wiki.minigamemadness.net'
+  ca: 'LetsEncrypt'
+  disable_event: false
