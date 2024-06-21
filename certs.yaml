@@ -2205,3 +2205,7 @@ wikichevrinecom:
   url: 'wiki.chevrine.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikieastsidegamersno:
+  url: 'wiki.eastsidegamers.no'
+  ca: 'LetsEncrypt'
+  disable_event: false
