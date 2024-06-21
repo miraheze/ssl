@@ -288,6 +288,11 @@ wwwrippaversewikicom:
   redirect: 'rippaversewiki.com'
   sslname: 'rippaversewiki.com'
   ca: 'LetsEncrypt'
+wwwleborkinfopl:
+  url: 'www.lebork.info.pl'
+  redirect: 'lebork.info.pl'
+  sslname: 'lebork.info.pl'
+  ca: 'LetsEncrypt'
 
 # *.miraheze.org/*.wikitide.org to wiki custom domains redirects
 mhdcwiki:
