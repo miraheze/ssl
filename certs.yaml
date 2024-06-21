@@ -2201,3 +2201,7 @@ poupediacom:
   url: 'poupedia.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikichevrinecom:
+  url: 'wiki.chevrine.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
