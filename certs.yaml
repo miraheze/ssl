@@ -2221,3 +2221,7 @@ wikiamplicityfr:
   url: 'wiki.amplicity.fr'
   ca: 'LetsEncrypt'
   disable_event: false
+wikigiantesselsienet:
+  url: 'wiki.giantesselsie.net'
+  ca: 'LetsEncrypt'
+  disable_event: false
