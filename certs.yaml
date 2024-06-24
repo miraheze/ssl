@@ -2213,3 +2213,7 @@ wikiminigamemadnessnet:
   url: 'wiki.minigamemadness.net'
   ca: 'LetsEncrypt'
   disable_event: false
+wikibetaonlineorg:
+  url: 'wiki.betaonline.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
