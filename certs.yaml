@@ -2217,3 +2217,7 @@ wikibetaonlineorg:
   url: 'wiki.betaonline.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiamplicityfr:
+  url: 'wiki.amplicity.fr'
+  ca: 'LetsEncrypt'
+  disable_event: false
