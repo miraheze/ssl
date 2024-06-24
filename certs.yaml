@@ -2229,3 +2229,7 @@ maxcapacitywiki:
   url: 'maxcapacity.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwdccomicswikicom:
+  url: 'www.dccomicswiki.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
