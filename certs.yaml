@@ -2225,3 +2225,7 @@ wikigiantesselsienet:
   url: 'wiki.giantesselsie.net'
   ca: 'LetsEncrypt'
   disable_event: false
+maxcapacitywiki:
+  url: 'maxcapacity.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
