@@ -2241,3 +2241,7 @@ terraformingwiki:
   url: 'terraforming.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+beyondtheveilrpcom:
+  url: 'beyondtheveilrp.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
