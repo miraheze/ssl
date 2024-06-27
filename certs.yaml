@@ -2233,3 +2233,7 @@ wwwdccomicswikicom:
   url: 'www.dccomicswiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikienkroco:
+  url: 'wiki.enkro.co'
+  ca: 'LetsEncrypt'
+  disable_event: false
