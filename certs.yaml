@@ -2237,3 +2237,7 @@ wikienkroco:
   url: 'wiki.enkro.co'
   ca: 'LetsEncrypt'
   disable_event: false
+terraformingwiki:
+  url: 'terraforming.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
