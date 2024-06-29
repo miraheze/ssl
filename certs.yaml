@@ -1040,10 +1040,6 @@ wikidwarvesrpcom:
   url: 'wiki.dwarvesrp.com'
   ca: 'LetsEncrypt'
   disable_event: false
-fallofsanctuarycom:
-  url: 'fallofsanctuary.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 enpornwikiorg:
   url: 'en.pornwiki.org'
   ca: 'LetsEncrypt'
@@ -2171,10 +2167,6 @@ wikiroutedoodlecom:
   disable_event: false
 annapolishistorywikiorg:
   url: 'annapolishistorywiki.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
-terraformingli:
-  url: 'terraforming.li'
   ca: 'LetsEncrypt'
   disable_event: false
 ampswikigd:
