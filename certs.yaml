@@ -2241,3 +2241,7 @@ meijinversuscom:
   url: 'meijinversus.com'
   ca: 'LetsEncrypt'
   disable_event: false
+valsoratepwiki:
+  url: 'valsora.tep.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
