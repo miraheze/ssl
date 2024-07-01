@@ -2237,3 +2237,7 @@ beyondtheveilrpcom:
   url: 'beyondtheveilrp.com'
   ca: 'LetsEncrypt'
   disable_event: false
+meijinversuscom:
+  url: 'meijinversus.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
