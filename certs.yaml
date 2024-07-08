@@ -2249,3 +2249,7 @@ arceniawikidoughheartscom:
   url: 'arceniawiki.doughhearts.com'
   ca: 'LetsEncrypt'
   disable_event: false
+iewikipurnamcommunityin:
+  url: 'iewiki.purnamcommunity.in'
+  ca: 'LetsEncrypt'
+  disable_event: false
