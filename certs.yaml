@@ -2245,3 +2245,7 @@ valsoratepwiki:
   url: 'valsora.tep.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+arceniawikidoughheartscom:
+  url: 'arceniawiki.doughhearts.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
