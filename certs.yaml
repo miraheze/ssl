@@ -2253,3 +2253,7 @@ iewikipurnamcommunityin:
   url: 'iewiki.purnamcommunity.in'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiyahiaxyz:
+  url: 'wiki.yahia.xyz'
+  ca: 'LetsEncrypt'
+  disable_event: false
