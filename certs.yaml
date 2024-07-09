@@ -2257,3 +2257,7 @@ wikiyahiaxyz:
   url: 'wiki.yahia.xyz'
   ca: 'LetsEncrypt'
   disable_event: false
+gimkitwiki:
+  url: 'gimkit.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
