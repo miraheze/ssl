@@ -540,6 +540,13 @@ meijinversuswiki:
   ca: 'Sectigo'
   hsts: 'strict'
   disable_event: true
+urbanshadewiki:
+  url: 'urbanshade.miraheze.org'
+  redirect: 'urbanshade.org'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
 
 # *.miraheze.org to *.miraheze.org wiki redirects
 wwwredirect:
