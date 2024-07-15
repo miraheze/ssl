@@ -2265,3 +2265,7 @@ junxionswiki:
   url: 'junxions.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+vescwiki:
+  url: 'vesc.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
