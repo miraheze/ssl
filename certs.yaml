@@ -2269,3 +2269,7 @@ vescwiki:
   url: 'vesc.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+keitaiwikicom:
+  url: 'keitaiwiki.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
