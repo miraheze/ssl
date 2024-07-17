@@ -2277,3 +2277,7 @@ islegoblinwiki:
   url: 'islegoblin.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiklanguagedev:
+  url: 'wiki.k-language.dev'
+  ca: 'LetsEncrypt'
+  disable_event: false
