@@ -2273,3 +2273,7 @@ keitaiwikicom:
   url: 'keitaiwiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
+islegoblinwiki:
+  url: 'islegoblin.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
