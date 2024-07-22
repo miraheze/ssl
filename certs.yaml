@@ -2281,3 +2281,7 @@ wikiklanguagedev:
   url: 'wiki.k-language.dev'
   ca: 'LetsEncrypt'
   disable_event: false
+pickaxeshowierdataxyz:
+  url: 'pickaxe.showierdata.xyz'
+  ca: 'LetsEncrypt'
+  disable_event: false
