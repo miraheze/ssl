@@ -554,6 +554,13 @@ gimkitwikiredirect:
   ca: 'Sectigo'
   hsts: 'strict'
   disable_event: true
+junxionswikiredirect:
+  url: 'junxions.miraheze.org'
+  redirect: 'junxions.wiki'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
 
 # *.miraheze.org to *.miraheze.org wiki redirects
 wwwredirect:
