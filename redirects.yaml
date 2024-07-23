@@ -293,6 +293,11 @@ wwwleborkinfopl:
   redirect: 'lebork.info.pl'
   sslname: 'lebork.info.pl'
   ca: 'LetsEncrypt'
+iewikiaurovilleorg:
+  url: 'iewiki.auroville.org'
+  redirect: 'iewiki.purnamcommunity.in'
+  sslname: 'iewiki.auroville.org'
+  ca: 'LetsEncrypt'
 
 # *.miraheze.org/*.wikitide.org to wiki custom domains redirects
 mhdcwiki:
