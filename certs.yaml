@@ -2289,3 +2289,7 @@ fanojowiki:
   url: 'fanojo.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+kagagajp:
+  url: 'kagaga.jp'
+  ca: 'LetsEncrypt'
+  disable_event: false
