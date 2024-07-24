@@ -2285,3 +2285,7 @@ pickaxeshowierdataxyz:
   url: 'pickaxe.showierdata.xyz'
   ca: 'LetsEncrypt'
   disable_event: false
+fanojowiki:
+  url: 'fanojo.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
