@@ -2289,3 +2289,7 @@ kagagajp:
   url: 'kagaga.jp'
   ca: 'LetsEncrypt'
   disable_event: false
+gufengchengtop:
+  url: 'gufengcheng.top'
+  ca: 'LetsEncrypt'
+  disable_event: false
