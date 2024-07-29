@@ -2293,3 +2293,7 @@ gufengchengtop:
   url: 'gufengcheng.top'
   ca: 'LetsEncrypt'
   disable_event: false
+unhingedwikiparalleldvorg:
+  url: 'unhingedwiki.paralleldv.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
