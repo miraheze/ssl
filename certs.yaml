@@ -2297,3 +2297,7 @@ unhingedwikiparalleldvorg:
   url: 'unhingedwiki.paralleldv.org'
   ca: 'LetsEncrypt'
   disable_event: false
+clubpenguinfanonwiki:
+  url: 'clubpenguinfanon.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
