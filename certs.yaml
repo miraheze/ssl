@@ -2301,3 +2301,7 @@ clubpenguinfanonwiki:
   url: 'clubpenguinfanon.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wikidfonlinedev:
+  url: 'wiki.dfonline.dev'
+  ca: 'LetsEncrypt'
+  disable_event: false
