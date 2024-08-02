@@ -2305,3 +2305,7 @@ wikidfonlinedev:
   url: 'wiki.dfonline.dev'
   ca: 'LetsEncrypt'
   disable_event: false
+strinovaorg:
+  url: 'strinova.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
