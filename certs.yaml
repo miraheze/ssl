@@ -2309,3 +2309,7 @@ strinovaorg:
   url: 'strinova.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiyonicstudioscom:
+  url: 'wiki.yonicstudios.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
