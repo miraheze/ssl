@@ -2313,3 +2313,7 @@ wikiyonicstudioscom:
   url: 'wiki.yonicstudios.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiouroone:
+  url: 'wiki.ouro.one'
+  ca: 'LetsEncrypt'
+  disable_event: false
