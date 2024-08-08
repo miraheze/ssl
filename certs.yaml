@@ -2329,3 +2329,7 @@ wikigtnhdemocracysite:
   url: 'wiki.gtnhdemocracy.site'
   ca: 'LetsEncrypt'
   disable_event: false
+baligawikiorg:
+  url: 'baligawiki.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
