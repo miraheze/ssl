@@ -2321,3 +2321,7 @@ fanwikitakagi3cn:
   url: 'fanwiki.takagi3.cn'
   ca: 'LetsEncrypt'
   disable_event: false
+siaminfogf:
+  url: 'siam.info.gf'
+  ca: 'LetsEncrypt'
+  disable_event: false
