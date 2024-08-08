@@ -2325,3 +2325,7 @@ siaminfogf:
   url: 'siam.info.gf'
   ca: 'LetsEncrypt'
   disable_event: false
+wikigtnhdemocracysite:
+  url: 'wiki.gtnhdemocracy.site'
+  ca: 'LetsEncrypt'
+  disable_event: false
