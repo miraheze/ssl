@@ -2317,3 +2317,7 @@ wikiouroone:
   url: 'wiki.ouro.one'
   ca: 'LetsEncrypt'
   disable_event: false
+fanwikitakagi3cn:
+  url: 'fanwiki.takagi3.cn'
+  ca: 'LetsEncrypt'
+  disable_event: false
