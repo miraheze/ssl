@@ -519,6 +519,13 @@ pizzatowerwiki:
   ca: 'Sectigo'
   hsts: 'strict'
   disable_event: true
+strinovawiki:
+  url: 'strinova.miraheze.org'
+  redirect: 'strinova.org'
+  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Sectigo'
+  hsts: 'strict'
+  disable_event: true
 rippaversewiki:
   url: 'rippaverse.wikitide.org'
   redirect: 'rippaversewiki.com'
