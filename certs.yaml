@@ -1516,10 +1516,6 @@ mhdhpj568euorg:
   url: 'mhdh.pj568.eu.org'
   ca: 'LetsEncrypt'
   disable_event: false
-wikimoorestech:
-  url: 'wiki.moores.tech'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikicutefamenet:
   url: 'wiki.cutefame.net'
   ca: 'LetsEncrypt'
