@@ -2329,3 +2329,7 @@ baligawikiorg:
   url: 'baligawiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wikisletattech:
+  url: 'wiki.sletat.tech'
+  ca: 'LetsEncrypt'
+  disable_event: false
