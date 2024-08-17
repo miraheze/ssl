@@ -2333,3 +2333,7 @@ wikisletattech:
   url: 'wiki.sletat.tech'
   ca: 'LetsEncrypt'
   disable_event: false
+wikistaglol:
+  url: 'wiki.stag.lol'
+  ca: 'LetsEncrypt'
+  disable_event: false
