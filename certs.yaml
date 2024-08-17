@@ -2345,3 +2345,7 @@ wikinamegamesdev:
   url: 'wiki.namegames.dev'
   ca: 'LetsEncrypt'
   disable_event: false
+oxboxtrawiki:
+  url: 'oxboxtra.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
