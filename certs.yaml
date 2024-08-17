@@ -2341,3 +2341,7 @@ wikipotatotransitxyz:
   url: 'wiki.potatotransit.xyz'
   ca: 'LetsEncrypt'
   disable_event: false
+wikinamegamesdev:
+  url: 'wiki.namegames.dev'
+  ca: 'LetsEncrypt'
+  disable_event: false
