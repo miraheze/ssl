@@ -2337,3 +2337,7 @@ wikistaglol:
   url: 'wiki.stag.lol'
   ca: 'LetsEncrypt'
   disable_event: false
+wikipotatotransitxyz:
+  url: 'wiki.potatotransit.xyz'
+  ca: 'LetsEncrypt'
+  disable_event: false
