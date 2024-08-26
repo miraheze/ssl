@@ -2357,3 +2357,7 @@ wikitgtdrblxcom:
   url: 'wiki.tgtdrblx.com'
   ca: 'LetsEncrypt'
   disable_event: false
+cgsongnguxyz:
+  url: 'cg.songngu.xyz'
+  ca: 'LetsEncrypt'
+  disable_event: false
