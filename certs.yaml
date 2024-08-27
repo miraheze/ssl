@@ -2361,3 +2361,7 @@ cgsongnguxyz:
   url: 'cg.songngu.xyz'
   ca: 'LetsEncrypt'
   disable_event: false
+chinafakewiki:
+  url: 'chinafake.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
