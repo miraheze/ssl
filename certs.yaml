@@ -2373,3 +2373,7 @@ jackboxwiki:
   url: 'jackbox.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+exmormonwiki:
+  url: 'exmormon.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
