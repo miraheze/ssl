@@ -2365,3 +2365,7 @@ chinafakewiki:
   url: 'chinafake.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+yepediaxyz:
+  url: 'yepedia.xyz'
+  ca: 'LetsEncrypt'
+  disable_event: false
