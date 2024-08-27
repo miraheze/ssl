@@ -2377,3 +2377,7 @@ exmormonwiki:
   url: 'exmormon.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+archivesofhavnororg:
+  url: 'archivesofhavnor.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
