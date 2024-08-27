@@ -2369,3 +2369,7 @@ yepediaxyz:
   url: 'yepedia.xyz'
   ca: 'LetsEncrypt'
   disable_event: false
+jackboxwiki:
+  url: 'jackbox.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
