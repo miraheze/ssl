@@ -2386,3 +2386,7 @@ wikiirisstationlol:
   url: 'wiki.irisstation.lol'
   ca: 'LetsEncrypt'
   disable_event: false
+geeuorg:
+  url: 'geeu.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
