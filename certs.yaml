@@ -2075,7 +2075,8 @@ wkmrliaomedia:
   disable_event: false
 wikithemanaworldorg:
   url: 'wiki.themanaworld.org'
-  ca: 'LetsEncrypt'
+  ca: 'Sectigo'
+  sslname: 'wildcard.miraheze.org-2020-2'
   disable_event: false
 wikisecondrenaissancenet:
   url: 'wiki.secondrenaissance.net'
