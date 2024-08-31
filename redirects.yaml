@@ -193,12 +193,6 @@ wwwprojectpatternscom:
   sslname: 'project-patterns.com'
   ca: 'LetsEncrypt'
   disable_event: true
-petrawikiorg:
-  url: 'petrawiki.org'
-  redirect: 'en.petrawiki.org'
-  sslname: 'en.petrawiki.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wwwdcmultiversewikicom:
   url: 'www.dcmultiversewiki.com'
   redirect: 'dcmultiversewiki.com'
