@@ -1592,10 +1592,6 @@ ruteirailwayf5si:
   url: 'ru-teirailway.f5.si'
   ca: 'LetsEncrypt'
   disable_event: false
-airlineinsiderorg:
-  url: 'airlineinsider.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikiburylandnet:
   url: 'wiki.buryland.net'
   ca: 'LetsEncrypt'
