@@ -199,18 +199,6 @@ petrawikiorg:
   sslname: 'en.petrawiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
-wwwpornwikiorg:
-  url: 'www.pornwiki.org'
-  redirect: 'en.pornwiki.org'
-  sslname: 'en.pornwiki.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
-pornwikiorg:
-  url: 'pornwiki.org'
-  redirect: 'en.pornwiki.org'
-  sslname: 'en.pornwiki.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wwwdcmultiversewikicom:
   url: 'www.dcmultiversewiki.com'
   redirect: 'dcmultiversewiki.com'
