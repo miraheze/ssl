@@ -229,12 +229,6 @@ looneypyramidgameswiki:
   sslname: 'pyramidgames.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-wikifediversekr:
-  url: 'wiki.fediverse.kr'
-  redirect: 'wiki.mastodon.kr'
-  sslname: 'wiki.fediverse.kr'
-  ca: 'LetsEncrypt'
-  disable_event: false
 simswikicom:
   url: 'thesimswiki.com'
   redirect: 'www.thesimswiki.com'
@@ -352,13 +346,6 @@ mariowiki:
   redirect: 'mariopedia.org'
   sslname: 'wildcard.miraheze.org-2020-2'
   ca: 'Sectigo'
-  disable_event: true
-recaptimewiki:
-  url: 'recaptime.miraheze.org'
-  redirect: 'wiki.recaptime.eu.org'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
-  hsts: 'strict'
   disable_event: true
 rarewiki:
   url: 'rare.miraheze.org'

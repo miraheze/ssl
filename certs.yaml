@@ -188,10 +188,6 @@ mh142com:
   url: 'mh142.com'
   ca: 'LetsEncrypt'
   disable_event: false
-wikizymoniccom:
-  url: 'wiki.zymonic.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikimxlinuxusersde:
   url: 'wiki.mxlinuxusers.de'
   ca: 'LetsEncrypt'
@@ -218,10 +214,6 @@ wikistarshipdigital:
   disable_event: false
 datanonbinarywiki:
   url: 'data.nonbinary.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wikigraalmilitarycom:
-  url: 'wiki.graalmilitary.com'
   ca: 'LetsEncrypt'
   disable_event: false
 tepwiki:
@@ -298,10 +290,6 @@ icclopediawiki:
   disable_event: false
 wikiminkyukim:
   url: 'wiki.minkyu.kim'
-  ca: 'LetsEncrypt'
-  disable_event: false
-franchisefranchisingorgua:
-  url: 'franchise.franchising.org.ua'
   ca: 'LetsEncrypt'
   disable_event: false
 wikivinesheuorg:
@@ -436,10 +424,6 @@ celestewiki:
   url: 'celeste.ink'
   ca: 'LetsEncrypt'
   disable_event: false
-ptgraalmilitarycom:
-  url: 'pt.graalmilitary.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikiglobasanet:
   url: 'wiki.globasa.net'
   ca: 'LetsEncrypt'
@@ -450,10 +434,6 @@ wikibikinibottomdiscordorg:
   disable_event: false
 ecolesciencewiki:
   url: 'ecole.science'
-  ca: 'LetsEncrypt'
-  disable_event: false
-archivea2b2org:
-  url: 'archive.a2b2.org'
   ca: 'LetsEncrypt'
   disable_event: false
 wikiastralprojectionsorg:
@@ -500,10 +480,6 @@ wmworldsktzlive:
   url: 'wmworld.sktz.live'
   ca: 'LetsEncrypt'
   disable_event: false
-wwwwinenjoynet:
-  url: 'www.winenjoy.net'
-  ca: 'LetsEncrypt'
-  disable_event: false
 equestripediaorg:
   url: 'equestripedia.org'
   ca: 'LetsEncrypt'
@@ -514,10 +490,6 @@ trollpastacom:
   disable_event: false
 repositoryarchiopediaorg:
   url: 'repository.archiopedia.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
-saroviagraalmilitarycom:
-  url: 'sarovia.graalmilitary.com'
   ca: 'LetsEncrypt'
   disable_event: false
 wikicreaturathegamecom:
@@ -624,10 +596,6 @@ wikiapicobuzz:
   url: 'wiki.apico.buzz'
   ca: 'LetsEncrypt'
   disable_event: false
-steamdecklinuxwiki:
-  url: 'steamdecklinux.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikialathramccom:
   url: 'wiki.alathramc.com'
   ca: 'LetsEncrypt'
@@ -638,10 +606,6 @@ wikieversdcom:
   disable_event: false
 robloxapiwiki:
   url: 'robloxapi.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
-pwscpolandballwikicom:
-  url: 'pwsc.polandballwiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
 wikisimorghme:
@@ -670,10 +634,6 @@ wikijeremyboydorg:
   disable_event: false
 fanonpolandballwikicom:
   url: 'fanon.polandballwiki.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
-housingwiki:
-  url: 'housing.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
 grcrepositoryarchiopediaorg:
@@ -744,10 +704,6 @@ wikimsnldcom:
   url: 'wiki.msnld.com'
   ca: 'LetsEncrypt'
   disable_event: false
-wikiteessidehackspaceorguk:
-  url: 'wiki.teessidehackspace.org.uk'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikiiurevarworld:
   url: 'wiki.iurevar.world'
   ca: 'LetsEncrypt'
@@ -790,10 +746,6 @@ squareenixwikicom:
   disable_event: false
 wikiaoemodscom:
   url: 'wiki.aoemods.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wikirecaptimeeu:
-  url: 'wiki.recaptime.eu.org'
   ca: 'LetsEncrypt'
   disable_event: false
 wikievscopeorg:
@@ -964,10 +916,6 @@ ncuwikicom:
   url: 'ncuwiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
-smafallfestorg:
-  url: 'smafallfest.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 creativecommonsid:
   url: 'creativecommons.id'
   ca: 'LetsEncrypt'
@@ -994,10 +942,6 @@ wwwsekaipediaorg:
   disable_event: false
 wikibluevertigoorg:
   url: 'wiki.bluevertigo.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
-psychevosorg:
-  url: 'psychevos.org'
   ca: 'LetsEncrypt'
   disable_event: false
 crashspyrowikicom:
@@ -1158,10 +1102,6 @@ wiki3point0science:
   disable_event: false
 wikiwidwwacouk:
   url: 'wiki.widwwa.co.uk'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wikiyuanpieuorg:
-  url: 'wiki.yuanpi.eu.org'
   ca: 'LetsEncrypt'
   disable_event: false
 worldtriggerwikicom:
@@ -1376,24 +1316,12 @@ looneypyramidswiki:
   url: 'looneypyramids.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-encyclopediaeuorg:
-  url: 'encyclopedia.eu.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikiqueenscourtgames:
   url: 'wiki.queenscourt.games'
   ca: 'LetsEncrypt'
   disable_event: false
 wikiknowledgerevolutioneu:
   url: 'wiki.knowledgerevolution.eu'
-  ca: 'LetsEncrypt'
-  disable_event: false
-shirokous:
-  url: 'shiroko.us'
-  ca: 'LetsEncrypt'
-  disable_event: false
-touhouplacewiki:
-  url: 'touhouplace.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
 echoeswikicom:
@@ -1412,10 +1340,6 @@ wikiesufranchisecom:
   url: 'wiki.esufranchise.com'
   ca: 'LetsEncrypt'
   disable_event: false
-wikitheatlaslive:
-  url: 'wiki.theatlas.live'
-  ca: 'LetsEncrypt'
-  disable_event: false
 glitchcitywiki:
   url: 'glitchcity.wiki'
   ca: 'LetsEncrypt'
@@ -1424,16 +1348,8 @@ sonicpediaorg:
   url: 'sonicpedia.org'
   ca: 'LetsEncrypt'
   disable_event: false
-wikioverwoodxyz:
-  url: 'wiki.overwood.xyz'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikitmyt105leyhpcom:
   url: 'wiki.tmyt105.leyhp.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wikijsalorg:
-  url: 'wiki.jsal.org'
   ca: 'LetsEncrypt'
   disable_event: false
 rodzinkawiki:
@@ -1574,10 +1490,6 @@ progressbar95wiki:
   disable_event: false
 enclockupwiki:
   url: 'en.clockup.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wikithemarksidecom:
-  url: 'wiki.themarkside.com'
   ca: 'LetsEncrypt'
   disable_event: false
 wikirlaborguk:
@@ -2051,10 +1963,6 @@ wikiwubbygamecom:
   disable_event: false
 wikieggsdstudioscom:
   url: 'wiki.eggsdstudios.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wkmrliaomedia:
-  url: 'wkmr.liao.media'
   ca: 'LetsEncrypt'
   disable_event: false
 wikithemanaworldorg:
