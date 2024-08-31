@@ -856,10 +856,6 @@ itorabunnies1230com:
   url: 'itora.bunnies1230.com'
   ca: 'LetsEncrypt'
   disable_event: false
-privacywikixyz:
-  url: 'privacywiki.xyz'
-  ca: 'LetsEncrypt'
-  disable_event: false
 puritwikipekr:
   url: 'puritwiki.p-e.kr'
   ca: 'LetsEncrypt'
