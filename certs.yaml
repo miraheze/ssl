@@ -3,8 +3,8 @@
 mirabeta:
   url: 'mirabeta.org'
   additional_domain: '*.mirabeta.org'
-  sslname: 'mirabeta.org'
-  ca: 'LetsEncrypt'
+  sslname: 'mirabeta-origin-cert'
+  ca: 'Cloudflare'
   disable_event: true
 
 # Production
