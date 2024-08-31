@@ -9,7 +9,8 @@ mirabeta:
 
 # Production
 orainorg:
-  url: '*.orain.org'
+  url: 'orain.org'
+  additional_domain: '*.orain.org'
   sslname: 'orain.org'
   ca: 'LetsEncrypt'
   disable_event: true
