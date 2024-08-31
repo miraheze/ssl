@@ -80,10 +80,6 @@ autocountsoft:
   url: 'wiki.autocountsoft.com'
   ca: 'LetsEncrypt'
   disable_event: false
-adadevelopersacademy:
-  url: 'adadevelopersacademy.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
 maccnyc:
   url: 'wiki.macc.nyc'
   ca: 'LetsEncrypt'
@@ -1398,10 +1394,6 @@ shirokous:
   disable_event: false
 touhouplacewiki:
   url: 'touhouplace.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
-9b9twiki:
-  url: '9b9t.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
 echoeswikicom:
