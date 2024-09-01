@@ -2259,3 +2259,7 @@ geeuorg:
   url: 'geeu.org'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiendiversumcom:
+  url: 'wiki.endiversum.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
