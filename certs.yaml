@@ -2261,5 +2261,6 @@ geeuorg:
   disable_event: false
 wikiendiversumcom:
   url: 'wiki.endiversum.com'
-  ca: 'LetsEncrypt'
+  sslname: 'miraheze.org'
+  ca: 'Cloudflare'
   disable_event: false
