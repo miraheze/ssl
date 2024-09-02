@@ -1,4 +1,4 @@
----
+ç---
 # Beta
 mirabeta:
   url: 'mirabeta.org'
@@ -17,8 +17,8 @@ nexttide:
 orainorg:
   url: 'orain.org'
   additional_domain: '*.orain.org'
-  sslname: 'orain.org'
-  ca: 'LetsEncrypt'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   disable_event: true
 wikitidenet:
   url: 'wikitide.net'
