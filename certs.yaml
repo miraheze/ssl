@@ -6,6 +6,12 @@ mirabeta:
   sslname: 'mirabeta-origin-cert'
   ca: 'Cloudflare'
   disable_event: true
+nexttide:
+  url: 'nexttide.org'
+  additional_domain: '*.nexttide.org'
+  sslname: 'nexttide-origin-cert'
+  ca: 'Cloudflare'
+  disable_event: true
 
 # Production
 orainorg:
