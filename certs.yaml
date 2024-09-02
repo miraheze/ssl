@@ -1557,7 +1557,8 @@ wikiwildportcom:
   disable_event: false
 zenithnsmbunet:
   url: 'zenith.nsmbu.net'
-  ca: 'LetsEncrypt'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   disable_event: false
 wikijagtekorg:
   url: 'wiki.jagtek.org'
