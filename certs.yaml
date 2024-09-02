@@ -1950,8 +1950,8 @@ wikieggsdstudioscom:
   disable_event: false
 wikithemanaworldorg:
   url: 'wiki.themanaworld.org'
-  ca: 'Sectigo'
-  sslname: 'wildcard.miraheze.org-2020-2'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
   disable_event: false
 wikisecondrenaissancenet:
   url: 'wiki.secondrenaissance.net'
