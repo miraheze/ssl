@@ -2272,3 +2272,8 @@ wikiendiversumcom:
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   disable_event: false
+wwwtagpediajp:
+  url: 'www.tagpedia.jp'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  disable_event: false
