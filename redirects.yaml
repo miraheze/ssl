@@ -268,11 +268,6 @@ iewikiaurovilleorg:
   redirect: 'iewiki.purnamcommunity.in'
   sslname: 'iewiki.auroville.org'
   ca: 'LetsEncrypt'
-wwwchinafakewiki:
-  url: 'www.chinafake.wiki'
-  redirect: 'chinafake.wiki'
-  sslname: 'chinafake.wiki'
-  ca: 'LetsEncrypt'
 
 # *.miraheze.org/*.wikitide.org to wiki custom domains redirects
 mhdcwiki:
