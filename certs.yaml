@@ -2256,10 +2256,6 @@ msmhacksuk:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-iradwiki:
-  url: 'irad.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikiwubbygamecom:
   url: 'wiki.wubbygame.com'
   ca: 'Cloudflare'
