@@ -2661,3 +2661,8 @@ wikigraalmilitarycom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+armoredpatrolremasteredcom:
+  url: 'armoredpatrolremastered.com'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
