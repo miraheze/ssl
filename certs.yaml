@@ -2656,3 +2656,8 @@ workercooppodepoorg:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
+wikigraalmilitarycom:
+  url: 'wiki.graalmilitary.com'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
