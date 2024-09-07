@@ -2651,3 +2651,8 @@ wwwssbuniversescom:
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   disable_event: false
+workercooppodepoorg:
+  url: 'worker.cooppodepo.org'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: miraheze-origin-cert
