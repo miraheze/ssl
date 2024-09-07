@@ -268,6 +268,11 @@ iewikiaurovilleorg:
   redirect: 'iewiki.purnamcommunity.in'
   sslname: 'iewiki.auroville.org'
   ca: 'LetsEncrypt'
+kagagawikiredirect:
+  url: 'www.kagaga.jp'
+  redirect: 'kagaga.jp'
+  sslname: 'miraheze-origin-cert'
+  ca: 'CloudFlare'
 
 # *.miraheze.org/*.wikitide.org to wiki custom domains redirects
 mhdcwiki:
