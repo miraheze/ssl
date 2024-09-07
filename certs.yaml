@@ -2642,3 +2642,7 @@ wwwtagpediajp:
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   disable_event: false
+weavefarerswiki:
+  url: 'weavefarers.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
