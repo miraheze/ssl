@@ -636,21 +636,21 @@ kaylaandrachel_redirect:
 allthetropesorain:
   url: 'allthetropes.orain.org'
   redirect: 'allthetropes.org'
-  sslname: 'orain.org'
-  ca: 'LetsEncrypt'
-  disable_event: true
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: miraheze-origin-cert
 poserdazfreebiessorain:
   url: 'poserdazfreebies.orain.org'
   redirect: 'poserdazfreebies.miraheze.org'
-  sslname: 'orain.org'
-  ca: 'LetsEncrypt'
-  disable_event: true
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: miraheze-origin-cert
 isvwikiorain:
   url: 'isv.orain.org'
   redirect: 'isv.miraheze.org'
-  sslname: 'orain.org'
-  ca: 'LetsEncrypt'
-  disable_event: true
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: miraheze-origin-cert
 
 # Phorge redirects
 phorge:
