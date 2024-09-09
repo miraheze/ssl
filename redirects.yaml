@@ -34,15 +34,15 @@ wikitideredirect:
 wwwallthetropes:
   url: 'www.allthetropes.org'
   redirect: 'allthetropes.org'
-  sslname: 'allthetropes.org'
-  ca: 'LetsEncrypt'
-  disable_event: true
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: miraheze-origin-cert
 wwwpermanentfuturelab:
   url: 'www.permanentfuturelab.wiki'
   redirect: 'permanentfuturelab.wiki'
-  sslname: 'permanentfuturelab.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: true
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: miraheze-origin-cert
 mirahezecom:
   url: 'miraheze.com'
   redirect: 'meta.miraheze.org'
@@ -52,9 +52,9 @@ mirahezecom:
 wwwdariawiki:
   url: 'www.dariawiki.org'
   redirect: 'dariawiki.org'
-  sslname: 'dariawiki.org'
-  ca: 'LetsEncrypt'
-  disable_event: true
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: miraheze-origin-cert
 piwik:
   url: 'piwik.miraheze.org'
   redirect: 'matomo.miraheze.org'
@@ -118,9 +118,9 @@ wwwprogrammingred:
 baharnaorg:
   url: 'baharna.org'
   redirect: 'www.baharna.org'
-  sslname: 'www.baharna.org'
-  ca: 'LetsEncrypt'
-  disable_event: true
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: miraheze-origin-cert
 uncyclopediakrwiki:
   url: 'uncyclopediakr.miraheze.org'
   redirect: 'truth.miraheze.org'
@@ -131,93 +131,93 @@ uncyclopediakrwiki:
 iceriaorg:
   url: 'iceria.org'
   redirect: 'www.iceria.org'
-  sslname: 'www.iceria.org'
-  ca: 'LetsEncrypt'
-  disable_event: true
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: miraheze-origin-cert
 wwwpublictestwikicom:
   url: 'www.publictestwiki.com'
   redirect: 'publictestwiki.com'
-  sslname: 'publictestwiki.com'
-  ca: 'LetsEncrypt'
-  disable_event: true
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: miraheze-origin-cert
 christipedianl:
   url: 'christipedia.nl'
   redirect: 'www.christipedia.nl'
-  sslname: 'www.christipedia.nl'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 johanloopmansnl:
   url: 'johanloopmans.nl'
   redirect: 'www.johanloopmans.nl'
-  sslname: 'www.johanloopmans.nl'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 rothwellleedscouk:
   url: 'rothwell-leeds.co.uk'
   redirect: 'www.rothwell-leeds.co.uk'
-  sslname: 'www.rothwell-leeds.co.uk'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 reviwikiinfo:
   url: 'reviwiki.info'
   redirect: 'revi.wiki'
-  sslname: 'reviwiki.info'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 wwwtrollpastacom:
   url: 'www.trollpasta.com'
   redirect: 'trollpasta.com'
-  sslname: 'trollpasta.com'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 puzzleswiki:
   url: 'puzzles.wiki'
   redirect: 'www.puzzles.wiki'
-  sslname: 'www.puzzles.wiki'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 wwwethenewiki:
   url: 'www.ethene.wiki'
   redirect: 'ethene.wiki'
-  sslname: 'ethene.wiki'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 journeythewordwiki:
   url: 'journeytheword.wiki'
   redirect: 'www.journeytheword.wiki'
-  sslname: 'www.journeytheword.wiki'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 wwwprojectpatternscom:
   url: 'www.project-patterns.com'
   redirect: 'project-patterns.com'
-  sslname: 'project-patterns.com'
-  ca: 'LetsEncrypt'
-  disable_event: true
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: miraheze-origin-cert
 wwwdcmultiversewikicom:
   url: 'www.dcmultiversewiki.com'
   redirect: 'dcmultiversewiki.com'
-  sslname: 'dcmultiversewiki.com'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 wwwglitchcity:
   url: 'www.glitchcity.wiki'
   redirect: 'glitchcity.wiki'
-  sslname: 'glitchcity.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: true
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: miraheze-origin-cert
 pyramidgameswiki:
   url: 'www.pyramidgames.wiki'
   redirect: 'looneypyramids.wiki'
-  sslname: 'pyramidgames.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: true
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: miraheze-origin-cert
 looneypyramidgameswiki:
   url: 'pyramidgames.wiki'
   redirect: 'looneypyramids.wiki'
-  sslname: 'pyramidgames.wiki'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 simswikicom:
   url: 'thesimswiki.com'
   redirect: 'www.thesimswiki.com'
@@ -228,48 +228,51 @@ simswikicom:
 wwwlostidolswiki:
   url: 'www.lostidols.wiki'
   redirect: 'lostidols.wiki'
-  sslname: 'lostidols.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: true
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: miraheze-origin-cert
 wwwmwcosmoscom:
   url: 'www.mwcosmos.com'
   redirect: 'mwcosmos.com'
-  sslname: 'mwcosmos.com'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 wwwlgbtqiawiki:
   url: 'www.lgbtqia.wiki'
   redirect: 'lgbtqia.wiki'
-  sslname: 'lgbtqia.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: true
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: miraheze-origin-cert
 wwwrosettacodeorg:
   url: 'www.rosettacode.org'
   redirect: 'rosettacode.org'
-  sslname: 'rosettacode.org'
-  ca: 'LetsEncrypt'
-  disable_event: true
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: miraheze-origin-cert
 wwwthegreatwaruk:
   url: 'www.thegreatwar.uk'
   redirect: 'thegreatwar.uk'
-  sslname: 'thegreatwar.uk'
-  ca: 'LetsEncrypt'
-  disable_event: true
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: miraheze-origin-cert
 wwwrippaversewikicom:
   url: 'www.rippaversewiki.com'
   redirect: 'rippaversewiki.com'
-  sslname: 'rippaversewiki.com'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: miraheze-origin-cert
 wwwleborkinfopl:
   url: 'www.lebork.info.pl'
   redirect: 'lebork.info.pl'
-  sslname: 'lebork.info.pl'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: miraheze-origin-cert
 iewikiaurovilleorg:
   url: 'iewiki.auroville.org'
   redirect: 'iewiki.purnamcommunity.in'
-  sslname: 'iewiki.auroville.org'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: miraheze-origin-cert
 kagagawikiredirect:
   url: 'www.kagaga.jp'
   redirect: 'kagaga.jp'
