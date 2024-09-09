@@ -65,9 +65,9 @@ piwik:
 wikithesimswikicom:
   url: 'wiki.thesimswiki.com'
   redirect: 'www.thesimswiki.com'
-  sslname: 'www.thesimswiki.com'
-  ca: 'LetsEncrypt'
-  disable_event: true
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: miraheze-origin-cert
 simswiki:
   url: 'sims.miraheze.org'
   redirect: 'www.thesimswiki.com'
