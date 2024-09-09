@@ -106,8 +106,9 @@ portalsofphereoncomredir:
   url: 'portalsofphereon.com'
   redirect: 'www.portalsofphereon.com'
   sslname: 'www.portalsofphereon.com'
-  ca: 'LetsEncrypt'
-  disable_event: true
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: miraheze-origin-cert
 wwwprogrammingred:
   url: 'www.programming.red'
   redirect: 'programming.red'
@@ -221,8 +222,9 @@ simswikicom:
   url: 'thesimswiki.com'
   redirect: 'www.thesimswiki.com'
   sslname: 'www.thesimswiki.com'
-  ca: 'LetsEncrypt'
-  disable_event: true
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: miraheze-origin-cert
 wwwlostidolswiki:
   url: 'www.lostidols.wiki'
   redirect: 'lostidols.wiki'
