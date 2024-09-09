@@ -432,10 +432,6 @@ wikiminelandeu:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-wikiseredrauxyz:
-  url: 'wiki.seredrau.xyz'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikiqadrishattarixyz:
   url: 'wiki.qadrishattari.xyz'
   ca: 'Cloudflare'
@@ -1547,11 +1543,6 @@ glitchcitywiki:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-sonicpediaorg:
-  url: 'sonicpedia.org'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
 wikitmyt105leyhpcom:
   url: 'wiki.tmyt105.leyhp.com'
   ca: 'Cloudflare'
@@ -2431,11 +2422,6 @@ maxcapacitywiki:
   disable_event: false
 wwwdccomicswikicom:
   url: 'www.dccomicswiki.com'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
-wikienkroco:
-  url: 'wiki.enkro.co'
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
