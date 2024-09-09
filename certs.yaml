@@ -2666,3 +2666,7 @@ armoredpatrolremasteredcom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+blackmagicwiki:
+  url: 'blackmagic.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
