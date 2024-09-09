@@ -46,9 +46,9 @@ wwwpermanentfuturelab:
 mirahezecom:
   url: 'miraheze.com'
   redirect: 'meta.miraheze.org'
-  sslname: 'miraheze.com'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 wwwdariawiki:
   url: 'www.dariawiki.org'
   redirect: 'dariawiki.org'
