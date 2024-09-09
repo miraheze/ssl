@@ -105,7 +105,6 @@ comnumthwiki:
 portalsofphereoncomredir:
   url: 'portalsofphereon.com'
   redirect: 'www.portalsofphereon.com'
-  sslname: 'www.portalsofphereon.com'
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
@@ -221,7 +220,6 @@ looneypyramidgameswiki:
 simswikicom:
   url: 'thesimswiki.com'
   redirect: 'www.thesimswiki.com'
-  sslname: 'www.thesimswiki.com'
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
