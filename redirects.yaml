@@ -276,6 +276,12 @@ kagagawikiredirect:
   redirect: 'kagaga.jp'
   sslname: 'miraheze-origin-cert'
   ca: 'CloudFlare'
+dccomicswikiredirect:
+  url: 'www.dccomicswiki.com'
+  redirect: 'dccomicswiki.com'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: miraheze-origin-cert
 
 # *.miraheze.org/*.wikitide.org to wiki custom domains redirects
 mhdcwiki:
