@@ -2656,3 +2656,13 @@ blackmagicwiki:
   url: 'blackmagic.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wstaglol:
+  url: 'w.stag.lol'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
+wikitownsmpxyz:
+  url: 'wiki.townsmp.xyz'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
