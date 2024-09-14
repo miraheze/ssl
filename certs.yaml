@@ -2666,3 +2666,8 @@ wikitownsmpxyz:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wwwvansbuilders:
+  url: 'www.vans.builders'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
