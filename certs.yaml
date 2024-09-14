@@ -2671,3 +2671,7 @@ wwwvansbuilders:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+mappingwikiorg:
+  url: 'mappingwiki.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
