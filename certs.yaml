@@ -718,10 +718,6 @@ wikisimorghme:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-avaswiki:
-  url: 'avas.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikiworldbuildingnetwork:
   url: 'wiki.worldbuilding.network'
   ca: 'Cloudflare'
