@@ -2675,3 +2675,7 @@ wikizymoniccom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+lovebulletwiki:
+  url: 'lovebullet.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
