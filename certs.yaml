@@ -2670,3 +2670,8 @@ dccomicswikicom:
   url: 'dccomicswiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikizymoniccom:
+  url: 'wiki.zymonic.com'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
