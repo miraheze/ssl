@@ -2694,3 +2694,8 @@ foreststrawberryhomeorg:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wikiumerezeu:
+  url: 'wiki.umerez.eu'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
