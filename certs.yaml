@@ -2694,3 +2694,7 @@ wikiumerezeu:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+ssbuniversescom:
+  url: 'ssbuniverses.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
