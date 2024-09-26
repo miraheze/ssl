@@ -1944,11 +1944,6 @@ wikichicorypizza:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-wwwebcatme:
-  url: 'www.ebcat.me'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
 mwcosmoscom:
   url: 'mwcosmos.com'
   ca: 'LetsEncrypt'
