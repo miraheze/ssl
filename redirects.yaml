@@ -282,6 +282,12 @@ dccomicswikiredirect:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
+ssbuniversescom:
+  url: 'ssbuniverses.com'
+  redirect: 'www.ssbuniverses.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
+  sslname: ssbuniverses.com
 
 # *.miraheze.org/*.wikitide.org to wiki custom domains redirects
 mhdcwiki:
