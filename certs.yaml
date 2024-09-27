@@ -2694,3 +2694,8 @@ wikiumerezeu:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wikis0urceio:
+  url: 'wiki.s0urce.io'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
