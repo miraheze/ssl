@@ -2699,3 +2699,8 @@ wikis0urceio:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+ipcamwikiorg:
+  url: 'ipcamwiki.org'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
