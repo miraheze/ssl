@@ -434,12 +434,6 @@ fanpediawiki:
   ca: 'Sectigo'
   hsts: 'strict'
   disable_event: true
-wwwtintinpediafr:
-  url: 'www.tintinpedia.fr'
-  redirect: 'tintinpedia.fr'
-  sslname: 'tintinpedia.fr'
-  ca: 'LetsEncrypt'
-  disable_event: true
 wwwburnoutwiki:
   url: 'www.burnout.wiki'
   redirect: 'burnout.wiki'

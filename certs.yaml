@@ -1308,11 +1308,6 @@ hcwtomatdev:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-wikidenbytech:
-  url: 'wiki.denby.tech'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
 kalonsreveriecom:
   url: 'kalons-reverie.com'
   ca: 'LetsEncrypt'
@@ -1560,11 +1555,6 @@ partopediaru:
   url: 'partopedia.ru'
   ca: 'LetsEncrypt'
   disable_event: false
-wwwwidedataorg:
-  url: 'www.widedata.org'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
 osfirsttimerwiki:
   url: 'osfirsttimer.wiki'
   ca: 'LetsEncrypt'
@@ -1594,10 +1584,6 @@ wikimanospt:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-tintinpediafr:
-  url: 'tintinpedia.fr'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikicorgicamtv:
   url: 'wiki.corgicam.tv'
   ca: 'Cloudflare'
