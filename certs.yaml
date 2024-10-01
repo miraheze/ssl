@@ -2690,7 +2690,3 @@ ipcamwikiorg:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
-christipedianl:
-  url: 'christipedia.nl'
-  ca: 'LetsEncrypt'
-  disable_event: false
