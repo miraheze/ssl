@@ -142,9 +142,9 @@ wwwpublictestwikicom:
 christipedianl:
   url: 'christipedia.nl'
   redirect: 'www.christipedia.nl'
-  ca: 'Cloudflare'
+  ca: 'LetsEncrypt'
   disable_event: false
-  sslname: miraheze-origin-cert
+  sslname: christipedia.nl
 johanloopmansnl:
   url: 'johanloopmans.nl'
   redirect: 'www.johanloopmans.nl'
