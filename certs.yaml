@@ -2064,11 +2064,6 @@ wikicogscilive:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-drachroniclesvoxelgay:
-  url: 'drachronicles.voxel.gay'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
 wikithelastdimensionnet:
   url: 'wiki.thelastdimension.net'
   ca: 'Cloudflare'
