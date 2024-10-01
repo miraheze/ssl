@@ -2694,3 +2694,8 @@ caverncrushercom:
   url: 'caverncrusher.com'
   ca: 'LetsEncrypt'
   disable_event: false
+backroomsjkuncf:
+  url: 'backrooms.jkun.cf'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
