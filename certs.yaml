@@ -2690,3 +2690,7 @@ ipcamwikiorg:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+caverncrushercom:
+  url: 'caverncrusher.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
