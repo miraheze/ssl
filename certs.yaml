@@ -2698,3 +2698,7 @@ magistroco:
   url: 'magistro.co'
   ca: 'LetsEncrypt'
   disable_event: false
+azwikicom:
+  url: 'az-wiki.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
