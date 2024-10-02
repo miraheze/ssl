@@ -2694,3 +2694,7 @@ backroomsjkuncf:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+magistroco:
+  url: 'magistro.co'
+  ca: 'LetsEncrypt'
+  disable_event: false
