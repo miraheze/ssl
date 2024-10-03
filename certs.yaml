@@ -1116,10 +1116,6 @@ minescapewiki:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-schizoidnightmareswiki:
-  url: 'schizoidnightmares.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
 witchingworld:
   url: 'witchingworld.org'
   ca: 'LetsEncrypt'
