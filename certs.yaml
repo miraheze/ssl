@@ -2702,3 +2702,8 @@ azwikicom:
   url: 'az-wiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
+backroomssytesnet:
+  url: 'backrooms.sytes.net'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
