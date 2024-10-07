@@ -2698,3 +2698,7 @@ backroomssytesnet:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+decimatedrivewiki:
+  url: 'decimatedrive.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
