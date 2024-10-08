@@ -2702,3 +2702,8 @@ decimatedrivewiki:
   url: 'decimatedrive.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+mcwikiabovelimeorg:
+  url: 'mcwiki.abovelime.org'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
