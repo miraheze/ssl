@@ -2707,3 +2707,13 @@ mcwikiabovelimeorg:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wikisaucerank1com:
+  url: 'wikisauce.rank1.com'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
+wikibastionsgrfgd:
+  url: 'wiki.bastionsg.rf.gd'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
