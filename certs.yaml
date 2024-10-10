@@ -1116,10 +1116,6 @@ minescapewiki:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-witchingworld:
-  url: 'witchingworld.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 rarewarewikicom:
   url: 'rarewarewiki.com'
   ca: 'LetsEncrypt'
