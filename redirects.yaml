@@ -58,8 +58,8 @@ wwwdariawiki:
 piwik:
   url: 'piwik.miraheze.org'
   redirect: 'matomo.miraheze.org'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   hsts: 'strict'
   disable_event: true
 wikithesimswikicom:
@@ -71,8 +71,8 @@ wikithesimswikicom:
 simswiki:
   url: 'sims.miraheze.org'
   redirect: 'www.thesimswiki.com'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   hsts: 'strict'
   disable_event: true
 wwwmh142com:
@@ -84,22 +84,22 @@ wwwmh142com:
 statusredirect:
   url: 'status.miraheze.org'
   redirect: 'mirahezestatus.net'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   hsts: 'strict'
   disable_event: true
 commonswikiwiki:
   url: 'commonswiki.miraheze.org'
   redirect: 'commons.miraheze.org'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   hsts: 'strict'
   disable_event: true
 comnumthwiki:
   url: 'cnt.miraheze.org'
   redirect: 'combinatorialnumbertheory.miraheze.org'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   hsts: 'strict'
   disable_event: true
 portalsofphereoncomredir:
@@ -123,8 +123,8 @@ baharnaorg:
 uncyclopediakrwiki:
   url: 'uncyclopediakr.miraheze.org'
   redirect: 'truth.miraheze.org'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   hsts: 'strict'
   disable_event: true
 iceriaorg:
@@ -293,8 +293,8 @@ ssbuniversescom:
 mhdcwiki:
   url: 'dc.miraheze.org'
   redirect: 'dcmultiversewiki.com'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   disable_event: true
 wtdcwiki:
   url: 'dc.wikitide.org'
@@ -305,8 +305,8 @@ wtdcwiki:
 mhdcmultiversewiki:
   url: 'dcmultiverse.miraheze.org'
   redirect: 'dcmultiversewiki.com'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   disable_event: true
 wtdcmultiversewiki:
   url: 'dcmultiverse.wikitide.org'
@@ -317,114 +317,114 @@ wtdcmultiversewiki:
 allthetropeswiki:
   url: 'allthetropes.miraheze.org'
   redirect: 'allthetropes.org'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   disable_event: true
 smashbroswiki:
   url: 'smashbros.miraheze.org'
   redirect: 'smashbroswiki.com'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   disable_event: true
 crocwiki:
   url: 'croc.miraheze.org'
   redirect: 'crocwiki.com'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   disable_event: true
 dragonquest2wiki:
   url: 'dragonquest2.miraheze.org'
   redirect: 'dragonquestwiki.com'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   disable_event: true
 squareenixwiki:
   url: 'squareenix.miraheze.org'
   redirect: 'squareenixwiki.com'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   disable_event: true
 mariowiki:
   url: 'mario.miraheze.org'
   redirect: 'mariopedia.org'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   disable_event: true
 rarewiki:
   url: 'rare.miraheze.org'
   redirect: 'rarewarewiki.com'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   hsts: 'strict'
   disable_event: true
 donkeykongwiki:
   url: 'donkeykong.miraheze.org'
   redirect: 'dkpedia.com'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   hsts: 'strict'
   disable_event: true
 taswinwiki:
   url: 'taswin.miraheze.org'
   redirect: 'www.istpcomputing.com'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   hsts: 'strict'
   disable_event: true
 metroidwiki:
   url: 'metroid.miraheze.org'
   redirect: 'metroidpedia.com'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   hsts: 'strict'
   disable_event: true
 yokaiwatchwiki:
   url: 'yokaiwatch.miraheze.org'
   redirect: 'yokaiwatchwiki.com'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   hsts: 'strict'
   disable_event: true
 projectsekaiwiki:
   url: 'projectsekai.miraheze.org'
   redirect: 'www.sekaipedia.org'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   hsts: 'strict'
   disable_event: true
 crashspyrowikiredir:
   url: 'crashspyro.miraheze.org'
   redirect: 'crashspyrowiki.com'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   hsts: 'strict'
   disable_event: true
 segawikiredir:
   url: 'sega.miraheze.org'
   redirect: 'segawiki.com'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   hsts: 'strict'
   disable_event: true
 yoshiwikiredir:
   url: 'yoshi.miraheze.org'
   redirect: 'yoshipedia.com'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   hsts: 'strict'
   disable_event: true
 ajhalili2006wiki:
   url: 'ajhalili2006.miraheze.org'
   redirect: 'wiki.andreijiroh.uk.eu.org'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   hsts: 'strict'
   disable_event: true
 fanpediawiki:
   url: 'fanpedia.miraheze.org'
   redirect: 'fanonpedia.com'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   hsts: 'strict'
   disable_event: true
 wwwburnoutwiki:
@@ -436,64 +436,64 @@ wwwburnoutwiki:
 tintinpediawiki_redirect:
   url: 'tintinpedia.miraheze.org'
   redirect: 'tintinpedia.fr'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   hsts: 'strict'
   disable_event: true
 polcompball_redirect:
   url: 'polcompball.miraheze.org'
   redirect: 'polcompball.wiki'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   hsts: 'strict'
   disable_event: true
 pandorastale:
   url: 'pandorastale.miraheze.org'
   redirect: 'pandorastale.wiki'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   hsts: 'strict'
   disable_event: true
 321nailswiki:
   url: '321nailswiki.miraheze.org'
   redirect: '321nails.crpteam.club'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   hsts: 'strict'
   disable_event: true
 luxuryelevatorwiki:
   url: 'luxuryelevator.miraheze.org'
   redirect: 'wiki.theluxuryelevator.com'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   hsts: 'strict'
   disable_event: true
 removededmsongswiki:
   url: 'removededmsongs.miraheze.org'
   redirect: 'removededm.com'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   hsts: 'strict'
   disable_event: true
 nintendowikiwiki_forcedredit:
   url: 'nintendo.miraheze.org'
   redirect: 'nintendowiki.wiki'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   hsts: 'strict'
   disable_event: true
 pizzatowerwiki:
   url: 'pizzatower.miraheze.org'
   redirect: 'pizzatower.wiki'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   hsts: 'strict'
   disable_event: true
 strinovawiki:
   url: 'strinova.miraheze.org'
   redirect: 'strinova.org'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   hsts: 'strict'
   disable_event: true
 rippaversewiki:
@@ -511,50 +511,50 @@ polcompball_wikitide_redirect:
 minigamemadnesswiki:
   url: 'minigamemadness.miraheze.org'
   redirect: 'wiki.minigamemadness.net'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   hsts: 'strict'
   disable_event: true
 meijinversuswiki:
   url: 'meijinversus.miraheze.org'
   redirect: 'meijinversus.com'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   hsts: 'strict'
   disable_event: true
 urbanshadewiki:
   url: 'urbanshade.miraheze.org'
   redirect: 'urbanshade.org'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   hsts: 'strict'
   disable_event: true
 gimkitwikiredirect:
   url: 'gimkit.miraheze.org'
   redirect: 'gimkit.wiki'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   hsts: 'strict'
   disable_event: true
 junxionswikiredirect:
   url: 'junxions.miraheze.org'
   redirect: 'junxions.wiki'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   hsts: 'strict'
   disable_event: true
 lostmediaruwikiredirect:
   url: 'lostmediaru.miraheze.org'
   redirect: 'lostmediawiki.ru'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   hsts: 'strict'
   disable_event: true
 tgtdwiki:
   url: 'tgtd.miraheze.org'
   redirect: 'wiki.tgtdrblx.com'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   hsts: 'strict'
   disable_event: true
 kagagawiki:
@@ -576,56 +576,56 @@ ssbuniversewiki:
 wwwredirect:
   url: 'www.miraheze.org'
   redirect: 'miraheze.org'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   disable_event: true
 wikimiraheze:
   url: 'wiki.miraheze.org'
   redirect: 'meta.miraheze.org'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   hsts: 'strict'
   disable_event: true
 closinglogos:
   url: 'closinglogosgroup.miraheze.org'
   redirect: 'avid.miraheze.org'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   hsts: 'strict'
   disable_event: true
 templatewiki:
   url: 'template.miraheze.org'
   redirect: 'dev.miraheze.org'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   hsts: 'strict'
   disable_event: true
 thelangyalist_redirect:
   url: 'thelangyalist.miraheze.org'
   redirect: 'nirvanainfire.miraheze.org'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   hsts: 'strict'
   disable_event: true
 japanesefeaturephones_redirect:
   url: 'japanesefeaturephones.miraheze.org'
   redirect: 'keitaiwiki.miraheze.org'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   hsts: 'strict'
   disable_event: true
 inext_redirect:
   url: 'inext.miraheze.org'
   redirect: 'inextandkaylaandrachelverse.miraheze.org'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   hsts: 'strict'
   disable_event: true
 kaylaandrachel_redirect:
   url: 'kaylaandrachel.miraheze.org'
   redirect: 'inextandkaylaandrachelverse.miraheze.org'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   hsts: 'strict'
   disable_event: true
 
@@ -653,15 +653,15 @@ isvwikiorain:
 phorge:
   url: 'phorge.miraheze.org'
   redirect: 'issue-tracker.miraheze.org'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   hsts: 'strict'
   disable_event: true
 phabricator:
   url: 'phabricator.miraheze.org'
   redirect: 'issue-tracker.miraheze.org'
-  sslname: 'wildcard.miraheze.org-2020-2'
-  ca: 'Sectigo'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   hsts: 'strict'
   disable_event: true
 issuetrackerwikitide:
