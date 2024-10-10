@@ -2697,3 +2697,7 @@ wikibastionsgrfgd:
   url: '48plus.org'
   ca: 'LetsEncrypt'
   disable_event: false
+darkwaterswikicom:
+  url: 'darkwaterswiki.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
