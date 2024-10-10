@@ -1556,11 +1556,6 @@ wikicol6de:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-wikisheepservermcnet:
-  url: 'wiki.sheepservermc.net'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
 wikilewisgillcom:
   url: 'wiki.lewisgill.com'
   ca: 'Cloudflare'
@@ -1822,11 +1817,6 @@ ruteirailwayf5si:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-wikiburylandnet:
-  url: 'wiki.buryland.net'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
 wikik2chome:
   url: 'wiki.k2cho.me'
   ca: 'Cloudflare'
@@ -2084,11 +2074,6 @@ osrwikiorg:
   disable_event: false
 wikigowashtenaworg:
   url: 'wiki.gowashtenaw.org'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
-wikiblackorchestranet:
-  url: 'wiki.blackorchestra.net'
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
@@ -2511,11 +2496,6 @@ baligawikiorg:
   disable_event: false
 wikisletattech:
   url: 'wiki.sletat.tech'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
-wikistaglol:
-  url: 'wiki.stag.lol'
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
