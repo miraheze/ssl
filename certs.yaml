@@ -2705,3 +2705,8 @@ voecwikicom:
   url: 'voecwiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikititaniumnetwork:
+  url: 'wiki.titaniumnet.work'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
