@@ -2725,3 +2725,8 @@ operatorswiki:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+conceptsjustarandomamericancom:
+  url: 'concepts.justarandomamerican.com'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
