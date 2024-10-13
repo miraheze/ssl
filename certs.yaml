@@ -2715,3 +2715,13 @@ famwikicafewiki:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+infozodiacspl:
+  url: 'info.zodiacs.pl'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
+operatorswiki:
+  url: 'operators.wiki'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
