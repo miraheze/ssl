@@ -2730,3 +2730,8 @@ conceptsjustarandomamericancom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wikibrutalorchestrawikinet:
+  url: 'wiki.blackorchestra.net'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
