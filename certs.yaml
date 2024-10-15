@@ -2735,3 +2735,7 @@ wikibrutalorchestrawikinet:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+warhammer40kturkiyewiki:
+  url: 'warhammer40kturkiye.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
