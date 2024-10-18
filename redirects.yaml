@@ -628,6 +628,13 @@ kaylaandrachel_redirect:
   ca: 'Cloudflare'
   hsts: 'strict'
   disable_event: true
+gundamwikitide:
+  url: 'gundam.wikitide.com'
+  redirect: 'gwiki.miraheze.org'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
+  disable_event: true
 
 # orain.org to miraheze.org wiki redirects
 allthetropesorain:
