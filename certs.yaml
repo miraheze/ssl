@@ -2748,3 +2748,8 @@ iefwiki:
   url: 'ief.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwocchygienewiki:
+  url: 'www.occhygiene.wiki'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
