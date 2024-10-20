@@ -2744,3 +2744,7 @@ wikifracturedfranchisecom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+iefwiki:
+  url: 'ief.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
