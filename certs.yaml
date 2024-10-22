@@ -2753,3 +2753,8 @@ wwwocchygienewiki:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+hybridcafewiki:
+  url: 'hybridcafe.wiki'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
