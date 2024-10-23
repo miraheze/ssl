@@ -2758,3 +2758,7 @@ hybridcafewiki:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+balloonfightwikiorg:
+  url: 'balloonfightwiki.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
