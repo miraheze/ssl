@@ -2776,3 +2776,8 @@ omegaspacenet:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wikidisappearingmomentcom:
+  url: 'wiki.disappearingmoment.com'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
