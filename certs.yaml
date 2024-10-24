@@ -2766,3 +2766,13 @@ edapedianet:
   url: 'edapedia.net'
   ca: 'LetsEncrypt'
   disable_event: false
+wikiponovors:
+  url: 'wiki.ponovo.rs'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
+omegaspacenet:
+  url: 'omegaspace.net'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
