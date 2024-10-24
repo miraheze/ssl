@@ -2781,3 +2781,8 @@ wikidisappearingmomentcom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+forestcommonsgroundtruthapp:
+  url: 'forestcommons.groundtruth.app'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
