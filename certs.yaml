@@ -2762,3 +2762,7 @@ balloonfightwikiorg:
   url: 'balloonfightwiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
+edapedianet:
+  url: 'edapedia.net'
+  ca: 'LetsEncrypt'
+  disable_event: false
