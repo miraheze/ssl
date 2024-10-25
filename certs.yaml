@@ -2786,3 +2786,7 @@ forestcommonsgroundtruthapp:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+ekumenwiki:
+  url: 'ekumen.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
