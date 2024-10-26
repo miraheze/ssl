@@ -2790,3 +2790,18 @@ ekumenwiki:
   url: 'ekumen.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+tanukiimlmenheraorg:
+  url: 'tanuki.iml.menhera.org'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
+sarasaimlmenheraorg:
+  url: 'sarasa.iml.menhera.org'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
+dreamscienceimlmenheraorg:
+  url: 'dreamscience.iml.menhera.org'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
