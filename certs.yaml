@@ -2805,3 +2805,7 @@ dreamscienceimlmenheraorg:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+sptwikiorg:
+  url: 'sptwiki.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
