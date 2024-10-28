@@ -2809,3 +2809,7 @@ sptwikiorg:
   url: 'sptwiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
+ourlifewikiorg:
+  url: 'ourlifewiki.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
