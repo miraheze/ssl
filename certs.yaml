@@ -2813,3 +2813,7 @@ ourlifewikiorg:
   url: 'ourlifewiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
+androidwikiinfo:
+  url: 'androidwiki.info'
+  ca: 'LetsEncrypt'
+  disable_event: false
