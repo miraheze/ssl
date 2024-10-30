@@ -1291,10 +1291,6 @@ wikikingmingshrimpcom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-leborkinfopl:
-  url: 'lebork.info.pl'
-  ca: 'LetsEncrypt'
-  disable_event: false
 hcwtomatdev:
   url: 'hcw.tomat.dev'
   ca: 'Cloudflare'
@@ -1352,10 +1348,6 @@ wikiarsroboticsorg:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-kombinateuorg:
-  url: 'kombinat.eu.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 encyclopediaroboticaorg:
   url: 'encyclopediarobotica.org'
   ca: 'LetsEncrypt'
@@ -2253,10 +2245,6 @@ wikineonaidev:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-wikiencyclopbdinfo:
-  url: 'wiki.encyclopbd.info'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikiventistudiofr:
   url: 'wiki.ventistudio.fr'
   ca: 'Cloudflare'
@@ -2271,11 +2259,6 @@ boneswordwiki:
   url: 'bonesword.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-capixabapediavipnunescom:
-  url: 'capixabapedia.vipnunes.com'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
 zhtardiswiki:
   url: 'zh.tardis.wiki'
   ca: 'Cloudflare'
