@@ -259,12 +259,6 @@ wwwrippaversewikicom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-wwwleborkinfopl:
-  url: 'www.lebork.info.pl'
-  redirect: 'lebork.info.pl'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
 iewikiaurovilleorg:
   url: 'iewiki.auroville.org'
   redirect: 'iewiki.purnamcommunity.in'
