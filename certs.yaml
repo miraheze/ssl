@@ -2166,9 +2166,8 @@ wikilifesprogresscom:
   sslname: miraheze-origin-cert
 isocasgorg:
   url: 'isocasg.org'
-  ca: 'Cloudflare'
+  ca: 'LetsEncrypt'
   disable_event: false
-  sslname: miraheze-origin-cert
 wikijilljimmycom:
   url: 'wiki.jill-jimmy.com'
   ca: 'Cloudflare'
