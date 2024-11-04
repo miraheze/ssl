@@ -434,13 +434,6 @@ tintinpediawiki_redirect:
   ca: 'Cloudflare'
   hsts: 'strict'
   disable_event: true
-polcompball_redirect:
-  url: 'polcompball.miraheze.org'
-  redirect: 'polcompball.wiki'
-  sslname: 'miraheze-origin-cert'
-  ca: 'Cloudflare'
-  hsts: 'strict'
-  disable_event: true
 pandorastale:
   url: 'pandorastale.miraheze.org'
   redirect: 'pandorastale.wiki'
