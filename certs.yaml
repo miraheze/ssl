@@ -2799,3 +2799,13 @@ androidwikiinfo:
   url: 'androidwiki.info'
   ca: 'LetsEncrypt'
   disable_event: false
+wikisickscienceorg:
+  url: 'wiki.sickscience.org'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
+ffuwikiyifffi:
+  url: 'ffuwiki.yiff.fi'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
