@@ -2808,3 +2808,8 @@ lotrmcru:
   url: 'lotrmc.ru'
   ca: 'LetsEncrypt'
   disable_event: false
+istheorizeitorg:
+  url: 'is.theorizeit.org'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
