@@ -2813,3 +2813,8 @@ istheorizeitorg:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+toonworldthemeatly2top:
+  url: 'toonworld.themeatly2.top'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
