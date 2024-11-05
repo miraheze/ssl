@@ -2818,3 +2818,7 @@ toonworldthemeatly2top:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+sytbaysite:
+  url: 'sytbay.site'
+  ca: 'LetsEncrypt'
+  disable_event: false
