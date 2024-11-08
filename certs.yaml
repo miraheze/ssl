@@ -2827,3 +2827,7 @@ wikidstepanovinfo:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+vyletwiki:
+  url: 'vylet.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
