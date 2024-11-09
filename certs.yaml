@@ -1630,6 +1630,11 @@ citiessimulzkr:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
+polcompballwiki:
+  url: 'polcompball.wiki'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: miraheze-origin-cert
 wwwclinithequefr:
   url: 'www.clinitheque.fr'
   ca: 'Cloudflare'

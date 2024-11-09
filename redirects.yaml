@@ -489,6 +489,12 @@ rippaversewiki:
   sslname: 'wikitide.org'
   ca: 'LetsEncrypt'
   disable_event: true
+polcompball_wikitide_redirect:
+  url: 'polcompball.wikitide.org'
+  redirect: 'polcompball.wiki'
+  sslname: 'wikitide.org'
+  ca: 'LetsEncrypt'
+  disable_event: true
 minigamemadnesswiki:
   url: 'minigamemadness.miraheze.org'
   redirect: 'wiki.minigamemadness.net'
