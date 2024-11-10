@@ -2836,3 +2836,8 @@ vyletwiki:
   url: 'vylet.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+oscaavidwiki:
+  url: 'osca.avid.wiki'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
