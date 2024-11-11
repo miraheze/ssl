@@ -2841,3 +2841,7 @@ oscaavidwiki:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+binrayarchivescom:
+  url: 'binrayarchives.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
