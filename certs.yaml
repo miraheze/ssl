@@ -2845,3 +2845,7 @@ binrayarchivescom:
   url: 'binrayarchives.com'
   ca: 'LetsEncrypt'
   disable_event: false
+fischipediaorg:
+  url: 'fischipedia.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
