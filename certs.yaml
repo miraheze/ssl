@@ -2849,3 +2849,7 @@ fischipediaorg:
   url: 'fischipedia.org'
   ca: 'LetsEncrypt'
   disable_event: false
+polcompballnet:
+  url: 'polcompball.net'
+  ca: 'LetsEncrypt'
+  disable_event: false
