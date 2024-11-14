@@ -265,10 +265,6 @@ wwwportalsofphereoncom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-programmingred:
-  url: 'programming.red'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wwwbaharnaorg:
   url: 'www.baharna.org'
   ca: 'Cloudflare'
@@ -365,11 +361,6 @@ wikissijse:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-amanawikiorg:
-  url: 'aman.awiki.org'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
 wikicounterculturelabsorg:
   url: 'wiki.counterculturelabs.org'
   ca: 'Cloudflare'
@@ -377,11 +368,6 @@ wikicounterculturelabsorg:
   sslname: miraheze-origin-cert
 wikiclimatechangeai:
   url: 'wiki.climatechange.ai'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
-tlawikiorg:
-  url: 'tl.awiki.org'
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
@@ -1130,11 +1116,6 @@ resourcesafricanvisionorg:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-wikizahirame:
-  url: 'wiki.zahira.me'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
 wikiblockatecom:
   url: 'wiki.blockate.com'
   ca: 'Cloudflare'
@@ -1405,11 +1386,6 @@ dlfmwikitop:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-okaoyu666cn:
-  url: 'o.kaoyu666.cn'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
 wwwhebammenwikide:
   url: 'www.hebammenwiki.de'
   ca: 'Cloudflare'
@@ -1639,10 +1615,6 @@ richteriancom:
   url: 'richterian.com'
   ca: 'LetsEncrypt'
   disable_event: false
-coffeewikinet:
-  url: 'coffeewiki.net'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikiaclevocom:
   url: 'wiki.aclevo.com'
   ca: 'Cloudflare'
@@ -1657,11 +1629,6 @@ wwwgengbaiketop:
   url: 'www.gengbaike.top'
   ca: 'LetsEncrypt'
   disable_event: false
-progressbar95wiki:
-  url: 'progressbar95.wiki'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
 enclockupwiki:
   url: 'en.clockup.wiki'
   ca: 'Cloudflare'
@@ -1674,10 +1641,6 @@ wikirlaborguk:
   sslname: miraheze-origin-cert
 hardcorewiki:
   url: 'hardcore.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
-tssmwiki:
-  url: 'tssm.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
 rockrevolutionwiki:
@@ -1936,10 +1899,6 @@ wiki10keyplus:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-nintendowikiwiki:
-  url: 'nintendowiki.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
 agesofconflictwiki:
   url: 'agesofconflict.wiki'
   ca: 'LetsEncrypt'
@@ -2174,11 +2133,6 @@ eosdevxyz:
   disable_event: false
 wikisimplifiedcodingorg:
   url: 'wiki.simplifiedcoding.org'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
-msmhacksuk:
-  url: 'msmhacks.uk'
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
@@ -2655,11 +2609,6 @@ decimatedrivewiki:
   url: 'decimatedrive.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-mcwikiabovelimeorg:
-  url: 'mcwiki.abovelime.org'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: 'miraheze-origin-cert'
 wikisaucerank1com:
   url: 'wikisauce.rank1.com'
   ca: 'Cloudflare'
