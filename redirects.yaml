@@ -108,12 +108,6 @@ portalsofphereoncomredir:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-wwwprogrammingred:
-  url: 'www.programming.red'
-  redirect: 'programming.red'
-  sslname: 'programming.red'
-  ca: 'LetsEncrypt'
-  disable_event: true
 baharnaorg:
   url: 'baharna.org'
   redirect: 'www.baharna.org'
@@ -458,13 +452,6 @@ luxuryelevatorwiki:
 removededmsongswiki:
   url: 'removededmsongs.miraheze.org'
   redirect: 'removededm.com'
-  sslname: 'miraheze-origin-cert'
-  ca: 'Cloudflare'
-  hsts: 'strict'
-  disable_event: true
-nintendowikiwiki_forcedredit:
-  url: 'nintendo.miraheze.org'
-  redirect: 'nintendowiki.wiki'
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
