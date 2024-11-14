@@ -491,7 +491,7 @@ rippaversewiki:
   disable_event: true
 polcompball_wikitide_redirect:
   url: 'polcompball.wikitide.org'
-  redirect: 'polcompball.wiki'
+  redirect: 'polcompball.net'
   sslname: 'wikitide.org'
   ca: 'LetsEncrypt'
   disable_event: true
