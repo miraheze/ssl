@@ -2798,3 +2798,7 @@ wikibaublesme:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+vilexiacom:
+  url: 'vilexia.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
