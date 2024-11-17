@@ -2802,3 +2802,8 @@ vilexiacom:
   url: 'vilexia.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwhyperscandevuskg:
+  url: 'www.hyperscandev.us.kg'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
