@@ -524,10 +524,6 @@ wikiaridiaspace:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-heavyironmoddingorg:
-  url: 'heavyironmodding.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikifbpmlorg:
   url: 'wiki.fbpml.org'
   ca: 'Cloudflare'
@@ -2804,6 +2800,16 @@ vilexiacom:
   disable_event: false
 wwwhyperscandevuskg:
   url: 'www.hyperscandev.us.kg'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
+wikieyeverseworld:
+  url: 'wiki.eyeverse.world'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
+wwwheavyironmoddingorg:
+  url: 'www.heavyironmodding.org'
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
