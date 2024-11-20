@@ -1535,11 +1535,6 @@ wikimanospt:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-wikicorgicamtv:
-  url: 'wiki.corgicam.tv'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
 kingdomdeathwiki:
   url: 'kingdomdeath.wiki'
   ca: 'LetsEncrypt'
@@ -1613,11 +1608,6 @@ richteriancom:
   disable_event: false
 wikiaclevocom:
   url: 'wiki.aclevo.com'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
-deberlinwikiorg:
-  url: 'de.berlinwiki.org'
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
