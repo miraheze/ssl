@@ -2813,3 +2813,8 @@ wwwheavyironmoddingorg:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wikiguaranpises:
+  url: 'wiki.guaranpis.es'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
