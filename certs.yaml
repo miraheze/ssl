@@ -2109,10 +2109,6 @@ wikijilljimmycom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-eosdevxyz:
-  url: 'eosdev.xyz'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikisimplifiedcodingorg:
   url: 'wiki.simplifiedcoding.org'
   ca: 'Cloudflare'
