@@ -2804,3 +2804,7 @@ wikiguaranpises:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+cnidariawiki:
+  url: 'cnidaria.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
