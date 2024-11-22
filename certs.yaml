@@ -2813,3 +2813,8 @@ lagrancaidawikiarsengonxxyz:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+cisowiki:
+  url: 'ciso.wiki'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
