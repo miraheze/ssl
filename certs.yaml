@@ -2818,3 +2818,8 @@ cisowiki:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wikiavakotorg:
+  url: 'wiki.avakot.org'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
