@@ -2823,3 +2823,8 @@ wikiavakotorg:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wikiluckbychancenet:
+  url: 'wiki.luckbychance.net'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
