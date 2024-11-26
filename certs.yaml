@@ -2828,3 +2828,8 @@ wikiluckbychancenet:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wwwunboundwiki:
+  url: 'www.unbound.wiki'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
