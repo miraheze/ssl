@@ -2839,3 +2839,8 @@ guaryavratpediaco:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wikiorcaslicercom:
+  url: 'wiki.orcaslicer.com'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
