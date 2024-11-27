@@ -2009,10 +2009,6 @@ wikigowashtenaworg:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-aryavratpediaco:
-  url: 'aryavratpedia.co'
-  ca: 'LetsEncrypt'
-  disable_event: false
 volunteerforukrainecom:
   url: 'volunteerforukraine.com'
   ca: 'LetsEncrypt'
