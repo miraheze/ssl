@@ -2833,3 +2833,13 @@ wwwunboundwiki:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+enaryavratpediaco:
+  url: 'en.aryavratpedia.co'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
+guaryavratpediaco:
+  url: 'gu.aryavratpedia.co'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
