@@ -187,12 +187,6 @@ wwwprojectpatternscom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-wwwdcmultiversewikicom:
-  url: 'www.dcmultiversewiki.com'
-  redirect: 'dcmultiversewiki.com'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
 wwwglitchcity:
   url: 'www.glitchcity.wiki'
   redirect: 'glitchcity.wiki'
@@ -278,30 +272,6 @@ ssbuniversescom:
   sslname: ssbuniverses.com
 
 # *.miraheze.org/*.wikitide.org to wiki custom domains redirects
-mhdcwiki:
-  url: 'dc.miraheze.org'
-  redirect: 'dcmultiversewiki.com'
-  sslname: 'miraheze-origin-cert'
-  ca: 'Cloudflare'
-  disable_event: true
-wtdcwiki:
-  url: 'dc.wikitide.org'
-  redirect: 'dcmultiversewiki.com'
-  sslname: 'wikitide.org'
-  ca: 'LetsEncrypt'
-  disable_event: true
-mhdcmultiversewiki:
-  url: 'dcmultiverse.miraheze.org'
-  redirect: 'dcmultiversewiki.com'
-  sslname: 'miraheze-origin-cert'
-  ca: 'Cloudflare'
-  disable_event: true
-wtdcmultiversewiki:
-  url: 'dcmultiverse.wikitide.org'
-  redirect: 'dcmultiversewiki.com'
-  sslname: 'wikitide.org'
-  ca: 'LetsEncrypt'
-  disable_event: true
 allthetropeswiki:
   url: 'allthetropes.miraheze.org'
   redirect: 'allthetropes.org'
