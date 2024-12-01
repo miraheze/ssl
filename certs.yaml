@@ -2844,3 +2844,8 @@ wikiorcaslicercom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+tideavidwiki:
+  url: 'tide.avid.wiki'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
