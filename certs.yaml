@@ -1182,11 +1182,6 @@ wwwpomologiaorg:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-wikiclosaicom:
-  url: 'wiki.closai.com'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
 100acgwiki:
   url: '100acg.wiki'
   ca: 'Cloudflare'
@@ -1692,11 +1687,6 @@ wwwdocumentopublicocombr:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-wikimahdiruizlinepm:
-  url: 'wiki.mahdiruiz.line.pm'
-  sslname: 'miraheze-origin-cert'
-  ca: 'Cloudflare'
-  disable_event: false
 wikitdrwebtop:
   url: 'wiki.tdrweb.top'
   ca: 'Cloudflare'
@@ -2135,10 +2125,6 @@ wikicowglxyz:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-dcmultiversewikicom:
-  url: 'dcmultiversewiki.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 rippaversewikicom:
   url: 'rippaversewiki.com'
   ca: 'LetsEncrypt'
