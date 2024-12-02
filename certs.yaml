@@ -2835,3 +2835,7 @@ tideavidwiki:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+fnafmwwiki:
+  url: 'fnafmw.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
