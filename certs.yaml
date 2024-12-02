@@ -2839,3 +2839,8 @@ fnafmwwiki:
   url: 'fnafmw.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wikisplat00nink:
+  url: 'wiki.splat00n.ink'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
