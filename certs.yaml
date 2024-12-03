@@ -2844,3 +2844,8 @@ wikisplat00nink:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wwwnazarewiki:
+  url: 'www.nazare.wiki'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
