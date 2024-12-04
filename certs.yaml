@@ -2849,3 +2849,13 @@ wwwnazarewiki:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wikiechoedlandscom:
+  url: 'wiki.echoedlands.com'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
+vitapedialimorinaidvn:
+  url: 'vitapedia.limorina.id.vn'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
