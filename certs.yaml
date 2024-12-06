@@ -2859,3 +2859,13 @@ vitapedialimorinaidvn:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wikimasraorg:
+  url: 'wiki.ma-sra.org'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
+yunticus4aysnekcom:
+  url: 'yunticu.s4aysnek.com'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
