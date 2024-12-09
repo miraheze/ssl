@@ -2869,3 +2869,7 @@ yunticus4aysnekcom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+acuralegendwikiorg:
+  url: 'acuralegendwiki.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
