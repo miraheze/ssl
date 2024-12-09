@@ -2873,3 +2873,7 @@ acuralegendwikiorg:
   url: 'acuralegendwiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
+gielinorgameswiki:
+  url: 'gielinorgames.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
