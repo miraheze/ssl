@@ -457,11 +457,6 @@ wikifunkeyprojectcom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-wikidigitaldesignhqcom:
-  url: 'wiki.digitaldesignhq.com'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
 reviwiki:
   url: 'revi.wiki'
   ca: 'Cloudflare'
@@ -1649,11 +1644,6 @@ wikipixandbitgay:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-archivesnsgovorg:
-  url: 'archives.nsgov.org'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
 fashiondreamerwiki:
   url: 'fashiondreamer.wiki'
   ca: 'LetsEncrypt'
@@ -2667,11 +2657,6 @@ wikidisappearingmomentcom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
-forestcommonsgroundtruthapp:
-  url: 'forestcommons.groundtruth.app'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: 'miraheze-origin-cert'
 ekumenwiki:
   url: 'ekumen.wiki'
   ca: 'LetsEncrypt'
@@ -2766,11 +2751,6 @@ vilexiacom:
   url: 'vilexia.com'
   ca: 'LetsEncrypt'
   disable_event: false
-wwwhyperscandevuskg:
-  url: 'www.hyperscandev.us.kg'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: 'miraheze-origin-cert'
 wikieyeverseworld:
   url: 'wiki.eyeverse.world'
   ca: 'Cloudflare'
