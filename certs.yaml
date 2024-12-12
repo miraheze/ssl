@@ -2866,3 +2866,8 @@ lotrsu:
   url: 'lotr.su'
   ca: 'LetsEncrypt'
   disable_event: false
+wikilightningwizardscom:
+  url: 'wiki.lightningwizards.com'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
