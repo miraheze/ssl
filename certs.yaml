@@ -2862,3 +2862,7 @@ projdetariosodevcom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+lotrsu:
+  url: 'lotr.su'
+  ca: 'LetsEncrypt'
+  disable_event: false
