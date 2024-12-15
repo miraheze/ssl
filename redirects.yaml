@@ -426,7 +426,7 @@ removededmsongswiki:
   ca: 'Cloudflare'
   hsts: 'strict'
   disable_event: true
-pizzatowerwiki:
+pizzatowerwikiredirect:
   url: 'pizzatower.miraheze.org'
   redirect: 'pizzatower.wiki'
   sslname: 'miraheze-origin-cert'
