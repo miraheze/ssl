@@ -2867,3 +2867,8 @@ wikilightningwizardscom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wikicontinentalmcnet:
+  url: 'wiki.continental-mc.net'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
