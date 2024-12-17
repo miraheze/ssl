@@ -2872,3 +2872,7 @@ wikicontinentalmcnet:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+holostarswiki:
+  url: 'holostars.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
