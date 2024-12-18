@@ -2876,3 +2876,7 @@ holostarswiki:
   url: 'holostars.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+z1rwiki:
+  url: 'z1r.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
