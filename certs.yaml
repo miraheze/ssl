@@ -2732,8 +2732,9 @@ binrayarchivescom:
   disable_event: false
 fischipediaorg:
   url: 'fischipedia.org'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: 'miraheze-origin-cert'
 polcompballnet:
   url: 'polcompball.net'
   ca: 'LetsEncrypt'
