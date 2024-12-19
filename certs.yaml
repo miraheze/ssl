@@ -2881,3 +2881,7 @@ z1rwiki:
   url: 'z1r.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+raidrushwiki:
+  url: 'raidrush.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
