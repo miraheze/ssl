@@ -2885,3 +2885,7 @@ raidrushwiki:
   url: 'raidrush.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+fairytailwiki:
+  url: 'fairytail.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
