@@ -2893,3 +2893,7 @@ transgenderwiki:
   url: 'transgender.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+hellowhirledorg:
+  url: 'hellowhirled.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
