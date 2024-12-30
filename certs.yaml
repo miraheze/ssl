@@ -2889,3 +2889,7 @@ fairytailwiki:
   url: 'fairytail.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+transgenderwiki:
+  url: 'transgender.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
