@@ -2902,3 +2902,13 @@ wikielaruujamied132isadev:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+upscwikimridulpmin:
+  url: 'upscwiki.mridulpm.in'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
+wikistinkysmpnet:
+  url: 'wiki.stinkysmp.net'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
