@@ -2850,6 +2850,9 @@ acuralegendwikiorg:
   url: 'acuralegendwiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
+  rewrites:
+    - '^/index\\.php/?$': '/wiki/ redirect'
+    - '^/index\\.php/(.+)$': '/wiki/$1 redirect'
 gielinorgameswiki:
   url: 'gielinorgames.wiki'
   ca: 'LetsEncrypt'
