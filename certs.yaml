@@ -2912,3 +2912,8 @@ wikistinkysmpnet:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wikiunitedlandsnet:
+  url: 'wiki.unitedlands.net'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
