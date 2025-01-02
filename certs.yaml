@@ -2897,8 +2897,8 @@ hellowhirledorg:
   url: 'hellowhirled.org'
   ca: 'LetsEncrypt'
   disable_event: false
-wikielaruujamied132isadev:
-  url: 'wiki.elaruu.jamied132.is-a.dev'
+elaruuwikijamied132isadev:
+  url: 'elaruu-wiki.jamied132.is-a.dev'
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
