@@ -2918,3 +2918,8 @@ wikiunitedlandsnet:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wikiearthsupremacycom:
+  url: 'wiki.earthsupremacy.com'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
