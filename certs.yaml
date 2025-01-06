@@ -2923,3 +2923,13 @@ wikiearthsupremacycom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wwwstretorg:
+  url: 'www.stret.org'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
+wikitoadvillebaycom:
+  url: 'wiki.toadvillebay.com'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
