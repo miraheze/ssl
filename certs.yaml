@@ -775,8 +775,9 @@ nlxlivingorg:
   sslname: miraheze-origin-cert
 wikizergmafiatop:
   url: 'wiki.zergmafia.top'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 wikipixliesnet:
   url: 'wiki.pixlies.net'
   ca: 'Cloudflare'
