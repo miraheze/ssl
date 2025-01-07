@@ -67,11 +67,6 @@ zenbuddhisminfo:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-meeusen:
-  url: 'wiki.meeusen.net'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
 speleo:
   url: 'speleo.wiki'
   ca: 'LetsEncrypt'
@@ -1002,11 +997,6 @@ slymodsinfo:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-wikimilkywayidlecom:
-  url: 'wiki.milkywayidle.com'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
 wikiauraxisco:
   url: 'wiki.auraxis.co'
   ca: 'Cloudflare'
@@ -1206,11 +1196,6 @@ wonderfuleverydayorg:
   url: 'wonderfuleveryday.org'
   ca: 'LetsEncrypt'
   disable_event: false
-wiki3point0science:
-  url: 'wiki.3point0.science'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
 wikiwidwwacouk:
   url: 'wiki.widwwa.co.uk'
   ca: 'Cloudflare'
@@ -1375,11 +1360,6 @@ dlfmwikitop:
   sslname: miraheze-origin-cert
 wwwhebammenwikide:
   url: 'www.hebammenwiki.de'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
-wikiwalkscapeapp:
-  url: 'wiki.walkscape.app'
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
@@ -1649,11 +1629,6 @@ fashiondreamerwiki:
   url: 'fashiondreamer.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-wikimetaiitgnorg:
-  url: 'wiki.metaiitgn.org'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
 wikihacklabsrorg:
   url: 'wiki.hacklabsr.org'
   ca: 'Cloudflare'
@@ -1707,10 +1682,6 @@ beidipediacom:
   url: 'beidipedia.com'
   ca: 'LetsEncrypt'
   disable_event: false
-quadballwiki:
-  url: 'quadball.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
 otherkinwiki:
   url: 'otherkin.wiki'
   ca: 'LetsEncrypt'
@@ -1744,10 +1715,6 @@ wikilesunkcom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-chobotswiki:
-  url: 'chobots.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
 tnowiki:
   url: 'tno.wiki'
   ca: 'Cloudflare'
@@ -1759,11 +1726,6 @@ starveilwiki:
   disable_event: false
 wikisequoiafabricaorg:
   url: 'wiki.sequoiafabrica.org'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
-wikishowtapeselectioncom:
-  url: 'wiki.showtapeselection.com'
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
@@ -2856,11 +2818,6 @@ gielinorgameswiki:
   url: 'gielinorgames.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-projdetariosodevcom:
-  url: 'projdet.ariosodev.com'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: 'miraheze-origin-cert'
 lotrsu:
   url: 'lotr.su'
   ca: 'LetsEncrypt'
