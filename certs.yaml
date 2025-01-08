@@ -2891,3 +2891,8 @@ wikitoadvillebaycom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wikiwefixgamescom:
+  url: 'wiki.wefixgames.com'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
