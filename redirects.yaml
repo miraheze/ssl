@@ -111,9 +111,9 @@ portalsofphereoncomredir:
 baharnaorg:
   url: 'baharna.org'
   redirect: 'www.baharna.org'
-  ca: 'Cloudflare'
+  ca: 'LetsEncrypt'
   disable_event: false
-  sslname: miraheze-origin-cert
+  sslname: baharna.org
 uncyclopediakrwiki:
   url: 'uncyclopediakr.miraheze.org'
   redirect: 'truth.miraheze.org'
@@ -124,9 +124,9 @@ uncyclopediakrwiki:
 iceriaorg:
   url: 'iceria.org'
   redirect: 'www.iceria.org'
-  ca: 'Cloudflare'
+  ca: 'LetsEncrypt'
   disable_event: false
-  sslname: miraheze-origin-cert
+  sslname: iceria.org
 wwwpublictestwikicom:
   url: 'www.publictestwiki.com'
   redirect: 'publictestwiki.com'
@@ -142,15 +142,15 @@ christipedianl:
 johanloopmansnl:
   url: 'johanloopmans.nl'
   redirect: 'www.johanloopmans.nl'
-  ca: 'Cloudflare'
+  ca: 'LetsEncrypt'
   disable_event: false
-  sslname: miraheze-origin-cert
+  sslname: johanloopmans.nl
 rothwellleedscouk:
   url: 'rothwell-leeds.co.uk'
   redirect: 'www.rothwell-leeds.co.uk'
-  ca: 'Cloudflare'
+  ca: 'LetsEncrypt'
   disable_event: false
-  sslname: miraheze-origin-cert
+  sslname: rothwell-leeds.co.uk
 reviwikiinfo:
   url: 'reviwiki.info'
   redirect: 'revi.wiki'
@@ -166,9 +166,9 @@ wwwtrollpastacom:
 puzzleswiki:
   url: 'puzzles.wiki'
   redirect: 'www.puzzles.wiki'
-  ca: 'Cloudflare'
+  ca: 'LetsEncrypt'
   disable_event: false
-  sslname: miraheze-origin-cert
+  sslname: puzzles.wiki
 wwwethenewiki:
   url: 'www.ethene.wiki'
   redirect: 'ethene.wiki'
@@ -178,9 +178,9 @@ wwwethenewiki:
 journeythewordwiki:
   url: 'journeytheword.wiki'
   redirect: 'www.journeytheword.wiki'
-  ca: 'Cloudflare'
+  ca: 'LetsEncrypt'
   disable_event: false
-  sslname: miraheze-origin-cert
+  sslname: journeytheword.wiki
 wwwprojectpatternscom:
   url: 'www.project-patterns.com'
   redirect: 'project-patterns.com'
