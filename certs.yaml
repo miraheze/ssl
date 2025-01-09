@@ -2699,10 +2699,6 @@ fischipediaorg:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
-polcompballnet:
-  url: 'polcompball.net'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikibaublesme:
   url: 'wiki.baubles.me'
   ca: 'Cloudflare'
