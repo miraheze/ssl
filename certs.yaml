@@ -1187,11 +1187,6 @@ comprehensibleinputwikiorg:
   url: 'comprehensibleinputwiki.org'
   ca: 'LetsEncrypt'
   disable_event: false
-wikigeoparkcorumbataicombr:
-  url: 'wiki.geoparkcorumbatai.com.br'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
 wonderfuleverydayorg:
   url: 'wonderfuleveryday.org'
   ca: 'LetsEncrypt'
