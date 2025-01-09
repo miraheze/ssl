@@ -2892,3 +2892,8 @@ wikiwefixgamescom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+sithempireorg:
+  url: 'sithempire.org'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
