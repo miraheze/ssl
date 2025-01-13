@@ -2200,11 +2200,6 @@ wikiamplicityfr:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-wikigiantesselsienet:
-  url: 'wiki.giantesselsie.net'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
 maxcapacitywiki:
   url: 'maxcapacity.wiki'
   ca: 'LetsEncrypt'
