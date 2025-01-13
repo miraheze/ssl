@@ -1279,8 +1279,9 @@ ndgkbnenaorg:
   sslname: miraheze-origin-cert
 wikisusquorg:
   url: 'wiki.susqu.org'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 wikimcmarochurunet:
   url: 'wiki.mc.marochuru.net'
   ca: 'Cloudflare'
@@ -2894,6 +2895,21 @@ sithempireorg:
   sslname: 'miraheze-origin-cert'
 iradwiki:
   url: 'irad.wiki'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
+irfwikicom:
+  url: 'irfwiki.com'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
+wikigiantessdimensionnet:
+  url: 'wiki.giantessdimension.net'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
+wikihistoricracingcc:
+  url: 'wiki.historicracing.cc'
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
