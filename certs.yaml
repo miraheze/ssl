@@ -2908,3 +2908,8 @@ wikihistoricracingcc:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wikilapisnettop:
+  url: 'wiki.lapis-net.top'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
