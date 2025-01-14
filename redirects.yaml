@@ -580,6 +580,14 @@ gundamwikitide:
   ca: 'Cloudflare'
   hsts: 'strict'
   disable_event: true
+bordrrevivedwiki:
+  url: 'bordrrevived.miraheze.org'
+  redirect: 'fraudulentfrontera.miraheze.org'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
+  disable_event: true
+
 
 # orain.org to miraheze.org wiki redirects
 allthetropesorain:
