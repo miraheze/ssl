@@ -2923,3 +2923,8 @@ wikitruevanillaorg:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+saroviagraalmilitarycom:
+  url: 'sarovia.graalmilitary.com'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
