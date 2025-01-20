@@ -2928,3 +2928,8 @@ saroviagraalmilitarycom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+kippuwikiedapedianet:
+  url: 'kippuwiki.edapedia.net'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
