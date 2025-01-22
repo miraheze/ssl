@@ -211,12 +211,6 @@ simswikicom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-wwwlostidolswiki:
-  url: 'www.lostidols.wiki'
-  redirect: 'lostidols.wiki'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
 wwwmwcosmoscom:
   url: 'www.mwcosmos.com'
   redirect: 'mwcosmos.com'
