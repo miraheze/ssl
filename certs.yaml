@@ -586,10 +586,6 @@ thestarsarerightorg:
   url: 'thestarsareright.org'
   ca: 'LetsEncrypt'
   disable_event: false
-patternarchiveonline:
-  url: 'patternarchive.online'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wwwpuzzleswiki:
   url: 'www.puzzles.wiki'
   ca: 'Cloudflare'
@@ -1163,11 +1159,6 @@ wikiff6worldscollidecom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-wwwpomologiaorg:
-  url: 'www.pomologia.org'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
 100acgwiki:
   url: '100acg.wiki'
   ca: 'Cloudflare'
@@ -1578,10 +1569,6 @@ wikiaclevocom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-wwwgengbaiketop:
-  url: 'www.gengbaike.top'
-  ca: 'LetsEncrypt'
-  disable_event: false
 enclockupwiki:
   url: 'en.clockup.wiki'
   ca: 'Cloudflare'
@@ -1696,18 +1683,8 @@ wikitaescombr:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-ruteirailwayf5si:
-  url: 'ru-teirailway.f5.si'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
 wikik2chome:
   url: 'wiki.k2cho.me'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
-wikilesunkcom:
-  url: 'wiki.lesunk.com'
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
@@ -1716,10 +1693,6 @@ tnowiki:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-starveilwiki:
-  url: 'starveil.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikisequoiafabricaorg:
   url: 'wiki.sequoiafabrica.org'
   ca: 'Cloudflare'
@@ -1732,15 +1705,6 @@ wikigamergeekedus:
   sslname: miraheze-origin-cert
 ff8wiki:
   url: 'ff8.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wwwsatepediacom:
-  url: 'www.satepedia.com'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
-lostidolswiki:
-  url: 'lostidols.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
 wwwistpcomputingcom:
