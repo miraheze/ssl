@@ -2933,3 +2933,8 @@ backroomszhwiki:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wikianimalroyalecom:
+  url: 'wiki.animalroyale.com'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
