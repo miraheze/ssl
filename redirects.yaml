@@ -511,8 +511,8 @@ elaruuwiki:
   hsts: 'strict'
   disable_event: true
 animalroyalewiki:
-  url: 'animaleroyale.miraheze.org'
-  redirect: 'wiki.animaleroyale.com'
+  url: 'animalroyale.miraheze.org'
+  redirect: 'wiki.animalroyale.com'
   sslname: 'miraheze-origin-cert'
   ca: 'CloudFlare'
   hsts: 'strict'
