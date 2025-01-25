@@ -1736,11 +1736,6 @@ tdrwiki:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-wikidragonsmppro:
-  url: 'wiki.dragonsmp.pro'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
 educationgcedin:
   url: 'education.gced.in'
   ca: 'Cloudflare'
