@@ -2892,3 +2892,8 @@ wikianimalroyalecom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wikieggnosstudio:
+  url: 'wiki.eggnos.studio'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
