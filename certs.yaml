@@ -1712,11 +1712,6 @@ wwwistpcomputingcom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-wwwdurawikicom:
-  url: 'www.durawiki.com'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
 wikisadboyzpodcom:
   url: 'wiki.sadboyzpod.com'
   ca: 'Cloudflare'
