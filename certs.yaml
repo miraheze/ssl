@@ -2902,3 +2902,8 @@ wwwbasededonneesastronomiquefr:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wikitranslatescienceorg:
+  url: 'wiki.translatescience.org'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
