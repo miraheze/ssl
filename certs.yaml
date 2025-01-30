@@ -2907,3 +2907,8 @@ wikitranslatescienceorg:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wikideepwokennet:
+  url: 'wiki.deepwoken.net'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
