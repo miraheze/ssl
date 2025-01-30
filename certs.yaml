@@ -2912,3 +2912,8 @@ wikideepwokennet:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wikibreadcraftme:
+  url: 'wiki.breadcraft.me'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
