@@ -1985,10 +1985,6 @@ wikilifesprogresscom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-isocasgorg:
-  url: 'isocasg.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikijilljimmycom:
   url: 'wiki.jill-jimmy.com'
   ca: 'Cloudflare'
