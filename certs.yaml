@@ -2913,3 +2913,13 @@ wikibreadcraftme:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+avernland:
+  url: 'avern.land'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
+needlejuicerecordswiki:
+  url: 'needlejuicerecords.wiki'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
