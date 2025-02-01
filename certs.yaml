@@ -782,11 +782,6 @@ crocwikicom:
   url: 'crocwiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
-wikimsnldcom:
-  url: 'wiki.msnld.com'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
 wikiiurevarworld:
   url: 'wiki.iurevar.world'
   ca: 'LetsEncrypt'
