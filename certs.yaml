@@ -2914,3 +2914,13 @@ needlejuicerecordswiki:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wikijinghein:
+  url: 'wiki.jinghe.in'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
+capoeirawikiorg:
+  url: 'capoeirawiki.org'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
