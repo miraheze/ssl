@@ -2924,3 +2924,8 @@ capoeirawikiorg:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+hiaryavratpediaco:
+  url: 'hi.aryavratpedia.co'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
