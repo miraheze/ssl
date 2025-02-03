@@ -2924,3 +2924,8 @@ hiaryavratpediaco:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wwwarchaeomysticismcom:
+  url: 'www.archaeomysticism.com'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
