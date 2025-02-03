@@ -1201,11 +1201,6 @@ wikiandreijirohukeuorg:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-ieunigonnet:
-  url: 'ie.unigon.net'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
 bristolstudenthousingcooporg:
   url: 'bristolstudenthousingcoop.org'
   ca: 'LetsEncrypt'
