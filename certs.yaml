@@ -2929,3 +2929,8 @@ wwwarchaeomysticismcom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wiki90percentstudioscom:
+  url: 'wiki.90percentstudios.com'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
