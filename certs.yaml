@@ -2879,11 +2879,6 @@ wikieggnosstudio:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
-wwwbasededonneesastronomiquefr:
-  url: 'www.base-de-donnees-astronomique.fr'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: 'miraheze-origin-cert'
 wikitranslatescienceorg:
   url: 'wiki.translatescience.org'
   ca: 'Cloudflare'
