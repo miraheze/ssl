@@ -2934,3 +2934,13 @@ wiki90percentstudioscom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+shatteredrealmsrpgcom:
+  url: 'shatteredrealmsrpg.com'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
+pbmaciejcreatescom:
+  url: 'pb.maciejcreates.com'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
