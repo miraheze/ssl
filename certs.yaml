@@ -2944,3 +2944,8 @@ wikiamazoniahackco:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+currencyofcambodiabeyondangkororg:
+  url: 'currencyofcambodia.beyondangkor.org'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
