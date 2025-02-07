@@ -2949,3 +2949,13 @@ currencyofcambodiabeyondangkororg:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wikiminedorfde:
+  url: 'wiki.minedorf.de'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
+wikiourbluemarblenet:
+  url: 'wiki.ourbluemarble.net'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
