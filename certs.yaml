@@ -2864,11 +2864,6 @@ kippuwikiedapedianet:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
-backroomszhwiki:
-  url: 'backroomszh.wiki'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: 'miraheze-origin-cert'
 wikianimalroyalecom:
   url: 'wiki.animalroyale.com'
   ca: 'Cloudflare'
