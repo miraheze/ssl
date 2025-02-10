@@ -2964,3 +2964,8 @@ zhwikianimalroyalecom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+niedersachsenbezahlkarteneinde:
+  url: 'niedersachsen.bezahlkarte-nein.de'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
