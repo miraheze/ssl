@@ -2969,3 +2969,13 @@ niedersachsenbezahlkarteneinde:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+polytheistdeathguildorg:
+  url: 'polytheistdeathguild.org'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
+oprfinfo:
+  url: 'oprf.info'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
