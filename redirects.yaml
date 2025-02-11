@@ -264,6 +264,12 @@ ssbuniversescom:
   ca: 'LetsEncrypt'
   disable_event: false
   sslname: ssbuniverses.com
+acuralegendredirect:
+  url: 'www.acuralegendwiki.org'
+  redirect: 'acuralegendwiki.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
+  sslname: acuralegendwiki.org
 
 # *.miraheze.org/*.wikitide.org to wiki custom domains redirects
 allthetropeswiki:
