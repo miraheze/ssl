@@ -2974,3 +2974,8 @@ killerqueenarcadewiki:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wwwisocasgorg:
+  url: 'www.isocasg.org'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
