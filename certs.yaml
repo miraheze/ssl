@@ -2062,11 +2062,6 @@ wiki18trip:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-wikihitscanorg:
-  url: 'wiki.hitscan.org'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
 wwwstreamerlorecom:
   url: 'www.streamerlore.com'
   ca: 'Cloudflare'
@@ -2248,11 +2243,6 @@ wikiouroone:
   sslname: miraheze-origin-cert
 fanwikitakagi3cn:
   url: 'fanwiki.takagi3.cn'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
-siaminfogf:
-  url: 'siam.info.gf'
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
