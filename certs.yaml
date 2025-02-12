@@ -2979,3 +2979,8 @@ oprfinfo:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+killerqueenarcadewiki:
+  url: 'killerqueenarcade.wiki'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
