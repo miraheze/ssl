@@ -2979,3 +2979,12 @@ wwwisocasgorg:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+intersexwiki:
+  url: 'intersex.wiki'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert':
+  url: 'www.isocasg.org'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
