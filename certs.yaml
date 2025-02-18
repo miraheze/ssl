@@ -2984,3 +2984,28 @@ intersexwiki:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+guitararchiveorg:
+  url: 'guitararchive.org'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
+wikikosmosmcfun:
+  url: 'wiki.kosmosmc.fun'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
+deanzawiki:
+  url: 'deanza.wiki'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
+anawawikicom:
+  url: 'anawawiki.com'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
+pawiki90percentstudioscom:
+  url: 'pawiki.90percentstudios.com'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
