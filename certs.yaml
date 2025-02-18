@@ -3009,3 +3009,8 @@ pawiki90percentstudioscom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+eccgthemadpuntertech:
+  url: 'eccg.themadpunter.tech'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
