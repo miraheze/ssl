@@ -1763,15 +1763,6 @@ wikib3313org:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-wiki10keyplus:
-  url: 'wiki.10key.plus'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
-agesofconflictwiki:
-  url: 'agesofconflict.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
 polandballwikicom:
   url: 'polandballwiki.com'
   ca: 'Cloudflare'
@@ -1781,7 +1772,6 @@ wikicaseclickercom:
   url: 'wiki.case-clicker.com'
   ca: 'Cloudflare'
   disable_event: false
-
   sslname: miraheze-origin-cert
 eroslocksteelnet:
   url: 'eros.locksteel.net'
@@ -1870,10 +1860,6 @@ pso2ngswiki:
   url: 'pso2ngs.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-aryavartpediaonline:
-  url: 'aryavartpedia.online'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikicorfyi:
   url: 'wiki.cor.fyi'
   ca: 'Cloudflare'
@@ -1925,11 +1911,6 @@ farthestfrontierwiki:
   disable_event: false
 alphasagan4org:
   url: 'alpha.sagan4.org'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
-wikioriviumio:
-  url: 'wiki.orivium.io'
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
