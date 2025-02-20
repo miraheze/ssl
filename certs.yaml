@@ -3014,3 +3014,8 @@ eccgthemadpuntertech:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wikijsalorg:
+  url: 'wiki.jsal.org'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
