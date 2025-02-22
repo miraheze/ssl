@@ -523,6 +523,13 @@ animalroyalewiki:
   ca: 'CloudFlare'
   hsts: 'strict'
   disable_event: true
+capoeirawiki:
+  url: 'capoeira.miraheze.org'
+  redirect: 'capoeirawiki.org'
+  sslname: 'miraheze-origin-cert'
+  ca: 'CloudFlare'
+  hsts: 'strict'
+  disable_event: true
 
 # *.miraheze.org to *.miraheze.org wiki redirects
 wwwredirect:
