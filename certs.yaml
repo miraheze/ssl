@@ -3005,3 +3005,18 @@ svewikicom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wwwnotgeldcnnet:
+  url: 'www.notgeld-cn.net'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
+anchoredwiki:
+  url: 'anchored.wiki'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
+crowtonguewiki:
+  url: 'crowtongue.wiki'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
