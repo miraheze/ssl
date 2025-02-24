@@ -3020,3 +3020,13 @@ crowtonguewiki:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+cpzerowiki:
+  url: 'cpzero.wiki'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
+wikietherealmov:
+  url: 'wiki.ethereal.mov'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
