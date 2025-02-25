@@ -3030,3 +3030,18 @@ wikietherealmov:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+famedataorg:
+  url: 'famedata.org'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
+ckcwiki90percentstudioscom:
+  url: 'ckcwiki.90percentstudios.com'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
+objectifiedonline:
+  url: 'objectified.online'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
