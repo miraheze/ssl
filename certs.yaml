@@ -3050,3 +3050,13 @@ wikivvvfsystems:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+abydosjkkrokr:
+  url: 'abydos-jk.kro.kr'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
+wikimetacraftnu:
+  url: 'wiki.metacraft.nu'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
