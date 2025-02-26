@@ -3064,3 +3064,8 @@ wikimetacraftnu:
   url: '9b9t.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wikismarthcmcloud:
+  url: 'wiki.smarthcm.cloud'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
