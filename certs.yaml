@@ -3045,3 +3045,8 @@ objectifiedonline:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wikivvvfsystems:
+  url: 'wiki.vvvf.systems'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
