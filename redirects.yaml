@@ -83,7 +83,14 @@ wwwmh142com:
   disable_event: true
 statusredirect:
   url: 'status.miraheze.org'
-  redirect: 'status.wikitide.net'
+  redirect: 'wikitidestatus.net'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
+  disable_event: true
+statuswtredirect:
+  url: 'status.wikitide.net'
+  redirect: 'wikitidestatus.net'
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
