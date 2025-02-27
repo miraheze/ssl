@@ -1340,10 +1340,6 @@ wwwhebammenwikide:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-wikiooerooo:
-  url: 'wiki.ooer.ooo'
-  ca: 'LetsEncrypt'
-  disable_event: false
 fanonpediacom:
   url: 'fanonpedia.com'
   ca: 'LetsEncrypt'
@@ -1765,11 +1761,6 @@ wikib3313org:
   sslname: miraheze-origin-cert
 polandballwikicom:
   url: 'polandballwiki.com'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
-wikicaseclickercom:
-  url: 'wiki.case-clicker.com'
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
