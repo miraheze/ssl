@@ -3060,3 +3060,8 @@ wikismarthcmcloud:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+ravendawnwikibr:
+  url: 'ravendawn.wiki.br'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
