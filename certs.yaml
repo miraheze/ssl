@@ -3065,3 +3065,13 @@ ravendawnwikibr:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wikiprimearcade:
+  url: 'wiki.primearca.de'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
+dunepedianet:
+  url: 'dunepedia.net'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
