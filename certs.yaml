@@ -3075,3 +3075,8 @@ dunepedianet:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+marbleblastwiki:
+  url: 'marbleblast.wiki'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
