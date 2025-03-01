@@ -277,6 +277,13 @@ acuralegendredirect:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+langrisserredirect:
+  url: 'langrisser.wiki'
+  redirect: 'www.langrisser.wiki'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
+
 
 # *.miraheze.org/*.wikitide.org to wiki custom domains redirects
 allthetropeswiki:
