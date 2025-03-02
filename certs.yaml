@@ -3085,3 +3085,8 @@ aetherfieldwiki:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+nandopediait:
+  url: 'nandopedia.it'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
