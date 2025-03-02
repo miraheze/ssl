@@ -3080,3 +3080,8 @@ marbleblastwiki:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+aetherfieldwiki:
+  url: 'aetherfield.wiki'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
