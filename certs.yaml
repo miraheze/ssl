@@ -831,11 +831,6 @@ wikiaoemodscom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-wikievscopeorg:
-  url: 'wiki.evscope.org'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
 dragdownwiki:
   url: 'dragdown.wiki'
   ca: 'LetsEncrypt'
