@@ -544,6 +544,13 @@ capoeirawiki:
   ca: 'CloudFlare'
   hsts: 'strict'
   disable_event: true
+wwwnandopediait:
+  url: 'www.nandopedia.it'
+  redirect: 'nandopedia.it'
+  sslname: 'miraheze-origin-cert'
+  ca: 'CloudFlare'
+  hsts: 'strict'
+  disable_event: true
 
 # *.miraheze.org to *.miraheze.org wiki redirects
 wwwredirect:
