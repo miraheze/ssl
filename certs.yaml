@@ -3085,3 +3085,8 @@ nandopediait:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+prisonpediaorg:
+  url: 'prisonpedia.org'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
