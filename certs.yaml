@@ -3085,3 +3085,8 @@ prisonpediaorg:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wikityrillymcity:
+  url: 'wiki.tyrillym.city'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
