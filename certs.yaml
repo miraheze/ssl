@@ -2801,11 +2801,6 @@ wikilapisnettop:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
-wwwkernowwikicom:
-  url: 'www.kernowwiki.com'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: 'miraheze-origin-cert'
 wikitruevanillaorg:
   url: 'wiki.truevanilla.org'
   ca: 'Cloudflare'
