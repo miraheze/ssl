@@ -2361,11 +2361,6 @@ wikidemondealsorg:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
-wikicwkmediagrouporg:
-  url: 'wiki.cwkmediagroup.org'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: 'miraheze-origin-cert'
 foreststrawberryhomeorg:
   url: 'forest.strawberryhome.org'
   ca: 'Cloudflare'
