@@ -3085,3 +3085,8 @@ wikityrillymcity:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+maledictumsummertaocom:
+  url: 'maledictum.summertao.com'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
