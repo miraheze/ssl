@@ -1832,11 +1832,6 @@ wikigreatphermesiacom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-wikicogscilive:
-  url: 'wiki.cogsci.live'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
 wikithelastdimensionnet:
   url: 'wiki.thelastdimension.net'
   ca: 'Cloudflare'
@@ -2626,16 +2621,6 @@ wwwunboundwiki:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
-enaryavratpediaco:
-  url: 'en.aryavratpedia.co'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: 'miraheze-origin-cert'
-guaryavratpediaco:
-  url: 'gu.aryavratpedia.co'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: 'miraheze-origin-cert'
 wikiorcaslicercom:
   url: 'wiki.orcaslicer.com'
   ca: 'Cloudflare'
@@ -2853,11 +2838,6 @@ wikijinghein:
   sslname: 'miraheze-origin-cert'
 capoeirawikiorg:
   url: 'capoeirawiki.org'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: 'miraheze-origin-cert'
-hiaryavratpediaco:
-  url: 'hi.aryavratpedia.co'
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
