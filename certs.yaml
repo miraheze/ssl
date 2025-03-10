@@ -3090,3 +3090,8 @@ maledictumsummertaocom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+macwrenchde:
+  url: 'macwrench.de'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
