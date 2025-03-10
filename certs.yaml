@@ -3075,8 +3075,8 @@ macwrenchde:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
-wwwbeastiepedianet:
-  url: 'www.beastiepedia.net'
+beastiepedianet:
+  url: 'beastiepedia.net'
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
