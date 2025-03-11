@@ -1268,11 +1268,6 @@ talumnneptunewiki:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-wikiarsroboticsorg:
-  url: 'wiki.arsrobotics.org'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
 encyclopediaroboticaorg:
   url: 'encyclopediarobotica.org'
   ca: 'LetsEncrypt'
@@ -2421,11 +2416,6 @@ wikititaniumnetwork:
   sslname: 'miraheze-origin-cert'
 famwikicafewiki:
   url: 'fa.m.wikicafe.wiki'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: 'miraheze-origin-cert'
-infozodiacspl:
-  url: 'info.zodiacs.pl'
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
