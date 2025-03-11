@@ -3080,3 +3080,8 @@ beastiepedianet:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+rmsqmwikiorg:
+  url: 'rmsqmwiki.org'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
