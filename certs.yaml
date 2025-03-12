@@ -3075,3 +3075,8 @@ rmsqmwikiorg:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wikiglenwichcom:
+  url: 'wiki.glenwich.com'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
