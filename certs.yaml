@@ -3080,3 +3080,8 @@ wikiglenwichcom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+boombusterwiki:
+  url: 'boombuster.wiki'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
