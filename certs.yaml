@@ -3086,3 +3086,13 @@ boombusterwiki:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+accuratevillagetech:
+  url: 'accuratevillage.tech'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
+duofurrosebytexyz:
+  url: 'duofur.rosebyte.xyz'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
