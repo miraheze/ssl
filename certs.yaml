@@ -228,8 +228,9 @@ ao90pinhoorg:
   sslname: miraheze-origin-cert
 guiacineastaspt:
   url: 'guia.cineastas.pt'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 wikivalkyrienskiesorg:
   url: 'wiki.valkyrienskies.org'
   ca: 'Cloudflare'
