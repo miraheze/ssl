@@ -1881,8 +1881,9 @@ wikimaribelhearncom:
   sslname: miraheze-origin-cert
 rainversewiki:
   url: 'rainverse.wiki'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 spiceandwolfwiki:
   url: 'spiceandwolf.wiki'
   ca: 'LetsEncrypt'
