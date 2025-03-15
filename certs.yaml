@@ -12,6 +12,11 @@ nexttide:
   sslname: 'nexttide-origin-cert'
   ca: 'Cloudflare'
   disable_event: true
+clairewikibeta:
+  url: 'clairewiki.mhtest.sharkgirl.ing'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: miraheze-origin-cert
 
 # Production
 orainorg:
