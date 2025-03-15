@@ -3096,3 +3096,8 @@ duofurrosebytexyz:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+exordiumwiki:
+  url: 'exordium.wiki'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
