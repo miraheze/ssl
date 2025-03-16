@@ -3107,3 +3107,13 @@ exordiumwiki:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+cubevillewiki:
+  url: 'cubeville.wiki'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
+pedalhidrografico:
+  url: 'pedalhidrografi.co'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
