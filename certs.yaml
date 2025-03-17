@@ -1174,8 +1174,9 @@ test2specialchatorg:
   sslname: miraheze-origin-cert
 comprehensibleinputwikiorg:
   url: 'comprehensibleinputwiki.org'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 wonderfuleverydayorg:
   url: 'wonderfuleveryday.org'
   ca: 'LetsEncrypt'
