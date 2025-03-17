@@ -853,8 +853,9 @@ mariopediaorg:
   disable_event: false
 persistwiki:
   url: 'persist.wiki'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 wikikachoworg:
   url: 'wiki.kachow.org'
   ca: 'Cloudflare'
