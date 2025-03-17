@@ -2139,12 +2139,12 @@ gimkitwiki:
   disable_event: false
 junxionswiki:
   url: 'junxions.wiki'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
 vescwiki:
   url: 'vesc.wiki'
-  ca: 'Cloudflare'
+  ca: 'LetsEncrypt'
   disable_event: false
 keitaiwikicom:
   url: 'keitaiwiki.com'
