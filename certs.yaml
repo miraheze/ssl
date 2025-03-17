@@ -1728,8 +1728,9 @@ lophocmatnguwiki:
   sslname: miraheze-origin-cert
 sdiyinfo:
   url: 'sdiy.info'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 tfukapp:
   url: 'tfuk.app'
   ca: 'Cloudflare'
