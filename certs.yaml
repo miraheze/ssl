@@ -2516,8 +2516,9 @@ ourlifewikiorg:
   disable_event: false
 androidwikiinfo:
   url: 'androidwiki.info'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: 'miraheze-origin-cert'
 wikisickscienceorg:
   url: 'wiki.sickscience.org'
   ca: 'Cloudflare'
