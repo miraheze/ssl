@@ -1719,8 +1719,9 @@ wikichicorypizza:
   sslname: miraheze-origin-cert
 mwcosmoscom:
   url: 'mwcosmos.com'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 lophocmatnguwiki:
   url: 'lophocmatngu.wiki'
   ca: 'Cloudflare'
