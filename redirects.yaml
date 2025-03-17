@@ -402,8 +402,8 @@ fanpediawiki:
 wwwburnoutwiki:
   url: 'www.burnout.wiki'
   redirect: 'burnout.wiki'
-  sslname: 'burnout.wiki'
-  ca: 'LetsEncrypt'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   disable_event: true
 tintinpediawiki_redirect:
   url: 'tintinpedia.miraheze.org'
