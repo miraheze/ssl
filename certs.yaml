@@ -2070,8 +2070,9 @@ bobobaywiki:
   disable_event: false
 poupediacom:
   url: 'poupedia.com'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 wikichevrinecom:
   url: 'wiki.chevrine.com'
   ca: 'Cloudflare'
