@@ -1266,11 +1266,6 @@ wikisusquorg:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-wikimcmarochurunet:
-  url: 'wiki.mc.marochuru.net'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
 talumnneptunewiki:
   url: 'talumn.neptune.wiki'
   ca: 'Cloudflare'
@@ -1469,11 +1464,6 @@ wikilewisgillcom:
   sslname: miraheze-origin-cert
 zomvillespixiemetacom:
   url: 'zomvilles.pixiemeta.com'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
-wikimanospt:
-  url: 'wiki.manos.pt'
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
@@ -1849,10 +1839,6 @@ wikicorfyi:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-grayzonewarfarewiki:
-  url: 'grayzonewarfare.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
 osrwikiorg:
   url: 'osrwiki.org'
   ca: 'LetsEncrypt'
