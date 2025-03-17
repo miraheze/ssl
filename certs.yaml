@@ -809,8 +809,9 @@ storytimejdstroycf:
   sslname: miraheze-origin-cert
 burnoutwiki:
   url: 'burnout.wiki'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 wikimostlyvet:
   url: 'wiki.mostly.vet'
   ca: 'LetsEncrypt'
