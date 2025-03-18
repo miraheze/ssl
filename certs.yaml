@@ -1505,8 +1505,9 @@ mockgovernmentscom:
   disable_event: false
 pandorastalewiki:
   url: 'pandorastale.wiki'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 wikisolarconquestnet:
   url: 'wiki.solarconquest.net'
   ca: 'Cloudflare'
