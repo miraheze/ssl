@@ -27,8 +27,8 @@ wikitideredirect:
   url: 'wikitide.org'
   additional_domain: 'www.wikitide.org'
   redirect: 'miraheze.org'
-  sslname: 'wikitide.org'
-  ca: 'LetsEncrypt'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   disable_event: true
 
 wwwallthetropes:
@@ -669,6 +669,6 @@ phabricator:
 issuetrackerwikitide:
   url: 'issue-tracker.wikitide.org'
   redirect: 'issue-tracker.miraheze.org'
-  sslname: 'wikitide.org'
-  ca: 'LetsEncrypt'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
   disable_event: true
