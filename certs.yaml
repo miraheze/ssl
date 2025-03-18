@@ -925,8 +925,9 @@ wikiotirnl:
   sslname: miraheze-origin-cert
 webkinzguide.com:
   url: 'webkinzguide.com'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 landofliberos:
   url: 'landofliberos.com'
   ca: 'LetsEncrypt'
