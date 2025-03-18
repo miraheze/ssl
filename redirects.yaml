@@ -25,7 +25,12 @@ mirahezewiki:
 # wikitide.org redirects
 wikitideredirect:
   url: 'wikitide.org'
-  additional_domain: 'www.wikitide.org'
+  redirect: 'miraheze.org'
+  sslname: 'wikitide.org'
+  ca: 'LetsEncrypt'
+  disable_event: true
+wwwwikitideredirect:
+  url: 'www.wikitide.org'
   redirect: 'miraheze.org'
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
