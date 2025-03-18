@@ -2127,8 +2127,9 @@ wikiyahiaxyz:
   sslname: miraheze-origin-cert
 gimkitwiki:
   url: 'gimkit.wiki'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 junxionswiki:
   url: 'junxions.wiki'
   ca: 'Cloudflare'
