@@ -819,8 +819,9 @@ wikimostlyvet:
   disable_event: false
 buildabearwiki:
   url: 'buildabearwiki.info'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 wikivirtualjet:
   url: 'wiki.virtualjet.net'
   ca: 'Cloudflare'
@@ -2143,8 +2144,9 @@ vescwiki:
   disable_event: false
 keitaiwikicom:
   url: 'keitaiwiki.com'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 islegoblinwiki:
   url: 'islegoblin.wiki'
   ca: 'Cloudflare'
