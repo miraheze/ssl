@@ -3112,3 +3112,8 @@ pedalhidrografico:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wwwavidwiki:
+  url: 'www.avid.wiki'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
