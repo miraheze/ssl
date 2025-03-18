@@ -2143,8 +2143,9 @@ vescwiki:
   disable_event: false
 keitaiwikicom:
   url: 'keitaiwiki.com'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 islegoblinwiki:
   url: 'islegoblin.wiki'
   ca: 'Cloudflare'
