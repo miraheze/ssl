@@ -2549,8 +2549,9 @@ wikidstepanovinfo:
   sslname: 'miraheze-origin-cert'
 vyletwiki:
   url: 'vylet.wiki'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 oscaavidwiki:
   url: 'osca.avid.wiki'
   ca: 'Cloudflare'
