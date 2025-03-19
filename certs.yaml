@@ -604,8 +604,9 @@ wikimomaart:
   disable_event: false
 worldsanskritnet:
   url: 'worldsanskrit.net'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 ethenewiki:
   url: 'ethene.wiki'
   ca: 'Cloudflare'
