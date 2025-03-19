@@ -288,7 +288,12 @@ langrisserredirect:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
-
+avidwikiredirect:
+  url: 'avid.wiki'
+  redirect: 'www.avid.wiki'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
 
 # *.miraheze.org/*.wikitide.org to wiki custom domains redirects
 allthetropeswiki:
