@@ -1311,8 +1311,9 @@ wikigtnewhorizonscom:
   sslname: miraheze-origin-cert
 xomnipediaorg:
   url: 'xomnipedia.org'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 wikicoolstationspace:
   url: 'wiki.coolstation.space'
   ca: 'Cloudflare'
@@ -2337,8 +2338,9 @@ wwwvansbuilders:
   sslname: 'miraheze-origin-cert'
 mappingwikiorg:
   url: 'mappingwiki.org'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: 'miraheze-origin-cert'
 dccomicswikicom:
   url: 'dccomicswiki.com'
   ca: 'LetsEncrypt'
