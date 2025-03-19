@@ -3131,3 +3131,8 @@ ofthedevilwiki:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wikiithycom:
+  url: 'wiki.ithy.com'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
