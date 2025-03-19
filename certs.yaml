@@ -3126,3 +3126,8 @@ wwwavidwiki:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+ofthedevilwiki:
+  url: 'ofthedevil.wiki'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
