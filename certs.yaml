@@ -2626,8 +2626,9 @@ tideavidwiki:
   sslname: 'miraheze-origin-cert'
 fnafmwwiki:
   url: 'fnafmw.wiki'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 wikisplat00nink:
   url: 'wiki.splat00n.ink'
   ca: 'Cloudflare'
