@@ -1029,8 +1029,9 @@ elsterclopediemarithaimenl:
   sslname: miraheze-origin-cert
 yokaiwatchwikicom:
   url: 'yokaiwatchwiki.com'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 sonaponala:
   url: 'sona.pona.la'
   ca: 'Cloudflare'
