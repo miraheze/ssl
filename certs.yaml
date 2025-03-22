@@ -3134,3 +3134,8 @@ vescwiki:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wikismpearthcom:
+  url: 'wiki.smpearth.com'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
