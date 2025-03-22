@@ -783,8 +783,9 @@ dragonquestwikicom:
   disable_event: false
 crocwikicom:
   url: 'crocwiki.com'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 wikiiurevarworld:
   url: 'wiki.iurevar.world'
   ca: 'LetsEncrypt'
