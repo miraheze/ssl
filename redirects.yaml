@@ -273,9 +273,9 @@ dccomicswikiredirect:
 ssbuniversescom:
   url: 'ssbuniverses.com'
   redirect: 'www.ssbuniverses.com'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
-  sslname: ssbuniverses.com
+  sslname: miraheze-origin-cert
 acuralegendredirect:
   url: 'www.acuralegendwiki.org'
   redirect: 'acuralegendwiki.org'
