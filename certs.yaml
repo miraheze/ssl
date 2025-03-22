@@ -847,8 +847,9 @@ legacygtwiki:
   sslname: miraheze-origin-cert
 mariopediaorg:
   url: 'mariopedia.org'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 persistwiki:
   url: 'persist.wiki'
   ca: 'Cloudflare'
