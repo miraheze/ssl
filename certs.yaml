@@ -1337,8 +1337,9 @@ wwwhebammenwikide:
   sslname: miraheze-origin-cert
 fanonpediacom:
   url: 'fanonpedia.com'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 wikitheluxuryelevatorcom:
   url: 'wiki.theluxuryelevator.com'
   ca: 'Cloudflare'
