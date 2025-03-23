@@ -164,8 +164,9 @@ monarchistswiki:
   disable_event: false
 stablestateorg:
   url: 'stablestate.org'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 joustro:
   url: 'wiki.joust.ro'
   ca: 'Cloudflare'
