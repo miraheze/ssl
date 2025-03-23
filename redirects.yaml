@@ -270,12 +270,6 @@ dccomicswikiredirect:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-ssbuniversescom:
-  url: 'ssbuniverses.com'
-  redirect: 'www.ssbuniverses.com'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
 acuralegendredirect:
   url: 'www.acuralegendwiki.org'
   redirect: 'acuralegendwiki.org'
