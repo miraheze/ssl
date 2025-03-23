@@ -3149,3 +3149,8 @@ wikifiretimeme:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+outlasterpeakprecisionwiki:
+  url: 'outlaster.peakprecision.wiki'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
