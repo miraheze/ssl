@@ -660,11 +660,6 @@ withcptrabid:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-wwwjourneythewordwiki:
-  url: 'www.journeytheword.wiki'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
 wikiapicobuzz:
   url: 'wiki.apico.buzz'
   ca: 'Cloudflare'
@@ -1790,11 +1785,6 @@ wikimegaearthcom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-evaderobtosprocom:
-  url: 'evade.robtospro.com'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
 wikicubeconflictcom:
   url: 'wiki.cube-conflict.com'
   ca: 'Cloudflare'
@@ -1861,11 +1851,6 @@ volunteerforukrainecom:
   url: 'volunteerforukraine.com'
   ca: 'LetsEncrypt'
   disable_event: false
-wwwkinitopedialol:
-  url: 'www.kinitopedia.lol'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
 wikiate42ru:
   url: 'wiki.ate42.ru'
   ca: 'Cloudflare'
@@ -2621,11 +2606,6 @@ wwwunboundwiki:
   sslname: 'miraheze-origin-cert'
 wikiorcaslicercom:
   url: 'wiki.orcaslicer.com'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: 'miraheze-origin-cert'
-tideavidwiki:
-  url: 'tide.avid.wiki'
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
