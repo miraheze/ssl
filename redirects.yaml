@@ -187,12 +187,6 @@ wwwethenewiki:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-journeythewordwiki:
-  url: 'journeytheword.wiki'
-  redirect: 'www.journeytheword.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
-  sslname: journeytheword.wiki
 wwwprojectpatternscom:
   url: 'www.project-patterns.com'
   redirect: 'project-patterns.com'
