@@ -3143,3 +3143,8 @@ wikismpearthcom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wiki.firetimeme:
+  url: 'wiki.firetime.me'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
