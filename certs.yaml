@@ -132,10 +132,6 @@ encforuz:
   url: 'enc.for.uz'
   ca: 'LetsEncrypt'
   disable_event: false
-wikimikrodevcom:
-  url: 'wiki.mikrodev.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikiwhentheycryorg:
   url: 'wiki.whentheycry.org'
   ca: 'Cloudflare'
@@ -198,10 +194,6 @@ runzeppelinru:
   disable_event: false
 bebaskanpengetahuanid:
   url: 'bebaskanpengetahuan.id'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wikiscvoorg:
-  url: 'wiki.scvo.org'
   ca: 'LetsEncrypt'
   disable_event: false
 wwwthesimswikicom:
@@ -293,10 +285,6 @@ wwwmcpkwiki:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-wikiwarframestatus:
-  url: 'wiki.warframestat.us'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikishaazzzir:
   url: 'wiki.shaazzz.ir'
   ca: 'Cloudflare'
@@ -436,10 +424,6 @@ wwwrothwellleedscouk:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-wikicyberfursorg:
-  url: 'wiki.cyberfurs.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikiruwildterra2com:
   url: 'wikiru.wildterra2.com'
   ca: 'Cloudflare'
@@ -480,10 +464,6 @@ wikiglobasanet:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-wikibikinibottomdiscordorg:
-  url: 'wiki.bikinibottomdiscord.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 ecolesciencewiki:
   url: 'ecole.science'
   ca: 'LetsEncrypt'
@@ -651,10 +631,6 @@ wikimisslessfightersclub:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-correypediaorg:
-  url: 'correypedia.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 withcptrabid:
   url: 'with.cpt-ra.bid'
   ca: 'Cloudflare'
@@ -690,10 +666,6 @@ wikiworldbuildingnetwork:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-wikipotabicom:
-  url: 'wiki.potabi.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 smallpolandballwikicom:
   url: 'small.polandballwiki.com'
   ca: 'Cloudflare'
@@ -782,10 +754,6 @@ crocwikicom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-wikiiurevarworld:
-  url: 'wiki.iurevar.world'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikifatcatfablaborg:
   url: 'wiki.fatcatfablab.org'
   ca: 'Cloudflare'
@@ -806,10 +774,6 @@ burnoutwiki:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-wikimostlyvet:
-  url: 'wiki.mostly.vet'
-  ca: 'LetsEncrypt'
-  disable_event: false
 buildabearwiki:
   url: 'buildabearwiki.info'
   ca: 'Cloudflare'
@@ -894,10 +858,6 @@ knifepointhorrorwiki:
   url: 'knifepointhorror.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-largedueuorg:
-  url: 'largedu.eu.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wwwcgradegamesnet:
   url: 'www.cgradegames.net'
   ca: 'Cloudflare'
@@ -972,10 +932,6 @@ engarchiopediaorg:
   sslname: miraheze-origin-cert
 dkpediacom:
   url: 'dkpedia.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
-labwikimimocom:
-  url: 'lab.wikimimo.com'
   ca: 'LetsEncrypt'
   disable_event: false
 wikisite97fr:
@@ -1284,10 +1240,6 @@ elephantsggreigcom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-cheeseepediaorg:
-  url: 'cheeseepedia.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wwwsamafiaorg:
   url: 'www.samafia.org'
   ca: 'Cloudflare'
