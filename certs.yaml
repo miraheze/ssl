@@ -3112,3 +3112,18 @@ mocowiki:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+vocalostwiki:
+  url: 'vocalost.wiki'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
+evicnoticepeakprecisionwiki:
+  url: 'evicnotice.peakprecision.wiki'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
+tekannabrandorg:
+  url: 'tekannabrand.org'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
