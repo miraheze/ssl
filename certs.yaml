@@ -3134,3 +3134,8 @@ outlasterpeakprecisionwiki:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+genericowiki:
+  url: 'generico.wiki'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
