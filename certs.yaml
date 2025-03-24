@@ -2037,8 +2037,9 @@ osdevwiki:
   disable_event: false
 pizzatowerwiki:
   url: 'pizzatower.wiki'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 wikirotary9220net:
   url: 'wiki.rotary9220.net'
   ca: 'Cloudflare'
