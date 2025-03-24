@@ -1965,10 +1965,6 @@ wwwstreamerlorecom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-cpmusicwikicom:
-  url: 'cpmusicwiki.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikiroutedoodlecom:
   url: 'wiki.routedoodle.com'
   ca: 'Cloudflare'
