@@ -1818,10 +1818,6 @@ rainversewiki:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-spiceandwolfwiki:
-  url: 'spiceandwolf.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
 farthestfrontierwiki:
   url: 'farthestfrontier.wiki'
   ca: 'LetsEncrypt'
