@@ -2166,10 +2166,6 @@ wikinamegamesdev:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-oxboxtrawiki:
-  url: 'oxboxtra.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
 kingdomwaywiki:
   url: 'kingdomway.wiki'
   ca: 'LetsEncrypt'
