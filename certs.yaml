@@ -3139,3 +3139,23 @@ genericowiki:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+projectrusherorg:
+  url: 'project-rusher.org'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
+wakefieldinstituteorg:
+  url: 'wakefieldinstitute.org'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
+wikidreamedawaycom:
+  url: 'wiki.dreamedaway.com'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
+mocowiki:
+  url: 'moco.wiki'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
