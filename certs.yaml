@@ -2599,8 +2599,9 @@ yunticus4aysnekcom:
   sslname: 'miraheze-origin-cert'
 acuralegendwikiorg:
   url: 'acuralegendwiki.org'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: 'miraheze-origin-cert'
 gielinorgameswiki:
   url: 'gielinorgames.wiki'
   ca: 'LetsEncrypt'
