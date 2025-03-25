@@ -3122,3 +3122,8 @@ wikimonsterbrothelcom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+serinwiki:
+  url: 'serin.wiki'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
