@@ -3117,3 +3117,8 @@ kaiserreichwiki:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wikimonsterbrothelcom:
+  url: 'wiki.monsterbrothel.com'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
