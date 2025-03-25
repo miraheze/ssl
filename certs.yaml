@@ -3112,3 +3112,8 @@ tekannabrandorg:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+kaiserreichwiki:
+  url: 'kaiserreich.wiki'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
