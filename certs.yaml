@@ -3132,3 +3132,8 @@ wikistarbasiscom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+playtimewithpercywiki:
+  url: 'playtimewithpercy.wiki'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
