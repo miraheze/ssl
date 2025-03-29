@@ -3147,3 +3147,13 @@ wikithunderscientificsolutions:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+echoversewiki:
+  url: 'echoverse.wiki'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
+wwwdrawingwiki:
+  url: 'www.drawing.wiki'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
