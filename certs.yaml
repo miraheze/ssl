@@ -3157,3 +3157,8 @@ wwwdrawingwiki:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wikiprisonmccom:
+  url: 'wiki.prison-mc.com'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
