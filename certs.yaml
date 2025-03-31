@@ -3162,3 +3162,8 @@ wikiprisonmccom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wikialtamcnet:
+  url: 'wiki.altamc.net'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
