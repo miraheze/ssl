@@ -3172,3 +3172,8 @@ cpmusicwikicom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+kbtarkamorg:
+  url: 'kb.tarkam.org'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
