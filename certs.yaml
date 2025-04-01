@@ -3177,3 +3177,8 @@ kbtarkamorg:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wikihexearthxyz:
+  url: 'wiki.hexearth.xyz'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
