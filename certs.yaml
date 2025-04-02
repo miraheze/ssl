@@ -3182,3 +3182,13 @@ wikihexearthxyz:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wwwwikibaseastronomiefr:
+  url: 'www.wikibase-astronomie.fr'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
+snwikicom:
+  url: 'snwiki.com'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
