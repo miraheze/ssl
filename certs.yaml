@@ -3192,3 +3192,8 @@ snwikicom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wikidrawthingsai:
+  url: 'wiki.drawthings.ai'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
