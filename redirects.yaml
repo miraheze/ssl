@@ -479,6 +479,20 @@ urbanshadewiki:
   ca: 'Cloudflare'
   hsts: 'strict'
   disable_event: true
+outlasterwiki:
+  url: 'outlaster.miraheze.org'
+  redirect: 'outlaster.peakprecision.wiki'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
+  disable_event: true
+evicnoticewiki:
+  url: 'evicnotice.miraheze.org'
+  redirect: 'evicnotice.peakprecision.wiki'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
+  disable_event: true
 gimkitwikiredirect:
   url: 'gimkit.miraheze.org'
   redirect: 'gimkit.wiki'
