@@ -3197,3 +3197,13 @@ wikidrawthingsai:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wikiinterbellumxyz:
+  url: 'wiki.interbellum.xyz'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
+empswiki:
+  url: 'emps.wiki'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
