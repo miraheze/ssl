@@ -2593,8 +2593,9 @@ acuralegendwikiorg:
   sslname: 'miraheze-origin-cert'
 gielinorgameswiki:
   url: 'gielinorgames.wiki'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 lotrsu:
   url: 'lotr.su'
   ca: 'LetsEncrypt'
