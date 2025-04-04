@@ -486,8 +486,9 @@ wikiyumekaicu:
   sslname: miraheze-origin-cert
 civwikiorg:
   url: 'civwiki.org'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 wwwfossilfighterswikicom:
   url: 'www.fossilfighterswiki.com'
   ca: 'Cloudflare'
