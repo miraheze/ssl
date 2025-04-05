@@ -54,12 +54,6 @@ mirahezecom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-wwwdariawiki:
-  url: 'www.dariawiki.org'
-  redirect: 'dariawiki.org'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
 piwik:
   url: 'piwik.miraheze.org'
   redirect: 'matomo.miraheze.org'
