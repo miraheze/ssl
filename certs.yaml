@@ -111,10 +111,6 @@ podpedia:
   url: 'podpedia.org'
   ca: 'LetsEncrypt'
   disable_event: false
-dariawiki:
-  url: 'dariawiki.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 pwiki:
   url: 'pwiki.arkcls.com'
   ca: 'Cloudflare'
