@@ -3211,3 +3211,8 @@ northgardwiki:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+peakprecisionwiki:
+  url: 'peakprecision.wiki'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
