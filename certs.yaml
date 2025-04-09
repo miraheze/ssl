@@ -314,8 +314,9 @@ wwwiceriaorg:
   sslname: miraheze-origin-cert
 icclopediawiki:
   url: 'icclopedia.org'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 wikiminkyukim:
   url: 'wiki.minkyu.kim'
   ca: 'Cloudflare'
