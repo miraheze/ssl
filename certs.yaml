@@ -1106,8 +1106,9 @@ emmytherobotwiki:
   disable_event: false
 kodiakwiki:
   url: 'kodiak.wiki'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 wikiff6worldscollidecom:
   url: 'wiki.ff6worldscollide.com'
   ca: 'Cloudflare'
