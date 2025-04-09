@@ -3228,3 +3228,8 @@ wikithebunyipuk:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wwwastrowikifr:
+  url: 'www.astrowiki.fr'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
