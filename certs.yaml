@@ -111,10 +111,6 @@ podpedia:
   url: 'podpedia.org'
   ca: 'LetsEncrypt'
   disable_event: false
-dariawiki:
-  url: 'dariawiki.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 pwiki:
   url: 'pwiki.arkcls.com'
   ca: 'Cloudflare'
@@ -3208,6 +3204,26 @@ wikiinterbellumxyz:
   sslname: 'miraheze-origin-cert'
 empswiki:
   url: 'emps.wiki'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
+northgardwiki:
+  url: 'northgard.wiki'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
+peakprecisionwiki:
+  url: 'peakprecision.wiki'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
+beakswikiorg:
+  url: 'beakswiki.org'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
+wikithebunyipuk:
+  url: 'wiki.thebunyip.uk'
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
