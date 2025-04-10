@@ -187,12 +187,6 @@ wwwglitchcity:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-pyramidgameswiki:
-  url: 'www.pyramidgames.wiki'
-  redirect: 'looneypyramids.wiki'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
 simswikicom:
   url: 'thesimswiki.com'
   redirect: 'www.thesimswiki.com'
