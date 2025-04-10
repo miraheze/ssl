@@ -181,12 +181,6 @@ wwwethenewiki:
   ca: 'Cloudflare'
   disable_event: false
   sslname: miraheze-origin-cert
-wwwprojectpatternscom:
-  url: 'www.project-patterns.com'
-  redirect: 'project-patterns.com'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
 wwwglitchcity:
   url: 'www.glitchcity.wiki'
   redirect: 'glitchcity.wiki'
@@ -195,12 +189,6 @@ wwwglitchcity:
   sslname: miraheze-origin-cert
 pyramidgameswiki:
   url: 'www.pyramidgames.wiki'
-  redirect: 'looneypyramids.wiki'
-  ca: 'Cloudflare'
-  disable_event: false
-  sslname: miraheze-origin-cert
-looneypyramidgameswiki:
-  url: 'pyramidgames.wiki'
   redirect: 'looneypyramids.wiki'
   ca: 'Cloudflare'
   disable_event: false
@@ -284,27 +272,9 @@ allthetropeswiki:
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   disable_event: true
-smashbroswiki:
-  url: 'smashbros.miraheze.org'
-  redirect: 'smashbroswiki.com'
-  sslname: 'miraheze-origin-cert'
-  ca: 'Cloudflare'
-  disable_event: true
 crocwiki:
   url: 'croc.miraheze.org'
   redirect: 'crocwiki.com'
-  sslname: 'miraheze-origin-cert'
-  ca: 'Cloudflare'
-  disable_event: true
-dragonquest2wiki:
-  url: 'dragonquest2.miraheze.org'
-  redirect: 'dragonquestwiki.com'
-  sslname: 'miraheze-origin-cert'
-  ca: 'Cloudflare'
-  disable_event: true
-squareenixwiki:
-  url: 'squareenix.miraheze.org'
-  redirect: 'squareenixwiki.com'
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   disable_event: true
@@ -314,30 +284,9 @@ mariowiki:
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   disable_event: true
-rarewiki:
-  url: 'rare.miraheze.org'
-  redirect: 'rarewarewiki.com'
-  sslname: 'miraheze-origin-cert'
-  ca: 'Cloudflare'
-  hsts: 'strict'
-  disable_event: true
-donkeykongwiki:
-  url: 'donkeykong.miraheze.org'
-  redirect: 'dkpedia.com'
-  sslname: 'miraheze-origin-cert'
-  ca: 'Cloudflare'
-  hsts: 'strict'
-  disable_event: true
 taswinwiki:
   url: 'taswin.miraheze.org'
   redirect: 'www.istpcomputing.com'
-  sslname: 'miraheze-origin-cert'
-  ca: 'Cloudflare'
-  hsts: 'strict'
-  disable_event: true
-metroidwiki:
-  url: 'metroid.miraheze.org'
-  redirect: 'metroidpedia.com'
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
@@ -352,27 +301,6 @@ yokaiwatchwiki:
 projectsekaiwiki:
   url: 'projectsekai.miraheze.org'
   redirect: 'www.sekaipedia.org'
-  sslname: 'miraheze-origin-cert'
-  ca: 'Cloudflare'
-  hsts: 'strict'
-  disable_event: true
-crashspyrowikiredir:
-  url: 'crashspyro.miraheze.org'
-  redirect: 'crashspyrowiki.com'
-  sslname: 'miraheze-origin-cert'
-  ca: 'Cloudflare'
-  hsts: 'strict'
-  disable_event: true
-segawikiredir:
-  url: 'sega.miraheze.org'
-  redirect: 'segawiki.com'
-  sslname: 'miraheze-origin-cert'
-  ca: 'Cloudflare'
-  hsts: 'strict'
-  disable_event: true
-yoshiwikiredir:
-  url: 'yoshi.miraheze.org'
-  redirect: 'yoshipedia.com'
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
