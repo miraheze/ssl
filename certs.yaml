@@ -366,8 +366,9 @@ n64brewdev:
   disable_event: false
 infectowikicom:
   url: 'infectowiki.com'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 historysdteforg:
   url: 'history.sdtef.org'
   ca: 'Cloudflare'
