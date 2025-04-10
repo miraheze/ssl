@@ -1598,10 +1598,6 @@ otherkinwiki:
   url: 'otherkin.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-lostmediawikiru:
-  url: 'lostmediawiki.ru'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikirosestulipsandlibertycom:
   url: 'wiki.rosestulipsandliberty.com'
   ca: 'Cloudflare'
