@@ -550,6 +550,13 @@ antonballwiki:
   ca: 'Cloudflare'
   hsts: 'strict'
   disable_event: true
+ultiblocksredir:
+  url: 'ultiblocks.miraheze.org'
+  redirect: 'ampmod.miraheze.org'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
+  disable_event: true
 
 
 # orain.org to miraheze.org wiki redirects
