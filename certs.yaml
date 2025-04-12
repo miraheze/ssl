@@ -1227,8 +1227,9 @@ crustypediaorg:
   sslname: miraheze-origin-cert
 theenglishlakesuk:
   url: 'theenglishlakes.uk'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 wikigestaltonlineca:
   url: 'wiki.gestaltonline.ca'
   ca: 'Cloudflare'
