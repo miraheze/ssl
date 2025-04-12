@@ -3150,3 +3150,8 @@ wwwastrowikifr:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wikipaneidoversecom:
+  url: 'wiki.paneidoverse.com'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
