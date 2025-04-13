@@ -1294,8 +1294,9 @@ familiacorsicom:
   disable_event: false
 wikigeniusorg:
   url: 'wikigenius.org'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 wikiesufranchisecom:
   url: 'wiki.esufranchise.com'
   ca: 'Cloudflare'
