@@ -3156,3 +3156,8 @@ wikipaneidoversecom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+studiopeakprecisionwiki:
+  url: 'studio.peakprecision.wiki'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
