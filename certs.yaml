@@ -956,8 +956,9 @@ techexputracom:
   sslname: miraheze-origin-cert
 apeirologycom:
   url: 'apeirology.com'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 wikidwarvesrpcom:
   url: 'wiki.dwarvesrp.com'
   ca: 'Cloudflare'
