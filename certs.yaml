@@ -2150,8 +2150,8 @@ weavefarerswiki:
   url: 'weavefarers.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-wwwssbuniversescom:
-  url: 'www.ssbuniverses.com'
+ssbuniversescom:
+  url: 'ssbuniverses.com'
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   disable_event: false
