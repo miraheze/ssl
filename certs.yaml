@@ -2116,8 +2116,9 @@ yepediaxyz:
   disable_event: false
 jackboxwiki:
   url: 'jackbox.wiki'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 exmormonwiki:
   url: 'exmormon.wiki'
   ca: 'LetsEncrypt'
