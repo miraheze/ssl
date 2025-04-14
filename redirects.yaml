@@ -439,17 +439,11 @@ kagagawiki:
   disable_event: true
 ssbuniversewiki:
   url: 'ssbuniverse.miraheze.org'
-  redirect: 'www.ssbuniverses.com'
+  redirect: 'ssbuniverses.com'
   sslname: 'miraheze-origin-cert'
   ca: 'CloudFlare'
   hsts: 'strict'
   disable_event: true
-ssbuniversescom:
-   url: 'ssbuniverses.com'
-   redirect: 'www.ssbuniverses.com'
-   ca: 'Cloudflare'
-   disable_event: false
-   sslname: miraheze-origin-cert
 elaruuwiki:
   url: 'elaruu.miraheze.org'
   redirect: 'elaruu-wiki.jamied132.is-a.dev'
