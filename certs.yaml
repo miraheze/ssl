@@ -1154,8 +1154,9 @@ talumnneptunewiki:
   sslname: miraheze-origin-cert
 encyclopediaroboticaorg:
   url: 'encyclopediarobotica.org'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 wikiorvynca:
   url: 'wiki.orvyn.ca'
   ca: 'Cloudflare'
