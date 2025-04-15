@@ -3166,3 +3166,8 @@ studiopeakprecisionwiki:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wikialphaadvancedonline:
+  url: 'wiki.alphaadvanced.online'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
