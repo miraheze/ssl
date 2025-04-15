@@ -1480,8 +1480,9 @@ wikiseamlyio:
   sslname: miraheze-origin-cert
 wikappediacc:
   url: 'wikappedia.cc'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 wikicosmicdeathfunguscom:
   url: 'wiki.cosmicdeathfungus.com'
   ca: 'Cloudflare'
