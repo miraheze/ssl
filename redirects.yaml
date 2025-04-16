@@ -472,7 +472,14 @@ wwwnandopediait:
   ca: 'CloudFlare'
   hsts: 'strict'
   disable_event: true
-
+embryologywiki:
+  url: 'embryology.miraheze.org'
+  redirect: 'embryologywiki.org'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
+  disable_event: true
+  
 # *.miraheze.org to *.miraheze.org wiki redirects
 wwwredirect:
   url: 'www.miraheze.org'
