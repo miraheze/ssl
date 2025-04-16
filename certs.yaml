@@ -3173,3 +3173,13 @@ wikialphaadvancedonline:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+embryologywikiorg:
+  url: 'embryologywiki.org'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
+crunktropoliscom:
+  url: 'crunktropolis.com'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
