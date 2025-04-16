@@ -1900,8 +1900,9 @@ wikiroutedoodlecom:
   sslname: miraheze-origin-cert
 annapolishistorywikiorg:
   url: 'annapolishistorywiki.org'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 ampswikigd:
   url: 'amps.wiki.gd'
   ca: 'Cloudflare'
