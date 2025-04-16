@@ -1525,8 +1525,9 @@ beidipediacom:
   disable_event: false
 otherkinwiki:
   url: 'otherkin.wiki'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 wikirosestulipsandlibertycom:
   url: 'wiki.rosestulipsandliberty.com'
   ca: 'Cloudflare'
