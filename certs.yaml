@@ -3184,3 +3184,8 @@ crunktropoliscom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wikignreblazedxyz:
+  url: 'wiki.gnreblazed.xyz'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
