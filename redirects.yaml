@@ -479,6 +479,13 @@ embryologywiki:
   ca: 'Cloudflare'
   hsts: 'strict'
   disable_event: true
+goldennationswiki:
+  url: 'goldennations.miraheze.org'
+  redirect: 'wiki.gnreblazed.xyz'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
+  disable_event: true
 
 
 # *.miraheze.org to *.miraheze.org wiki redirects
