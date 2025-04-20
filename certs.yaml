@@ -3189,3 +3189,8 @@ wikignreblazedxyz:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+backroomssdunhasnameasia:
+  url: 'backrooms-sd.unhasname.asia'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
