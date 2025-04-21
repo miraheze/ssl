@@ -325,8 +325,9 @@ guiaesporonet:
   sslname: miraheze-origin-cert
 hololivewiki:
   url: 'hololive.wiki'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 archivestellurgistswiki:
   url: 'archive.stellurgists.wiki'
   ca: 'Cloudflare'
