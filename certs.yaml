@@ -2368,8 +2368,9 @@ sptwikiorg:
   disable_event: false
 ourlifewikiorg:
   url: 'ourlifewiki.org'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 androidwikiinfo:
   url: 'androidwiki.info'
   ca: 'Cloudflare'
