@@ -3196,3 +3196,8 @@ backroomssdunhasnameasia:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wwwbaldisbasicswiki:
+  url: 'www.baldisbasics.wiki'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
