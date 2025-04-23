@@ -2303,8 +2303,9 @@ wikibrutalorchestrawikinet:
   sslname: 'miraheze-origin-cert'
 warhammer40kturkiyewiki:
   url: 'warhammer40kturkiye.wiki'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 wikifracturedfranchisecom:
   url: 'wiki.fracturedfranchise.com'
   ca: 'Cloudflare'
