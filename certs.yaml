@@ -3201,3 +3201,8 @@ wwwbaldisbasicswiki:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+psychiatrywikicom:
+  url: 'psychiatrywiki.com'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
