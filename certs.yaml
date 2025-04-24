@@ -1795,8 +1795,9 @@ moddedminecraftwiki:
   sslname: miraheze-origin-cert
 neurologiahpmcom:
   url: 'neurologiahpm.com'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 wikilifesprogresscom:
   url: 'wiki.lifesprogress.com'
   ca: 'Cloudflare'
