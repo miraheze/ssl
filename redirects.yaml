@@ -486,6 +486,13 @@ goldennationswiki:
   ca: 'Cloudflare'
   hsts: 'strict'
   disable_event: true
+lostmediaruwikiredirect:
+   url: 'lostmediaru.miraheze.org'
+   redirect: 'lostmediawiki.ru'
+   sslname: 'miraheze-origin-cert'
+   ca: 'Cloudflare'
+   hsts: 'strict'
+   disable_event: true
 
 
 # *.miraheze.org to *.miraheze.org wiki redirects
