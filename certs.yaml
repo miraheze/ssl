@@ -3208,3 +3208,8 @@ psychiatrywikicom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+lostmediawikiru:
+  url: 'lostmediawiki.ru'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
