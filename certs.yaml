@@ -3213,3 +3213,8 @@ lostmediawikiru:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wikiprtcycom:
+  url: 'wiki.prtcy.com'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
