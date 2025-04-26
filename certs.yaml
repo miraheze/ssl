@@ -1331,10 +1331,6 @@ partopediaru:
   url: 'partopedia.ru'
   ca: 'LetsEncrypt'
   disable_event: false
-osfirsttimerwiki:
-  url: 'osfirsttimer.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikicol6de:
   url: 'wiki.col6.de'
   ca: 'Cloudflare'
