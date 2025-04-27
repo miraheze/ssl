@@ -3214,3 +3214,8 @@ wikiprtcycom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+projectpolarowikicom:
+  url: 'projectpolarowiki.com'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
