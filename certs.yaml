@@ -1112,8 +1112,9 @@ hcwtomatdev:
   sslname: miraheze-origin-cert
 kalonsreveriecom:
   url: 'kalons-reverie.com'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 ukreligiononfiremarinua:
   url: 'uk.religiononfire.mar.in.ua'
   ca: 'Cloudflare'
