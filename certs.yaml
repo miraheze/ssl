@@ -3220,3 +3220,8 @@ projectpolarowikicom:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+wikitravelsim:
+  url: 'wiki.travels.im'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
