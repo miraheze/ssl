@@ -1909,8 +1909,9 @@ ampswikigd:
   sslname: miraheze-origin-cert
 osdevwiki:
   url: 'osdev.wiki'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 pizzatowerwiki:
   url: 'pizzatower.wiki'
   ca: 'Cloudflare'
