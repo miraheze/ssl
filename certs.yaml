@@ -3226,3 +3226,13 @@ wikitravelsim:
   ca: 'Cloudflare'
   disable_event: false
   sslname: 'miraheze-origin-cert'
+acwikiinfo:
+  url: 'acwiki.info'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
+wwwbackroomssdtop:
+  url: 'www.backroomssd.top'
+  ca: 'Cloudflare'
+  disable_event: false
+  sslname: 'miraheze-origin-cert'
