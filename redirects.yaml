@@ -493,6 +493,13 @@ lostmediaruwikiredirect:
   ca: 'Cloudflare'
   hsts: 'strict'
   disable_event: true
+acwikiredirect:
+  url: 'ac.miraheze.org'
+  redirect: 'acwiki.info'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
+  disable_event: true
 
 
 # *.miraheze.org to *.miraheze.org wiki redirects
