@@ -815,7 +815,8 @@ dutkikrokr:
   sslname: miraheze-origin-cert
 emmytherobotwiki:
   url: 'emmytherobot.wiki'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
 kodiakwiki:
   url: 'kodiak.wiki'
   ca: 'Cloudflare'
