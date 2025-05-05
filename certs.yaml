@@ -282,7 +282,8 @@ wikilefrenchmeleefr:
   sslname: miraheze-origin-cert
 n64brewdev:
   url: 'n64brew.dev'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
 infectowikicom:
   url: 'infectowiki.com'
   ca: 'Cloudflare'
