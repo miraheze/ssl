@@ -1519,8 +1519,9 @@ wikiomegabuilduk:
   sslname: miraheze-origin-cert
 beidipediacom:
   url: 'beidipedia.com'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 otherkinwiki:
   url: 'otherkin.wiki'
   ca: 'Cloudflare'
