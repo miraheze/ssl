@@ -1801,7 +1801,8 @@ wikibastionsgrfgd:
   sslname: 'miraheze-origin-cert'
 48plusorg:
   url: '48plus.org'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
 darkwaterswikicom:
   url: 'darkwaterswiki.com'
   ca: 'LetsEncrypt'
