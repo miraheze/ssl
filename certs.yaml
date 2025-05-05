@@ -1349,8 +1349,9 @@ zomvillespixiemetacom:
   sslname: miraheze-origin-cert
 kingdomdeathwiki:
   url: 'kingdomdeath.wiki'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
   disable_event: false
+  sslname: miraheze-origin-cert
 wikizamnhackingnet:
   url: 'wiki.zamnhacking.net'
   ca: 'Cloudflare'
