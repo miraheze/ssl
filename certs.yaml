@@ -2574,3 +2574,7 @@ wwwbackroomssdtop:
   url: 'www.backroomssd.top'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
+wwwshulchanaruchcoil:
+  url: 'www.shulchan-aruch.co.il'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
