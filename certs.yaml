@@ -1141,7 +1141,8 @@ wikirlaborguk:
   sslname: miraheze-origin-cert
 hardcorewiki:
   url: 'hardcore.wiki'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
 rockrevolutionwiki:
   url: 'rockrevolution.wiki'
   ca: 'Cloudflare'
