@@ -2579,3 +2579,7 @@ wwwshulchanaruchcoil:
   url: 'www.shulchan-aruch.co.il'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
+wikiarvandornationsxyz:
+  url: 'wiki.arvandornations.xyz'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
