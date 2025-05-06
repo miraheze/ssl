@@ -866,7 +866,8 @@ wikiandreijirohukeuorg:
   sslname: miraheze-origin-cert
 bristolstudenthousingcooporg:
   url: 'bristolstudenthousingcoop.org'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
 wikidrycleaninglobbynet:
   url: 'wiki.drycleaninglobby.net'
   ca: 'Cloudflare'
