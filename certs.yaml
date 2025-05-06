@@ -1292,7 +1292,8 @@ wikikkstudioeuorg:
   sslname: miraheze-origin-cert
 ladswiki:
   url: 'lads.wiki'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
 wikib3313org:
   url: 'wiki.b3313.org'
   ca: 'Cloudflare'
