@@ -2585,3 +2585,7 @@ wikiarvandornationsxyz:
   url: 'wiki.arvandornations.xyz'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
+wikibunnyorgin:
+  url: 'wiki.bunnyorg.in'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
