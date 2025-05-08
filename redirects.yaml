@@ -191,11 +191,6 @@ iewikiaurovilleorg:
   redirect: 'iewiki.purnamcommunity.in'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
-kagagawikiredirect:
-  url: 'www.kagaga.jp'
-  redirect: 'kagaga.jp'
-  sslname: 'miraheze-origin-cert'
-  ca: 'CloudFlare'
 dccomicswikiredirect:
   url: 'www.dccomicswiki.com'
   redirect: 'dccomicswiki.com'
