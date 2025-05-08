@@ -2589,3 +2589,11 @@ wikibunnyorgin:
   url: 'wiki.bunnyorg.in'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
+plv4wikigd:
+  url: 'plv4.wiki.gd'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
+pinggeacanonniwebsite:
+  url: 'pinggea.canonni.website'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
