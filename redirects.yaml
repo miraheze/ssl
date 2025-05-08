@@ -206,11 +206,6 @@ acuralegendredirect:
   redirect: 'acuralegendwiki.org'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
-langrisserredirect:
-  url: 'langrisser.wiki'
-  redirect: 'www.langrisser.wiki'
-  ca: 'Cloudflare'
-  sslname: 'miraheze-origin-cert'
 avidwikiredirect:
   url: 'avid.wiki'
   redirect: 'www.avid.wiki'
@@ -361,18 +356,6 @@ tgtdwiki:
   redirect: 'wiki.tgtdrblx.com'
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
-  hsts: 'strict'
-kagagawiki:
-  url: 'kagaga.miraheze.org'
-  redirect: 'kagaga.jp'
-  sslname: 'miraheze-origin-cert'
-  ca: 'CloudFlare'
-  hsts: 'strict'
-ssbuniversewiki:
-  url: 'ssbuniverse.miraheze.org'
-  redirect: 'ssbuniverses.com'
-  sslname: 'miraheze-origin-cert'
-  ca: 'CloudFlare'
   hsts: 'strict'
 elaruuwiki:
   url: 'elaruu.miraheze.org'
