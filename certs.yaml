@@ -1762,7 +1762,8 @@ ipcamwikiorg:
   sslname: 'miraheze-origin-cert'
 caverncrushercom:
   url: 'caverncrusher.com'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
 magistroco:
   url: 'magistro.co'
   ca: 'LetsEncrypt'
