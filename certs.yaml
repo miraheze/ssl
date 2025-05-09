@@ -2553,3 +2553,7 @@ wwwkagagajp:
   url: 'www.kagaga.jp'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
+thereactorwiki:
+  url: 'thereactor.wiki'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
