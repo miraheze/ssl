@@ -2549,3 +2549,7 @@ pinggeacanonniwebsite:
   url: 'pinggea.canonni.website'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
+wwwkagagajp:
+  url: 'www.kagaga.jp'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
