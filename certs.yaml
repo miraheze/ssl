@@ -2558,3 +2558,7 @@ thereactorwiki:
   url: 'thereactor.wiki'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
+wikiyeolandorg:
+  url: 'wiki.yeoland.org'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
