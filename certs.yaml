@@ -1007,7 +1007,8 @@ wikistarshipsailingnet:
   sslname: miraheze-origin-cert
 looneypyramidswiki:
   url: 'looneypyramids.wiki'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
 wikiqueenscourtgames:
   url: 'wiki.queenscourt.games'
   ca: 'Cloudflare'
