@@ -2562,3 +2562,7 @@ wikiyeolandorg:
   url: 'wiki.yeoland.org'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
+spacepirateswiki:
+  url: 'spacepirates.wiki'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
