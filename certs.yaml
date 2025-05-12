@@ -2574,3 +2574,7 @@ wikiorcatech:
   url: 'wiki.orcate.ch'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
+wikifrostforgenationsxyz:
+  url: 'wiki.frostforgenations.xyz'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
