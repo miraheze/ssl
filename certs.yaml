@@ -2566,3 +2566,11 @@ spacepirateswiki:
   url: 'spacepirates.wiki'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
+anarwikiorg:
+  url: 'anarwiki.org'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
+wikiorcatech:
+  url: 'wiki.orcate.ch'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
