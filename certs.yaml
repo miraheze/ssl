@@ -2578,3 +2578,7 @@ wikifrostforgenationsxyz:
   url: 'wiki.frostforgenations.xyz'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
+magebunkshelfnet:
+  url: 'magebunkshelf.net'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
