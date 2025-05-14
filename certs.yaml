@@ -2582,3 +2582,11 @@ magebunkshelfnet:
   url: 'magebunkshelf.net'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
+thronefallwiki:
+  url: 'thronefall.wiki'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
+wikigenesistherealmcom:
+  url: 'wiki.genesistherealm.com'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
