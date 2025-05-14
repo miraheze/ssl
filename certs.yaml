@@ -2590,3 +2590,7 @@ wikigenesistherealmcom:
   url: 'wiki.genesistherealm.com'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
+osfirsttimerwiki:
+  url: 'osfirsttimer.wiki'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
