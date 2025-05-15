@@ -846,7 +846,8 @@ wikiwidwwacouk:
   sslname: miraheze-origin-cert
 worldtriggerwikicom:
   url: 'worldtriggerwiki.com'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
 escountryhumanspolandballwiki:
   url: 'es.countryhumans.polandball.wiki'
   ca: 'Cloudflare'
