@@ -1158,9 +1158,6 @@ wikipixandbitgay:
   url: 'wiki.pixandbit.gay'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
-fashiondreamerwiki:
-  url: 'fashiondreamer.wiki'
-  ca: 'LetsEncrypt'
 wikihacklabsrorg:
   url: 'wiki.hacklabsr.org'
   ca: 'Cloudflare'
