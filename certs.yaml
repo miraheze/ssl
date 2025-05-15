@@ -1455,7 +1455,8 @@ wikicowglxyz:
   sslname: miraheze-origin-cert
 rippaversewikicom:
   url: 'rippaversewiki.com'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
 wikipokrewnet:
   url: 'wiki.pokrew.net'
   ca: 'Cloudflare'
@@ -1732,7 +1733,8 @@ mappingwikiorg:
   sslname: 'miraheze-origin-cert'
 dccomicswikicom:
   url: 'dccomicswiki.com'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
 wikizymoniccom:
   url: 'wiki.zymonic.com'
   ca: 'Cloudflare'
