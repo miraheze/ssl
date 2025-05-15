@@ -2595,3 +2595,15 @@ osfirsttimerwiki:
   url: 'osfirsttimer.wiki'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
+polyphasicorg:
+  url: 'polyphasic.org'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
+emcchurchorg:
+  url: 'emc-church.org'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
+wikigalaxycasa:
+  url: 'wiki.galaxy.casa'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
