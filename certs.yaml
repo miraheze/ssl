@@ -596,7 +596,8 @@ wikiaoemodscom:
   sslname: miraheze-origin-cert
 dragdownwiki:
   url: 'dragdown.wiki'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
 legacygtwiki:
   url: 'legacygt.wiki'
   ca: 'Cloudflare'
