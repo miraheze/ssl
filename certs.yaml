@@ -1688,7 +1688,8 @@ wikiirisstationlol:
   sslname: miraheze-origin-cert
 geeuorg:
   url: 'geeu.org'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
 wikiendiversumcom:
   url: 'wiki.endiversum.com'
   sslname: 'miraheze-origin-cert'
