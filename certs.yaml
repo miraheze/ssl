@@ -1931,10 +1931,6 @@ wikiguaranpises:
   url: 'wiki.guaranpis.es'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
-lagrancaidawikiarsengonxxyz:
-  url: 'lagrancaidawiki.arsengonx.xyz'
-  ca: 'Cloudflare'
-  sslname: 'miraheze-origin-cert'
 cisowiki:
   url: 'ciso.wiki'
   ca: 'Cloudflare'
