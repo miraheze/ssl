@@ -1655,7 +1655,8 @@ wikinamegamesdev:
   sslname: miraheze-origin-cert
 kingdomwaywiki:
   url: 'kingdomway.wiki'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
 wikitgtdrblxcom:
   url: 'wiki.tgtdrblx.com'
   ca: 'Cloudflare'
