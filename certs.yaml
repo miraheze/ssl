@@ -1617,7 +1617,8 @@ unhingedwikiparalleldvorg:
   sslname: miraheze-origin-cert
 clubpenguinfanonwiki:
   url: 'clubpenguinfanon.wiki'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
 wikidfonlinedev:
   url: 'wiki.dfonline.dev'
   ca: 'Cloudflare'
