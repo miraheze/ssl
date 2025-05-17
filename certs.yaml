@@ -1792,7 +1792,8 @@ wikibastionsgrfgd:
   sslname: miraheze-origin-cert
 darkwaterswikicom:
   url: 'darkwaterswiki.com'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
 voecwikicom:
   url: 'voecwiki.com'
   ca: 'LetsEncrypt'
