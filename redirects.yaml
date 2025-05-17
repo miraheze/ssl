@@ -206,6 +206,11 @@ avidwikiredirect:
   redirect: 'www.avid.wiki'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
+wwwkingdomwaywiki:
+  url: 'www.kingdomway.wiki'
+  redirect: 'kingdomway.wiki'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
 # *.miraheze.org/*.wikitide.org to wiki custom domains redirects
 allthetropeswiki:
   url: 'allthetropes.miraheze.org'
