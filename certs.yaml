@@ -441,6 +441,10 @@ lcnzfcidlv:
 thestarsarerightorg:
   url: 'thestarsareright.org'
   ca: 'LetsEncrypt'
+puzzleswiki:
+  url: 'puzzles.wiki'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
 wwwpuzzleswiki:
   url: 'www.puzzles.wiki'
   ca: 'Cloudflare'
