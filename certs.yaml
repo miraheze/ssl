@@ -2607,3 +2607,23 @@ wikigalaxycasa:
   url: 'wiki.galaxy.casa'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
+wikifluxstufforg:
+  url: 'wiki.fluxstuff.org'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
+lostmediawiki:
+  url: 'lostmedia.wiki'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
+enaryavratpediasite:
+  url: 'en.aryavratpedia.site'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
+babelprojectsalcyekacom:
+  url: 'babelproject.salcyeka.com'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
+wwwagnwwat:
+  url: 'www.agnww.at'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
