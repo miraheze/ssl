@@ -2631,3 +2631,19 @@ wwwagnwwat:
   url: 'www.agnww.at'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
+wikihumblezealotcom:
+  url: 'wiki.humblezealot.com'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
+wikioutreach62650org:
+  url: 'wiki.outreach62650.org'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
+guaryavratpediasite:
+  url: 'gu.aryavratpedia.site'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
+wikispellpowdercom:
+  url: 'wiki.spellpowder.com'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
