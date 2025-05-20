@@ -64,8 +64,8 @@ simswiki:
 wwwmh142com:
   url: 'www.mh142.com'
   redirect: 'mh142.com'
-  sslname: 'mh142.com'
-  ca: 'LetsEncrypt'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
 statusredirect:
   url: 'status.miraheze.org'
   redirect: 'wikitidestatus.net'
