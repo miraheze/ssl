@@ -144,8 +144,8 @@ wwwtrollpastacom:
 puzzleswiki:
   url: 'puzzles.wiki'
   redirect: 'www.puzzles.wiki'
-  ca: 'LetsEncrypt'
-  sslname: puzzles.wiki
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
 wwwethenewiki:
   url: 'www.ethene.wiki'
   redirect: 'ethene.wiki'
