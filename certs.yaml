@@ -665,7 +665,8 @@ webkinzguide.com:
   sslname: miraheze-origin-cert
 landofliberos:
   url: 'landofliberos.com'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
 evilgeniuswikicom:
   url: 'evilgeniuswiki.com'
   ca: 'LetsEncrypt'
