@@ -211,6 +211,11 @@ wwwkingdomwaywiki:
   redirect: 'kingdomway.wiki'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
+wwwgrayravenscom:
+  url: 'www.grayravens.com'
+  redirect: 'grayravens.com'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
 # *.miraheze.org/*.wikitide.org to wiki custom domains redirects
 allthetropeswiki:
   url: 'allthetropes.miraheze.org'
