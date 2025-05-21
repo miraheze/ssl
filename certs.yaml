@@ -2643,3 +2643,7 @@ wikispellpowdercom:
   url: 'wiki.spellpowder.com'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
+chdapothecarywales:
+  url: 'chd.apothecary.wales'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
