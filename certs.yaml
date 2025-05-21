@@ -533,7 +533,8 @@ grcrepositoryarchiopediaorg:
   sslname: miraheze-origin-cert
 grayravenscom:
   url: 'grayravens.com'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
 wikicontrolistesfr:
   url: 'wiki.controlistes.fr'
   ca: 'Cloudflare'
