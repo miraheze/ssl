@@ -64,8 +64,8 @@ simswiki:
 wwwmh142com:
   url: 'www.mh142.com'
   redirect: 'mh142.com'
-  sslname: 'mh142.com'
-  ca: 'LetsEncrypt'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
 statusredirect:
   url: 'status.miraheze.org'
   redirect: 'wikitidestatus.net'
@@ -144,8 +144,8 @@ wwwtrollpastacom:
 puzzleswiki:
   url: 'puzzles.wiki'
   redirect: 'www.puzzles.wiki'
-  ca: 'LetsEncrypt'
-  sslname: puzzles.wiki
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
 wwwethenewiki:
   url: 'www.ethene.wiki'
   redirect: 'ethene.wiki'
@@ -209,6 +209,11 @@ avidwikiredirect:
 wwwkingdomwaywiki:
   url: 'www.kingdomway.wiki'
   redirect: 'kingdomway.wiki'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
+wwwgrayravenscom:
+  url: 'www.grayravens.com'
+  redirect: 'grayravens.com'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
 # *.miraheze.org/*.wikitide.org to wiki custom domains redirects

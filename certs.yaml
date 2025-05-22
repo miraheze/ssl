@@ -27,7 +27,8 @@ wikitideorg:
   ca: 'LetsEncrypt'
 antiguabarbudacalypso:
   url: 'antiguabarbudacalypso.com'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
 permanentfuturelab:
   url: 'permanentfuturelab.wiki'
   ca: 'LetsEncrypt'
@@ -104,6 +105,10 @@ openhatch:
 electowikiorg:
   url: 'electowiki.org'
   ca: 'LetsEncrypt'
+nonciclopediaorg:
+  url: 'nonciclopedia.org'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
 stablestateorg:
   url: 'stablestate.org'
   ca: 'Cloudflare'
@@ -512,7 +517,8 @@ grcrepositoryarchiopediaorg:
   sslname: miraheze-origin-cert
 grayravenscom:
   url: 'grayravens.com'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
 wikicontrolistesfr:
   url: 'wiki.controlistes.fr'
   ca: 'Cloudflare'
@@ -644,7 +650,8 @@ webkinzguide.com:
   sslname: miraheze-origin-cert
 landofliberos:
   url: 'landofliberos.com'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
 evilgeniuswikicom:
   url: 'evilgeniuswiki.com'
   ca: 'LetsEncrypt'
@@ -2584,5 +2591,45 @@ emcchurchorg:
   sslname: 'miraheze-origin-cert'
 wikigalaxycasa:
   url: 'wiki.galaxy.casa'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
+wikifluxstufforg:
+  url: 'wiki.fluxstuff.org'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
+lostmediawiki:
+  url: 'lostmedia.wiki'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
+enaryavratpediasite:
+  url: 'en.aryavratpedia.site'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
+babelprojectsalcyekacom:
+  url: 'babelproject.salcyeka.com'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
+wwwagnwwat:
+  url: 'www.agnww.at'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
+wikihumblezealotcom:
+  url: 'wiki.humblezealot.com'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
+wikioutreach62650org:
+  url: 'wiki.outreach62650.org'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
+guaryavratpediasite:
+  url: 'gu.aryavratpedia.site'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
+wikispellpowdercom:
+  url: 'wiki.spellpowder.com'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
+chdapothecarywales:
+  url: 'chd.apothecary.wales'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
