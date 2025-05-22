@@ -457,7 +457,8 @@ threedomwikipcastsite:
   sslname: miraheze-origin-cert
 rctwiki:
   url: 'rct.wiki'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
 wikimisslessfightersclub:
   url: 'wiki.misslessfighters.club'
   ca: 'Cloudflare'
