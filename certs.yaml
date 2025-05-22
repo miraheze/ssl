@@ -116,7 +116,8 @@ electowikiorg:
   ca: 'LetsEncrypt'
 nonciclopediaorg:
   url: 'nonciclopedia.org'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
 stablestateorg:
   url: 'stablestate.org'
   ca: 'Cloudflare'
