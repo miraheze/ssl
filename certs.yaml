@@ -98,7 +98,8 @@ openhatch:
   sslname: miraheze-origin-cert
 electowikiorg:
   url: 'electowiki.org'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
 nonciclopediaorg:
   url: 'nonciclopedia.org'
   ca: 'Cloudflare'
