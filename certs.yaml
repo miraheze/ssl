@@ -876,7 +876,8 @@ cloudneptunewiki:
   sslname: miraheze-origin-cert
 corruwiki:
   url: 'corru.wiki'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
 kbnenaorg:
   url: 'kb.nena.org'
   ca: 'Cloudflare'
