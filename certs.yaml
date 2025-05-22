@@ -414,9 +414,6 @@ lcnzfcidlv:
   url: 'lcn.zfc.id.lv'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
-thestarsarerightorg:
-  url: 'thestarsareright.org'
-  ca: 'LetsEncrypt'
 wwwpuzzleswiki:
   url: 'www.puzzles.wiki'
   ca: 'Cloudflare'
@@ -450,10 +447,6 @@ pwikidrydraytonvillagehallorguk:
   sslname: miraheze-origin-cert
 bluearchivewiki:
   url: 'bluearchive.wiki'
-  ca: 'Cloudflare'
-  sslname: miraheze-origin-cert
-threedomwikipcastsite:
-  url: 'threedomwiki.pcast.site'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
 rctwiki:
@@ -648,10 +641,6 @@ landofliberos:
 evilgeniuswikicom:
   url: 'evilgeniuswiki.com'
   ca: 'LetsEncrypt'
-wikimastodonkr:
-  url: 'wiki.mastodon.kr'
-  ca: 'Cloudflare'
-  sslname: miraheze-origin-cert
 wwwdovearchives:
   url: 'www.dovearchives.wiki'
   ca: 'Cloudflare'
@@ -688,9 +677,6 @@ wikiauraxisco:
   url: 'wiki.auraxis.co'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
-hastursnotebookorg:
-  url: 'hastursnotebook.org'
-  ca: 'LetsEncrypt'
 321nailscrpteam:
   url: '321nails.crpteam.club'
   ca: 'Cloudflare'
@@ -1534,9 +1520,6 @@ wikiamplicityfr:
 maxcapacitywiki:
   url: 'maxcapacity.wiki'
   ca: 'LetsEncrypt'
-terraformingwiki:
-  url: 'terraforming.wiki'
-  ca: 'LetsEncrypt'
 beyondtheveilrpcom:
   url: 'beyondtheveilrp.com'
   ca: 'LetsEncrypt'
@@ -1969,17 +1952,10 @@ gielinorgameswiki:
 lotrsu:
   url: 'lotr.su'
   ca: 'LetsEncrypt'
-wikilightningwizardscom:
-  url: 'wiki.lightningwizards.com'
-  ca: 'Cloudflare'
-  sslname: 'miraheze-origin-cert'
 wikicontinentalmcnet:
   url: 'wiki.continental-mc.net'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
-holostarswiki:
-  url: 'holostars.wiki'
-  ca: 'LetsEncrypt'
 z1rwiki:
   url: 'z1r.wiki'
   ca: 'LetsEncrypt'
@@ -2335,10 +2311,6 @@ outlasterpeakprecisionwiki:
   url: 'outlaster.peakprecision.wiki'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
-genericowiki:
-  url: 'generico.wiki'
-  ca: 'Cloudflare'
-  sslname: 'miraheze-origin-cert'
 projectrusherorg:
   url: 'project-rusher.org'
   ca: 'Cloudflare'
@@ -2513,10 +2485,6 @@ wwwbackroomssdtop:
   sslname: 'miraheze-origin-cert'
 wwwshulchanaruchcoil:
   url: 'www.shulchan-aruch.co.il'
-  ca: 'Cloudflare'
-  sslname: 'miraheze-origin-cert'
-wikiarvandornationsxyz:
-  url: 'wiki.arvandornations.xyz'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
 wikibunnyorgin:
