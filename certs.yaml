@@ -2580,3 +2580,7 @@ chdapothecarywales:
   url: 'chd.apothecary.wales'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
+wwwjourneythewordwiki:
+  url: 'www.journeytheword.wiki'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
