@@ -605,15 +605,6 @@ enomniversalisorg:
   url: 'en.omniversalis.org'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
-iolwiki:
-  url: 'iol.wiki'
-  ca: 'LetsEncrypt'
-rollofarms:
-  url: 'roll-of-arms.com'
-  ca: 'LetsEncrypt'
-knifepointhorrorwiki:
-  url: 'knifepointhorror.wiki'
-  ca: 'LetsEncrypt'
 wwwcgradegamesnet:
   url: 'www.cgradegames.net'
   ca: 'Cloudflare'
@@ -685,12 +676,6 @@ wikipuucraftnet:
   url: 'wiki.puucraft.net'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
-ncuwikicom:
-  url: 'ncuwiki.com'
-  ca: 'LetsEncrypt'
-creativecommonsid:
-  url: 'creativecommons.id'
-  ca: 'LetsEncrypt'
 elsterclopediemarithaimenl:
   url: 'elsterclopedie.marithaime.nl'
   ca: 'Cloudflare'
