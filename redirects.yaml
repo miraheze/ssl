@@ -216,6 +216,11 @@ wwwgrayravenscom:
   redirect: 'grayravens.com'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
+wwwrctwiki:
+  url: 'www.rct.wiki'
+  redirect: 'rct.wiki'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
 # *.miraheze.org/*.wikitide.org to wiki custom domains redirects
 allthetropeswiki:
   url: 'allthetropes.miraheze.org'
