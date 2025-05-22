@@ -80,9 +80,6 @@ ciptamedia:
   url: 'wiki.ciptamedia.org'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
-podpedia:
-  url: 'podpedia.org'
-  ca: 'LetsEncrypt'
 pwiki:
   url: 'pwiki.arkcls.com'
   ca: 'Cloudflare'
@@ -91,9 +88,6 @@ lab612:
   url: 'www.lab612.at'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
-encforuz:
-  url: 'enc.for.uz'
-  ca: 'LetsEncrypt'
 wikiwhentheycryorg:
   url: 'wiki.whentheycry.org'
   ca: 'Cloudflare'
@@ -344,9 +338,6 @@ wikiglobasanet:
   url: 'wiki.globasa.net'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
-ecolesciencewiki:
-  url: 'ecole.science'
-  ca: 'LetsEncrypt'
 wikiastralprojectionsorg:
   url: 'wiki.astralprojections.org'
   ca: 'Cloudflare'
