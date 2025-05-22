@@ -56,9 +56,6 @@ zenbuddhisminfo:
   url: 'www.zenbuddhism.info'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
-speleo:
-  url: 'speleo.wiki'
-  ca: 'LetsEncrypt'
 tulpa:
   url: 'wiki.tulpa.info'
   ca: 'Cloudflare'
@@ -90,9 +87,6 @@ pwiki:
   url: 'pwiki.arkcls.com'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
-kunwok:
-  url: 'kunwok.org'
-  ca: 'LetsEncrypt'
 lab612:
   url: 'www.lab612.at'
   ca: 'Cloudflare'
@@ -108,9 +102,6 @@ openhatch:
   url: 'wiki.openhatch.org'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
-encyclopediaofastrobiologyorg:
-  url: 'encyclopediaofastrobiology.org'
-  ca: 'LetsEncrypt'
 electowikiorg:
   url: 'electowiki.org'
   ca: 'LetsEncrypt'
@@ -142,19 +133,10 @@ visedayidorg:
   url: 'vise.dayid.org'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
-runzeppelinru:
-  url: 'runzeppelin.ru'
-  ca: 'LetsEncrypt'
-bebaskanpengetahuanid:
-  url: 'bebaskanpengetahuan.id'
-  ca: 'LetsEncrypt'
 wwwthesimswikicom:
   url: 'www.thesimswiki.com'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
-mh142com:
-  url: 'mh142.com'
-  ca: 'LetsEncrypt'
 wikimxlinuxusersde:
   url: 'wiki.mxlinuxusers.de'
   ca: 'Cloudflare'
