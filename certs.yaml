@@ -27,7 +27,8 @@ wikitideorg:
   ca: 'LetsEncrypt'
 antiguabarbudacalypso:
   url: 'antiguabarbudacalypso.com'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
 permanentfuturelab:
   url: 'permanentfuturelab.wiki'
   ca: 'LetsEncrypt'
