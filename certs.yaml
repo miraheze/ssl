@@ -1943,7 +1943,8 @@ wikicontinentalmcnet:
   sslname: 'miraheze-origin-cert'
 z1rwiki:
   url: 'z1r.wiki'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
 raidrushwiki:
   url: 'raidrush.wiki'
   ca: 'LetsEncrypt'
