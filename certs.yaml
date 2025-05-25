@@ -2585,3 +2585,7 @@ wwwjourneythewordwiki:
   url: 'www.journeytheword.wiki'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
+exodusgamewiki:
+  url: 'exodusgame.wiki'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
