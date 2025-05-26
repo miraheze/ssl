@@ -131,11 +131,6 @@ reviwikiinfo:
   redirect: 'revi.wiki'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
-wwwtrollpastacom:
-  url: 'www.trollpasta.com'
-  redirect: 'trollpasta.com'
-  ca: 'Cloudflare'
-  sslname: miraheze-origin-cert
 puzzleswiki:
   url: 'puzzles.wiki'
   redirect: 'www.puzzles.wiki'
