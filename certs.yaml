@@ -385,7 +385,8 @@ equestripediaorg:
   sslname: miraheze-origin-cert
 trollpastacom:
   url: 'trollpasta.com'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
 repositoryarchiopediaorg:
   url: 'repository.archiopedia.org'
   ca: 'Cloudflare'
