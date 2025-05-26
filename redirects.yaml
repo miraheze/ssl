@@ -416,6 +416,24 @@ chinafakewiki:
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
+tanukipediawiki:
+  url: 'tanukipedia.miraheze.org'
+  redirect: 'tanuki.iml.menhera.org'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
+dreamsciencewiki:
+  url: 'dreamscience.miraheze.org'
+  redirect: 'dreamscience.iml.menhera.org'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
+sarasawiki:
+  url: 'sarasa.miraheze.org'
+  redirect: 'sarasa.iml.menhera.org'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
 # *.miraheze.org to *.miraheze.org wiki redirects
 wwwredirect:
   url: 'www.miraheze.org'
