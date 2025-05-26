@@ -2589,3 +2589,7 @@ exodusgamewiki:
   url: 'exodusgame.wiki'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
+wikioriginsreimaginedcom:
+  url: 'wiki.originsreimagined.com'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
