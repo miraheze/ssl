@@ -2598,3 +2598,11 @@ wwwknifepointhorrorwiki:
   url: 'www.knifepointhorror.wiki'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
+wikivanillaeuropacom:
+  url: 'wiki.vanillaeuropa.com'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
+eutwikicom:
+  url: 'eutwiki.com'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
