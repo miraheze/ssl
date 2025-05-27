@@ -2594,3 +2594,10 @@ wikioriginsreimaginedcom:
   url: 'wiki.originsreimagined.com'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
+wwwknifepointhorrorwiki:
+  url: 'www.knifepointhorror.wiki'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert:
+  url: 'wiki.originsreimagined.com'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
