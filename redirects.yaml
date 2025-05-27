@@ -166,11 +166,6 @@ wwwrosettacodeorg:
   redirect: 'rosettacode.org'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
-wwwthegreatwaruk:
-  url: 'www.thegreatwar.uk'
-  redirect: 'thegreatwar.uk'
-  ca: 'Cloudflare'
-  sslname: miraheze-origin-cert
 wwwrippaversewikicom:
   url: 'www.rippaversewiki.com'
   redirect: 'rippaversewiki.com'

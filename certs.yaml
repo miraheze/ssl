@@ -419,9 +419,6 @@ wwwpuzzleswiki:
   url: 'www.puzzles.wiki'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
-wikimomaart:
-  url: 'wikimoma.art'
-  ca: 'LetsEncrypt'
 worldsanskritnet:
   url: 'worldsanskrit.net'
   ca: 'Cloudflare'
@@ -630,9 +627,6 @@ landofliberos:
   url: 'landofliberos.com'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
-evilgeniuswikicom:
-  url: 'evilgeniuswiki.com'
-  ca: 'LetsEncrypt'
 wwwdovearchives:
   url: 'www.dovearchives.wiki'
   ca: 'Cloudflare'
@@ -996,9 +990,6 @@ wikitmyt105leyhpcom:
 rodzinkawiki:
   url: 'rodzinka.wiki'
   ca: 'LetsEncrypt'
-psychoengineering:
-  url: 'psycho.engineering'
-  ca: 'LetsEncrypt'
 removededmcom:
   url: 'removededm.com'
   ca: 'LetsEncrypt'
@@ -1352,9 +1343,6 @@ wikikscucforg:
   url: 'wiki.kscucf.org'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
-thegreatwaruk:
-  url: 'thegreatwar.uk'
-  ca: 'LetsEncrypt'
 wikimyehseu:
   url: 'wiki.myehs.eu'
   ca: 'Cloudflare'
