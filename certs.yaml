@@ -1259,7 +1259,8 @@ lgbtqiawiki:
   sslname: miraheze-origin-cert
 rosettacodeorg:
   url: 'rosettacode.org'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
 wikihwfibcom:
   url: 'wiki.hwfib.com'
   ca: 'Cloudflare'
