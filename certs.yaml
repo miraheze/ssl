@@ -2607,3 +2607,7 @@ eutwikicom:
   url: 'eutwiki.com'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
+wwwfinalbosuwiki:
+  url: 'www.finalbosu.wiki'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
