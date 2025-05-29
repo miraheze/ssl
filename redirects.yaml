@@ -90,22 +90,12 @@ portalsofphereoncomredir:
   redirect: 'www.portalsofphereon.com'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
-baharnaorg:
-  url: 'baharna.org'
-  redirect: 'www.baharna.org'
-  ca: 'LetsEncrypt'
-  sslname: baharna.org
 uncyclopediakrwiki:
   url: 'uncyclopediakr.miraheze.org'
   redirect: 'truth.miraheze.org'
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
-iceriaorg:
-  url: 'iceria.org'
-  redirect: 'www.iceria.org'
-  ca: 'LetsEncrypt'
-  sslname: iceria.org
 wwwpublictestwikicom:
   url: 'www.publictestwiki.com'
   redirect: 'publictestwiki.com'
@@ -116,11 +106,6 @@ christipedianl:
   redirect: 'www.christipedia.nl'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
-johanloopmansnl:
-  url: 'johanloopmans.nl'
-  redirect: 'www.johanloopmans.nl'
-  ca: 'LetsEncrypt'
-  sslname: johanloopmans.nl
 rothwellleedscouk:
   url: 'rothwell-leeds.co.uk'
   redirect: 'www.rothwell-leeds.co.uk'
