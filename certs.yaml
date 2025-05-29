@@ -948,10 +948,6 @@ wikigeniusorg:
   url: 'wikigenius.org'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
-wikiesufranchisecom:
-  url: 'wiki.esufranchise.com'
-  ca: 'Cloudflare'
-  sslname: miraheze-origin-cert
 glitchcitywiki:
   url: 'glitchcity.wiki'
   ca: 'Cloudflare'
@@ -1169,10 +1165,6 @@ sdiyinfo:
   sslname: miraheze-origin-cert
 tfukapp:
   url: 'tfuk.app'
-  ca: 'Cloudflare'
-  sslname: miraheze-origin-cert
-wikikkstudioeuorg:
-  url: 'wiki.kkstudio.eu.org'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
 ladswiki:
@@ -2278,10 +2270,6 @@ wwwcrunktropoliscom:
   sslname: 'miraheze-origin-cert'
 wikignreblazedxyz:
   url: 'wiki.gnreblazed.xyz'
-  ca: 'Cloudflare'
-  sslname: 'miraheze-origin-cert'
-backroomssdunhasnameasia:
-  url: 'backrooms-sd.unhasname.asia'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
 wwwbaldisbasicswiki:
