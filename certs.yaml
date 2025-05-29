@@ -29,9 +29,6 @@ antiguabarbudacalypso:
   url: 'antiguabarbudacalypso.com'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
-permanentfuturelab:
-  url: 'permanentfuturelab.wiki'
-  ca: 'Cloudflare'
 test:
   url: 'publictestwiki.com'
   ca: 'Cloudflare'
@@ -1676,9 +1673,6 @@ hybridcafewiki:
   url: 'hybridcafe.wiki'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
-edapedianet:
-  url: 'edapedia.net'
-  ca: 'Cloudflare'
 wikiponovors:
   url: 'wiki.ponovo.rs'
   ca: 'Cloudflare'
