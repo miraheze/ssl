@@ -232,10 +232,6 @@ hololivewiki:
   url: 'hololive.wiki'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
-archivestellurgistswiki:
-  url: 'archive.stellurgists.wiki'
-  ca: 'Cloudflare'
-  sslname: miraheze-origin-cert
 wikissijse:
   url: 'wiki.ssij.se'
   ca: 'Cloudflare'
@@ -2082,10 +2078,6 @@ nandopediait:
   sslname: 'miraheze-origin-cert'
 prisonpediaorg:
   url: 'prisonpedia.org'
-  ca: 'Cloudflare'
-  sslname: 'miraheze-origin-cert'
-wikityrillymcity:
-  url: 'wiki.tyrillym.city'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
 maledictumsummertaocom:
