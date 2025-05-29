@@ -104,6 +104,7 @@ wwwpublictestwikicom:
 iceriaorg:
   url: 'iceria.org'
   redirect: 'www.iceria.org'
+  sslname: miraheze-origin-cert
 christipedianl:
   url: 'christipedia.nl'
   redirect: 'www.christipedia.nl'
