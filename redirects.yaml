@@ -101,6 +101,9 @@ wwwpublictestwikicom:
   redirect: 'publictestwiki.com'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
+iceriaorg:
+  url: 'iceria.org'
+  redirect: 'www.iceria.org'
 christipedianl:
   url: 'christipedia.nl'
   redirect: 'www.christipedia.nl'
