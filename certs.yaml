@@ -2440,3 +2440,7 @@ wwwfinalbosuwiki:
   url: 'www.finalbosu.wiki'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
+ff8wiki:
+  url: 'ff8.wiki'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
