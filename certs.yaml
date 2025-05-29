@@ -2024,10 +2024,6 @@ wikietherealmov:
   url: 'wiki.ethereal.mov'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
-famedataorg:
-  url: 'famedata.org'
-  ca: 'Cloudflare'
-  sslname: 'miraheze-origin-cert'
 ckcwiki90percentstudioscom:
   url: 'ckcwiki.90percentstudios.com'
   ca: 'Cloudflare'
@@ -2374,10 +2370,6 @@ thronefallwiki:
   sslname: 'miraheze-origin-cert'
 wikigenesistherealmcom:
   url: 'wiki.genesistherealm.com'
-  ca: 'Cloudflare'
-  sslname: 'miraheze-origin-cert'
-osfirsttimerwiki:
-  url: 'osfirsttimer.wiki'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
 polyphasicorg:
