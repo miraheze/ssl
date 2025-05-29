@@ -31,7 +31,7 @@ antiguabarbudacalypso:
   sslname: miraheze-origin-cert
 permanentfuturelab:
   url: 'permanentfuturelab.wiki'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
 test:
   url: 'publictestwiki.com'
   ca: 'Cloudflare'
@@ -230,7 +230,7 @@ wikiminkyukim:
   sslname: miraheze-origin-cert
 wikivinesheuorg:
   url: 'wiki.vinesh.eu.org'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
 guiaesporonet:
   url: 'guia.esporo.net'
   ca: 'Cloudflare'
@@ -737,7 +737,7 @@ wikialbrusmusicru:
   sslname: miraheze-origin-cert
 wizardiawiki:
   url: 'wizardia.wiki'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
 wikiyunachannelcom:
   url: 'wiki.yunachannel.com'
   ca: 'Cloudflare'
@@ -784,7 +784,7 @@ comprehensibleinputwikiorg:
   sslname: miraheze-origin-cert
 wonderfuleverydayorg:
   url: 'wonderfuleveryday.org'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
 wikiwidwwacouk:
   url: 'wiki.widwwa.co.uk'
   ca: 'Cloudflare'
@@ -967,10 +967,10 @@ wikiknowledgerevolutioneu:
   sslname: miraheze-origin-cert
 echoeswikicom:
   url: 'echoes-wiki.com'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
 familiacorsicom:
   url: 'familiacorsi.com'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
 wikigeniusorg:
   url: 'wikigenius.org'
   ca: 'Cloudflare'
@@ -989,13 +989,13 @@ wikitmyt105leyhpcom:
   sslname: miraheze-origin-cert
 rodzinkawiki:
   url: 'rodzinka.wiki'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
 removededmcom:
   url: 'removededm.com'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
 partopediaru:
   url: 'partopedia.ru'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
 wikicol6de:
   url: 'wiki.col6.de'
   ca: 'Cloudflare'
@@ -1034,7 +1034,7 @@ wikigrabtoolslive:
   sslname: miraheze-origin-cert
 mockgovernmentscom:
   url: 'mockgovernments.com'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
 pandorastalewiki:
   url: 'pandorastale.wiki'
   ca: 'Cloudflare'
@@ -1065,7 +1065,7 @@ wwwclinithequefr:
   sslname: miraheze-origin-cert
 richteriancom:
   url: 'richterian.com'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
 wikiaclevocom:
   url: 'wiki.aclevo.com'
   ca: 'Cloudflare'
@@ -1176,7 +1176,7 @@ wikigamergeekedus:
   sslname: miraheze-origin-cert
 ff8wiki:
   url: 'ff8.wiki'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
 wwwistpcomputingcom:
   url: 'www.istpcomputing.com'
   ca: 'Cloudflare'
@@ -1187,7 +1187,7 @@ wikisadboyzpodcom:
   sslname: miraheze-origin-cert
 holocronnet:
   url: 'holocron.net'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
 atlasstarworldzone:
   url: 'atlas.starworld.zone'
   ca: 'Cloudflare'
@@ -1286,7 +1286,7 @@ lpfteamnl:
   sslname: miraheze-origin-cert
 phightingwiki:
   url: 'phighting.wiki'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
 wikigreatphermesiacom:
   url: 'wiki.greatphermesia.com'
   ca: 'Cloudflare'
@@ -1297,21 +1297,21 @@ wikithelastdimensionnet:
   sslname: miraheze-origin-cert
 pso2ngswiki:
   url: 'pso2ngs.wiki'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
 wikicorfyi:
   url: 'wiki.cor.fyi'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
 osrwikiorg:
   url: 'osrwiki.org'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
 wikigowashtenaworg:
   url: 'wiki.gowashtenaw.org'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
 volunteerforukrainecom:
   url: 'volunteerforukraine.com'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
 wikiate42ru:
   url: 'wiki.ate42.ru'
   ca: 'Cloudflare'
@@ -1330,7 +1330,7 @@ spiceandwolfwiki:
   sslname: miraheze-origin-cert
 farthestfrontierwiki:
   url: 'farthestfrontier.wiki'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
 alphasagan4org:
   url: 'alpha.sagan4.org'
   ca: 'Cloudflare'
@@ -1349,7 +1349,7 @@ wikimyehseu:
   sslname: miraheze-origin-cert
 worldlesswiki:
   url: 'worldless.wiki'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
 wwwlangrisserwiki:
   url: 'www.langrisser.wiki'
   ca: 'Cloudflare'
@@ -1408,7 +1408,7 @@ marvelcinematicuniversewiki:
   sslname: miraheze-origin-cert
 urbanshadeorg:
   url: 'urbanshade.org'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
 wikijunkstorexyz:
   url: 'wiki.junkstore.xyz'
   ca: 'Cloudflare'
@@ -1427,7 +1427,7 @@ wikipenguinmodcom:
   sslname: miraheze-origin-cert
 boneswordwiki:
   url: 'bonesword.wiki'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
 zhtardiswiki:
   url: 'zh.tardis.wiki'
   ca: 'Cloudflare'
@@ -1494,10 +1494,10 @@ wikiamplicityfr:
   sslname: miraheze-origin-cert
 maxcapacitywiki:
   url: 'maxcapacity.wiki'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
 beyondtheveilrpcom:
   url: 'beyondtheveilrp.com'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
 meijinversuscom:
   url: 'meijinversus.com'
   ca: 'Cloudflare'
@@ -1544,7 +1544,7 @@ pickaxeshowierdataxyz:
   sslname: miraheze-origin-cert
 fanojowiki:
   url: 'fanojo.wiki'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
 gufengchengtop:
   url: 'gufengcheng.top'
   ca: 'Cloudflare'
@@ -1579,7 +1579,7 @@ wikigtnhdemocracysite:
   sslname: miraheze-origin-cert
 baligawikiorg:
   url: 'baligawiki.org'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
 wikisletattech:
   url: 'wiki.sletat.tech'
   ca: 'Cloudflare'
@@ -1610,17 +1610,17 @@ chinafakewiki:
   sslname: miraheze-origin-cert
 yepediaxyz:
   url: 'yepedia.xyz'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
 jackboxwiki:
   url: 'jackbox.wiki'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
 exmormonwiki:
   url: 'exmormon.wiki'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
 archivesofhavnororg:
   url: 'archivesofhavnor.org'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
 wikiirisstationlol:
   url: 'wiki.irisstation.lol'
   ca: 'Cloudflare'
@@ -1639,7 +1639,7 @@ wwwtagpediajp:
   ca: 'Cloudflare'
 weavefarerswiki:
   url: 'weavefarers.wiki'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
 workercooppodepoorg:
   url: 'worker.cooppodepo.org'
   ca: 'Cloudflare'
@@ -1654,7 +1654,7 @@ armoredpatrolremasteredcom:
   sslname: 'miraheze-origin-cert'
 blackmagicwiki:
   url: 'blackmagic.wiki'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
 wstaglol:
   url: 'w.stag.lol'
   ca: 'Cloudflare'
@@ -1709,13 +1709,13 @@ caverncrushercom:
   sslname: miraheze-origin-cert
 magistroco:
   url: 'magistro.co'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
 azwikicom:
   url: 'az-wiki.com'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
 decimatedrivewiki:
   url: 'decimatedrive.wiki'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
 wikisaucerank1com:
   url: 'wikisauce.rank1.com'
   ca: 'Cloudflare'
@@ -1734,7 +1734,7 @@ darkwaterswikicom:
   sslname: 'miraheze-origin-cert'
 voecwikicom:
   url: 'voecwiki.com'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
 wikititaniumnetwork:
   url: 'wiki.titaniumnet.work'
   ca: 'Cloudflare'
@@ -1773,10 +1773,10 @@ hybridcafewiki:
   sslname: 'miraheze-origin-cert'
 balloonfightwikiorg:
   url: 'balloonfightwiki.org'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
 edapedianet:
   url: 'edapedia.net'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
 wikiponovors:
   url: 'wiki.ponovo.rs'
   ca: 'Cloudflare'
@@ -1791,7 +1791,7 @@ wikidisappearingmomentcom:
   sslname: 'miraheze-origin-cert'
 ekumenwiki:
   url: 'ekumen.wiki'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
 tanukiimlmenheraorg:
   url: 'tanuki.iml.menhera.org'
   ca: 'Cloudflare'
@@ -1806,7 +1806,7 @@ dreamscienceimlmenheraorg:
   sslname: 'miraheze-origin-cert'
 sptwikiorg:
   url: 'sptwiki.org'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
 ourlifewikiorg:
   url: 'ourlifewiki.org'
   ca: 'Cloudflare'
@@ -1825,7 +1825,7 @@ ffuwikiyifffi:
   sslname: 'miraheze-origin-cert'
 lotrmcru:
   url: 'lotrmc.ru'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
 istheorizeitorg:
   url: 'is.theorizeit.org'
   ca: 'Cloudflare'
@@ -1848,7 +1848,7 @@ oscaavidwiki:
   sslname: 'miraheze-origin-cert'
 binrayarchivescom:
   url: 'binrayarchives.com'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
 fischipediaorg:
   url: 'fischipedia.org'
   ca: 'Cloudflare'
@@ -1859,7 +1859,7 @@ wikibaublesme:
   sslname: 'miraheze-origin-cert'
 vilexiacom:
   url: 'vilexia.com'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
 wikieyeverseworld:
   url: 'wiki.eyeverse.world'
   ca: 'Cloudflare'
@@ -1926,7 +1926,7 @@ gielinorgameswiki:
   sslname: miraheze-origin-cert
 lotrsu:
   url: 'lotr.su'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
 wikicontinentalmcnet:
   url: 'wiki.continental-mc.net'
   ca: 'Cloudflare'
@@ -1937,16 +1937,16 @@ z1rwiki:
   sslname: miraheze-origin-cert
 raidrushwiki:
   url: 'raidrush.wiki'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
 fairytailwiki:
   url: 'fairytail.wiki'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
 transgenderwiki:
   url: 'transgender.wiki'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
 hellowhirledorg:
   url: 'hellowhirled.org'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
 elaruuwikijamied132isadev:
   url: 'elaruu-wiki.jamied132.is-a.dev'
   ca: 'Cloudflare'
