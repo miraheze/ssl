@@ -2444,3 +2444,7 @@ ff8wiki:
   url: 'ff8.wiki'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
+edapedianet:
+  url: 'edapedia.net'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
