@@ -2448,3 +2448,7 @@ edapedianet:
   url: 'edapedia.net'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
+removededmcom:
+  url: 'removededm.com'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
