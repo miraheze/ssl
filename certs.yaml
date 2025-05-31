@@ -2452,3 +2452,7 @@ removededmcom:
   url: 'removededm.com'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
+polcompballwikitideorg:
+  url: 'polcompball.wikitide.org'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
