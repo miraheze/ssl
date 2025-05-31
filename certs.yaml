@@ -2456,3 +2456,15 @@ polcompballwikitideorg:
   url: 'polcompball.wikitide.org'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
+wikivortoxspace:
+  url: 'wiki.vortox.space'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
+citywikieastsideurbanismorg:
+  url: 'citywiki.eastsideurbanism.org'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
+worldlesswiki:
+  url: 'worldless.wiki'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
