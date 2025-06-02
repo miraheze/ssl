@@ -2468,3 +2468,23 @@ worldlesswiki:
   url: 'worldless.wiki'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
+wikirepublicofkrameriacom:
+  url: 'wiki.republicofkrameria.com'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
+trsanarsivorg:
+  url: 'tr.sanarsiv.org'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
+volunteerforukrainecom:
+  url: 'volunteerforukraine.com'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
+wikievscopeorg:
+  url: 'wiki.evscope.org'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
+wikiwesterosquest:
+  url: 'wiki.westeros.quest'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
