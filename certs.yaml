@@ -2488,3 +2488,7 @@ wikiwesterosquest:
   url: 'wiki.westeros.quest'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
+incubatorsongnguxyz:
+  url: 'incubator.songngu.xyz'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
