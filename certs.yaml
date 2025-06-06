@@ -2492,3 +2492,11 @@ incubatorsongnguxyz:
   url: 'incubator.songngu.xyz'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
+lopercraftwikitesterpesterxyz:
+  url: 'lopercraft-wiki.testerpester.xyz'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
+claymaticwiki:
+  url: 'claymatic.wiki'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
