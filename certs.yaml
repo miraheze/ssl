@@ -2500,3 +2500,11 @@ claymaticwiki:
   url: 'claymatic.wiki'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
+parkourrebornwiki:
+  url: 'parkourreborn.wiki'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
+digtionaryorg:
+  url: 'digtionary.org'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
