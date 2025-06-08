@@ -2508,3 +2508,11 @@ digtionaryorg:
   url: 'digtionary.org'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
+leborkinfopl:
+  url: 'lebork.info.pl'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
+azsanarsivorg:
+  url: 'az.sanarsiv.org'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
