@@ -17,8 +17,7 @@ orainorg:
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
 wikitidenet:
-  url: 'wikitide.net'
-  additional_domain: '*.wikitide.net'
+  url: '*.wikitide.net'
   sslname: 'wikitide.net'
   ca: 'LetsEncrypt'
 wikitideorg:
