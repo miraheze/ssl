@@ -2516,3 +2516,7 @@ azsanarsivorg:
   url: 'az.sanarsiv.org'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
+wikimomaart:
+  url: 'wikimoma.art'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
