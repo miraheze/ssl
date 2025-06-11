@@ -2520,3 +2520,7 @@ wikimomaart:
   url: 'wikimoma.art'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
+wwwenglishbaronageqzzio:
+  url: 'www.englishbaronage.qzz.io'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
