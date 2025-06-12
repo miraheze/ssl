@@ -2524,3 +2524,7 @@ wwwenglishbaronageqzzio:
   url: 'www.englishbaronage.qzz.io'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
+warioversecom:
+  url: 'warioverse.com'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
