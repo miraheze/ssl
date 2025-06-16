@@ -2528,3 +2528,15 @@ warioversecom:
   url: 'warioverse.com'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
+theologywrestlingwithunicornscom:
+  url: 'theology.wrestlingwithunicorns.com'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
+wikisite79fr:
+  url: 'wiki.site79.fr'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
+countrygamenet:
+  url: 'countrygame.net'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
