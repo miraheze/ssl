@@ -2540,3 +2540,7 @@ countrygamenet:
   url: 'countrygame.net'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
+wwwecolescience:
+  url: 'www.ecole.science'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
