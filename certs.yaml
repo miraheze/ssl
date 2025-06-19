@@ -2544,3 +2544,11 @@ wwwecolescience:
   url: 'www.ecole.science'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
+nimbyconniemoe:
+  url: 'nimby.connie.moe'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
+docsben3coderdev:
+  url: 'docs.ben3coder.dev'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
