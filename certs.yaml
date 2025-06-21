@@ -924,10 +924,6 @@ wikiluemirxyz:
   url: 'wiki.luemir.xyz'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
-alternatewikitombrickscom:
-  url: 'alternatewiki.tombricks.com'
-  ca: 'Cloudflare'
-  sslname: miraheze-origin-cert
 wikistarshipsailingnet:
   url: 'wiki.starshipsailing.net'
   ca: 'Cloudflare'
