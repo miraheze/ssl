@@ -200,6 +200,11 @@ wwwwikimomaart:
   redirect: 'wikimoma.art'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
+wwwmarakyhbuorg:
+  url: 'www.marakyhbu.org'
+  redirect: 'marakyhbu.org'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
 # *.miraheze.org/*.wikitide.org to wiki custom domains redirects
 allthetropeswiki:
   url: 'allthetropes.miraheze.org'
