@@ -2548,3 +2548,27 @@ docsben3coderdev:
   url: 'docs.ben3coder.dev'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
+marakyhbuorg:
+  url: 'marakyhbu.org'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
+andrianid:
+  url: 'andrian.id'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
+wikischmeckanerorg:
+  url: 'wiki.schmeckaner.org'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
+choralaccessorg:
+  url: 'choralaccess.org'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
+growlwiki:
+  url: 'growl.wiki'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
+100bangaisongnguxyz:
+  url: '100bangai.songngu.xyz'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
