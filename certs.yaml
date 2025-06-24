@@ -2572,3 +2572,7 @@ growlwiki:
   url: '100bangai.songngu.xyz'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
+wikinojufede:
+  url: 'wiki.nojufe.de'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
