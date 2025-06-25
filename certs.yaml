@@ -2576,3 +2576,7 @@ wikinojufede:
   url: 'wiki.nojufe.de'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
+wikidioritexyz:
+  url: 'wiki.diorite.xyz'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
