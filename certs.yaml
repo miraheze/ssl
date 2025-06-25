@@ -1071,10 +1071,6 @@ wwwdocumentopublicocombr:
   url: 'www.documentopublico.com.br'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
-wikitdrwebtop:
-  url: 'wiki.tdrweb.top'
-  ca: 'Cloudflare'
-  sslname: miraheze-origin-cert
 wikiwildportcom:
   url: 'wiki.wildport.com'
   ca: 'Cloudflare'
@@ -1293,10 +1289,6 @@ wikilifesprogresscom:
   url: 'wiki.lifesprogress.com'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
-wikijilljimmycom:
-  url: 'wiki.jill-jimmy.com'
-  ca: 'Cloudflare'
-  sslname: miraheze-origin-cert
 wikisimplifiedcodingorg:
   url: 'wiki.simplifiedcoding.org'
   ca: 'Cloudflare'
@@ -1425,10 +1417,6 @@ meijinversuscom:
   sslname: miraheze-origin-cert
 valsoratepwiki:
   url: 'valsora.tep.wiki'
-  ca: 'Cloudflare'
-  sslname: miraheze-origin-cert
-arceniawikidoughheartscom:
-  url: 'arceniawiki.doughhearts.com'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
 iewikipurnamcommunityin:
@@ -1607,9 +1595,6 @@ caverncrushercom:
   url: 'caverncrusher.com'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
-decimatedrivewiki:
-  url: 'decimatedrive.wiki'
-  ca: 'Cloudflare'
 wikisaucerank1com:
   url: 'wikisauce.rank1.com'
   ca: 'Cloudflare'
@@ -2266,10 +2251,6 @@ wwwcrunktropoliscom:
   sslname: 'miraheze-origin-cert'
 wikignreblazedxyz:
   url: 'wiki.gnreblazed.xyz'
-  ca: 'Cloudflare'
-  sslname: 'miraheze-origin-cert'
-wwwbaldisbasicswiki:
-  url: 'www.baldisbasics.wiki'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
 psychiatrywikicom:
