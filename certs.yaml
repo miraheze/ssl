@@ -2561,3 +2561,11 @@ wikidioritexyz:
   url: 'wiki.diorite.xyz'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
+wikispacestation13pl:
+  url: 'wiki.spacestation13.pl'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
+pixeldungeonwiki:
+  url: 'pixeldungeon.wiki'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
