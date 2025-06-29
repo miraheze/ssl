@@ -2561,3 +2561,27 @@ wikidioritexyz:
   url: 'wiki.diorite.xyz'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
+wikispacestation13pl:
+  url: 'wiki.spacestation13.pl'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
+pixeldungeonwiki:
+  url: 'pixeldungeon.wiki'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
+eberronwikicom:
+  url: 'eberronwiki.com'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
+legitimoosewiki:
+  url: 'legitimoose.wiki'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
+uwrwikiorg:
+  url: 'uwrwiki.org'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
+wikibackroomszhorg:
+  url: 'wiki.backroomszh.org'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert

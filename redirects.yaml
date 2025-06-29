@@ -477,6 +477,12 @@ handheldswiki:
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
+aomcwiki:
+  url: 'aomc.miraheze.org'
+  redirect: 'wiki.diorite.xyz'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
 legitimoosewiki:
   url: 'legitimoose.miraheze.org'
   redirect: 'legitimoose.wiki'
