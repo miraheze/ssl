@@ -449,7 +449,7 @@ bunkshelfwiki:
   hsts: 'strict'
 backroomszhwiki:
   url: 'backroomszh.miraheze.org'
-  redirect: 'www.backroomszh.wiki'
+  redirect: 'wiki.backroomszh.org'
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
