@@ -2585,3 +2585,7 @@ wikibackroomszhorg:
   url: 'wiki.backroomszh.org'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
+nullscapewiki:
+  url: 'nullscape.wiki'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
