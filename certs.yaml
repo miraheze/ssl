@@ -2589,3 +2589,15 @@ nullscapewiki:
   url: 'nullscape.wiki'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
+greekgameswikiwaragergardecom:
+  url: 'greekgameswiki.waragergarde.com'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
+wikiformingamericaorg:
+  url: 'wiki.formingamerica.org'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
+archivewikialathracom:
+  url: 'archive.wiki.alathra.com'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
