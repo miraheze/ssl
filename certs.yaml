@@ -2617,3 +2617,7 @@ c2wikistarsky919xyz:
   url: 'c2wiki.starsky919.xyz'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
+uscoderxusalegalcom:
+  url: 'uscode.rxusalegal.com'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
