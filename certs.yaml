@@ -2601,3 +2601,35 @@ archivewikialathracom:
   url: 'archive.wiki.alathra.com'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
+wwwtintinpediafr:
+  url: 'www.tintinpedia.fr'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
+grfwikiintellixcorpnet:
+  url: 'grfwiki.intellixcorp.net'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
+kaoruhanawiki:
+  url: 'kaoruhana.wiki'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
+c2wikistarsky919xyz:
+  url: 'c2wiki.starsky919.xyz'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
+uscoderxusalegalcom:
+  url: 'uscode.rxusalegal.com'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
+civicawikicom:
+  url: 'civicawiki.com'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
+mkadvancenet:
+  url: 'mkadvance.net'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
+forsakenwiki:
+  url: 'forsaken.wiki'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
