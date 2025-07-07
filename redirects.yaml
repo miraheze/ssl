@@ -501,6 +501,12 @@ kaoruhanawikiredirect:
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
+cytus2wiki:
+  url: 'cytus2.miraheze.org'
+  redirect: 'c2wiki.starsky919.xyz'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
 # *.miraheze.org to *.miraheze.org wiki redirects
 wwwredirect:
   url: 'www.miraheze.org'
