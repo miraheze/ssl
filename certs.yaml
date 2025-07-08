@@ -2629,3 +2629,15 @@ forsakenwiki:
   url: 'forsaken.wiki'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
+michiscammedus:
+  url: 'michiscammed.us'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
+anthrodiawiki:
+  url: 'anthrodia.wiki'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
+santuynisakanet:
+  url: 'santuy.nisaka.net'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
