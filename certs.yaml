@@ -2513,10 +2513,6 @@ wikisite79fr:
   url: 'wiki.site79.fr'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
-countrygamenet:
-  url: 'countrygame.net'
-  ca: 'Cloudflare'
-  sslname: miraheze-origin-cert
 wwwecolescience:
   url: 'www.ecole.science'
   ca: 'Cloudflare'
@@ -2631,5 +2627,17 @@ mkadvancenet:
   sslname: miraheze-origin-cert
 forsakenwiki:
   url: 'forsaken.wiki'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
+michiscammedus:
+  url: 'michiscammed.us'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
+anthrodiawiki:
+  url: 'anthrodia.wiki'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
+santuynisakanet:
+  url: 'santuy.nisaka.net'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert

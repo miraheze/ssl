@@ -501,6 +501,18 @@ kaoruhanawikiredirect:
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
+cytus2wiki:
+  url: 'cytus2.miraheze.org'
+  redirect: 'c2wiki.starsky919.xyz'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
+damnationwiki:
+  url: 'damnation.miraheze.org'
+  redirect: 'forsaken.wiki'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
 uwrwikiwiki:
   url: 'uwrwiki.miraheze.org'
   redirect: 'uwrwiki.org'
