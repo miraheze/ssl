@@ -2513,10 +2513,6 @@ wikisite79fr:
   url: 'wiki.site79.fr'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
-countrygamenet:
-  url: 'countrygame.net'
-  ca: 'Cloudflare'
-  sslname: miraheze-origin-cert
 wwwecolescience:
   url: 'www.ecole.science'
   ca: 'Cloudflare'
