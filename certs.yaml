@@ -2641,3 +2641,19 @@ santuynisakanet:
   url: 'santuy.nisaka.net'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
+crimelogicdev:
+  url: 'crimelogic.dev'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
+wikidicereumxyz:
+  url: 'wiki.dicereum.xyz'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
+r6danceswiki:
+  url: 'r6dances.wiki'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
+wikiskryabinua:
+  url: 'wiki.skryab.in.ua'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
