@@ -268,12 +268,6 @@ pandorastale:
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
-321nailswiki:
-  url: '321nailswiki.miraheze.org'
-  redirect: '321nails.crpteam.club'
-  sslname: 'miraheze-origin-cert'
-  ca: 'Cloudflare'
-  hsts: 'strict'
 luxuryelevatorwiki:
   url: 'luxuryelevator.miraheze.org'
   redirect: 'wiki.theluxuryelevator.com'

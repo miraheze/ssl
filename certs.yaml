@@ -648,10 +648,6 @@ wikiauraxisco:
   url: 'wiki.auraxis.co'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
-321nailscrpteam:
-  url: '321nails.crpteam.club'
-  ca: 'Cloudflare'
-  sslname: miraheze-origin-cert
 wikipuucraftnet:
   url: 'wiki.puucraft.net'
   ca: 'Cloudflare'
