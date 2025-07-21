@@ -2657,3 +2657,19 @@ wikiskryabinua:
   url: 'wiki.skryab.in.ua'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
+wikimistaleroru:
+  url: 'wiki.mistalero.ru'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
+wikileagueofserversorg:
+  url: 'wiki.leagueofservers.org'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
+wikirenegadesquirrelcom:
+  url: 'wiki.renegade-squirrel.com'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
+wikicompsmp:
+  url: 'wiki.comps.mp'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
