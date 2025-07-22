@@ -359,6 +359,7 @@ elaruuwiki:
   hsts: 'strict'
 animalroyalewiki:
   url: 'animalroyale.miraheze.org'
+  additional_domain: 'en.wiki.animalroyale.com'
   redirect: 'wiki.animalroyale.com'
   sslname: 'miraheze-origin-cert'
   ca: 'CloudFlare'
