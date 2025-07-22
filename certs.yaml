@@ -1855,6 +1855,7 @@ kippuwikiedapedianet:
   sslname: 'miraheze-origin-cert'
 wikianimalroyalecom:
   url: 'wiki.animalroyale.com'
+  additional_domain: 'en.wiki.animalroyale.com'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
 wikieggnosstudio:
