@@ -29,7 +29,7 @@ wwwwikitideredirect:
   redirect: 'miraheze.org'
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
-dpl3wiki:
+dpl4wiki:
   url: 'dpl4.wikitide.org'
   redirect: 'dpl3.wikitide.org'
   sslname: 'wikitide.org'
