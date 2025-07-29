@@ -2677,3 +2677,7 @@ placedexglitchpdevcom:
   url: 'placedex.glitchpdev.com'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
+thebattleforfalloncom:
+  url: 'thebattleforfallon.com'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
