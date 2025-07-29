@@ -2669,3 +2669,11 @@ wikicompsmp:
   url: 'wiki.comps.mp'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
+wikimodernbetaorg:
+  url: 'wiki.modernbeta.org'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
+placedexglitchpdevcom:
+  url: 'placedex.glitchpdev.com'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
