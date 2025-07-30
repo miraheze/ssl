@@ -1332,10 +1332,6 @@ wikineonaidev:
   url: 'wiki.neonai.dev'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
-wikiventistudiofr:
-  url: 'wiki.ventistudio.fr'
-  ca: 'Cloudflare'
-  sslname: miraheze-origin-cert
 wikipenguinmodcom:
   url: 'wiki.penguinmod.com'
   ca: 'Cloudflare'
@@ -1724,10 +1720,6 @@ wikiluckbychancenet:
   sslname: 'miraheze-origin-cert'
 wwwunboundwiki:
   url: 'www.unbound.wiki'
-  ca: 'Cloudflare'
-  sslname: 'miraheze-origin-cert'
-wikiorcaslicercom:
-  url: 'wiki.orcaslicer.com'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
 fnafmwwiki:
