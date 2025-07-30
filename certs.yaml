@@ -2273,10 +2273,6 @@ plv4wikigd:
   url: 'plv4.wiki.gd'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
-pinggeacanonniwebsite:
-  url: 'pinggea.canonni.website'
-  ca: 'Cloudflare'
-  sslname: 'miraheze-origin-cert'
 wwwkagagajp:
   url: 'www.kagaga.jp'
   ca: 'Cloudflare'
