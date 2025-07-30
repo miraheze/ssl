@@ -1543,10 +1543,6 @@ wstaglol:
   url: 'w.stag.lol'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
-wikitownsmpxyz:
-  url: 'wiki.townsmp.xyz'
-  ca: 'Cloudflare'
-  sslname: 'miraheze-origin-cert'
 wwwvansbuilders:
   url: 'www.vans.builders'
   ca: 'Cloudflare'
@@ -1915,10 +1911,6 @@ wikiminedorfde:
   sslname: 'miraheze-origin-cert'
 wikiourbluemarblenet:
   url: 'wiki.ourbluemarble.net'
-  ca: 'Cloudflare'
-  sslname: 'miraheze-origin-cert'
-wwwbackroomszhwiki:
-  url: 'www.backroomszh.wiki'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
 zhwikianimalroyalecom:
@@ -2317,10 +2309,6 @@ wikiorcatech:
   url: 'wiki.orcate.ch'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
-wikifrostforgenationsxyz:
-  url: 'wiki.frostforgenations.xyz'
-  ca: 'Cloudflare'
-  sslname: 'miraheze-origin-cert'
 magebunkshelfnet:
   url: 'magebunkshelf.net'
   ca: 'Cloudflare'
@@ -2623,10 +2611,6 @@ mkadvancenet:
   sslname: miraheze-origin-cert
 forsakenwiki:
   url: 'forsaken.wiki'
-  ca: 'Cloudflare'
-  sslname: miraheze-origin-cert
-michiscammedus:
-  url: 'michiscammed.us'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
 anthrodiawiki:
