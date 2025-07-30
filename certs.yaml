@@ -2653,3 +2653,7 @@ thebattleforfalloncom:
   url: 'thebattleforfallon.com'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
+musipediadistintivobluecom:
+  url: 'musipedia.distintivoblue.com'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
