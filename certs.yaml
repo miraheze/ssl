@@ -2569,10 +2569,6 @@ archivewikialathracom:
   url: 'archive.wiki.alathra.com'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
-wwwtintinpediafr:
-  url: 'www.tintinpedia.fr'
-  ca: 'Cloudflare'
-  sslname: miraheze-origin-cert
 grfwikiintellixcorpnet:
   url: 'grfwiki.intellixcorp.net'
   ca: 'Cloudflare'
