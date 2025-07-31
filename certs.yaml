@@ -2657,3 +2657,7 @@ musipediadistintivobluecom:
   url: 'musipedia.distintivoblue.com'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
+wikilumenflamecom:
+  url: 'wiki.lumenflame.com'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
