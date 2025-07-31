@@ -2657,3 +2657,7 @@ wikilumenflamecom:
   url: 'wiki.lumenflame.com'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
+wwwtintinpediafr:
+  url: 'www.tintinpedia.fr'
+  ca: 'Cloudflare'
+  sslname: miraheze-origin-cert
