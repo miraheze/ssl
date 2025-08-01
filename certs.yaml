@@ -944,10 +944,6 @@ glitchcitywiki:
   url: 'glitchcity.wiki'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
-wikitmyt105leyhpcom:
-  url: 'wiki.tmyt105.leyhp.com'
-  ca: 'Cloudflare'
-  sslname: miraheze-origin-cert
 wikicol6de:
   url: 'wiki.col6.de'
   ca: 'Cloudflare'
