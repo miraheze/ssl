@@ -2661,7 +2661,3 @@ wwwtintinpediafr:
   url: 'www.tintinpedia.fr'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
-bluebenxyz:
-  url: 'blueben.xyz'
-  ca: 'Cloudflare'
-  sslname: 'miraheze-origin-cert'
