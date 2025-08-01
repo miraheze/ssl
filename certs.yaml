@@ -2661,3 +2661,7 @@ wwwtintinpediafr:
   url: 'www.tintinpedia.fr'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
+binrayarchivescom:
+  url: 'binrayarchives.com'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
