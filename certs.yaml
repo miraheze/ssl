@@ -2665,3 +2665,11 @@ binrayarchivescom:
   url: 'binrayarchives.com'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
+wikitmyt105com:
+  url: 'wiki.tmyt105.com'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
+bluebenxyz:
+  url: 'blueben.xyz'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
