@@ -2669,3 +2669,7 @@ bluebenxyz:
   url: 'blueben.xyz'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
+wikisurvivalstorehousecom:
+  url: 'wiki.survivalstorehouse.com'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
