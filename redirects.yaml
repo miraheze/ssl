@@ -263,7 +263,7 @@ wwwburnoutwiki:
   ca: 'Cloudflare'
 tintinpediawiki_redirect:
   url: 'tintinpedia.miraheze.org'
-  redirect: 'tintinpedia.fr'
+  redirect: 'www.tintinpedia.fr'
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
