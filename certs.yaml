@@ -2673,3 +2673,7 @@ wikisurvivalstorehousecom:
   url: 'wiki.survivalstorehouse.com'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
+wikivipnunesrunplace:
+  url: 'wiki.vipnunes.run.place'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
