@@ -210,6 +210,11 @@ wwwmarakyhbuorg:
   redirect: 'marakyhbu.org'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
+enwikianimalroyalecom:
+  url: 'en.wiki.animalroyale.com'
+  redirect: 'wiki.animalroyale.com'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
 # *.miraheze.org/*.wikitide.org to wiki custom domains redirects
 allthetropeswiki:
   url: 'allthetropes.miraheze.org'
