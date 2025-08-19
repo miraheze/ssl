@@ -215,6 +215,11 @@ enwikianimalroyalecom:
   redirect: 'wiki.animalroyale.com'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
+wwwheavyironmoddingorg:
+  url: 'www.heavyironmodding.org'
+  redirect: 'heavyironmodding.org'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
 # *.miraheze.org/*.wikitide.org to wiki custom domains redirects
 allthetropeswiki:
   url: 'allthetropes.miraheze.org'
