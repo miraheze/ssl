@@ -426,12 +426,6 @@ dreamsciencewiki:
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
-sarasawiki:
-  url: 'sarasa.miraheze.org'
-  redirect: 'sarasa.iml.menhera.org'
-  sslname: 'miraheze-origin-cert'
-  ca: 'Cloudflare'
-  hsts: 'strict'
 everythingupgradetreewiki:
   url: 'everythingupgradetree.miraheze.org'
   redirect: 'eutwiki.com'
