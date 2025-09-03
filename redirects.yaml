@@ -648,6 +648,12 @@ skibiditoiletwiki_redirect:
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
+apstverse_redirect:
+  url: 'apstverse.miraheze.org'
+  redirect: 'apstrackt.miraheze.org'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
 # orain.org to miraheze.org wiki redirects
 allthetropesorain:
   url: 'allthetropes.orain.org'
