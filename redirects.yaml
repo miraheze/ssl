@@ -564,6 +564,12 @@ levelsharesquarewiki:
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
+skibiditoiletwiki:
+  url: 'skibiditoilet.miraheze.org'
+  redirect: 'skibidi-toilet.wiki'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
 # *.miraheze.org to *.miraheze.org wiki redirects
 wwwredirect:
   url: 'www.miraheze.org'
