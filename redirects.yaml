@@ -254,12 +254,6 @@ projectsekaiwiki:
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
-ajhalili2006wiki:
-  url: 'ajhalili2006.miraheze.org'
-  redirect: 'wiki.andreijiroh.uk.eu.org'
-  sslname: 'miraheze-origin-cert'
-  ca: 'Cloudflare'
-  hsts: 'strict'
 fanpediawiki:
   url: 'fanpedia.miraheze.org'
   redirect: 'fanonpedia.com'
