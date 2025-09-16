@@ -582,6 +582,13 @@ wikimiraheze:
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
+donateredirect:
+  url: 'donate.miraheze.org'
+  path_redirects:
+    .*: 'meta.miraheze.org/wiki/Donate'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
 closinglogos:
   url: 'closinglogosgroup.miraheze.org'
   redirect: 'avid.miraheze.org'
