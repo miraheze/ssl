@@ -570,6 +570,12 @@ superstarracerswiki:
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
+fromsoftwikiwiki:
+  url: 'fromsoftwiki.miraheze.org'
+  redirect: 'fromsoftwiki.org'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
 # *.miraheze.org to *.miraheze.org wiki redirects
 wwwredirect:
   url: 'www.miraheze.org'
