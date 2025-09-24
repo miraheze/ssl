@@ -231,11 +231,6 @@ crocwiki:
   redirect: 'crocwiki.com'
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
-mariowiki:
-  url: 'mario.miraheze.org'
-  redirect: 'mariopedia.org'
-  sslname: 'miraheze-origin-cert'
-  ca: 'Cloudflare'
 taswinwiki:
   url: 'taswin.miraheze.org'
   redirect: 'www.istpcomputing.com'
@@ -384,21 +379,9 @@ embryologywiki:
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
-goldennationswiki:
-  url: 'goldennations.miraheze.org'
-  redirect: 'wiki.gnreblazed.xyz'
-  sslname: 'miraheze-origin-cert'
-  ca: 'Cloudflare'
-  hsts: 'strict'
 lostmediaruwikiredirect:
   url: 'lostmediaru.miraheze.org'
   redirect: 'lostmediawiki.ru'
-  sslname: 'miraheze-origin-cert'
-  ca: 'Cloudflare'
-  hsts: 'strict'
-acwikiredirect:
-  url: 'ac.miraheze.org'
-  redirect: 'acwiki.info'
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
