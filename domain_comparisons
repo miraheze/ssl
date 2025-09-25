@@ -1,7 +1,4 @@
 Domains in Cloudflare but not listed in WikiDiscover:
-battlecats.miraheze.org
-bendict.miraheze.org
-benpedia.miraheze.org
 blackout.miraheze.org
 chidurianwiki.miraheze.org
 combatinitiation.miraheze.org
@@ -30,3 +27,6 @@ www.fischipedia.org
 www.polandballwiki.com
 www.theenglishlakes.uk
 xyy.miraheze.org
+
+Domains listed in WikiDiscover but not in Cloudflare:
+lostmediawiki.ru
