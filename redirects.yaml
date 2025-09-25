@@ -170,11 +170,6 @@ iewikiaurovilleorg:
   redirect: 'iewiki.purnamcommunity.in'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
-dccomicswikiredirect:
-  url: 'www.dccomicswiki.com'
-  redirect: 'dccomicswiki.com'
-  ca: 'Cloudflare'
-  sslname: miraheze-origin-cert
 acuralegendredirect:
   url: 'www.acuralegendwiki.org'
   redirect: 'acuralegendwiki.org'
