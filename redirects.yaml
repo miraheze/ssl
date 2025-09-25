@@ -160,11 +160,6 @@ wwwrosettacodeorg:
   redirect: 'rosettacode.org'
   ca: 'Cloudflare'
   sslname: miraheze-origin-cert
-wwwrippaversewikicom:
-  url: 'www.rippaversewiki.com'
-  redirect: 'rippaversewiki.com'
-  ca: 'Cloudflare'
-  sslname: miraheze-origin-cert
 iewikiaurovilleorg:
   url: 'iewiki.auroville.org'
   redirect: 'iewiki.purnamcommunity.in'
