@@ -652,6 +652,12 @@ apstverse_redirect:
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
+planecrazywikiwiki_redirect:
+  url: 'planecrazywiki.miraheze.org'
+  redirect: 'planecrazy.miraheze.org'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
 # orain.org to miraheze.org wiki redirects
 allthetropesorain:
   url: 'allthetropes.orain.org'
