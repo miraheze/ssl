@@ -557,10 +557,10 @@ left4deadwikicom:
   hsts: 'strict'
 wikichalacoorg:
   url: 'chalaco.miraheze.org'
-  redirect: 'wiki.chalaco.org
-  sslname: miraheze-origin-cert
+  redirect: 'wiki.chalaco.org'
+  sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
-  hsts: 'strict'  
+  hsts: 'strict'
 # *.miraheze.org to *.miraheze.org wiki redirects
 wwwredirect:
   url: 'www.miraheze.org'
