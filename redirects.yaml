@@ -8,7 +8,7 @@ wikisurf:
     ^/br: 'issue-tracker.miraheze.org/maniphest/task/edit/form/20/'
     ^/Fundraiser: 'meta.miraheze.org/wiki/Special:MyLanguage/Fundraiser'
   ca: 'Cloudflare'
-  sslname: miraheze-origin-cert
+  sslname: 'miraheze-origin-cert'
 # miraheze.wiki redirects
 mirahezewiki:
   url: 'miraheze.wiki'
@@ -38,17 +38,17 @@ wwwallthetropes:
   url: 'www.allthetropes.org'
   redirect: 'allthetropes.org'
   ca: 'Cloudflare'
-  sslname: miraheze-origin-cert
+  sslname: 'miraheze-origin-cert'
 wwwpermanentfuturelab:
   url: 'www.permanentfuturelab.wiki'
   redirect: 'permanentfuturelab.wiki'
   ca: 'Cloudflare'
-  sslname: miraheze-origin-cert
+  sslname: 'miraheze-origin-cert'
 mirahezecom:
   url: 'miraheze.com'
   redirect: 'meta.miraheze.org'
   ca: 'Cloudflare'
-  sslname: miraheze-origin-cert
+  sslname: 'miraheze-origin-cert'
 piwik:
   url: 'piwik.miraheze.org'
   redirect: 'matomo.miraheze.org'
@@ -59,7 +59,7 @@ wikithesimswikicom:
   url: 'wiki.thesimswiki.com'
   redirect: 'www.thesimswiki.com'
   ca: 'Cloudflare'
-  sslname: miraheze-origin-cert
+  sslname: 'miraheze-origin-cert'
 simswiki:
   url: 'sims.miraheze.org'
   redirect: 'www.thesimswiki.com'
@@ -94,7 +94,7 @@ portalsofphereoncomredir:
   url: 'portalsofphereon.com'
   redirect: 'www.portalsofphereon.com'
   ca: 'Cloudflare'
-  sslname: miraheze-origin-cert
+  sslname: 'miraheze-origin-cert'
 uncyclopediakrwiki:
   url: 'uncyclopediakr.miraheze.org'
   redirect: 'truth.miraheze.org'
@@ -105,66 +105,66 @@ wwwpublictestwikicom:
   url: 'www.publictestwiki.com'
   redirect: 'publictestwiki.com'
   ca: 'Cloudflare'
-  sslname: miraheze-origin-cert
+  sslname: 'miraheze-origin-cert'
 iceriaorg:
   url: 'iceria.org'
   redirect: 'www.iceria.org'
-  sslname: miraheze-origin-cert
+  sslname: 'miraheze-origin-cert'
 christipedianl:
   url: 'christipedia.nl'
   redirect: 'www.christipedia.nl'
   ca: 'Cloudflare'
-  sslname: miraheze-origin-cert
+  sslname: 'miraheze-origin-cert'
 rothwellleedscouk:
   url: 'rothwell-leeds.co.uk'
   redirect: 'www.rothwell-leeds.co.uk'
   ca: 'Cloudflare'
-  sslname: miraheze-origin-cert
+  sslname: 'miraheze-origin-cert'
 reviwikiinfo:
   url: 'reviwiki.info'
   redirect: 'revi.wiki'
   ca: 'Cloudflare'
-  sslname: miraheze-origin-cert
+  sslname: 'miraheze-origin-cert'
 puzzleswiki:
   url: 'puzzles.wiki'
   redirect: 'www.puzzles.wiki'
   ca: 'Cloudflare'
-  sslname: miraheze-origin-cert
+  sslname: 'miraheze-origin-cert'
 wwwethenewiki:
   url: 'www.ethene.wiki'
   redirect: 'ethene.wiki'
   ca: 'Cloudflare'
-  sslname: miraheze-origin-cert
+  sslname: 'miraheze-origin-cert'
 wwwglitchcity:
   url: 'www.glitchcity.wiki'
   redirect: 'glitchcity.wiki'
   ca: 'Cloudflare'
-  sslname: miraheze-origin-cert
+  sslname: 'miraheze-origin-cert'
 simswikicom:
   url: 'thesimswiki.com'
   redirect: 'www.thesimswiki.com'
   ca: 'Cloudflare'
-  sslname: miraheze-origin-cert
+  sslname: 'miraheze-origin-cert'
 wwwmwcosmoscom:
   url: 'www.mwcosmos.com'
   redirect: 'mwcosmos.com'
   ca: 'Cloudflare'
-  sslname: miraheze-origin-cert
+  sslname: 'miraheze-origin-cert'
 wwwlgbtqiawiki:
   url: 'www.lgbtqia.wiki'
   redirect: 'lgbtqia.wiki'
   ca: 'Cloudflare'
-  sslname: miraheze-origin-cert
+  sslname: 'miraheze-origin-cert'
 wwwrosettacodeorg:
   url: 'www.rosettacode.org'
   redirect: 'rosettacode.org'
   ca: 'Cloudflare'
-  sslname: miraheze-origin-cert
+  sslname: 'miraheze-origin-cert'
 iewikiaurovilleorg:
   url: 'iewiki.auroville.org'
   redirect: 'iewiki.purnamcommunity.in'
   ca: 'Cloudflare'
-  sslname: miraheze-origin-cert
+  sslname: 'miraheze-origin-cert'
 acuralegendredirect:
   url: 'www.acuralegendwiki.org'
   redirect: 'acuralegendwiki.org'
@@ -343,25 +343,25 @@ elaruuwiki:
   url: 'elaruu.miraheze.org'
   redirect: 'elaruu-wiki.jamied132.is-a.dev'
   sslname: 'miraheze-origin-cert'
-  ca: 'CloudFlare'
+  ca: 'Cloudflare'
   hsts: 'strict'
 animalroyalewiki:
   url: 'animalroyale.miraheze.org'
   redirect: 'wiki.animalroyale.com'
   sslname: 'miraheze-origin-cert'
-  ca: 'CloudFlare'
+  ca: 'Cloudflare'
   hsts: 'strict'
 capoeirawiki:
   url: 'capoeira.miraheze.org'
   redirect: 'capoeirawiki.org'
   sslname: 'miraheze-origin-cert'
-  ca: 'CloudFlare'
+  ca: 'Cloudflare'
   hsts: 'strict'
 wwwnandopediait:
   url: 'www.nandopedia.it'
   redirect: 'nandopedia.it'
   sslname: 'miraheze-origin-cert'
-  ca: 'CloudFlare'
+  ca: 'Cloudflare'
   hsts: 'strict'
 embryologywiki:
   url: 'embryology.miraheze.org'
@@ -669,17 +669,17 @@ allthetropesorain:
   url: 'allthetropes.orain.org'
   redirect: 'allthetropes.org'
   ca: 'Cloudflare'
-  sslname: miraheze-origin-cert
+  sslname: 'miraheze-origin-cert'
 poserdazfreebiessorain:
   url: 'poserdazfreebies.orain.org'
   redirect: 'poserdazfreebies.miraheze.org'
   ca: 'Cloudflare'
-  sslname: miraheze-origin-cert
+  sslname: 'miraheze-origin-cert'
 isvwikiorain:
   url: 'isv.orain.org'
   redirect: 'isv.miraheze.org'
   ca: 'Cloudflare'
-  sslname: miraheze-origin-cert
+  sslname: 'miraheze-origin-cert'
 # Phorge redirects
 phorge:
   url: 'phorge.miraheze.org'
