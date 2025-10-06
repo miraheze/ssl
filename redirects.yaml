@@ -39,11 +39,6 @@ wwwallthetropes:
   redirect: 'allthetropes.org'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
-wwwpermanentfuturelab:
-  url: 'www.permanentfuturelab.wiki'
-  redirect: 'permanentfuturelab.wiki'
-  ca: 'Cloudflare'
-  sslname: 'miraheze-origin-cert'
 mirahezecom:
   url: 'miraheze.com'
   redirect: 'meta.miraheze.org'
