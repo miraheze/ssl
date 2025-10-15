@@ -251,12 +251,6 @@ tintinpediawiki_redirect:
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
-pandorastale:
-  url: 'pandorastale.miraheze.org'
-  redirect: 'pandorastale.wiki'
-  sslname: 'miraheze-origin-cert'
-  ca: 'Cloudflare'
-  hsts: 'strict'
 luxuryelevatorwiki:
   url: 'luxuryelevator.miraheze.org'
   redirect: 'wiki.theluxuryelevator.com'
