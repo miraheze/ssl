@@ -25,6 +25,3 @@ wikitideorg:
   url: '*.wikitide.org'
   sslname: 'wikitide.org'
   ca: 'LetsEncrypt'
-farthestfrontierwiki:
-  url: 'farthestfrontier.wiki'
-  ca: 'Cloudflare'
