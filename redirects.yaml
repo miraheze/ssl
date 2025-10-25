@@ -574,6 +574,12 @@ potmwikitop:
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
+maiyamawikiwiki:
+  url: 'maiyamawiki.miraheze.org'
+  redirect: 'wiki.tmyt105.com'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
 # *.miraheze.org to *.miraheze.org wiki redirects
 wwwredirect:
   url: 'www.miraheze.org'
