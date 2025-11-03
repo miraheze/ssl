@@ -480,7 +480,7 @@ uwrwikiwiki:
   hsts: 'strict'
 earth1wiki:
   url: 'earth1.miraheze.org'
-  redirect: 'santuy.nisaka.net'
+  redirect: 'wiki.santuy.id'
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
