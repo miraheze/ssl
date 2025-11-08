@@ -582,7 +582,7 @@ maiyamawikiwiki:
   hsts: 'strict'
 blindspacewiki:
   url: 'blindspace.miraheze.org'
-  redirect: 'myblind.space'
+  redirect: 'wiki.myblind.space'
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
