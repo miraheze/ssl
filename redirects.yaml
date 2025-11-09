@@ -598,6 +598,12 @@ universalunionwiki:
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
+whitebluelexiconwiki:
+  url: 'whitebluelexicon.miraheze.org'
+  redirect: 'wbluelexicon.belkosmos.com'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
 # *.miraheze.org to *.miraheze.org wiki redirects
 wwwredirect:
   url: 'www.miraheze.org'
