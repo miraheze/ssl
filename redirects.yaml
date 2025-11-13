@@ -140,11 +140,6 @@ simswikicom:
   redirect: 'www.thesimswiki.com'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
-wwwmwcosmoscom:
-  url: 'www.mwcosmos.com'
-  redirect: 'mwcosmos.com'
-  ca: 'Cloudflare'
-  sslname: 'miraheze-origin-cert'
 wwwlgbtqiawiki:
   url: 'www.lgbtqia.wiki'
   redirect: 'lgbtqia.wiki'
