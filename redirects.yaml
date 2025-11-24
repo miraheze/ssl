@@ -629,6 +629,12 @@ rt3wiki:
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
+cpzerowiki:
+  url: 'cpzero.miraheze.org'
+  redirect: 'cpzero.wiki'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
 # *.miraheze.org to *.miraheze.org wiki redirects
 wwwredirect:
   url: 'www.miraheze.org'
