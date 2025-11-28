@@ -744,6 +744,18 @@ robloxarsenalwiki_redirect:
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
+jbcstudioswiki_redirect:
+  url: 'jbcstudios.miraheze.org'
+  redirect: 'itemasylum.miraheze.org'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
+robloxitemasylumwiki_redirect:
+  url: 'robloxitemasylum.miraheze.org'
+  redirect: 'itemasylum.miraheze.org'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
 # orain.org to miraheze.org wiki redirects
 allthetropesorain:
   url: 'allthetropes.orain.org'
