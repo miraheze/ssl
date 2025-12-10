@@ -665,6 +665,12 @@ larnwiki:
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
+thethaotocdowiki:
+  url: 'thethaotocdo.miraheze.org'
+  redirect: 'wiki.thethaotocdo.vn'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
 # *.miraheze.org to *.miraheze.org wiki redirects
 wwwredirect:
   url: 'www.miraheze.org'
