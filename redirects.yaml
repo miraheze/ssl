@@ -774,8 +774,8 @@ planecrazywikiwiki_redirect:
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
-robloxarsenalwiki_redirect:
-  url: 'robloxarsenalwiki.miraheze.org'
+arsenalrobloxwiki_redirect:
+  url: 'arsenalrobloxwiki.miraheze.org'
   redirect: 'arsenal.miraheze.org'
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
