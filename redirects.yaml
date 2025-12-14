@@ -190,6 +190,11 @@ wwwmarakyhbuorg:
   redirect: 'marakyhbu.org'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
+wwwarchive13org:
+  url: 'archive13.org'
+  redirect: 'www.archive13.org'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
 enwikianimalroyalecom:
   url: 'en.wiki.animalroyale.com'
   redirect: 'wiki.animalroyale.com'
@@ -583,7 +588,7 @@ blindspacewiki:
   hsts: 'strict'
 archive13wiki:
   url: 'archive13.miraheze.org'
-  redirect: 'archive13.org'
+  redirect: 'www.archive13.org'
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
