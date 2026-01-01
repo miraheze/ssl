@@ -694,6 +694,12 @@ foodnotbombswiki:
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
+jinghewiki:
+  url: 'jinghe.miraheze.org'
+  redirect: 'wiki.jinghe.in'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
 # *.miraheze.org to *.miraheze.org wiki redirects
 wwwredirect:
   url: 'www.miraheze.org'
