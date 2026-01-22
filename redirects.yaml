@@ -205,6 +205,11 @@ wwwheavyironmoddingorg:
   redirect: 'heavyironmodding.org'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
+mappingwikiorg:
+  url: 'mappingwiki.org'
+  redirect: 'en.mappingwiki.org'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
 # *.miraheze.org/*.wikitide.org to wiki custom domains redirects
 allthetropeswiki:
   url: 'allthetropes.miraheze.org'
