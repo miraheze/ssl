@@ -735,6 +735,30 @@ theforgewiki:
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
+powcreationswiki:
+  url: 'powcreations.miraheze.org'
+  redirect: 'powcreations.wiki'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
+havenwiki:
+  url: 'haven.miraheze.org'
+  redirect: 'wiki.peacefulhaven.lol'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
+estforwiki:
+  url: 'estfor.miraheze.org'
+  redirect: 'wiki.estfor.com'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
+deepspiritwiki:
+  url: 'deepspirit.miraheze.org'
+  redirect: 'abysswiki.org'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
 # *.miraheze.org to *.miraheze.org wiki redirects
 wwwredirect:
   url: 'www.miraheze.org'
