@@ -210,6 +210,11 @@ mappingwikiorg:
   redirect: 'en.mappingwiki.org'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
+wwwlibertaslegioncom:
+  url: 'www.libertaslegion.com'
+  redirect: 'libertaslegion.com'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
 # *.miraheze.org/*.wikitide.org to wiki custom domains redirects
 allthetropeswiki:
   url: 'allthetropes.miraheze.org'
