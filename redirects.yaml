@@ -795,7 +795,7 @@ recaptimewiki:
   ca: 'Cloudflare'
   hsts: 'strict'
 communitycentralbympteamwiki:
-  url: communitycentralbympteam.miraheze.org
+  url: 'communitycentralbympteam.miraheze.org'
   redirect: 'hq.recaptime.dev'
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
