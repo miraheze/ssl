@@ -782,6 +782,24 @@ dstrwikiwiki:
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
+recaptimesquadwiki:
+  url: 'recaptimesquad.miraheze.org'
+  redirect: 'hq.recaptime.dev'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
+recaptimewiki:
+  url: 'recaptime.miraheze.org'
+  redirect: 'hq.recaptime.dev'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
+communitycentralbympteamwiki:
+  url: 'communitycentralbympteam.miraheze.org'
+  redirect: 'hq.recaptime.dev'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
 # *.miraheze.org to *.miraheze.org wiki redirects
 wwwredirect:
   url: 'www.miraheze.org'
