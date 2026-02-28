@@ -538,7 +538,7 @@ skibiditoiletwiki:
   hsts: 'strict'
 superstarracerswiki:
   url: 'superstarracers.miraheze.org'
-  redirect: 'superstarracers.wiki'
+  redirect: 'sr.conecorp.cc'
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
@@ -658,7 +658,7 @@ utaitewiki:
   hsts: 'strict'
 superblox64wiki:
   url: 'superblox64.miraheze.org'
-  redirect: 'superblox64.wiki'
+  redirect: 'sb64.conecorp.cc'
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
@@ -688,7 +688,7 @@ thethaotocdowiki:
   hsts: 'strict'
 ablocksjourneywiki:
   url: 'ablocksjourney.miraheze.org'
-  redirect: 'ablocksjourney.wiki'
+  redirect: 'abj.conecorp.cc'
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
