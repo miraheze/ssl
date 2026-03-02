@@ -215,6 +215,11 @@ wwwlibertaslegioncom:
   redirect: 'libertaslegion.com'
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
+wwwjrpstudioswiki:
+  url: 'www.jrpstudios.wiki'
+  redirect: 'jrpstudios.wiki'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
 # *.miraheze.org/*.wikitide.org to wiki custom domains redirects
 allthetropeswiki:
   url: 'allthetropes.miraheze.org'
