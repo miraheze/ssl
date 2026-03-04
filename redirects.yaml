@@ -799,6 +799,12 @@ kenpendiumwiki:
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
+kaiserreichwiki:
+  url: 'kaiserreich.miraheze.org'
+  redirect: 'kaiserreich.wiki'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
 # *.miraheze.org to *.miraheze.org wiki redirects
 wwwredirect:
   url: 'www.miraheze.org'
