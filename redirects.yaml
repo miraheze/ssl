@@ -733,12 +733,6 @@ roomsrevisitedwiki:
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
-bpsrwiki:
-  url: 'bpsr.miraheze.org'
-  redirect: 'bpsr-wiki.regnas.blue'
-  sslname: 'miraheze-origin-cert'
-  ca: 'Cloudflare'
-  hsts: 'strict'
 theforgewiki:
   url: 'theforge.miraheze.org'
   redirect: 'forgewiki.org'
