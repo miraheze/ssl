@@ -811,6 +811,18 @@ sharkbitewiki:
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
+windgatewiki:
+  url: 'windgate.miraheze.org'
+  redirect: 'windgate.wiki'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
+vanguardswiki:
+  url: 'vanguards.miraheze.org'
+  redirect: 'wiki.vanguards.gg'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
 # *.miraheze.org to *.miraheze.org wiki redirects
 wwwredirect:
   url: 'www.miraheze.org'
