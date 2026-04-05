@@ -944,6 +944,12 @@ robloxitemasylumwiki_redirect:
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
+zhpolandballwiki_redirect:
+  url: 'zhpolandball.miraheze.org'
+  redirect: 'bolanqiu.miraheze.org'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
 # orain.org to miraheze.org wiki redirects
 allthetropesorain:
   url: 'allthetropes.orain.org'
