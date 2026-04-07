@@ -823,6 +823,12 @@ vanguardswiki:
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
+shippinglaneswiki:
+  url: 'shippinglanes.miraheze.org'
+  redirect: 'wiki.shippinglanes.net'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
 # *.miraheze.org to *.miraheze.org wiki redirects
 wwwredirect:
   url: 'www.miraheze.org'
