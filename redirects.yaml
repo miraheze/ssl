@@ -403,12 +403,6 @@ everythingupgradetreewiki:
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
-digwiki:
-  url: 'dig.miraheze.org'
-  redirect: 'digtionary.org'
-  sslname: 'miraheze-origin-cert'
-  ca: 'Cloudflare'
-  hsts: 'strict'
 citywikiwiki:
   url: 'citywiki.miraheze.org'
   redirect: 'citywiki.eastsideurbanism.org'
