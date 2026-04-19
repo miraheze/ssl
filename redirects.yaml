@@ -835,6 +835,18 @@ betonogradwiki:
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
+steinworldwiki:
+  url: 'steinworld.miraheze.org'
+  redirect: 'wiki.stein.world'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
+ppcwiki:
+  url: 'ppc.miraheze.org'
+  redirect: 'wiki.plotprotectors.org'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
 # *.miraheze.org to *.miraheze.org wiki redirects
 wwwredirect:
   url: 'www.miraheze.org'
