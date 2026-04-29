@@ -361,12 +361,6 @@ capoeirawiki:
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
-wwwnandopediait:
-  url: 'www.nandopedia.it'
-  redirect: 'nandopedia.it'
-  sslname: 'miraheze-origin-cert'
-  ca: 'Cloudflare'
-  hsts: 'strict'
 embryologywiki:
   url: 'embryology.miraheze.org'
   redirect: 'embryologywiki.org'
