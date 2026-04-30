@@ -847,6 +847,12 @@ dlsitewiki:
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
+abortionwiki:
+  url: 'abortion.miraheze.org'
+  redirect: 'embryologywiki.org'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
 # *.miraheze.org to *.miraheze.org wiki redirects
 wwwredirect:
   url: 'www.miraheze.org'
