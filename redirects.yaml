@@ -787,6 +787,17 @@ kaiserreichwiki:
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
+loveanddeepspacewiki:
+  url: 'loveanddeepspace.miraheze.org'
+  redirect: 'lads.wiki'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
+wwwladswiki:
+  url: 'www.lads.wiki'
+  redirect: 'lads.wiki'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
 quantumsciencewiki:
   url: 'quantumscience.miraheze.org'
   redirect: 'wiki.quantum-science.net'
