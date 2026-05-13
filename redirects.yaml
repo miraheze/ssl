@@ -220,6 +220,11 @@ wwwjrpstudioswiki:
   redirect: 'jrpstudios.wiki'
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
+wwwgreywoodbaycom:
+  url: 'www.greywoodbay.com'
+  redirect: 'greywoodbay.com'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
 # *.miraheze.org/*.wikitide.org to wiki custom domains redirects
 allthetropeswiki:
   url: 'allthetropes.miraheze.org'
