@@ -894,6 +894,12 @@ thisisbattlewiki:
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
+racearchivewiki:
+  url: 'racearchive.miraheze.org'
+  redirect: 'amazingracewiki.com'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
 maillewiki:
   url: 'maille.miraheze.org'
   redirect: 'maille.wiki'
