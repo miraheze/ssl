@@ -318,12 +318,6 @@ urbanshadewiki:
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
-outlasterwiki:
-  url: 'outlaster.miraheze.org'
-  redirect: 'outlaster.peakprecision.wiki'
-  sslname: 'miraheze-origin-cert'
-  ca: 'Cloudflare'
-  hsts: 'strict'
 evicnoticewiki:
   url: 'evicnotice.miraheze.org'
   redirect: 'evicnotice.peakprecision.wiki'
