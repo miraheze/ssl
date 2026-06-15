@@ -912,6 +912,30 @@ mafiarobloxwiki:
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
+kamuiwiki:
+  url: 'kamui.miraheze.org'
+  redirect: 'wiki.kamui.at'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
+gsshwiki:
+  url: 'gssh.miraheze.org'
+  redirect: 'gsshwiki.org'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
+juiciwiki:
+  url: 'juici.miraheze.org'
+  redirect: 'wiki.juici.dev'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
+wilderlorewiki:
+  url: 'wilderlore.miraheze.org'
+  redirect: 'wilderlore.wiki'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
 # *.miraheze.org to *.miraheze.org wiki redirects
 wwwredirect:
   url: 'www.miraheze.org'
