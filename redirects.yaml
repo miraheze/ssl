@@ -936,6 +936,12 @@ wilderlorewiki:
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
+pixiehollowrewrittenwiki:
+  url: 'pixiehollowrewritten.miraheze.org'
+  redirect: 'wiki.pixiehollowrewritten.com'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
 # *.miraheze.org to *.miraheze.org wiki redirects
 wwwredirect:
   url: 'www.miraheze.org'
