@@ -942,6 +942,12 @@ pixiehollowrewrittenwiki:
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
+cubedefensewiki:
+  url: 'cubedefense.miraheze.org'
+  redirect: 'cubedefense.wiki'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
 # *.miraheze.org to *.miraheze.org wiki redirects
 wwwredirect:
   url: 'www.miraheze.org'
