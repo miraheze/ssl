@@ -510,12 +510,6 @@ omnicodexwiki:
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
-utgwiki:
-  url: 'utg.miraheze.org'
-  redirect: 'tagging.wiki'
-  sslname: 'miraheze-origin-cert'
-  ca: 'Cloudflare'
-  hsts: 'strict'
 levelsharesquarewiki:
   url: 'levelsharesquare.miraheze.org'
   redirect: 'wiki.levelsharesquare.com'
