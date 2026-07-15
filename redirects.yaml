@@ -960,6 +960,24 @@ monsterpatch:
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
+caspergamingwiki:
+  url: 'caspergaming.miraheze.org'
+  redirect: 'wiki.caspergaming.com'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
+placewikiwiki:
+  url: 'placewiki.miraheze.org'
+  redirect: 'place-wiki.stefanocoding.me'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
+blackdoorwiki:
+  url: 'blackdoor.miraheze.org'
+  redirect: 'wiki.blackdoor.tools'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
 # *.miraheze.org to *.miraheze.org wiki redirects
 wwwredirect:
   url: 'www.miraheze.org'
