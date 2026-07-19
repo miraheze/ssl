@@ -2532,6 +2532,12 @@ novamtrwiki_autoredirect:
   redirect: wiki.novamtr.org
   sslname: miraheze-origin-cert
   url: novamtr.miraheze.org
+novavoidwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-07-19T23:30:14.639796+00:00'
+  redirect: wiki.novavoid.net
+  sslname: miraheze-origin-cert
+  url: novavoid.miraheze.org
 nukucraftwikiwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
