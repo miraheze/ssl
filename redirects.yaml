@@ -3738,6 +3738,11 @@ novamtrwiki_autoredirect:
   redirect: wiki.novamtr.org
   ca: Cloudflare
   sslname: miraheze-origin-cert
+novavoidwiki_autoredirect:
+  url: novavoid.miraheze.org
+  redirect: wiki.novavoid.net
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 oculiswiki_autoredirect:
   url: oculis.miraheze.org
   redirect: wiki.oculis.space
