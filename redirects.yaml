@@ -1218,6 +1218,11 @@ pastportwiki_autoredirect:
   redirect: annapolishistorywiki.org
   ca: Cloudflare
   sslname: miraheze-origin-cert
+anomalywikiwiki_autoredirect:
+  url: anomalywiki.miraheze.org
+  redirect: anomaly-wiki.net
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 antiguabarbudacalypsowiki_autoredirect:
   url: antiguabarbudacalypso.miraheze.org
   redirect: antiguabarbudacalypso.com
@@ -1386,6 +1391,11 @@ choralaccesswiki_autoredirect:
 churrolandwiki_autoredirect:
   url: churroland.miraheze.org
   redirect: churroland.uk
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
+cinematicclicheswiki_autoredirect:
+  url: cinematiccliches.miraheze.org
+  redirect: cinematiccliches-db.next-meta.com
   ca: Cloudflare
   sslname: miraheze-origin-cert
 civicawikiwiki_autoredirect:
@@ -1783,6 +1793,11 @@ galacticwiki_autoredirect:
   redirect: galaxypedia.wiki
   ca: Cloudflare
   sslname: miraheze-origin-cert
+gdlywiki_autoredirect:
+  url: gdly.miraheze.org
+  redirect: gdly.msj.com.ly
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 geeuwiki_autoredirect:
   url: geeu.miraheze.org
   redirect: geeu.org
@@ -1906,6 +1921,11 @@ spacewiki_autoredirect:
 icclopediawiki_autoredirect:
   url: icclopedia.miraheze.org
   redirect: icclopedia.org
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
+indrawiki_autoredirect:
+  url: indra.miraheze.org
+  redirect: indramegha.xyz
   ca: Cloudflare
   sslname: miraheze-origin-cert
 infectopedwiki_autoredirect:
@@ -2343,6 +2363,11 @@ pthfmwiki_autoredirect:
   redirect: protect-the-house-from-monsters.wiki
   ca: Cloudflare
   sslname: miraheze-origin-cert
+psaltictheorywiki_autoredirect:
+  url: psaltictheory.miraheze.org
+  redirect: psaltictheory.koukouzelis.net
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 psychiatryhubwiki_autoredirect:
   url: psychiatryhub.miraheze.org
   redirect: psychiatrywiki.com
@@ -2478,6 +2503,11 @@ signoffswiki_autoredirect:
   redirect: signoffs.giize.com
   ca: Cloudflare
   sslname: miraheze-origin-cert
+slimevillewiki_autoredirect:
+  url: slimeville.miraheze.org
+  redirect: slimeville.wiki
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 slymodswiki_autoredirect:
   url: slymods.miraheze.org
   redirect: slymods.info
@@ -2581,6 +2611,11 @@ bnwikiwiki_autoredirect:
 tfukwiki_autoredirect:
   url: tfuk.miraheze.org
   redirect: tfuk.app
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
+zhtgwiki_autoredirect:
+  url: zhtg.miraheze.org
+  redirect: tgwiki.uk
   ca: Cloudflare
   sslname: miraheze-origin-cert
 thebattleforfallonwiki_autoredirect:
@@ -2871,6 +2906,11 @@ apollotvwiki_autoredirect:
 appelwiki_autoredirect:
   url: appel.miraheze.org
   redirect: wiki.appelgame.net
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
+aquilariumwiki_autoredirect:
+  url: aquilarium.miraheze.org
+  redirect: wiki.aquilarium.org
   ca: Cloudflare
   sslname: miraheze-origin-cert
 arcadiamcwiki_autoredirect:
@@ -3173,6 +3213,11 @@ bangunwiki_autoredirect:
   redirect: wiki.dwx.my.id
   ca: Cloudflare
   sslname: miraheze-origin-cert
+earpiercingswiki_autoredirect:
+  url: earpiercings.miraheze.org
+  redirect: wiki.earpiercings.gay
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 earthsupremacywiki_autoredirect:
   url: earthsupremacy.miraheze.org
   redirect: wiki.earthsupremacy.com
@@ -3393,6 +3438,11 @@ guaranpiswiki_autoredirect:
   redirect: wiki.guaranpis.es
   ca: Cloudflare
   sslname: miraheze-origin-cert
+gushankawiki_autoredirect:
+  url: gushanka.miraheze.org
+  redirect: wiki.gushanka.uk
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 harlonserverwiki_autoredirect:
   url: harlonserver.miraheze.org
   redirect: wiki.harlonserver.net
@@ -3491,6 +3541,11 @@ kwiki_autoredirect:
 kirbygangmcwiki_autoredirect:
   url: kirbygangmc.miraheze.org
   redirect: wiki.kirbygang.com
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
+kitbashdwiki_autoredirect:
+  url: kitbashd.miraheze.org
+  redirect: wiki.kitbashd.com
   ca: Cloudflare
   sslname: miraheze-origin-cert
 kiwicubedwiki_autoredirect:
@@ -3983,6 +4038,11 @@ spellpowderwiki_autoredirect:
   redirect: wiki.spellpowder.com
   ca: Cloudflare
   sslname: miraheze-origin-cert
+splatcraftwiki_autoredirect:
+  url: splatcraft.miraheze.org
+  redirect: wiki.splatcraft.ink
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 srjensenworldswiki_autoredirect:
   url: srjensenworlds.miraheze.org
   redirect: wiki.srjensen.org
@@ -4036,6 +4096,11 @@ survivalstorehousewiki_autoredirect:
 cocoapowderwiki_autoredirect:
   url: cocoapowder.miraheze.org
   redirect: wiki.sus-trade.com
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
+swarmdustrywiki_autoredirect:
+  url: swarmdustry.miraheze.org
+  redirect: wiki.swarmdustry.com
   ca: Cloudflare
   sslname: miraheze-origin-cert
 taeswiki_autoredirect:
@@ -4121,6 +4186,11 @@ unifiedrealmswiki_autoredirect:
 unitedlandswiki_autoredirect:
   url: unitedlands.miraheze.org
   redirect: wiki.unitedlands.net
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
+unofficialpokopiawiki_autoredirect:
+  url: unofficialpokopia.miraheze.org
+  redirect: wiki.unofficialpokopia.com
   ca: Cloudflare
   sslname: miraheze-origin-cert
 valkyrienskieswiki_autoredirect:
@@ -4433,6 +4503,11 @@ hoolehistoryheritagesocietywiki_autoredirect:
   redirect: www.hoolehistoryheritagesociety.org.uk
   ca: Cloudflare
   sslname: miraheze-origin-cert
+imperialempirewiki_autoredirect:
+  url: imperialempire.miraheze.org
+  redirect: www.imperialempirewiki.com
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 isocasgwiki_autoredirect:
   url: isocasg.miraheze.org
   redirect: www.isocasg.org
@@ -4501,6 +4576,11 @@ ngnlzhwiki_autoredirect:
 notgeldwiki_autoredirect:
   url: notgeld.miraheze.org
   redirect: www.notgeld-cn.net
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
+ouvragedartwiki_autoredirect:
+  url: ouvragedart.miraheze.org
+  redirect: www.ouvragedart.net
   ca: Cloudflare
   sslname: miraheze-origin-cert
 pittsburghmusicianwiki_autoredirect:
@@ -4611,6 +4691,11 @@ animalroyalezhwiki_autoredirect:
 zoarialmovieswiki_autoredirect:
   url: zoarialmovies.miraheze.org
   redirect: zoarialmovies.org
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
+zvhwiki_autoredirect:
+  url: zvh.miraheze.org
+  redirect: zombies-vs-humans.wiki
   ca: Cloudflare
   sslname: miraheze-origin-cert
 zomvilleswiki_autoredirect:
