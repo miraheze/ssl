@@ -3258,6 +3258,12 @@ senrishrinewiki_autoredirect:
   redirect: wiki.maribelhearn.com
   sslname: miraheze-origin-cert
   url: senrishrine.miraheze.org
+seocaawiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-07-20T09:00:27.548580+00:00'
+  redirect: wiki.sigmaepsilonomega.org
+  sslname: miraheze-origin-cert
+  url: seocaa.miraheze.org
 sequoiafabricawiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
