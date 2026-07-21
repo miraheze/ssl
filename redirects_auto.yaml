@@ -912,6 +912,12 @@ crystallizationculturewiki_autoredirect:
   redirect: cryst.wiki
   sslname: miraheze-origin-cert
   url: crystallizationculture.miraheze.org
+cubewireframewiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-07-21T10:30:16.865141+00:00'
+  redirect: wiki.cubewirefra.me
+  sslname: miraheze-origin-cert
+  url: cubewireframe.miraheze.org
 currencyofcambodiawiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
