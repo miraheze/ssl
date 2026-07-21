@@ -1848,6 +1848,11 @@ empireinflameswiki_autoredirect:
   redirect: holocron.net
   ca: Cloudflare
   sslname: miraheze-origin-cert
+holodoriwiki_autoredirect:
+  url: holodori.miraheze.org
+  redirect: holodori.wiki
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 hololivewiki_autoredirect:
   url: hololive.miraheze.org
   redirect: hololive.wiki
