@@ -3998,6 +3998,11 @@ sequoiafabricawiki_autoredirect:
   redirect: wiki.sequoiafabrica.org
   ca: Cloudflare
   sslname: miraheze-origin-cert
+seocaawiki_autoredirect:
+  url: seocaa.miraheze.org
+  redirect: wiki.sigmaepsilonomega.org
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 site79wiki_autoredirect:
   url: site79.miraheze.org
   redirect: wiki.site79.fr
