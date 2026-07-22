@@ -3732,6 +3732,12 @@ utauwiki_autoredirect:
   redirect: utau.wiki
   sslname: miraheze-origin-cert
   url: utau.miraheze.org
+utgwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-07-22T16:00:19.778583+00:00'
+  redirect: tagging.wiki
+  sslname: miraheze-origin-cert
+  url: utg.miraheze.org
 utonishwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
