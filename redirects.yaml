@@ -3028,6 +3028,11 @@ pmuniversewiki_autoredirect:
   redirect: wiki.cubestudios.xyz
   ca: Cloudflare
   sslname: miraheze-origin-cert
+cubewireframewiki_autoredirect:
+  url: cubewireframe.miraheze.org
+  redirect: wiki.cubewirefra.me
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 cutefamewiki_autoredirect:
   url: cutefame.miraheze.org
   redirect: wiki.cutefame.net
