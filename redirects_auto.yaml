@@ -1008,6 +1008,12 @@ domainswiki_autoredirect:
   redirect: internetdomains.wiki
   sslname: miraheze-origin-cert
   url: domains.miraheze.org
+doorscnfansfanonhubwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-07-23T15:30:16.818889+00:00'
+  redirect: doors.yatmt.site
+  sslname: miraheze-origin-cert
+  url: doorscnfansfanonhub.miraheze.org
 dragdownwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
