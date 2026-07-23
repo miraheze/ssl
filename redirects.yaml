@@ -2488,6 +2488,11 @@ swestswiki_autoredirect:
   redirect: swests.org
   ca: Cloudflare
   sslname: miraheze-origin-cert
+utgwiki_autoredirect:
+  url: utg.miraheze.org
+  redirect: tagging.wiki
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 talumnwiki_autoredirect:
   url: talumn.miraheze.org
   redirect: talumn.neptune.wiki
