@@ -1362,6 +1362,12 @@ fidreltawiki_autoredirect:
   redirect: fidmd.koymi.net
   sslname: miraheze-origin-cert
   url: fidrelta.miraheze.org
+fishingmcwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-07-24T18:00:16.504866+00:00'
+  redirect: wiki.fishingmc.org
+  sslname: miraheze-origin-cert
+  url: fishingmc.miraheze.org
 fishwikiwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
