@@ -1493,6 +1493,11 @@ ben3coderwiki_autoredirect:
   redirect: docs.ben3coder.dev
   ca: Cloudflare
   sslname: miraheze-origin-cert
+doorscnfansfanonhubwiki_autoredirect:
+  url: doorscnfansfanonhub.miraheze.org
+  redirect: doors.yatmt.site
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 dragdownwiki_autoredirect:
   url: dragdown.miraheze.org
   redirect: dragdown.wiki
