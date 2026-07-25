@@ -1560,6 +1560,12 @@ gmcwiki_autoredirect:
   redirect: wiki.graalmilitary.com
   sslname: miraheze-origin-cert
   url: gmc.miraheze.org
+goldennationsremasteredwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-07-25T21:30:14.600500+00:00'
+  redirect: wiki.goldennations.xyz
+  sslname: miraheze-origin-cert
+  url: goldennationsremastered.miraheze.org
 googleballswikiwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
