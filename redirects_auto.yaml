@@ -2064,6 +2064,12 @@ liophexwiki_autoredirect:
   redirect: wiki.liophex.net
   sslname: miraheze-origin-cert
   url: liophex.miraheze.org
+longlivethecallwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-07-25T04:00:17.026112+00:00'
+  redirect: longlivethecall.wiki
+  sslname: miraheze-origin-cert
+  url: longlivethecall.miraheze.org
 looneypyramidswiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
@@ -4050,6 +4056,12 @@ yumekawiki_autoredirect:
   redirect: oc.yumeka.xyz
   sslname: miraheze-origin-cert
   url: yumeka.miraheze.org
+yuminaprojectwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-07-25T04:00:17.026112+00:00'
+  redirect: yuminaproject.wiki
+  sslname: miraheze-origin-cert
+  url: yuminaproject.miraheze.org
 yunticuwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
