@@ -3208,6 +3208,11 @@ fictionaltechwiki_autoredirect:
   redirect: wiki.fictionaltechexchange.org
   ca: Cloudflare
   sslname: miraheze-origin-cert
+fishingmcwiki_autoredirect:
+  url: fishingmc.miraheze.org
+  redirect: wiki.fishingmc.org
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 flamebournesmpwiki_autoredirect:
   url: flamebournesmp.miraheze.org
   redirect: wiki.flamebournesmp.com
