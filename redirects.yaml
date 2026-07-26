@@ -2938,11 +2938,6 @@ cdntenniswiki_autoredirect:
   redirect: wiki.cdntennis.ca
   ca: Cloudflare
   sslname: miraheze-origin-cert
-celaronmcwiki_autoredirect:
-  url: celaronmc.miraheze.org
-  redirect: wiki.celarionmc.com
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
 thewhiteroomwiki_autoredirect:
   url: thewhiteroom.miraheze.org
   redirect: wiki.chevrine.com
