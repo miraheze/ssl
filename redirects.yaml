@@ -3298,6 +3298,11 @@ globasawiki_autoredirect:
   redirect: wiki.globasa.net
   ca: Cloudflare
   sslname: miraheze-origin-cert
+goldennationsremasteredwiki_autoredirect:
+  url: goldennationsremastered.miraheze.org
+  redirect: wiki.goldennations.xyz
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 googleballswikiwiki_autoredirect:
   url: googleballswiki.miraheze.org
   redirect: wiki.googleballs.com
