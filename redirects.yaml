@@ -2003,6 +2003,11 @@ legacygtwiki_autoredirect:
   redirect: legacygt.wiki
   ca: Cloudflare
   sslname: miraheze-origin-cert
+longlivethecallwiki_autoredirect:
+  url: longlivethecall.miraheze.org
+  redirect: longlivethecall.wiki
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 looneypyramidswiki_autoredirect:
   url: looneypyramids.miraheze.org
   redirect: looneypyramids.wiki
@@ -4526,6 +4531,11 @@ xomniwiki_autoredirect:
 fitccwiki_autoredirect:
   url: fitcc.miraheze.org
   redirect: you.r-fit.cc
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
+yuminaprojectwiki_autoredirect:
+  url: yuminaproject.miraheze.org
+  redirect: yuminaproject.wiki
   ca: Cloudflare
   sslname: miraheze-origin-cert
 yunticuwiki_autoredirect:
