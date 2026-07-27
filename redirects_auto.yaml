@@ -564,12 +564,6 @@ buocwiki_autoredirect:
   redirect: buoc.f5.si
   sslname: miraheze-origin-cert
   url: buoc.miraheze.org
-burmawikiwiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-07-17T13:23:06.331041+00:00'
-  redirect: burma-wiki.globi.uk
-  sslname: miraheze-origin-cert
-  url: burmawiki.miraheze.org
 campaignlabwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'

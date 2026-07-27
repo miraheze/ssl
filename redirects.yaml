@@ -1338,11 +1338,6 @@ buocwiki_autoredirect:
   redirect: buoc.f5.si
   ca: Cloudflare
   sslname: miraheze-origin-cert
-burmawikiwiki_autoredirect:
-  url: burmawiki.miraheze.org
-  redirect: burma-wiki.globi.uk
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
 caverncrusherwiki_autoredirect:
   url: caverncrusher.miraheze.org
   redirect: caverncrusher.com
