@@ -2598,11 +2598,6 @@ tnowiki_autoredirect:
   redirect: tno.wiki
   ca: Cloudflare
   sslname: miraheze-origin-cert
-toonworldgamewiki_autoredirect:
-  url: toonworldgame.miraheze.org
-  redirect: toonworld.themeatly2.top
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
 toucanywiki_autoredirect:
   url: toucany.miraheze.org
   redirect: toucany.info
@@ -4036,6 +4031,11 @@ tnrehabcenterwikiwiki_autoredirect:
 tn1craftwiki_autoredirect:
   url: tn1craft.miraheze.org
   redirect: wiki.tn1craft.indevs.in
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
+toonworldgamewiki_autoredirect:
+  url: toonworldgame.miraheze.org
+  redirect: wiki.toonworldgame.com
   ca: Cloudflare
   sslname: miraheze-origin-cert
 translatesciencewiki_autoredirect:
