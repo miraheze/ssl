@@ -2238,6 +2238,11 @@ parkourrebornwiki_autoredirect:
   redirect: parkourreborn.wiki
   ca: Cloudflare
   sslname: miraheze-origin-cert
+apatternlibrarywiki_autoredirect:
+  url: apatternlibrary.miraheze.org
+  redirect: patternlibrary.austinstorm.com
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 purrfectapawcalypsewiki_autoredirect:
   url: purrfectapawcalypse.miraheze.org
   redirect: pawiki.90percentstudios.com
