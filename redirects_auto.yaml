@@ -2226,6 +2226,12 @@ minescapewiki_autoredirect:
   redirect: minescape.wiki
   sslname: miraheze-origin-cert
   url: minescape.miraheze.org
+mintguidewiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-07-28T15:00:18.685641+00:00'
+  redirect: mintwiki.org
+  sslname: miraheze-origin-cert
+  url: mintguide.miraheze.org
 misslessfighterswiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
