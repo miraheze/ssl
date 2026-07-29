@@ -2083,6 +2083,11 @@ minescapewiki_autoredirect:
   redirect: minescape.wiki
   ca: Cloudflare
   sslname: miraheze-origin-cert
+mintguidewiki_autoredirect:
+  url: mintguide.miraheze.org
+  redirect: mintwiki.org
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 mkadvancewiki_autoredirect:
   url: mkadvance.miraheze.org
   redirect: mkadvance.net
