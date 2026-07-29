@@ -594,6 +594,12 @@ cdntenniswiki_autoredirect:
   redirect: wiki.cdntennis.ca
   sslname: miraheze-origin-cert
   url: cdntennis.miraheze.org
+celaronmcwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-07-29T04:30:14.734859+00:00'
+  redirect: wiki.celarionmc.com
+  sslname: miraheze-origin-cert
+  url: celaronmc.miraheze.org
 celestewiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
