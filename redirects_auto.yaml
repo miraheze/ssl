@@ -1866,6 +1866,12 @@ jennintalouswiki_autoredirect:
   redirect: wiki.teralahti.com
   sslname: miraheze-origin-cert
   url: jennintalous.miraheze.org
+jigwikiwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-07-29T20:30:16.223160+00:00'
+  redirect: jigwiki.com
+  sslname: miraheze-origin-cert
+  url: jigwiki.miraheze.org
 joshreviewswiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
