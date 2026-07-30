@@ -1938,6 +1938,11 @@ jackboxgameswiki_autoredirect:
   redirect: jackbox.wiki
   ca: Cloudflare
   sslname: miraheze-origin-cert
+jigwikiwiki_autoredirect:
+  url: jigwiki.miraheze.org
+  redirect: jigwiki.com
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 kalonsreveriewiki_autoredirect:
   url: kalonsreverie.miraheze.org
   redirect: kalons-reverie.com
