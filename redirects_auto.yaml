@@ -2418,6 +2418,12 @@ ngnlzhwiki_autoredirect:
   redirect: www.ngnl.wiki
   sslname: miraheze-origin-cert
   url: ngnlzh.miraheze.org
+nikkuzwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-07-30T04:00:14.828408+00:00'
+  redirect: wiki.callistal.net
+  sslname: miraheze-origin-cert
+  url: nikkuz.miraheze.org
 nimbynetworkwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
