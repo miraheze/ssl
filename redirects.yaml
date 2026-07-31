@@ -2933,6 +2933,11 @@ brokenlandwiki_autoredirect:
   redirect: wiki.brokenland.top
   ca: Cloudflare
   sslname: miraheze-origin-cert
+nikkuzwiki_autoredirect:
+  url: nikkuz.miraheze.org
+  redirect: wiki.callistal.net
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 capylandwiki_autoredirect:
   url: capyland.miraheze.org
   redirect: wiki.capyland.rf.gd

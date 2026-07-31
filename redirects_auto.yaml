@@ -3276,6 +3276,12 @@ sonaponawiki_autoredirect:
   redirect: sona.pona.la
   sslname: miraheze-origin-cert
   url: sonapona.miraheze.org
+soulframeruwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-07-31T04:00:18.807261+00:00'
+  redirect: wiki.soulframeru.com
+  sslname: miraheze-origin-cert
+  url: soulframeru.miraheze.org
 spacecraftwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
