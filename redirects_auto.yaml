@@ -1968,6 +1968,12 @@ knifepointhorrorwiki_autoredirect:
   redirect: www.knifepointhorror.wiki
   sslname: miraheze-origin-cert
   url: knifepointhorror.miraheze.org
+knkwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-07-31T19:30:14.140057+00:00'
+  redirect: wiki.katananokaze.com
+  sslname: miraheze-origin-cert
+  url: knk.miraheze.org
 knowledgerevolutionwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
