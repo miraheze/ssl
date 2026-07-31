@@ -1272,6 +1272,12 @@ evscopewiki_autoredirect:
   redirect: wiki.evscope.org
   sslname: miraheze-origin-cert
   url: evscope.miraheze.org
+evtvwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-07-31T21:00:14.346389+00:00'
+  redirect: wiki.evtv.me
+  sslname: miraheze-origin-cert
+  url: evtv.miraheze.org
 exlinkwikiwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
