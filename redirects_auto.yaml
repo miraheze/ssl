@@ -3750,6 +3750,12 @@ ukrlostmediawikiwiki_autoredirect:
   redirect: lostmedia.wiki
   sslname: miraheze-origin-cert
   url: ukrlostmediawiki.miraheze.org
+umbralridgewiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-08-01T02:30:16.918150+00:00'
+  redirect: umbralridge.at
+  sslname: miraheze-origin-cert
+  url: umbralridge.miraheze.org
 unifiedrealmswiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
