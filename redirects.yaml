@@ -3198,6 +3198,11 @@ evscopewiki_autoredirect:
   redirect: wiki.evscope.org
   ca: Cloudflare
   sslname: miraheze-origin-cert
+evtvwiki_autoredirect:
+  url: evtv.miraheze.org
+  redirect: wiki.evtv.me
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 exoticiouswiki_autoredirect:
   url: exoticious.miraheze.org
   redirect: wiki.exoticio.us
