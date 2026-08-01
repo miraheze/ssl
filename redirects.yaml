@@ -3928,6 +3928,11 @@ solarconquestwiki_autoredirect:
   redirect: wiki.solarconquest.net
   ca: Cloudflare
   sslname: miraheze-origin-cert
+soulframeruwiki_autoredirect:
+  url: soulframeru.miraheze.org
+  redirect: wiki.soulframeru.com
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 ss13plwiki_autoredirect:
   url: ss13pl.miraheze.org
   redirect: wiki.spacestation13.pl
