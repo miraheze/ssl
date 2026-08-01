@@ -3780,6 +3780,12 @@ unofficialpokopiawiki_autoredirect:
   redirect: wiki.unofficialpokopia.com
   sslname: miraheze-origin-cert
   url: unofficialpokopia.miraheze.org
+upgradexwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-08-01T23:00:14.477557+00:00'
+  redirect: upgxwiki.com
+  sslname: miraheze-origin-cert
+  url: upgradex.miraheze.org
 urgrasswiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
