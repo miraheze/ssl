@@ -3453,6 +3453,11 @@ kwiki_autoredirect:
   redirect: wiki.k-language.dev
   ca: Cloudflare
   sslname: miraheze-origin-cert
+knkwiki_autoredirect:
+  url: knk.miraheze.org
+  redirect: wiki.katananokaze.com
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 kirbygangmcwiki_autoredirect:
   url: kirbygangmc.miraheze.org
   redirect: wiki.kirbygang.com
