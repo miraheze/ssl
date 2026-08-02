@@ -2663,6 +2663,11 @@ umbralridgewiki_autoredirect:
   redirect: umbralridge.at
   ca: Cloudflare
   sslname: miraheze-origin-cert
+upgradexwiki_autoredirect:
+  url: upgradex.miraheze.org
+  redirect: upgxwiki.com
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 urgrasswiki_autoredirect:
   url: urgrass.miraheze.org
   redirect: urgwiki.fatstupid.top
