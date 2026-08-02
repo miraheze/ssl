@@ -2188,6 +2188,11 @@ northgardwiki_autoredirect:
   redirect: northgard.wiki
   ca: Cloudflare
   sslname: miraheze-origin-cert
+norvalerepublicwiki_autoredirect:
+  url: norvalerepublic.miraheze.org
+  redirect: norvalerepublic.wiki
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 nukucraftwikiwiki_autoredirect:
   url: nukucraftwiki.miraheze.org
   redirect: nukucraft-wiki.rurimaru.net
