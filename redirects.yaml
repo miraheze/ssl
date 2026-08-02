@@ -2653,6 +2653,11 @@ religiononfirewiki_autoredirect:
   redirect: uk.religiononfire.mar.in.ua
   ca: Cloudflare
   sslname: miraheze-origin-cert
+umbralridgewiki_autoredirect:
+  url: umbralridge.miraheze.org
+  redirect: umbralridge.at
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 urgrasswiki_autoredirect:
   url: urgrass.miraheze.org
   redirect: urgwiki.fatstupid.top
