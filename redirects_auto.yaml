@@ -3774,6 +3774,12 @@ unitedlandswiki_autoredirect:
   redirect: wiki.unitedlands.net
   sslname: miraheze-origin-cert
   url: unitedlands.miraheze.org
+unleashedspeedrunningwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-08-02T03:30:13.441969+00:00'
+  redirect: wiki.sonicunleashed.org
+  sslname: miraheze-origin-cert
+  url: unleashedspeedrunning.miraheze.org
 unofficialpokopiawiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-19T19:42:29.662280+00:00'
