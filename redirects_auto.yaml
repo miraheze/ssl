@@ -3216,6 +3216,12 @@ sfgamingwiki_autoredirect:
   redirect: wiki.sofurry.games
   sslname: miraheze-origin-cert
   url: sfgaming.miraheze.org
+shadowoftheleviathanwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-08-02T20:30:17.971385+00:00'
+  redirect: khanum.wiki
+  sslname: miraheze-origin-cert
+  url: shadowoftheleviathan.miraheze.org
 shanprojectwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
