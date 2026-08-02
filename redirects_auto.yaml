@@ -1584,6 +1584,12 @@ grabvrwiki_autoredirect:
   redirect: wiki.grab-tools.live
   sslname: miraheze-origin-cert
   url: grabvr.miraheze.org
+grandcivitaswiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-08-02T16:30:16.203226+00:00'
+  redirect: wiki.grandcivitas.com
+  sslname: miraheze-origin-cert
+  url: grandcivitas.miraheze.org
 greatphermesiawiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
