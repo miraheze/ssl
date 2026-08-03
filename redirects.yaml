@@ -3953,6 +3953,11 @@ solarconquestwiki_autoredirect:
   redirect: wiki.solarconquest.net
   ca: Cloudflare
   sslname: miraheze-origin-cert
+unleashedspeedrunningwiki_autoredirect:
+  url: unleashedspeedrunning.miraheze.org
+  redirect: wiki.sonicunleashed.org
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 soulframeruwiki_autoredirect:
   url: soulframeru.miraheze.org
   redirect: wiki.soulframeru.com
