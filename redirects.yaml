@@ -1958,6 +1958,11 @@ kenteowiki_autoredirect:
   redirect: kenteo.pe
   ca: Cloudflare
   sslname: miraheze-origin-cert
+shadowoftheleviathanwiki_autoredirect:
+  url: shadowoftheleviathan.miraheze.org
+  redirect: khanum.wiki
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 killerqueenwiki_autoredirect:
   url: killerqueen.miraheze.org
   redirect: killerqueenarcade.wiki
