@@ -504,6 +504,12 @@ bnwikiwiki_autoredirect:
   redirect: test.bnwp.org
   sslname: miraheze-origin-cert
   url: bnwiki.miraheze.org
+bobrixwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-08-04T04:30:14.840609+00:00'
+  redirect: bobrix.wiki
+  sslname: miraheze-origin-cert
+  url: bobrix.miraheze.org
 boombusterwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
