@@ -2442,6 +2442,12 @@ ngnlzhwiki_autoredirect:
   redirect: www.ngnl.wiki
   sslname: miraheze-origin-cert
   url: ngnlzh.miraheze.org
+nightmarerowiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-08-04T16:00:22.491223+00:00'
+  redirect: wiki.nightmareofragnarok.com
+  sslname: miraheze-origin-cert
+  url: nightmarero.miraheze.org
 nikkuzwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-30T04:00:14.828408+00:00'
