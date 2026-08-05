@@ -2694,6 +2694,12 @@ persistwiki_autoredirect:
   redirect: persist.wiki
   sslname: miraheze-origin-cert
   url: persist.miraheze.org
+pgrwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-08-05T16:00:18.246219+00:00'
+  redirect: grayravens.com
+  sslname: miraheze-origin-cert
+  url: pgr.miraheze.org
 phightingwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
