@@ -170,11 +170,6 @@ wwwkingdomwaywiki:
   redirect: 'kingdomway.wiki'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
-wwwgrayravenscom:
-  url: 'www.grayravens.com'
-  redirect: 'grayravens.com'
-  ca: 'Cloudflare'
-  sslname: 'miraheze-origin-cert'
 wwwrctwiki:
   url: 'www.rct.wiki'
   redirect: 'rct.wiki'
