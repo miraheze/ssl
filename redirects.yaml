@@ -1308,6 +1308,11 @@ bluebenwiki_autoredirect:
   redirect: blueben.xyz
   ca: Cloudflare
   sslname: miraheze-origin-cert
+bobrixwiki_autoredirect:
+  url: bobrix.miraheze.org
+  redirect: bobrix.wiki
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 boombusterwiki_autoredirect:
   url: boombuster.miraheze.org
   redirect: boombuster.wiki
