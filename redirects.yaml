@@ -3663,6 +3663,11 @@ newnormalwiki_autoredirect:
   redirect: wiki.newnormal.fans
   ca: Cloudflare
   sslname: miraheze-origin-cert
+nightmarerowiki_autoredirect:
+  url: nightmarero.miraheze.org
+  redirect: wiki.nightmareofragnarok.com
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 ninonlinewiki_autoredirect:
   url: ninonline.miraheze.org
   redirect: wiki.ninonline.com
