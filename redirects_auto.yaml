@@ -480,6 +480,12 @@ bluearchivewiki_autoredirect:
   redirect: bluearchive.wiki
   sslname: miraheze-origin-cert
   url: bluearchive.miraheze.org
+bluearchivezhwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-08-06T07:00:14.839917+00:00'
+  redirect: www.bluearchivewiki.top
+  sslname: miraheze-origin-cert
+  url: bluearchivezh.miraheze.org
 bluebenwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
