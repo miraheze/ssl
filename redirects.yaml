@@ -1788,6 +1788,11 @@ mecwiki_autoredirect:
   redirect: go2mec.org
   ca: Cloudflare
   sslname: miraheze-origin-cert
+pgrwiki_autoredirect:
+  url: pgr.miraheze.org
+  redirect: grayravens.com
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 archiopediagrcwiki_autoredirect:
   url: archiopediagrc.miraheze.org
   redirect: grc.repository.archiopedia.org
