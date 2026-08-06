@@ -1478,11 +1478,6 @@ dlfmwiki_autoredirect:
   redirect: dlfm-wiki.top
   ca: Cloudflare
   sslname: miraheze-origin-cert
-dmfawiki_autoredirect:
-  url: dmfa.miraheze.org
-  redirect: dmfawiki.online
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
 ben3coderwiki_autoredirect:
   url: ben3coder.miraheze.org
   redirect: docs.ben3coder.dev
@@ -4228,11 +4223,6 @@ wubbypediawiki_autoredirect:
   redirect: wiki.wubbygame.com
   ca: Cloudflare
   sslname: miraheze-origin-cert
-xcbloxwiki_autoredirect:
-  url: xcblox.miraheze.org
-  redirect: wiki.xcblox.com
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
 spielzeugwinkelwiki_autoredirect:
   url: spielzeugwinkel.miraheze.org
   redirect: wiki.xn--mnnelpedia-q5a.de
@@ -4426,11 +4416,6 @@ thesohnlandwikiwiki_autoredirect:
 ecolesciencewiki_autoredirect:
   url: ecolescience.miraheze.org
   redirect: www.ecole.science
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
-englishbaronagewiki_autoredirect:
-  url: englishbaronage.miraheze.org
-  redirect: www.englishbaronage.qzz.io
   ca: Cloudflare
   sslname: miraheze-origin-cert
 forsakenzhwiki_autoredirect:

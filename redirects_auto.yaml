@@ -1002,12 +1002,6 @@ dlfmwiki_autoredirect:
   redirect: dlfm-wiki.top
   sslname: miraheze-origin-cert
   url: dlfm.miraheze.org
-dmfawiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-07-17T13:23:06.331041+00:00'
-  redirect: dmfawiki.online
-  sslname: miraheze-origin-cert
-  url: dmfa.miraheze.org
 documentopublicowiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
@@ -1212,12 +1206,6 @@ endowikiwiki_autoredirect:
   redirect: endo-wiki.org
   sslname: miraheze-origin-cert
   url: endowiki.miraheze.org
-englishbaronagewiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-07-17T13:23:06.331041+00:00'
-  redirect: www.englishbaronage.qzz.io
-  sslname: miraheze-origin-cert
-  url: englishbaronage.miraheze.org
 enhamiwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
@@ -4110,12 +4098,6 @@ wubbypediawiki_autoredirect:
   redirect: wiki.wubbygame.com
   sslname: miraheze-origin-cert
   url: wubbypedia.miraheze.org
-xcbloxwiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-07-17T13:23:06.331041+00:00'
-  redirect: wiki.xcblox.com
-  sslname: miraheze-origin-cert
-  url: xcblox.miraheze.org
 xomniwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
