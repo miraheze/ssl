@@ -4618,6 +4618,11 @@ zeroerawiki_autoredirect:
   redirect: zeroera.wiki
   ca: Cloudflare
   sslname: miraheze-origin-cert
+bluearchivezhwiki_autoredirect:
+  url: bluearchivezh.miraheze.org
+  redirect: zh.bluearchive.wiki
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 zhtardiswiki_autoredirect:
   url: zhtardis.miraheze.org
   redirect: zh.tardis.wiki
