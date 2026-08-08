@@ -2178,6 +2178,12 @@ masrawiki_autoredirect:
   redirect: wiki.ma-sra.org
   sslname: miraheze-origin-cert
   url: masra.miraheze.org
+maynardchesswiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-08-08T15:30:14.528081+00:00'
+  redirect: maynardchess.club
+  sslname: miraheze-origin-cert
+  url: maynardchess.miraheze.org
 mcpkwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
