@@ -2058,6 +2058,11 @@ sagan4masonwiki_autoredirect:
   redirect: mason.sagan4.org
   ca: Cloudflare
   sslname: miraheze-origin-cert
+maynardchesswiki_autoredirect:
+  url: maynardchess.miraheze.org
+  redirect: maynardchess.club
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 mdfanprojectswiki_autoredirect:
   url: mdfanprojects.miraheze.org
   redirect: mdfanprojects.org
