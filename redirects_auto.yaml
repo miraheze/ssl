@@ -2928,6 +2928,12 @@ radiopedianlwiki_autoredirect:
   redirect: www.radiopedia.nl
   sslname: miraheze-origin-cert
   url: radiopedianl.miraheze.org
+radsportrostockwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-08-09T19:00:16.079895+00:00'
+  redirect: www.radsportrostock.de
+  sslname: miraheze-origin-cert
+  url: radsportrostock.miraheze.org
 railannouncementswiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
