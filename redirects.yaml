@@ -4533,6 +4533,11 @@ radiopedianlwiki_autoredirect:
   redirect: www.radiopedia.nl
   ca: Cloudflare
   sslname: miraheze-origin-cert
+radsportrostockwiki_autoredirect:
+  url: radsportrostock.miraheze.org
+  redirect: www.radsportrostock.de
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 secretuniversewikiwiki_autoredirect:
   url: secretuniversewiki.miraheze.org
   redirect: www.secretuniverse.wiki
