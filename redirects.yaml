@@ -2543,6 +2543,11 @@ tectonicindustrieswiki_autoredirect:
   redirect: tectonic.wiki
   ca: Cloudflare
   sslname: miraheze-origin-cert
+teflpediawiki_autoredirect:
+  url: teflpedia.miraheze.org
+  redirect: teflpedia.com
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 stopxwiki_autoredirect:
   url: stopx.miraheze.org
   redirect: tekannabrand.org
