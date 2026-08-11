@@ -2778,6 +2778,12 @@ pohjolamcwiki_autoredirect:
   redirect: wiki.pohjolamc.fi
   sslname: miraheze-origin-cert
   url: pohjolamc.miraheze.org
+pokefieldswiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-08-11T11:30:19.679439+00:00'
+  redirect: wiki.pokefields.com
+  sslname: miraheze-origin-cert
+  url: pokefields.miraheze.org
 politiklabwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
