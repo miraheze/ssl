@@ -2460,6 +2460,12 @@ nikkuzwiki_autoredirect:
   redirect: wiki.callistal.net
   sslname: miraheze-origin-cert
   url: nikkuz.miraheze.org
+nimbitfrontierwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-08-12T07:00:17.088795+00:00'
+  redirect: wiki.nimbitfrontier.com
+  sslname: miraheze-origin-cert
+  url: nimbitfrontier.miraheze.org
 nimbynetworkwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
