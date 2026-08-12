@@ -4463,6 +4463,11 @@ isocasgwiki_autoredirect:
   redirect: www.isocasg.org
   ca: Cloudflare
   sslname: miraheze-origin-cert
+jasperacademiaonlinewiki_autoredirect:
+  url: jasperacademiaonline.miraheze.org
+  redirect: www.jasperacademiaonline.com
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 journeythewordwiki_autoredirect:
   url: journeytheword.miraheze.org
   redirect: www.journeytheword.wiki
