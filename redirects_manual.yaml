@@ -403,12 +403,6 @@ bunkshelfwiki:
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
-backroomszhwiki:
-  url: 'backroomszh.miraheze.org'
-  redirect: 'wiki.backroomszh.org'
-  sslname: 'miraheze-origin-cert'
-  ca: 'Cloudflare'
-  hsts: 'strict'
 fischwiki:
   url: 'fisch.miraheze.org'
   redirect: 'fischipedia.org'
