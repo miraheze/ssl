@@ -3783,6 +3783,11 @@ pohjolamcwiki_autoredirect:
   redirect: wiki.pohjolamc.fi
   ca: Cloudflare
   sslname: miraheze-origin-cert
+pokefieldswiki_autoredirect:
+  url: pokefields.miraheze.org
+  redirect: wiki.pokefields.com
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 ponovowiki_autoredirect:
   url: ponovo.miraheze.org
   redirect: wiki.ponovo.rs
