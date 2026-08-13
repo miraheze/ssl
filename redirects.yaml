@@ -2552,6 +2552,11 @@ temanipediawiki_autoredirect:
   redirect: temanipedia.co.il
   ca: Cloudflare
   sslname: miraheze-origin-cert
+backroomszhwiki_autoredirect:
+  url: backroomszh.miraheze.org
+  redirect: temp.backroomszh.org
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 tepwiki_autoredirect:
   url: tep.miraheze.org
   redirect: tep.wiki
