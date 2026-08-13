@@ -750,6 +750,12 @@ col6wiki_autoredirect:
   redirect: wiki.col6.de
   sslname: miraheze-origin-cert
   url: col6.miraheze.org
+complementarysmpwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-08-13T18:00:15.037531+00:00'
+  redirect: wiki.compsmp.net
+  sslname: miraheze-origin-cert
+  url: complementarysmp.miraheze.org
 comprehensibleinputwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
