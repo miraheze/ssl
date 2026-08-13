@@ -3348,6 +3348,12 @@ smpearthpublicwiki_autoredirect:
   redirect: wiki.smpearth.com
   sslname: miraheze-origin-cert
   url: smpearthpublic.miraheze.org
+snowvalleywiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-08-13T22:00:14.013979+00:00'
+  redirect: wiki.voltsec.xyz
+  sslname: miraheze-origin-cert
+  url: snowvalley.miraheze.org
 snxyzmetawiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
