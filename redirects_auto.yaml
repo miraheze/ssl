@@ -684,6 +684,12 @@ ciptamediawiki_autoredirect:
   redirect: wiki.ciptamedia.org
   sslname: miraheze-origin-cert
   url: ciptamedia.miraheze.org
+citysvillemcwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-08-13T06:30:15.594606+00:00'
+  redirect: mc.citysville.wiki
+  sslname: miraheze-origin-cert
+  url: citysvillemc.miraheze.org
 civicawikiwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
