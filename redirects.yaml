@@ -3672,6 +3672,11 @@ nightmarerowiki_autoredirect:
   redirect: wiki.nightmareofragnarok.com
   ca: Cloudflare
   sslname: miraheze-origin-cert
+nimbitfrontierwiki_autoredirect:
+  url: nimbitfrontier.miraheze.org
+  redirect: wiki.nimbitfrontier.com
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 ninonlinewiki_autoredirect:
   url: ninonline.miraheze.org
   redirect: wiki.ninonline.com
