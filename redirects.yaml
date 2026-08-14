@@ -2057,6 +2057,11 @@ maynardchesswiki_autoredirect:
   redirect: maynardchess.club
   ca: Cloudflare
   sslname: miraheze-origin-cert
+citysvillemcwiki_autoredirect:
+  url: citysvillemc.miraheze.org
+  redirect: mc.citysville.wiki
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 mdfanprojectswiki_autoredirect:
   url: mdfanprojects.miraheze.org
   redirect: mdfanprojects.org
