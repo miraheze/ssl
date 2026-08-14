@@ -4187,6 +4187,11 @@ velorenwiki_autoredirect:
   redirect: wiki.veloren.net
   ca: Cloudflare
   sslname: miraheze-origin-cert
+snowvalleywiki_autoredirect:
+  url: snowvalley.miraheze.org
+  redirect: wiki.voltsec.xyz
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 angelsandacornswiki_autoredirect:
   url: angelsandacorns.miraheze.org
   redirect: wiki.vorbe.cc
