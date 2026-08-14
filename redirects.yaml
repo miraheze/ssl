@@ -3027,6 +3027,11 @@ compsmpwiki_autoredirect:
   redirect: wiki.comps.mp
   ca: Cloudflare
   sslname: miraheze-origin-cert
+complementarysmpwiki_autoredirect:
+  url: complementarysmp.miraheze.org
+  redirect: wiki.compsmp.net
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 conquerorsofthecraftwiki_autoredirect:
   url: conquerorsofthecraft.miraheze.org
   redirect: wiki.conquerorsofthecraft.com
