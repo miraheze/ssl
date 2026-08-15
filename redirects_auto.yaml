@@ -1032,6 +1032,12 @@ doorscnfansfanonhubwiki_autoredirect:
   redirect: doors.yatmt.site
   sslname: miraheze-origin-cert
   url: doorscnfansfanonhub.miraheze.org
+dougwikiwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-08-15T22:30:12.740133+00:00'
+  redirect: private.doug.mehus.ca
+  sslname: miraheze-origin-cert
+  url: dougwiki.miraheze.org
 dragdownwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
