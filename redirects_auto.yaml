@@ -1242,6 +1242,12 @@ epikijetesantakaluwiki_autoredirect:
   redirect: wiki.epiku.net
   sslname: miraheze-origin-cert
   url: epikijetesantakalu.miraheze.org
+ercavawiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-08-16T03:30:19.642901+00:00'
+  redirect: wiki.erc.my.id
+  sslname: miraheze-origin-cert
+  url: ercava.miraheze.org
 eroswiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
