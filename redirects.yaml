@@ -2322,6 +2322,11 @@ pouwiki_autoredirect:
   redirect: poupedia.com
   ca: Cloudflare
   sslname: miraheze-origin-cert
+dougwikiwiki_autoredirect:
+  url: dougwiki.miraheze.org
+  redirect: private.doug.mehus.ca
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 projectrusherwiki_autoredirect:
   url: projectrusher.miraheze.org
   redirect: project-rusher.org
