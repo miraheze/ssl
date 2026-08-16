@@ -1807,6 +1807,11 @@ growlwiki_autoredirect:
   redirect: growl.wiki
   ca: Cloudflare
   sslname: miraheze-origin-cert
+gymislandwiki_autoredirect:
+  url: gymisland.miraheze.org
+  redirect: gt2.ugwiki.org
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 gufengchengwiki_autoredirect:
   url: gufengcheng.miraheze.org
   redirect: gufengcheng.top
@@ -1820,11 +1825,6 @@ cineastaswiki_autoredirect:
 esporowiki_autoredirect:
   url: esporo.miraheze.org
   redirect: guia.esporo.net
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
-gymislandwiki_autoredirect:
-  url: gymisland.miraheze.org
-  redirect: gymisland.ugwiki.org
   ca: Cloudflare
   sslname: miraheze-origin-cert
 hardcorewiki_autoredirect:
