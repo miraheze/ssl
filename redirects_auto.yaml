@@ -1368,6 +1368,12 @@ fatcatfablabwiki_autoredirect:
   redirect: wiki.fatcatfablab.org
   sslname: miraheze-origin-cert
   url: fatcatfablab.miraheze.org
+fayzenwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-08-17T02:30:15.516836+00:00'
+  redirect: www.fayzen.ir
+  sslname: miraheze-origin-cert
+  url: fayzen.miraheze.org
 ff14rpwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
