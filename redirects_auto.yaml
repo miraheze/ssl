@@ -348,6 +348,12 @@ backroomszhwiki_autoredirect:
   redirect: wiki.backroomszh.org
   sslname: miraheze-origin-cert
   url: backroomszh.miraheze.org
+backroomwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-08-17T07:30:13.484602+00:00'
+  redirect: re.backroomszh.org
+  sslname: miraheze-origin-cert
+  url: backroom.miraheze.org
 baharnawiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
