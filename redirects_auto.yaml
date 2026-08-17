@@ -1044,6 +1044,12 @@ doorscnfansfanonhubwiki_autoredirect:
   redirect: doors.yatmt.site
   sslname: miraheze-origin-cert
   url: doorscnfansfanonhub.miraheze.org
+doorswiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-08-17T10:00:13.887581+00:00'
+  redirect: doorsgame.wiki
+  sslname: miraheze-origin-cert
+  url: doors.miraheze.org
 dougwikiwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-08-15T22:30:12.740133+00:00'
@@ -3018,6 +3024,12 @@ recaptimesquadwiki_autoredirect:
   redirect: hq.recaptime.dev
   sslname: miraheze-origin-cert
   url: recaptimesquad.miraheze.org
+redstonewiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-08-17T10:00:13.887581+00:00'
+  redirect: redstone.dhbaka.top
+  sslname: miraheze-origin-cert
+  url: redstone.miraheze.org
 refinedvanillawiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
