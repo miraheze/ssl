@@ -168,6 +168,12 @@ animalroyalezhwiki_autoredirect:
   redirect: zh.wiki.animalroyale.com
   sslname: miraheze-origin-cert
   url: animalroyalezh.miraheze.org
+animeexpeditionswiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-08-17T23:30:10.827642+00:00'
+  redirect: wiki.animeexpeditions.com
+  sslname: miraheze-origin-cert
+  url: animeexpeditions.miraheze.org
 animelegacywiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
