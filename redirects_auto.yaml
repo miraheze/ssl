@@ -3027,7 +3027,7 @@ recaptimesquadwiki_autoredirect:
 redstonewiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-08-17T10:00:13.887581+00:00'
-  redirect: redstone.dhbaka.top
+  redirect: redstonewiki.cn
   sslname: miraheze-origin-cert
   url: redstone.miraheze.org
 refinedvanillawiki_autoredirect:
