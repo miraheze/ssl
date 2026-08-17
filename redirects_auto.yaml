@@ -342,6 +342,12 @@ babelprojectwiki_autoredirect:
   redirect: babelproject.salcyeka.com
   sslname: miraheze-origin-cert
   url: babelproject.miraheze.org
+backroomszhwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-08-17T06:00:13.771357+00:00'
+  redirect: wiki.backroomszh.org
+  sslname: miraheze-origin-cert
+  url: backroomszh.miraheze.org
 baharnawiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
