@@ -3222,6 +3222,11 @@ epikijetesantakaluwiki_autoredirect:
   redirect: wiki.epiku.net
   ca: Cloudflare
   sslname: miraheze-origin-cert
+ercavawiki_autoredirect:
+  url: ercava.miraheze.org
+  redirect: wiki.erc.my.id
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 esotronicswiki_autoredirect:
   url: esotronics.miraheze.org
   redirect: wiki.esotronics.org
