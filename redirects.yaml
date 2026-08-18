@@ -4207,6 +4207,11 @@ wareranlwiki_autoredirect:
   redirect: wiki.wareranl.nl
   ca: Cloudflare
   sslname: miraheze-origin-cert
+weatherwatchwiki_autoredirect:
+  url: weatherwatch.miraheze.org
+  redirect: wiki.weather-watch.com
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 weirdfriendswiki_autoredirect:
   url: weirdfriends.miraheze.org
   redirect: wiki.weirdfriendsdotgov.com
