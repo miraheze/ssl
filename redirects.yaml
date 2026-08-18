@@ -1477,6 +1477,11 @@ doorscnfansfanonhubwiki_autoredirect:
   redirect: doors.yatmt.site
   ca: Cloudflare
   sslname: miraheze-origin-cert
+doorswiki_autoredirect:
+  url: doors.miraheze.org
+  redirect: doorsgame.wiki
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 dragdownwiki_autoredirect:
   url: dragdown.miraheze.org
   redirect: dragdown.wiki
@@ -2370,6 +2375,11 @@ quanvotwiki_autoredirect:
 backroomwiki_autoredirect:
   url: backroom.miraheze.org
   redirect: re.backroomszh.org
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
+redstonewiki_autoredirect:
+  url: redstone.miraheze.org
+  redirect: redstonewiki.cn
   ca: Cloudflare
   sslname: miraheze-origin-cert
 crazynoisyremixtreewiki_autoredirect:
