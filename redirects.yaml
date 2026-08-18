@@ -2372,6 +2372,11 @@ quanvotwiki_autoredirect:
   redirect: quanvot.vn
   ca: Cloudflare
   sslname: miraheze-origin-cert
+backroomwiki_autoredirect:
+  url: backroom.miraheze.org
+  redirect: re.backroomszh.org
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 crazynoisyremixtreewiki_autoredirect:
   url: crazynoisyremixtree.miraheze.org
   redirect: remix.shards.blue
