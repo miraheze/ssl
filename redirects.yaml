@@ -4457,6 +4457,11 @@ ecolesciencewiki_autoredirect:
   redirect: www.ecole.science
   ca: Cloudflare
   sslname: miraheze-origin-cert
+fayzenwiki_autoredirect:
+  url: fayzen.miraheze.org
+  redirect: www.fayzen.ir
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 forsakenzhwiki_autoredirect:
   url: forsakenzh.miraheze.org
   redirect: www.forsaken-zh.wiki
