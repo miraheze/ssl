@@ -2852,6 +2852,11 @@ animelegacywiki_autoredirect:
   redirect: wiki.anime-legacy.com
   ca: Cloudflare
   sslname: miraheze-origin-cert
+animeexpeditionswiki_autoredirect:
+  url: animeexpeditions.miraheze.org
+  redirect: wiki.animeexpeditions.com
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 apollotvwiki_autoredirect:
   url: apollotv.miraheze.org
   redirect: wiki.apollotv.media
