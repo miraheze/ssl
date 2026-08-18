@@ -210,18 +210,6 @@ apatternlibrarywiki_autoredirect:
   redirect: patternlibrary.austinstorm.com
   sslname: miraheze-origin-cert
   url: apatternlibrary.miraheze.org
-apeirologywiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-07-17T13:23:06.331041+00:00'
-  redirect: apeirology.com
-  sslname: miraheze-origin-cert
-  url: apeirology.miraheze.org
-apicowiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-07-17T13:23:06.331041+00:00'
-  redirect: wiki.apico.buzz
-  sslname: miraheze-origin-cert
-  url: apico.miraheze.org
 apollotvwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
@@ -1512,12 +1500,6 @@ frenchcitydesignerswiki_autoredirect:
   redirect: frenchcitydesigners.fr
   sslname: miraheze-origin-cert
   url: frenchcitydesigners.miraheze.org
-friendsofcoittowerwiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-07-17T13:23:06.331041+00:00'
-  redirect: wiki.friendsofcoittower.org
-  sslname: miraheze-origin-cert
-  url: friendsofcoittower.miraheze.org
 frostfallwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
@@ -2802,12 +2784,6 @@ pixeldungeonwiki_autoredirect:
   redirect: pixeldungeon.wiki
   sslname: miraheze-origin-cert
   url: pixeldungeon.miraheze.org
-pixlieswiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-07-17T13:23:06.331041+00:00'
-  redirect: wiki.pixlies.net
-  sslname: miraheze-origin-cert
-  url: pixlies.miraheze.org
 playentrywiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
@@ -3354,12 +3330,6 @@ signoffswiki_autoredirect:
   redirect: signoffs.giize.com
   sslname: miraheze-origin-cert
   url: signoffs.miraheze.org
-site79wiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-07-17T13:23:06.331041+00:00'
-  redirect: wiki.site79.fr
-  sslname: miraheze-origin-cert
-  url: site79.miraheze.org
 site97wiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
@@ -4026,12 +3996,6 @@ warhammer40kwiki_autoredirect:
   redirect: warhammer40kturkiye.wiki
   sslname: miraheze-origin-cert
   url: warhammer40k.miraheze.org
-warioversewiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-07-17T13:23:06.331041+00:00'
-  redirect: warioverse.com
-  sslname: miraheze-origin-cert
-  url: warioverse.miraheze.org
 warlordswiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
@@ -4050,12 +4014,6 @@ wayhavenwiki_autoredirect:
   redirect: wayhaven.wiki
   sslname: miraheze-origin-cert
   url: wayhaven.miraheze.org
-weatherstarwiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-07-17T13:23:06.331041+00:00'
-  redirect: wiki.freaky-rexsplode.xyz
-  sslname: miraheze-origin-cert
-  url: weatherstar.miraheze.org
 weatherwatchwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-08-17T20:00:13.468897+00:00'
