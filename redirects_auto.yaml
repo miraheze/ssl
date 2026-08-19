@@ -3954,6 +3954,12 @@ vocalostwiki_autoredirect:
   redirect: vocalost.wiki
   sslname: miraheze-origin-cert
   url: vocalost.miraheze.org
+voidpocalypsewiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-08-19T00:00:14.606904+00:00'
+  redirect: vpwiki.miltza.fyi
+  sslname: miraheze-origin-cert
+  url: voidpocalypse.miraheze.org
 vortoxwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
