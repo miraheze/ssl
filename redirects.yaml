@@ -2922,11 +2922,6 @@ b3dwfwiki_autoredirect:
   redirect: wiki.b3d.wf
   ca: Cloudflare
   sslname: miraheze-origin-cert
-backroomszhwiki_autoredirect:
-  url: backroomszh.miraheze.org
-  redirect: wiki.backroomszh.org
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
 baubleswiki_autoredirect:
   url: baubles.miraheze.org
   redirect: wiki.baubles.me
