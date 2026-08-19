@@ -2814,6 +2814,12 @@ pmuniversewiki_autoredirect:
   redirect: wiki.cubestudios.xyz
   sslname: miraheze-origin-cert
   url: pmuniverse.miraheze.org
+podilwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-08-19T12:30:13.244759+00:00'
+  redirect: wiki.prekols.com
+  sslname: miraheze-origin-cert
+  url: podil.miraheze.org
 pohjolamcwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
