@@ -3822,6 +3822,11 @@ ptawiki_autoredirect:
   redirect: wiki.potatotransit.xyz
   ca: Cloudflare
   sslname: miraheze-origin-cert
+podilwiki_autoredirect:
+  url: podil.miraheze.org
+  redirect: wiki.prekols.com
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 prismawiki_autoredirect:
   url: prisma.miraheze.org
   redirect: wiki.prismaearth.com
