@@ -2952,6 +2952,12 @@ pulsuswiki_autoredirect:
   redirect: wiki.pulsus.cc
   sslname: miraheze-origin-cert
   url: pulsus.miraheze.org
+purgateamwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-08-20T23:30:12.066192+00:00'
+  redirect: wiki.purgateam.com
+  sslname: miraheze-origin-cert
+  url: purgateam.miraheze.org
 purrfectapawcalypsewiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
