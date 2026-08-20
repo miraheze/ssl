@@ -2742,6 +2742,11 @@ uavolunteerresourceswiki_autoredirect:
   redirect: volunteerforukraine.com
   ca: Cloudflare
   sslname: miraheze-origin-cert
+voidpocalypsewiki_autoredirect:
+  url: voidpocalypse.miraheze.org
+  redirect: vpwiki.miltza.fyi
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 vyletponywiki_autoredirect:
   url: vyletpony.miraheze.org
   redirect: vylet.wiki
