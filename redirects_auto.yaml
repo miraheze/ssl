@@ -2280,6 +2280,12 @@ metacraftwiki_autoredirect:
   redirect: wiki.metacraft.nu
   sslname: miraheze-origin-cert
   url: metacraft.miraheze.org
+minawiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-08-20T19:30:13.826992+00:00'
+  redirect: mina.wiki
+  sslname: miraheze-origin-cert
+  url: mina.miraheze.org
 minedorfwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
