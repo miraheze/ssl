@@ -62,7 +62,7 @@
   url: 9b9t.miraheze.org
 ablocksjourneywiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: abj.conecorp.cc
   sslname: miraheze-origin-cert
   url: ablocksjourney.miraheze.org
@@ -212,7 +212,7 @@ antipsywiki_autoredirect:
   url: antipsy.miraheze.org
 aomcwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: wiki.diorite.xyz
   sslname: miraheze-origin-cert
   url: aomc.miraheze.org
@@ -362,7 +362,7 @@ backroomwiki_autoredirect:
   url: backroom.miraheze.org
 badziewawiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: badziewa.org
   sslname: miraheze-origin-cert
   url: badziewa.miraheze.org
@@ -440,7 +440,7 @@ ben3coderwiki_autoredirect:
   url: ben3coder.miraheze.org
 betonogradwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: wiki.betonograd.org
   sslname: miraheze-origin-cert
   url: betonograd.miraheze.org
@@ -470,7 +470,7 @@ birthdayserverwiki_autoredirect:
   url: birthdayserver.miraheze.org
 blackdoorwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: wiki.blackdoor.tools
   sslname: miraheze-origin-cert
   url: blackdoor.miraheze.org
@@ -494,7 +494,7 @@ blhlwiki_autoredirect:
   url: blhl.miraheze.org
 blindspacewiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: wiki.myblind.space
   sslname: miraheze-origin-cert
   url: blindspace.miraheze.org
@@ -614,7 +614,7 @@ buildabearwiki_autoredirect:
   url: buildabear.miraheze.org
 bunkshelfwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: magebunkshelf.net
   sslname: miraheze-origin-cert
   url: bunkshelf.miraheze.org
@@ -632,7 +632,7 @@ campaignlabwiki_autoredirect:
   url: campaignlab.miraheze.org
 capoeirawiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: capoeirawiki.org
   sslname: miraheze-origin-cert
   url: capoeira.miraheze.org
@@ -644,7 +644,7 @@ capylandwiki_autoredirect:
   url: capyland.miraheze.org
 caspergamingwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: wiki.caspergaming.com
   sslname: miraheze-origin-cert
   url: caspergaming.miraheze.org
@@ -686,7 +686,7 @@ cgwiki_autoredirect:
   url: cg.miraheze.org
 chalacowiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: wiki.chalaco.org
   sslname: miraheze-origin-cert
   url: chalaco.miraheze.org
@@ -704,7 +704,7 @@ chicorywiki_autoredirect:
   url: chicory.miraheze.org
 chinafakewiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: chinafake.wiki
   sslname: miraheze-origin-cert
   url: chinafake.miraheze.org
@@ -758,7 +758,7 @@ citysvillemcwiki_autoredirect:
   url: citysvillemc.miraheze.org
 citywikiwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: citywiki.eastsideurbanism.org
   sslname: miraheze-origin-cert
   url: citywiki.miraheze.org
@@ -920,7 +920,7 @@ cphorizonwiki_autoredirect:
   url: cphorizon.miraheze.org
 cpzerowiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: cpzero.wiki
   sslname: miraheze-origin-cert
   url: cpzero.miraheze.org
@@ -956,7 +956,7 @@ criticalstasiswiki_autoredirect:
   url: criticalstasis.miraheze.org
 crocwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: crocwiki.com
   sslname: miraheze-origin-cert
   url: croc.miraheze.org
@@ -986,7 +986,7 @@ crystallizationculturewiki_autoredirect:
   url: crystallizationculture.miraheze.org
 cubedefensewiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: cubedefense.wiki
   sslname: miraheze-origin-cert
   url: cubedefense.miraheze.org
@@ -1022,7 +1022,7 @@ cypherwiki_autoredirect:
   url: cypher.miraheze.org
 cytus2wiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: c2wiki.starsky919.xyz
   sslname: miraheze-origin-cert
   url: cytus2.miraheze.org
@@ -1046,7 +1046,7 @@ daisansekaiwiki_autoredirect:
   url: daisansekai.miraheze.org
 damnationwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: forsaken.wiki
   sslname: miraheze-origin-cert
   url: damnation.miraheze.org
@@ -1058,7 +1058,7 @@ danvswiki_autoredirect:
   url: danvs.miraheze.org
 darflenwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: wiki.darflen.com
   sslname: miraheze-origin-cert
   url: darflen.miraheze.org
@@ -1088,7 +1088,7 @@ deanzacollegewiki_autoredirect:
   url: deanzacollege.miraheze.org
 deepspiritwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: abysswiki.org
   sslname: miraheze-origin-cert
   url: deepspirit.miraheze.org
@@ -1136,7 +1136,7 @@ dlfmwiki_autoredirect:
   url: dlfm.miraheze.org
 dlsitewiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: erogewiki.org
   sslname: miraheze-origin-cert
   url: dlsite.miraheze.org
@@ -1148,7 +1148,7 @@ documentopublicowiki_autoredirect:
   url: documentopublico.miraheze.org
 dokidokimoddingwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: dokimodwiki.com
   sslname: miraheze-origin-cert
   url: dokidokimodding.miraheze.org
@@ -1190,7 +1190,7 @@ drawthingswiki_autoredirect:
   url: drawthings.miraheze.org
 dreamsciencewiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: dreamscience.iml.menhera.org
   sslname: miraheze-origin-cert
   url: dreamscience.miraheze.org
@@ -1208,7 +1208,7 @@ drycleaninglobbywiki_autoredirect:
   url: drycleaninglobby.miraheze.org
 dstrwikiwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: dstreborn.space
   sslname: miraheze-origin-cert
   url: dstrwiki.miraheze.org
@@ -1238,7 +1238,7 @@ earpiercingswiki_autoredirect:
   url: earpiercings.miraheze.org
 earth1wiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: wiki.santuy.id
   sslname: miraheze-origin-cert
   url: earth1.miraheze.org
@@ -1346,7 +1346,7 @@ elysiamcwiki_autoredirect:
   url: elysiamc.miraheze.org
 embryologywiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: embryologywiki.org
   sslname: miraheze-origin-cert
   url: embryology.miraheze.org
@@ -1436,7 +1436,7 @@ esporowiki_autoredirect:
   url: esporo.miraheze.org
 estforwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: wiki.estfor.com
   sslname: miraheze-origin-cert
   url: estfor.miraheze.org
@@ -1448,7 +1448,7 @@ etherealwiki_autoredirect:
   url: ethereal.miraheze.org
 everythingupgradetreewiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: eutwiki.com
   sslname: miraheze-origin-cert
   url: everythingupgradetree.miraheze.org
@@ -1520,7 +1520,7 @@ fanfikwiki_autoredirect:
   url: fanfik.miraheze.org
 fanpediawiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: fanonpedia.com
   sslname: miraheze-origin-cert
   url: fanpedia.miraheze.org
@@ -1580,7 +1580,7 @@ fidreltawiki_autoredirect:
   url: fidrelta.miraheze.org
 fischwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: fischipedia.org
   sslname: miraheze-origin-cert
   url: fisch.miraheze.org
@@ -1628,13 +1628,13 @@ fnafmwwiki_autoredirect:
   url: fnafmw.miraheze.org
 foodnotbombswiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: www.foodnotbombs.wiki
   sslname: miraheze-origin-cert
   url: foodnotbombs.miraheze.org
 foolishmodwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: foolish.wiki
   sslname: miraheze-origin-cert
   url: foolishmod.miraheze.org
@@ -1652,7 +1652,7 @@ forsakenzhwiki_autoredirect:
   url: forsakenzh.miraheze.org
 fortfortdroguewiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: fortfortdrogue.com
   sslname: miraheze-origin-cert
   url: fortfortdrogue.miraheze.org
@@ -1694,7 +1694,7 @@ frenchcitydesignerswiki_autoredirect:
   url: frenchcitydesigners.miraheze.org
 fromsoftwikiwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: fromsoftwiki.org
   sslname: miraheze-origin-cert
   url: fromsoftwiki.miraheze.org
@@ -1772,7 +1772,7 @@ gielinorgameswiki_autoredirect:
   url: gielinorgames.miraheze.org
 gimkitwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: gimkit.wiki
   sslname: miraheze-origin-cert
   url: gimkit.miraheze.org
@@ -1856,13 +1856,13 @@ growlwiki_autoredirect:
   url: growl.miraheze.org
 gsshwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: gsshwiki.org
   sslname: miraheze-origin-cert
   url: gssh.miraheze.org
 gtnhwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: wiki.gtnewhorizons.com
   sslname: miraheze-origin-cert
   url: gtnh.miraheze.org
@@ -1910,7 +1910,7 @@ harlonserverwiki_autoredirect:
   url: harlonserver.miraheze.org
 havenwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: wiki.peacefulhaven.lol
   sslname: miraheze-origin-cert
   url: haven.miraheze.org
@@ -2150,7 +2150,7 @@ jigwikiwiki_autoredirect:
   url: jigwiki.miraheze.org
 jinghewiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: wiki.jinghe.in
   sslname: miraheze-origin-cert
   url: jinghe.miraheze.org
@@ -2180,19 +2180,19 @@ jsalwiki_autoredirect:
   url: jsal.miraheze.org
 juicimatedwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: wiki.juici.dev
   sslname: miraheze-origin-cert
   url: juicimated.miraheze.org
 juiciwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: juicimated.wiki
   sslname: miraheze-origin-cert
   url: juici.miraheze.org
 junxionswiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: junxions.wiki
   sslname: miraheze-origin-cert
   url: junxions.miraheze.org
@@ -2204,7 +2204,7 @@ kagagawiki_autoredirect:
   url: kagaga.miraheze.org
 kaiserreichwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: kaiserreich.wiki
   sslname: miraheze-origin-cert
   url: kaiserreich.miraheze.org
@@ -2216,13 +2216,13 @@ kalonsreveriewiki_autoredirect:
   url: kalonsreverie.miraheze.org
 kamuiwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: wiki.kamui.at
   sslname: miraheze-origin-cert
   url: kamui.miraheze.org
 kaoruhanawiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: kaoruhana.wiki
   sslname: miraheze-origin-cert
   url: kaoruhana.miraheze.org
@@ -2234,7 +2234,7 @@ keinebezahlkartewiki_autoredirect:
   url: keinebezahlkarte.miraheze.org
 kenpendiumwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: kenpendium.org
   sslname: miraheze-origin-cert
   url: kenpendium.miraheze.org
@@ -2324,7 +2324,7 @@ kotsuicwiki_autoredirect:
   url: kotsuic.miraheze.org
 kpopdemonhuntersplwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: pl.kpopdemonhunters.wiki
   sslname: miraheze-origin-cert
   url: kpopdemonhunterspl.miraheze.org
@@ -2354,7 +2354,7 @@ landofliberoswiki_autoredirect:
   url: landofliberos.miraheze.org
 larnwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: wiki.larn.org
   sslname: miraheze-origin-cert
   url: larn.miraheze.org
@@ -2384,7 +2384,7 @@ lefrenchmeleewiki_autoredirect:
   url: lefrenchmelee.miraheze.org
 left4deadwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: left4deadwiki.com
   sslname: miraheze-origin-cert
   url: left4dead.miraheze.org
@@ -2396,13 +2396,13 @@ legacygtwiki_autoredirect:
   url: legacygt.miraheze.org
 legitimoosewiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: legitimoose.wiki
   sslname: miraheze-origin-cert
   url: legitimoose.miraheze.org
 levelsharesquarewiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: wiki.levelsharesquare.com
   sslname: miraheze-origin-cert
   url: levelsharesquare.miraheze.org
@@ -2468,7 +2468,7 @@ lostcitywiki_autoredirect:
   url: lostcity.miraheze.org
 lostmediaruwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: lostmediawiki.ru
   sslname: miraheze-origin-cert
   url: lostmediaru.miraheze.org
@@ -2480,7 +2480,7 @@ lotrminecraftmodwiki_autoredirect:
   url: lotrminecraftmod.miraheze.org
 loveanddeepspacewiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: lads.wiki
   sslname: miraheze-origin-cert
   url: loveanddeepspace.miraheze.org
@@ -2498,7 +2498,7 @@ lswwiki_autoredirect:
   url: lsw.miraheze.org
 lumenflamewiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: wiki.lumenflame.com
   sslname: miraheze-origin-cert
   url: lumenflame.miraheze.org
@@ -2516,7 +2516,7 @@ lusianewiki_autoredirect:
   url: lusiane.miraheze.org
 luxuryelevatorwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: wiki.theluxuryelevator.com
   sslname: miraheze-origin-cert
   url: luxuryelevator.miraheze.org
@@ -2528,19 +2528,19 @@ macwrenchwiki_autoredirect:
   url: macwrench.miraheze.org
 mafiarobloxwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: wiki.toplinestudios.gg
   sslname: miraheze-origin-cert
   url: mafiaroblox.miraheze.org
 maillewiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: maille.wiki
   sslname: miraheze-origin-cert
   url: maille.miraheze.org
 maiyamawikiwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: legacy-wiki.tmyt105.com
   sslname: miraheze-origin-cert
   url: maiyamawiki.miraheze.org
@@ -2552,7 +2552,7 @@ maplewikivnwiki_autoredirect:
   url: maplewikivn.miraheze.org
 marathonwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: marathongame.wiki
   sslname: miraheze-origin-cert
   url: marathon.miraheze.org
@@ -2630,7 +2630,7 @@ metacraftwiki_autoredirect:
   url: metacraft.miraheze.org
 midnightburgerwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: wiki.weopenatsix.com
   sslname: miraheze-origin-cert
   url: midnightburger.miraheze.org
@@ -2666,7 +2666,7 @@ minescapewiki_autoredirect:
   url: minescape.miraheze.org
 minigamemadnesswiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: wiki.minigamemadness.net
   sslname: miraheze-origin-cert
   url: minigamemadness.miraheze.org
@@ -2720,7 +2720,7 @@ moddedminecraftwiki_autoredirect:
   url: moddedminecraft.miraheze.org
 modernbetawiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: wiki.modernbeta.org
   sslname: miraheze-origin-cert
   url: modernbeta.miraheze.org
@@ -2744,7 +2744,7 @@ monsterbrothelwiki_autoredirect:
   url: monsterbrothel.miraheze.org
 monsterpatchwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: monsterpatch.wiki
   sslname: miraheze-origin-cert
   url: monsterpatch.miraheze.org
@@ -2762,7 +2762,7 @@ mskradcuwiki_autoredirect:
   url: mskradcu.miraheze.org
 mtaewiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: evershine.p1.wiki
   sslname: miraheze-origin-cert
   url: mtae.miraheze.org
@@ -2804,7 +2804,7 @@ najmipediawiki_autoredirect:
   url: najmipedia.miraheze.org
 namowiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: wiki.namoalliance.org
   sslname: miraheze-origin-cert
   url: namo.miraheze.org
@@ -2882,7 +2882,7 @@ nightmarerowiki_autoredirect:
   url: nightmarero.miraheze.org
 nikki1wiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: nikki1.wiki
   sslname: miraheze-origin-cert
   url: nikki1.miraheze.org
@@ -2978,7 +2978,7 @@ nukucraftwikiwiki_autoredirect:
   url: nukucraftwiki.miraheze.org
 nullscapewiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: nullscape.wiki
   sslname: miraheze-origin-cert
   url: nullscape.miraheze.org
@@ -3008,7 +3008,7 @@ offworldwiki_autoredirect:
   url: offworld.miraheze.org
 olapuwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: olapu.wiki
   sslname: miraheze-origin-cert
   url: olapu.miraheze.org
@@ -3020,7 +3020,7 @@ omegaspacewiki_autoredirect:
   url: omegaspace.miraheze.org
 omnicodexwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: wiki.omnicodex.net
   sslname: miraheze-origin-cert
   url: omnicodex.miraheze.org
@@ -3086,7 +3086,7 @@ otdevilwiki_autoredirect:
   url: otdevil.miraheze.org
 otherkinwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: otherkin.wiki
   sslname: miraheze-origin-cert
   url: otherkin.miraheze.org
@@ -3212,19 +3212,19 @@ pixeldungeonwiki_autoredirect:
   url: pixeldungeon.miraheze.org
 pixiehollowrewrittenwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: wiki.pixiehollowrewritten.com
   sslname: miraheze-origin-cert
   url: pixiehollowrewritten.miraheze.org
 pizzatowerwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: pizzatower.wiki
   sslname: miraheze-origin-cert
   url: pizzatower.miraheze.org
 placewikiwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: place-wiki.stefanocoding.me
   sslname: miraheze-origin-cert
   url: placewiki.miraheze.org
@@ -3296,7 +3296,7 @@ porkysmpwiki_autoredirect:
   url: porkysmp.miraheze.org
 potmwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: www.potmwiki.top
   sslname: miraheze-origin-cert
   url: potm.miraheze.org
@@ -3308,19 +3308,19 @@ pouwiki_autoredirect:
   url: pou.miraheze.org
 powcreationswiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: powcreations.wiki
   sslname: miraheze-origin-cert
   url: powcreations.miraheze.org
 ppcwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: wiki.plotprotectors.org
   sslname: miraheze-origin-cert
   url: ppc.miraheze.org
 pravschoolwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: pravschool.com
   sslname: miraheze-origin-cert
   url: pravschool.miraheze.org
@@ -3368,7 +3368,7 @@ projectrusherwiki_autoredirect:
   url: projectrusher.miraheze.org
 projectsekaiwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: www.sekaipedia.org
   sslname: miraheze-origin-cert
   url: projectsekai.miraheze.org
@@ -3452,7 +3452,7 @@ quantumcraftwiki_autoredirect:
   url: quantumcraft.miraheze.org
 quantumsciencewiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: wiki.quantum-science.net
   sslname: miraheze-origin-cert
   url: quantumscience.miraheze.org
@@ -3464,13 +3464,13 @@ quanvotwiki_autoredirect:
   url: quanvot.miraheze.org
 r6danceswiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: r6dances.wiki
   sslname: miraheze-origin-cert
   url: r6dances.miraheze.org
 racearchivewiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: amazingracewiki.com
   sslname: miraheze-origin-cert
   url: racearchive.miraheze.org
@@ -3494,7 +3494,7 @@ railannouncementswiki_autoredirect:
   url: railannouncements.miraheze.org
 rainversewiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: rainverse.wiki
   sslname: miraheze-origin-cert
   url: rainverse.miraheze.org
@@ -3512,7 +3512,7 @@ rbwrwiki_autoredirect:
   url: rbwr.miraheze.org
 realitycompromisedwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: realitycompromised.wiki
   sslname: miraheze-origin-cert
   url: realitycompromised.miraheze.org
@@ -3548,7 +3548,7 @@ religiononfirewiki_autoredirect:
   url: religiononfire.miraheze.org
 removededmsongswiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: removededm.com
   sslname: miraheze-origin-cert
   url: removededmsongs.miraheze.org
@@ -3560,7 +3560,7 @@ renegadesquirrelwiki_autoredirect:
   url: renegadesquirrel.miraheze.org
 republikindomaretwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: perpusnas.republikindomaret.com
   sslname: miraheze-origin-cert
   url: republikindomaret.miraheze.org
@@ -3614,7 +3614,7 @@ rodzinkaplwiki_autoredirect:
   url: rodzinkapl.miraheze.org
 roomsrevisitedwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: revisited.wiki
   sslname: miraheze-origin-cert
   url: roomsrevisited.miraheze.org
@@ -3638,7 +3638,7 @@ rrfwiki_autoredirect:
   url: rrf.miraheze.org
 rt3wiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: rt3.ugwiki.org
   sslname: miraheze-origin-cert
   url: rt3.miraheze.org
@@ -3854,7 +3854,7 @@ shapingamericawiki_autoredirect:
   url: shapingamerica.miraheze.org
 sharkbitewiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: sharkbite.wiki
   sslname: miraheze-origin-cert
   url: sharkbite.miraheze.org
@@ -3866,7 +3866,7 @@ shikimoriwiki_autoredirect:
   url: shikimori.miraheze.org
 shippinglaneswiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: wiki.shippinglanes.net
   sslname: miraheze-origin-cert
   url: shippinglanes.miraheze.org
@@ -3944,7 +3944,7 @@ soulframeruwiki_autoredirect:
   url: soulframeru.miraheze.org
 soulframewiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: wiki.avakot.org
   sslname: miraheze-origin-cert
   url: soulframe.miraheze.org
@@ -3968,7 +3968,7 @@ spellpowderwiki_autoredirect:
   url: spellpowder.miraheze.org
 spelunkywiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: spelunky.wiki
   sslname: miraheze-origin-cert
   url: spelunky.miraheze.org
@@ -4040,7 +4040,7 @@ steemwiki_autoredirect:
   url: steem.miraheze.org
 steinworldwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: wiki.stein.world
   sslname: miraheze-origin-cert
   url: steinworld.miraheze.org
@@ -4082,7 +4082,7 @@ strangereonswiki_autoredirect:
   url: strangereons.miraheze.org
 strinovawiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: strinova.org
   sslname: miraheze-origin-cert
   url: strinova.miraheze.org
@@ -4100,13 +4100,13 @@ sunpluscoredevwiki_autoredirect:
   url: sunpluscoredev.miraheze.org
 superblox64wiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: sb64.conecorp.cc
   sslname: miraheze-origin-cert
   url: superblox64.miraheze.org
 superstarracerswiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: sr.conecorp.cc
   sslname: miraheze-origin-cert
   url: superstarracers.miraheze.org
@@ -4154,13 +4154,13 @@ talumnwiki_autoredirect:
   url: talumn.miraheze.org
 tanukipediawiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: tanuki.iml.menhera.org
   sslname: miraheze-origin-cert
   url: tanukipedia.miraheze.org
 taswinwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: www.istpcomputing.com
   sslname: miraheze-origin-cert
   url: taswin.miraheze.org
@@ -4214,7 +4214,7 @@ tfukwiki_autoredirect:
   url: tfuk.miraheze.org
 tgtdwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: wiki.tgtdrblx.com
   sslname: miraheze-origin-cert
   url: tgtd.miraheze.org
@@ -4256,7 +4256,7 @@ theenglishlakeswiki_autoredirect:
   url: theenglishlakes.miraheze.org
 theforgewiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: forgewiki.org
   sslname: miraheze-origin-cert
   url: theforge.miraheze.org
@@ -4304,7 +4304,7 @@ thesohnlandwikiwiki_autoredirect:
   url: thesohnlandwiki.miraheze.org
 thethaotocdowiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: wiki.thethaotocdo.vn
   sslname: miraheze-origin-cert
   url: thethaotocdo.miraheze.org
@@ -4328,7 +4328,7 @@ thewhiteroomwiki_autoredirect:
   url: thewhiteroom.miraheze.org
 thisisbattlewiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: wiki.battle.anespiem.com
   sslname: miraheze-origin-cert
   url: thisisbattle.miraheze.org
@@ -4340,7 +4340,7 @@ thuniswiki_autoredirect:
   url: thunis.miraheze.org
 tintinpediawiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: www.tintinpedia.fr
   sslname: miraheze-origin-cert
   url: tintinpedia.miraheze.org
@@ -4424,7 +4424,7 @@ triplescriptswiki_autoredirect:
   url: triplescripts.miraheze.org
 trollpastawiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: trollpasta.com
   sslname: miraheze-origin-cert
   url: trollpasta.miraheze.org
@@ -4484,7 +4484,7 @@ uebusaitowiki_autoredirect:
   url: uebusaito.miraheze.org
 uglydollwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: uglydoll.wiki
   sslname: miraheze-origin-cert
   url: uglydoll.miraheze.org
@@ -4514,7 +4514,7 @@ unitedlandswiki_autoredirect:
   url: unitedlands.miraheze.org
 universalunionwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: universalunion.wiki
   sslname: miraheze-origin-cert
   url: universalunion.miraheze.org
@@ -4538,7 +4538,7 @@ upgradexwiki_autoredirect:
   url: upgradex.miraheze.org
 urbanshadewiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: urbanshade.org
   sslname: miraheze-origin-cert
   url: urbanshade.miraheze.org
@@ -4562,7 +4562,7 @@ ussewiki_autoredirect:
   url: usse.miraheze.org
 utaitewiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: utaite.wiki
   sslname: miraheze-origin-cert
   url: utaite.miraheze.org
@@ -4586,7 +4586,7 @@ utonishwiki_autoredirect:
   url: utonish.miraheze.org
 uwrwikiwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: uwrwiki.org
   sslname: miraheze-origin-cert
   url: uwrwiki.miraheze.org
@@ -4598,7 +4598,7 @@ valkyrienskieswiki_autoredirect:
   url: valkyrienskies.miraheze.org
 vanguardswiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: wiki.vanguards.gg
   sslname: miraheze-origin-cert
   url: vanguards.miraheze.org
@@ -4724,7 +4724,7 @@ wherewindsmeetwiki_autoredirect:
   url: wherewindsmeet.miraheze.org
 whitebluelexiconwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: wbluelexicon.belkosmos.com
   sslname: miraheze-origin-cert
   url: whitebluelexicon.miraheze.org
@@ -4772,7 +4772,7 @@ wikitoyswiki_autoredirect:
   url: wikitoys.miraheze.org
 wikitransportwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: wikitransport.org
   sslname: miraheze-origin-cert
   url: wikitransport.miraheze.org
@@ -4784,7 +4784,7 @@ wikitubewiki_autoredirect:
   url: wikitube.miraheze.org
 wilderlorewiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: wilderlore.wiki
   sslname: miraheze-origin-cert
   url: wilderlore.miraheze.org
@@ -4802,7 +4802,7 @@ wildterra2wiki_autoredirect:
   url: wildterra2.miraheze.org
 windgatewiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: windgate.wiki
   sslname: miraheze-origin-cert
   url: windgate.miraheze.org
@@ -4898,7 +4898,7 @@ yeolandwiki_autoredirect:
   url: yeoland.miraheze.org
 yokaiwatchwiki_autoredirect:
   ca: Cloudflare
-  first_seen: '2026-08-21T01:29:15.436093+00:00'
+  first_seen: '2026-08-20T01:29:15.436093+00:00'
   redirect: yokaiwatchwiki.com
   sslname: miraheze-origin-cert
   url: yokaiwatch.miraheze.org
