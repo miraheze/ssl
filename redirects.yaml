@@ -1580,6 +1580,11 @@ hamuddaolihumanlinewikiwiki_autoredirect:
   redirect: mhdh.pj568.eu.org
   ca: Cloudflare
   sslname: miraheze-origin-cert
+minawiki_autoredirect:
+  url: mina.miraheze.org
+  redirect: mina.wiki
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 minersworldwiki_autoredirect:
   url: minersworld.miraheze.org
   redirect: minersworld.wiki
