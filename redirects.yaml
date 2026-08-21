@@ -1665,6 +1665,11 @@ neurowiki_autoredirect:
   redirect: neurologiahpm.com
   ca: Cloudflare
   sslname: miraheze-origin-cert
+nwwiki_autoredirect:
+  url: nw.miraheze.org
+  redirect: neurowide.cc.cd
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 keinebezahlkartewiki_autoredirect:
   url: keinebezahlkarte.miraheze.org
   redirect: niedersachsen.bezahlkarte-nein.de
