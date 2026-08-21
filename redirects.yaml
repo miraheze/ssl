@@ -3630,6 +3630,11 @@ pulsuswiki_autoredirect:
   redirect: wiki.pulsus.cc
   ca: Cloudflare
   sslname: miraheze-origin-cert
+purgateamwiki_autoredirect:
+  url: purgateam.miraheze.org
+  redirect: wiki.purgateam.com
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 puucraftwiki_autoredirect:
   url: puucraft.miraheze.org
   redirect: wiki.puucraft.net
