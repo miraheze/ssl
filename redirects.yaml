@@ -228,6 +228,29 @@ rippaversewiki:
   redirect: rippaversewiki.com
   sslname: wikitide.org
   ca: LetsEncrypt
+allthetropeswiki:
+  url: allthetropes.miraheze.org
+  redirect: allthetropes.org
+  sslname: miraheze-origin-cert
+  ca: Cloudflare
+animalroyalewiki:
+  url: animalroyale.miraheze.org
+  redirect: wiki.animalroyale.com
+  sslname: miraheze-origin-cert
+  ca: Cloudflare
+  hsts: strict
+andrewvanweywiki:
+  url: andrewvanwey.miraheze.org
+  redirect: greywoodbay.com
+  sslname: miraheze-origin-cert
+  ca: Cloudflare
+  hsts: strict
+skibiditoiletwiki:
+  url: skibiditoilet.miraheze.org
+  redirect: skibidi-toilet.wiki
+  sslname: miraheze-origin-cert
+  ca: Cloudflare
+  hsts: strict
 wwwredirect:
   url: www.miraheze.org
   redirect: miraheze.org

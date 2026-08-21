@@ -226,12 +226,37 @@ wwwburnoutwiki:
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
 # *.miraheze.org/*.wikitide.org to wiki custom domains redirects
-# # (removed due to T15283)
+# Removed due to T15283
+# Entries that involve wikitide.org or has other manual redirect entries (e.g. www) are kept
+# because the bot does not auto-generate them.
 rippaversewiki:
   url: 'rippaverse.wikitide.org'
   redirect: 'rippaversewiki.com'
   sslname: 'wikitide.org'
   ca: 'LetsEncrypt'
+allthetropeswiki:
+  url: 'allthetropes.miraheze.org'
+  redirect: 'allthetropes.org'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+animalroyalewiki:
+  url: 'animalroyale.miraheze.org'
+  redirect: 'wiki.animalroyale.com'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
+andrewvanweywiki:
+  url: 'andrewvanwey.miraheze.org'
+  redirect: 'greywoodbay.com'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
+skibiditoiletwiki:
+  url: 'skibiditoilet.miraheze.org'
+  redirect: 'skibidi-toilet.wiki'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
 # *.miraheze.org to *.miraheze.org wiki redirects
 wwwredirect:
   url: 'www.miraheze.org'
