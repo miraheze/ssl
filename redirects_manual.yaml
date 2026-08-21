@@ -384,6 +384,12 @@ zhpolandballwiki_redirect:
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
+robloxblocktaleswiki_redirect:
+  url: 'robloxblocktales.miraheze.org'
+  redirect: 'blocktales.miraheze.org'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
 # orain.org to miraheze.org wiki redirects
 allthetropesorain:
   url: 'allthetropes.orain.org'
