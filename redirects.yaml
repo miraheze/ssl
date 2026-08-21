@@ -251,6 +251,12 @@ skibiditoiletwiki:
   sslname: miraheze-origin-cert
   ca: Cloudflare
   hsts: strict
+itemasylumwiki:
+  url: itemasylum.miraheze.org
+  redirect: itemasylum.wiki
+  sslname: miraheze-origin-cert
+  ca: Cloudflare
+  hsts: strict
 wwwredirect:
   url: www.miraheze.org
   redirect: miraheze.org
