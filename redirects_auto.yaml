@@ -2508,12 +2508,6 @@ luojanwiki_autoredirect:
   redirect: wiki.rainpyramid777.net
   sslname: miraheze-origin-cert
   url: luojan.miraheze.org
-lusianewiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-07-17T13:23:06.331041+00:00'
-  redirect: www.lusiane.com.br
-  sslname: miraheze-origin-cert
-  url: lusiane.miraheze.org
 luxuryelevatorwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-08-20T01:29:15.436093+00:00'

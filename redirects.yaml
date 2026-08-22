@@ -4390,11 +4390,6 @@ lindyuniversewiki_autoredirect:
   redirect: www.lindyuniverse.org
   ca: Cloudflare
   sslname: miraheze-origin-cert
-lusianewiki_autoredirect:
-  url: lusiane.miraheze.org
-  redirect: www.lusiane.com.br
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
 mcpkwiki_autoredirect:
   url: mcpk.miraheze.org
   redirect: www.mcpk.wiki
