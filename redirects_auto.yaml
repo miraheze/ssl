@@ -2178,12 +2178,6 @@ jsalwiki_autoredirect:
   redirect: wiki.jsal.org
   sslname: miraheze-origin-cert
   url: jsal.miraheze.org
-juicimatedwiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-08-20T01:29:15.436093+00:00'
-  redirect: wiki.juici.dev
-  sslname: miraheze-origin-cert
-  url: juicimated.miraheze.org
 juiciwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-08-20T01:29:15.436093+00:00'
@@ -3846,12 +3840,6 @@ shanprojectwiki_autoredirect:
   redirect: shanproject.wiki
   sslname: miraheze-origin-cert
   url: shanproject.miraheze.org
-shapingamericawiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-07-17T13:23:06.331041+00:00'
-  redirect: wiki.formingamerica.org
-  sslname: miraheze-origin-cert
-  url: shapingamerica.miraheze.org
 sharkbitewiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-08-20T01:29:15.436093+00:00'

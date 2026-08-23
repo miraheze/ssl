@@ -3005,11 +3005,6 @@ fluxdeveloperswiki_autoredirect:
   redirect: wiki.fluxstuff.org
   ca: Cloudflare
   sslname: miraheze-origin-cert
-shapingamericawiki_autoredirect:
-  url: shapingamerica.miraheze.org
-  redirect: wiki.formingamerica.org
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
 fracturedfranchisewiki_autoredirect:
   url: fracturedfranchise.miraheze.org
   redirect: wiki.fracturedfranchise.com
@@ -3213,11 +3208,6 @@ joustrowiki_autoredirect:
 jsalwiki_autoredirect:
   url: jsal.miraheze.org
   redirect: wiki.jsal.org
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
-juicimatedwiki_autoredirect:
-  url: juicimated.miraheze.org
-  redirect: wiki.juici.dev
   ca: Cloudflare
   sslname: miraheze-origin-cert
 kwiki_autoredirect:
@@ -3488,6 +3478,11 @@ oculiswiki_autoredirect:
 offworldwiki_autoredirect:
   url: offworld.miraheze.org
   redirect: wiki.offworldclothing.co
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
+ohmenwiki_autoredirect:
+  url: ohmen.miraheze.org
+  redirect: wiki.ohmen.online
   ca: Cloudflare
   sslname: miraheze-origin-cert
 omnicodexwiki_autoredirect:
