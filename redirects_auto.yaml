@@ -2964,6 +2964,12 @@ novavoidwiki_autoredirect:
   redirect: wiki.novavoid.net
   sslname: miraheze-origin-cert
   url: novavoid.miraheze.org
+nrcwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-08-24T14:00:15.305628+00:00'
+  redirect: roco.p1.wiki
+  sslname: miraheze-origin-cert
+  url: nrc.miraheze.org
 nukucraftwikiwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
