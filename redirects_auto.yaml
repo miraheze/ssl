@@ -402,6 +402,12 @@ basewikiwiki_autoredirect:
   redirect: basewiki.org
   sslname: miraheze-origin-cert
   url: basewiki.miraheze.org
+battlewavewikiwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-08-24T05:00:11.826187+00:00'
+  redirect: battlewavewiki.com
+  sslname: miraheze-origin-cert
+  url: battlewavewiki.miraheze.org
 baubleswiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
