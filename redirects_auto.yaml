@@ -4266,6 +4266,12 @@ thefoundationrobloxwiki_autoredirect:
   redirect: wiki.namegames.dev
   sslname: miraheze-origin-cert
   url: thefoundationroblox.miraheze.org
+theheartrootvalewiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-08-24T16:00:17.420188+00:00'
+  redirect: wiki.theheartrootvale.com
+  sslname: miraheze-origin-cert
+  url: theheartrootvale.miraheze.org
 thelastdimensionwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
