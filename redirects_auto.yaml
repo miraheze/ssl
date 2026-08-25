@@ -4512,6 +4512,12 @@ umbralridgewiki_autoredirect:
   redirect: umbralridge.at
   sslname: miraheze-origin-cert
   url: umbralridge.miraheze.org
+umemorywiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-08-25T12:30:13.810274+00:00'
+  redirect: umemory.maastrichtuniversity.nl
+  sslname: miraheze-origin-cert
+  url: umemory.miraheze.org
 unifiedrealmswiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
