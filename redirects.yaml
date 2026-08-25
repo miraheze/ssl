@@ -3925,6 +3925,11 @@ thebunyipwiki_autoredirect:
   redirect: wiki.thebunyip.uk
   ca: Cloudflare
   sslname: miraheze-origin-cert
+theheartrootvalewiki_autoredirect:
+  url: theheartrootvale.miraheze.org
+  redirect: wiki.theheartrootvale.com
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 thelastdimensionwiki_autoredirect:
   url: thelastdimension.miraheze.org
   redirect: wiki.thelastdimension.net
