@@ -1320,6 +1320,12 @@ electowikiwiki_autoredirect:
   redirect: electowiki.org
   sslname: miraheze-origin-cert
   url: electowiki.miraheze.org
+electrochemistrywiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-08-25T14:30:14.642548+00:00'
+  redirect: alka-initiative.com
+  sslname: miraheze-origin-cert
+  url: electrochemistry.miraheze.org
 elementalchaoswikiwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
