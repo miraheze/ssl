@@ -2005,6 +2005,11 @@ rockrevolutionwiki_autoredirect:
   redirect: rockrevolution.wiki
   ca: Cloudflare
   sslname: miraheze-origin-cert
+nrcwiki_autoredirect:
+  url: nrc.miraheze.org
+  redirect: roco.p1.wiki
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 rodzinkaplwiki_autoredirect:
   url: rodzinkapl.miraheze.org
   redirect: rodzinka.wiki
