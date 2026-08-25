@@ -555,6 +555,11 @@ basewikiwiki_autoredirect:
   redirect: basewiki.org
   ca: Cloudflare
   sslname: miraheze-origin-cert
+battlewavewikiwiki_autoredirect:
+  url: battlewavewiki.miraheze.org
+  redirect: battlewavewiki.com
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 bpwiki_autoredirect:
   url: bp.miraheze.org
   redirect: bebaskanpengetahuan.id
