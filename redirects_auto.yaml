@@ -4614,6 +4614,12 @@ uwrwikiwiki_autoredirect:
   redirect: uwrwiki.org
   sslname: miraheze-origin-cert
   url: uwrwiki.miraheze.org
+valariawiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-08-25T21:30:14.760168+00:00'
+  redirect: wiki.valaria.site
+  sslname: miraheze-origin-cert
+  url: valaria.miraheze.org
 valkyrienskieswiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
