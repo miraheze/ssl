@@ -1458,6 +1458,12 @@ etherealwiki_autoredirect:
   redirect: wiki.ethereal.mov
   sslname: miraheze-origin-cert
   url: ethereal.miraheze.org
+evadeswiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-08-26T06:00:13.951035+00:00'
+  redirect: wiki.evades.io
+  sslname: miraheze-origin-cert
+  url: evades.miraheze.org
 everythingupgradetreewiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-08-20T01:29:15.436093+00:00'
