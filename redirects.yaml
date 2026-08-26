@@ -4020,6 +4020,11 @@ unofficialpokopiawiki_autoredirect:
   redirect: wiki.unofficialpokopia.com
   ca: Cloudflare
   sslname: miraheze-origin-cert
+valariawiki_autoredirect:
+  url: valaria.miraheze.org
+  redirect: wiki.valaria.site
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 valkyrienskieswiki_autoredirect:
   url: valkyrienskies.miraheze.org
   redirect: wiki.valkyrienskies.org
