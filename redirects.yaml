@@ -1785,6 +1785,11 @@ overbuffwiki_autoredirect:
   redirect: overbuff-wiki.info
   ca: Cloudflare
   sslname: miraheze-origin-cert
+overfreightwiki_autoredirect:
+  url: overfreight.miraheze.org
+  redirect: overfreight.wiki
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 theoverseerprojectwiki_autoredirect:
   url: theoverseerproject.miraheze.org
   redirect: overseer.maxrealm.cc
