@@ -2335,6 +2335,11 @@ umbralridgewiki_autoredirect:
   redirect: umbralridge.at
   ca: Cloudflare
   sslname: miraheze-origin-cert
+umemorywiki_autoredirect:
+  url: umemory.miraheze.org
+  redirect: umemory.maastrichtuniversity.nl
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 universalunionwiki_autoredirect:
   url: universalunion.miraheze.org
   redirect: universalunion.wiki
