@@ -1464,6 +1464,12 @@ evadeswiki_autoredirect:
   redirect: wiki.evades.io
   sslname: miraheze-origin-cert
   url: evades.miraheze.org
+everestwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-08-28T21:00:15.601827+00:00'
+  redirect: everestpedia.org
+  sslname: miraheze-origin-cert
+  url: everest.miraheze.org
 everythingupgradetreewiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-08-20T01:29:15.436093+00:00'
