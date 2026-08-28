@@ -5022,6 +5022,12 @@ zomvilleswiki_autoredirect:
   redirect: zomvilles.pixiemeta.com
   sslname: miraheze-origin-cert
   url: zomvilles.miraheze.org
+zonacerowikiwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-08-28T23:00:14.353013+00:00'
+  redirect: wiki.zonacero.me
+  sslname: miraheze-origin-cert
+  url: zonacerowiki.miraheze.org
 zvhwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-19T19:42:29.662280+00:00'
