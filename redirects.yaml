@@ -1026,6 +1026,11 @@ everythingupgradetreewiki_autoredirect:
   redirect: eutwiki.com
   ca: Cloudflare
   sslname: miraheze-origin-cert
+everestwiki_autoredirect:
+  url: everest.miraheze.org
+  redirect: everestpedia.org
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 mtaewiki_autoredirect:
   url: mtae.miraheze.org
   redirect: evershine.p1.wiki
