@@ -3018,6 +3018,12 @@ oculiswiki_autoredirect:
   redirect: wiki.oculis.space
   sslname: miraheze-origin-cert
   url: oculis.miraheze.org
+officialfurbywiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-08-29T11:30:14.108077+00:00'
+  redirect: furby.wiki
+  sslname: miraheze-origin-cert
+  url: officialfurby.miraheze.org
 offworldwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
