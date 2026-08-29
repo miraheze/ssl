@@ -3318,6 +3318,12 @@ politiklabwiki_autoredirect:
   redirect: politiklab.org
   sslname: miraheze-origin-cert
   url: politiklab.miraheze.org
+polskimappingwikiwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-08-29T23:30:14.060266+00:00'
+  redirect: pl.mappingwiki.org
+  sslname: miraheze-origin-cert
+  url: polskimappingwiki.miraheze.org
 ponovowiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
