@@ -1176,6 +1176,11 @@ touhouplushwiki_autoredirect:
   redirect: fumo.wiki
   ca: Cloudflare
   sslname: miraheze-origin-cert
+officialfurbywiki_autoredirect:
+  url: officialfurby.miraheze.org
+  redirect: furby.wiki
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 galacticwiki_autoredirect:
   url: galactic.miraheze.org
   redirect: galaxypedia.wiki
