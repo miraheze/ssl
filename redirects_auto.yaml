@@ -2382,6 +2382,12 @@ larphistorywiki_autoredirect:
   redirect: www.larphistory.org
   sslname: miraheze-origin-cert
   url: larphistory.miraheze.org
+laststopwikiwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-08-30T05:00:13.816284+00:00'
+  redirect: laststopwiki.com
+  sslname: miraheze-origin-cert
+  url: laststopwiki.miraheze.org
 leagueofserverswiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
