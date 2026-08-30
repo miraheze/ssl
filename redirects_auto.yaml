@@ -2784,6 +2784,12 @@ mtaewiki_autoredirect:
   redirect: evershine.p1.wiki
   sslname: miraheze-origin-cert
   url: mtae.miraheze.org
+murderdroneswikiwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-08-30T18:30:13.481945+00:00'
+  redirect: murderdrones.wiki
+  sslname: miraheze-origin-cert
+  url: murderdroneswiki.miraheze.org
 musipediasudoestewiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
