@@ -1020,6 +1020,12 @@ cyberlawwiki_autoredirect:
   redirect: cyberlaw.ccdcoe.org
   sslname: miraheze-origin-cert
   url: cyberlaw.miraheze.org
+cyclesofconflictwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-08-31T17:00:14.905150+00:00'
+  redirect: wiki.cyclesofconflict.com
+  sslname: miraheze-origin-cert
+  url: cyclesofconflict.miraheze.org
 cypherwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
