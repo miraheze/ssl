@@ -1481,6 +1481,11 @@ landofliberoswiki_autoredirect:
   redirect: landofliberos.com
   ca: Cloudflare
   sslname: miraheze-origin-cert
+laststopwikiwiki_autoredirect:
+  url: laststopwiki.miraheze.org
+  redirect: laststopwiki.com
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 left4deadwiki_autoredirect:
   url: left4dead.miraheze.org
   redirect: left4deadwiki.com

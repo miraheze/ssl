@@ -3030,6 +3030,12 @@ oculiswiki_autoredirect:
   redirect: wiki.oculis.space
   sslname: miraheze-origin-cert
   url: oculis.miraheze.org
+officialbetrayedwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-08-31T05:00:14.807051+00:00'
+  redirect: officialbetrayed.com
+  sslname: miraheze-origin-cert
+  url: officialbetrayed.miraheze.org
 officialfurbywiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-08-29T11:30:14.108077+00:00'
