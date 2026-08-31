@@ -1848,6 +1848,12 @@ grabvrwiki_autoredirect:
   redirect: wiki.grab-tools.live
   sslname: miraheze-origin-cert
   url: grabvr.miraheze.org
+grandanchorwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-08-31T07:00:16.079214+00:00'
+  redirect: wiki.eupharos.com
+  sslname: miraheze-origin-cert
+  url: grandanchor.miraheze.org
 grandcivitaswiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-08-02T16:30:16.203226+00:00'
