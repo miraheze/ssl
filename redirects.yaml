@@ -1881,6 +1881,11 @@ kpopdemonhuntersplwiki_autoredirect:
   redirect: pl.kpopdemonhunters.wiki
   ca: Cloudflare
   sslname: miraheze-origin-cert
+polskimappingwikiwiki_autoredirect:
+  url: polskimappingwiki.miraheze.org
+  redirect: pl.mappingwiki.org
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 placewikiwiki_autoredirect:
   url: placewiki.miraheze.org
   redirect: place-wiki.stefanocoding.me
