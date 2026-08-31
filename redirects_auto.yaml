@@ -1782,12 +1782,6 @@ genzmarocwiki_autoredirect:
   redirect: wiki.genzmaroc.com
   sslname: miraheze-origin-cert
   url: genzmaroc.miraheze.org
-geofrontierwiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-07-17T13:23:06.331041+00:00'
-  redirect: geofrontier.net
-  sslname: miraheze-origin-cert
-  url: geofrontier.miraheze.org
 gielinorgameswiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'

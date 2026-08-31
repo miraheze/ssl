@@ -1196,11 +1196,6 @@ geeuwiki_autoredirect:
   redirect: geeu.org
   ca: Cloudflare
   sslname: miraheze-origin-cert
-geofrontierwiki_autoredirect:
-  url: geofrontier.miraheze.org
-  redirect: geofrontier.net
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
 gielinorgameswiki_autoredirect:
   url: gielinorgames.miraheze.org
   redirect: gielinorgames.wiki
