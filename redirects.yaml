@@ -1661,6 +1661,11 @@ monsterpatchwiki_autoredirect:
   redirect: monsterpatch.wiki
   ca: Cloudflare
   sslname: miraheze-origin-cert
+murderdroneswikiwiki_autoredirect:
+  url: murderdroneswiki.miraheze.org
+  redirect: murderdrones.wiki
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 musipediasudoestewiki_autoredirect:
   url: musipediasudoeste.miraheze.org
   redirect: musipedia.distintivoblue.com
