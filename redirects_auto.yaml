@@ -2748,6 +2748,12 @@ modernbetawiki_autoredirect:
   redirect: wiki.modernbeta.org
   sslname: miraheze-origin-cert
   url: modernbeta.miraheze.org
+moldavicawiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-09-01T20:00:17.245542+00:00'
+  redirect: moldavica.org
+  sslname: miraheze-origin-cert
+  url: moldavica.miraheze.org
 moncubwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
