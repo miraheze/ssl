@@ -894,6 +894,12 @@ corruwiki_autoredirect:
   redirect: corru.wiki
   sslname: miraheze-origin-cert
   url: corru.miraheze.org
+cotcwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-09-01T23:30:14.904327+00:00'
+  redirect: wiki.cotc.show
+  sslname: miraheze-origin-cert
+  url: cotc.miraheze.org
 countryhumanseswiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
