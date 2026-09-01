@@ -2556,6 +2556,12 @@ mafiarobloxwiki_autoredirect:
   redirect: wiki.toplinestudios.gg
   sslname: miraheze-origin-cert
   url: mafiaroblox.miraheze.org
+magistrowiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-09-01T22:00:14.849321+00:00'
+  redirect: magistro.co
+  sslname: miraheze-origin-cert
+  url: magistro.miraheze.org
 maillewiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-08-20T01:29:15.436093+00:00'
