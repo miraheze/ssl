@@ -2856,6 +2856,11 @@ cutefamewiki_autoredirect:
   redirect: wiki.cutefame.net
   ca: Cloudflare
   sslname: miraheze-origin-cert
+cyclesofconflictwiki_autoredirect:
+  url: cyclesofconflict.miraheze.org
+  redirect: wiki.cyclesofconflict.com
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 czekoladacraftwiki_autoredirect:
   url: czekoladacraft.miraheze.org
   redirect: wiki.czekoladacraft.pl
