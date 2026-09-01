@@ -3006,6 +3006,11 @@ etherealwiki_autoredirect:
   redirect: wiki.ethereal.mov
   ca: Cloudflare
   sslname: miraheze-origin-cert
+grandanchorwiki_autoredirect:
+  url: grandanchor.miraheze.org
+  redirect: wiki.eupharos.com
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 evadeswiki_autoredirect:
   url: evades.miraheze.org
   redirect: wiki.evades.io
