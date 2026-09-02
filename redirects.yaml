@@ -1546,6 +1546,11 @@ bunkshelfwiki_autoredirect:
   redirect: magebunkshelf.net
   ca: Cloudflare
   sslname: miraheze-origin-cert
+magistrowiki_autoredirect:
+  url: magistro.miraheze.org
+  redirect: magistro.co
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 maillewiki_autoredirect:
   url: maille.miraheze.org
   redirect: maille.wiki
