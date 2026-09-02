@@ -1651,6 +1651,11 @@ moddedminecraftwiki_autoredirect:
   redirect: moddedminecraft.wiki
   ca: Cloudflare
   sslname: miraheze-origin-cert
+moldavicawiki_autoredirect:
+  url: moldavica.miraheze.org
+  redirect: moldavica.org
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 monsterboundwiki_autoredirect:
   url: monsterbound.miraheze.org
   redirect: monsterboundwiki.com
