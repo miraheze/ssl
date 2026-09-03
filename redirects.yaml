@@ -2826,6 +2826,11 @@ coolstationwiki_autoredirect:
   redirect: wiki.coolstation.space
   ca: Cloudflare
   sslname: miraheze-origin-cert
+cotcwiki_autoredirect:
+  url: cotc.miraheze.org
+  redirect: wiki.cotc.show
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 cclwiki_autoredirect:
   url: ccl.miraheze.org
   redirect: wiki.counterculturelabs.org
