@@ -3096,6 +3096,11 @@ fluxdeveloperswiki_autoredirect:
   redirect: wiki.fluxstuff.org
   ca: Cloudflare
   sslname: miraheze-origin-cert
+fogwiki_autoredirect:
+  url: fog.miraheze.org
+  redirect: wiki.fog.org.nz
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 fracturedfranchisewiki_autoredirect:
   url: fracturedfranchise.miraheze.org
   redirect: wiki.fracturedfranchise.com
