@@ -4182,6 +4182,12 @@ strinovawiki_autoredirect:
   redirect: strinova.org
   sslname: miraheze-origin-cert
   url: strinova.miraheze.org
+sufferingwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-09-03T17:30:16.624641+00:00'
+  redirect: sufferingwiki.syrupstudios.lol
+  sslname: miraheze-origin-cert
+  url: suffering.miraheze.org
 sufiwikiwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
