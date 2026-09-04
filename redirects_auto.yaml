@@ -5076,6 +5076,12 @@ zeroerawiki_autoredirect:
   redirect: zeroera.wiki
   sslname: miraheze-origin-cert
   url: zeroera.miraheze.org
+zhdoorswiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-09-04T14:30:14.862342+00:00'
+  redirect: zh.doorsgame.wiki
+  sslname: miraheze-origin-cert
+  url: zhdoors.miraheze.org
 zhtardiswiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
