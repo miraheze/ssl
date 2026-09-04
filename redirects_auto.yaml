@@ -1470,6 +1470,12 @@ etherealwiki_autoredirect:
   redirect: wiki.ethereal.mov
   sslname: miraheze-origin-cert
   url: ethereal.miraheze.org
+eupharoswiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-09-04T21:30:14.911506+00:00'
+  redirect: wiki.eupharos.com
+  sslname: miraheze-origin-cert
+  url: eupharos.miraheze.org
 evadeswiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-08-26T06:00:13.951035+00:00'
@@ -1860,12 +1866,6 @@ grabvrwiki_autoredirect:
   redirect: wiki.grab-tools.live
   sslname: miraheze-origin-cert
   url: grabvr.miraheze.org
-grandanchorwiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-08-31T07:00:16.079214+00:00'
-  redirect: wiki.eupharos.com
-  sslname: miraheze-origin-cert
-  url: grandanchor.miraheze.org
 grandcivitaswiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-08-02T16:30:16.203226+00:00'
