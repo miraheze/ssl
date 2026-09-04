@@ -79,12 +79,6 @@ commonswikiwiki:
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
-comnumthwiki:
-  url: 'cnt.miraheze.org'
-  redirect: 'combinatorialnumbertheory.miraheze.org'
-  sslname: 'miraheze-origin-cert'
-  ca: 'Cloudflare'
-  hsts: 'strict'
 portalsofphereoncomredir:
   url: 'portalsofphereon.com'
   redirect: 'www.portalsofphereon.com'
@@ -303,18 +297,6 @@ thelangyalist_redirect:
 japanesefeaturephones_redirect:
   url: 'japanesefeaturephones.miraheze.org'
   redirect: 'keitaiwiki.miraheze.org'
-  sslname: 'miraheze-origin-cert'
-  ca: 'Cloudflare'
-  hsts: 'strict'
-inext_redirect:
-  url: 'inext.miraheze.org'
-  redirect: 'inextandkaylaandrachelverse.miraheze.org'
-  sslname: 'miraheze-origin-cert'
-  ca: 'Cloudflare'
-  hsts: 'strict'
-kaylaandrachel_redirect:
-  url: 'kaylaandrachel.miraheze.org'
-  redirect: 'inextandkaylaandrachelverse.miraheze.org'
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
