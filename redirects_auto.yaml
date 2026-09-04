@@ -2484,6 +2484,12 @@ longlivethecallwiki_autoredirect:
   redirect: longlivethecall.wiki
   sslname: miraheze-origin-cert
   url: longlivethecall.miraheze.org
+longnightdawningwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-09-04T21:00:15.541979+00:00'
+  redirect: long-night-dawning.tach.eu.org
+  sslname: miraheze-origin-cert
+  url: longnightdawning.miraheze.org
 looneypyramidswiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
@@ -3144,12 +3150,6 @@ orbitaldebriswiki_autoredirect:
   redirect: wiki.starship.digital
   sslname: miraheze-origin-cert
   url: orbitaldebris.miraheze.org
-orderbeyondrdfwiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-09-03T11:00:14.900018+00:00'
-  redirect: long-night-dawning.tach.eu.org
-  sslname: miraheze-origin-cert
-  url: orderbeyondrdf.miraheze.org
 orzeawiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
