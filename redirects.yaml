@@ -2206,6 +2206,11 @@ strinovawiki_autoredirect:
   redirect: strinova.org
   ca: Cloudflare
   sslname: miraheze-origin-cert
+sufferingwiki_autoredirect:
+  url: suffering.miraheze.org
+  redirect: sufferingwiki.syrupstudios.lol
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 leatonwiki_autoredirect:
   url: leaton.miraheze.org
   redirect: suqavi.wiki.gd
