@@ -1501,6 +1501,11 @@ legitimoosewiki_autoredirect:
   redirect: legitimoose.wiki
   ca: Cloudflare
   sslname: miraheze-origin-cert
+orderbeyondrdfwiki_autoredirect:
+  url: orderbeyondrdf.miraheze.org
+  redirect: long-night-dawning.tach.eu.org
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 longlivethecallwiki_autoredirect:
   url: longlivethecall.miraheze.org
   redirect: longlivethecall.wiki
