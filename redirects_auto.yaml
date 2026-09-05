@@ -4734,6 +4734,12 @@ vanillaeuropawiki_autoredirect:
   redirect: wiki.vanillaeuropa.com
   sslname: miraheze-origin-cert
   url: vanillaeuropa.miraheze.org
+vazhsinwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-09-05T12:30:13.121370+00:00'
+  redirect: www.vazhsin.ir
+  sslname: miraheze-origin-cert
+  url: vazhsin.miraheze.org
 velorenwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
