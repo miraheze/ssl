@@ -450,6 +450,12 @@ betonogradwiki_autoredirect:
   redirect: wiki.betonograd.org
   sslname: miraheze-origin-cert
   url: betonograd.miraheze.org
+beyond40wiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-09-05T16:30:12.825622+00:00'
+  redirect: wiki.freesoftwarecaucus.org
+  sslname: miraheze-origin-cert
+  url: beyond40.miraheze.org
 bicisampawiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
