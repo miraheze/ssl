@@ -4656,6 +4656,11 @@ bluearchivezhwiki_autoredirect:
   redirect: zh.bluearchive.wiki
   ca: Cloudflare
   sslname: miraheze-origin-cert
+zhdoorswiki_autoredirect:
+  url: zhdoors.miraheze.org
+  redirect: zh.doorsgame.wiki
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 zhtardiswiki_autoredirect:
   url: zhtardis.miraheze.org
   redirect: zh.tardis.wiki
