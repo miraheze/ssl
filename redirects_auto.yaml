@@ -1734,6 +1734,12 @@ fracturedfranchisewiki_autoredirect:
   redirect: wiki.fracturedfranchise.com
   sslname: miraheze-origin-cert
   url: fracturedfranchise.miraheze.org
+frdoorswiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-09-06T18:00:13.954932+00:00'
+  redirect: fr.doorsgame.wiki
+  sslname: miraheze-origin-cert
+  url: frdoors.miraheze.org
 freedayowiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
