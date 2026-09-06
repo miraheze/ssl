@@ -3116,6 +3116,11 @@ fracturedfranchisewiki_autoredirect:
   redirect: wiki.fracturedfranchise.com
   ca: Cloudflare
   sslname: miraheze-origin-cert
+beyond40wiki_autoredirect:
+  url: beyond40.miraheze.org
+  redirect: wiki.freesoftwarecaucus.org
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 frostfallwiki_autoredirect:
   url: frostfall.miraheze.org
   redirect: wiki.frostfallmc.fun
