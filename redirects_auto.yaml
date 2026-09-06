@@ -3252,6 +3252,12 @@ peacefulvanillaclubwiki_autoredirect:
   redirect: wiki.peacefulvanilla.club
   sslname: miraheze-origin-cert
   url: peacefulvanillaclub.miraheze.org
+peakipediawiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-09-06T14:30:13.855893+00:00'
+  redirect: peakipedia.com
+  sslname: miraheze-origin-cert
+  url: peakipedia.miraheze.org
 peanutvillemcrpwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
