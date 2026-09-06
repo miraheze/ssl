@@ -4606,6 +4606,11 @@ rvbuilderswiki_autoredirect:
   redirect: www.vans.builders
   ca: Cloudflare
   sslname: miraheze-origin-cert
+vazhsinwiki_autoredirect:
+  url: vazhsin.miraheze.org
+  redirect: www.vazhsin.ir
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 metabolismewiki_autoredirect:
   url: metabolisme.miraheze.org
   redirect: www.wiki.metabolisme.eco
