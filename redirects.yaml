@@ -3856,6 +3856,11 @@ sequoiafabricawiki_autoredirect:
   redirect: wiki.sequoiafabrica.org
   ca: Cloudflare
   sslname: miraheze-origin-cert
+sfothrwiki_autoredirect:
+  url: sfothr.miraheze.org
+  redirect: wiki.sfothr.com
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 shippinglaneswiki_autoredirect:
   url: shippinglanes.miraheze.org
   redirect: wiki.shippinglanes.net
