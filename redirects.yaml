@@ -4636,6 +4636,11 @@ xomniwiki_autoredirect:
   redirect: xomnipedia.org
   ca: Cloudflare
   sslname: miraheze-origin-cert
+yeshugeetswiki_autoredirect:
+  url: yeshugeets.miraheze.org
+  redirect: yeshugeets.site
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 yokaiwatchwiki_autoredirect:
   url: yokaiwatch.miraheze.org
   redirect: yokaiwatchwiki.com
