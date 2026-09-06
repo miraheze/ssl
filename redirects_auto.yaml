@@ -3504,6 +3504,12 @@ ptawiki_autoredirect:
   redirect: wiki.potatotransit.xyz
   sslname: miraheze-origin-cert
   url: pta.miraheze.org
+ptbrdoorswiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-09-06T13:00:13.344809+00:00'
+  redirect: pt-br.doorsgame.wiki
+  sslname: miraheze-origin-cert
+  url: ptbrdoors.miraheze.org
 pthfmwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
