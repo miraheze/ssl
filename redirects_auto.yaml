@@ -72,6 +72,12 @@ aedilwibhewiki_autoredirect:
   redirect: encyclopaedia.langopa.com
   sslname: miraheze-origin-cert
   url: aedilwibhe.miraheze.org
+aetherwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-09-07T03:00:15.037999+00:00'
+  redirect: aetherpedia.org
+  sslname: miraheze-origin-cert
+  url: aether.miraheze.org
 agnwwwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
