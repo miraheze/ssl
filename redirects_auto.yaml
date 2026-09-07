@@ -3648,6 +3648,12 @@ realitycompromisedwiki_autoredirect:
   redirect: realitycompromised.wiki
   sslname: miraheze-origin-cert
   url: realitycompromised.miraheze.org
+realitywiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-09-07T19:00:16.000358+00:00'
+  redirect: realitygame.wiki
+  sslname: miraheze-origin-cert
+  url: reality.miraheze.org
 recaptimesquadwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
