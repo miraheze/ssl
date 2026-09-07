@@ -1161,6 +1161,11 @@ fotnswikiwiki_autoredirect:
   redirect: fotnswiki.com
   ca: Cloudflare
   sslname: miraheze-origin-cert
+frdoorswiki_autoredirect:
+  url: frdoors.miraheze.org
+  redirect: fr.doorsgame.wiki
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 frenchcitydesignerswiki_autoredirect:
   url: frenchcitydesigners.miraheze.org
   redirect: frenchcitydesigners.fr
