@@ -1871,6 +1871,11 @@ pdswiki_autoredirect:
   redirect: pds.wiki.gd
   ca: Cloudflare
   sslname: miraheze-origin-cert
+peakipediawiki_autoredirect:
+  url: peakipedia.miraheze.org
+  redirect: peakipedia.com
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 pedalhidrograficowiki_autoredirect:
   url: pedalhidrografico.miraheze.org
   redirect: pedalhidrografi.co
