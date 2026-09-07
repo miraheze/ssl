@@ -1976,6 +1976,11 @@ pmaticwiki_autoredirect:
   redirect: psychopragmatics.org
   ca: Cloudflare
   sslname: miraheze-origin-cert
+ptbrdoorswiki_autoredirect:
+  url: ptbrdoors.miraheze.org
+  redirect: pt-br.doorsgame.wiki
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 ptmappingwikiwiki_autoredirect:
   url: ptmappingwiki.miraheze.org
   redirect: pt.mappingwiki.org
