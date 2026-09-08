@@ -461,6 +461,11 @@ sfacgnwiki_autoredirect:
   redirect: acgn.sfdev.eu.org
   ca: Cloudflare
   sslname: miraheze-origin-cert
+aetherwiki_autoredirect:
+  url: aether.miraheze.org
+  redirect: aetherpedia.org
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 electrochemistrywiki_autoredirect:
   url: electrochemistry.miraheze.org
   redirect: alka-initiative.com
