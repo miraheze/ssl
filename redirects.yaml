@@ -2036,6 +2036,11 @@ realitycompromisedwiki_autoredirect:
   redirect: realitycompromised.wiki
   ca: Cloudflare
   sslname: miraheze-origin-cert
+realitywiki_autoredirect:
+  url: reality.miraheze.org
+  redirect: realitygame.wiki
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 redstonewiki_autoredirect:
   url: redstone.miraheze.org
   redirect: redstonewiki.cn
