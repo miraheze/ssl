@@ -2478,6 +2478,12 @@ lhmnwiki_autoredirect:
   redirect: lophocmatngu.wiki
   sslname: miraheze-origin-cert
   url: lhmn.miraheze.org
+liliswiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-09-09T19:00:17.442245+00:00'
+  redirect: www.lilis.it
+  sslname: miraheze-origin-cert
+  url: lilis.miraheze.org
 limaruwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
