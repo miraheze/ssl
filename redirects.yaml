@@ -4536,6 +4536,11 @@ larphistorywiki_autoredirect:
   redirect: www.larphistory.org
   ca: Cloudflare
   sslname: miraheze-origin-cert
+liliswiki_autoredirect:
+  url: lilis.miraheze.org
+  redirect: www.lilis.it
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 lindyuniversewiki_autoredirect:
   url: lindyuniverse.miraheze.org
   redirect: www.lindyuniverse.org
