@@ -3063,7 +3063,7 @@ novavoidwiki_autoredirect:
 nrcwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-08-24T14:00:15.305628+00:00'
-  redirect: roco.p1.wiki
+  redirect: www.rocopedia.org
   sslname: miraheze-origin-cert
   url: nrc.miraheze.org
 nukucraftwikiwiki_autoredirect:
