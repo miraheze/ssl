@@ -36,6 +36,12 @@
   redirect: wiki.3c3u.info
   sslname: miraheze-origin-cert
   url: 3c3u.miraheze.org
+3dfwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-09-12T14:30:15.409085+00:00'
+  redirect: df.deipdc.cn
+  sslname: miraheze-origin-cert
+  url: 3df.miraheze.org
 48pluswiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
@@ -1974,6 +1980,12 @@ havenwiki_autoredirect:
   redirect: wiki.peacefulhaven.lol
   sslname: miraheze-origin-cert
   url: haven.miraheze.org
+hccwiwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-09-12T14:30:15.409085+00:00'
+  redirect: hccwi.deipdc.cn
+  sslname: miraheze-origin-cert
+  url: hccwi.miraheze.org
 hcmwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
