@@ -294,6 +294,12 @@ armlessdetectivewiki_autoredirect:
   redirect: armlessdetective.wiki
   sslname: miraheze-origin-cert
   url: armlessdetective.miraheze.org
+aronasknowledgebasewiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-09-13T09:00:13.938806+00:00'
+  redirect: wiki.bluearchivewiki.top
+  sslname: miraheze-origin-cert
+  url: aronasknowledgebase.miraheze.org
 arrelwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
