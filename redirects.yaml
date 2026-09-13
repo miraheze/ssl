@@ -831,6 +831,11 @@ deanzacollegewiki_autoredirect:
   redirect: deanza.wiki
   ca: Cloudflare
   sslname: miraheze-origin-cert
+3dfwiki_autoredirect:
+  url: 3df.miraheze.org
+  redirect: df.deipdc.cn
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 dlfmwiki_autoredirect:
   url: dlfm.miraheze.org
   redirect: dlfm-wiki.top
@@ -1289,6 +1294,11 @@ esporowiki_autoredirect:
 hardcorewiki_autoredirect:
   url: hardcore.miraheze.org
   redirect: hardcore.wiki
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
+hccwiwiki_autoredirect:
+  url: hccwi.miraheze.org
+  redirect: hccwi.deipdc.cn
   ca: Cloudflare
   sslname: miraheze-origin-cert
 waldronhistorywiki_autoredirect:
