@@ -5010,6 +5010,12 @@ witchypediawiki_autoredirect:
   redirect: witchypedia.online
   sslname: miraheze-origin-cert
   url: witchypedia.miraheze.org
+withoutrecoursewiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-09-13T18:00:17.184199+00:00'
+  redirect: wiki.withoutrecourse.net
+  sslname: miraheze-origin-cert
+  url: withoutrecourse.miraheze.org
 wombictionarywiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
