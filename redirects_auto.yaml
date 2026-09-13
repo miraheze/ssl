@@ -3039,7 +3039,7 @@ nonciclopediawiki_autoredirect:
 noobcraftwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-09-01T17:00:18.963029+00:00'
-  redirect: noobteam.xyz
+  redirect: wiki.noobteam.xyz
   sslname: miraheze-origin-cert
   url: noobcraft.miraheze.org
 northgardwiki_autoredirect:

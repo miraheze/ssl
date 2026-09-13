@@ -1761,11 +1761,6 @@ nonciclopediawiki_autoredirect:
   redirect: nonciclopedia.org
   ca: Cloudflare
   sslname: miraheze-origin-cert
-noobcraftwiki_autoredirect:
-  url: noobcraft.miraheze.org
-  redirect: noobteam.xyz
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
 northgardwiki_autoredirect:
   url: northgard.miraheze.org
   redirect: northgard.wiki
@@ -3589,6 +3584,11 @@ nirminiwiki_autoredirect:
 chroniiwiki_autoredirect:
   url: chronii.miraheze.org
   redirect: wiki.nojufe.de
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
+noobcraftwiki_autoredirect:
+  url: noobcraft.miraheze.org
+  redirect: wiki.noobteam.xyz
   ca: Cloudflare
   sslname: miraheze-origin-cert
 novamtrwiki_autoredirect:
