@@ -3258,6 +3258,12 @@ parkourrebornwiki_autoredirect:
   redirect: parkourreborn.wiki
   sslname: miraheze-origin-cert
   url: parkourreborn.miraheze.org
+passwalchwilwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-09-13T07:30:12.875438+00:00'
+  redirect: pass-walchwil.ch
+  sslname: miraheze-origin-cert
+  url: passwalchwil.miraheze.org
 pastportwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
