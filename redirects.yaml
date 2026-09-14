@@ -2751,6 +2751,11 @@ blockatewiki_autoredirect:
   redirect: wiki.blockate.com
   ca: Cloudflare
   sslname: miraheze-origin-cert
+aronasknowledgebasewiki_autoredirect:
+  url: aronasknowledgebase.miraheze.org
+  redirect: wiki.bluearchivewiki.top
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 blueovalwiki_autoredirect:
   url: blueoval.miraheze.org
   redirect: wiki.blueovallabs.com
