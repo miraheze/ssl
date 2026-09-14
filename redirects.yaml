@@ -1866,6 +1866,11 @@ parkourrebornwiki_autoredirect:
   redirect: parkourreborn.wiki
   ca: Cloudflare
   sslname: miraheze-origin-cert
+passwalchwilwiki_autoredirect:
+  url: passwalchwil.miraheze.org
+  redirect: pass-walchwil.ch
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 apatternlibrarywiki_autoredirect:
   url: apatternlibrary.miraheze.org
   redirect: patternlibrary.austinstorm.com
