@@ -3900,6 +3900,12 @@ scalesoffatewiki_autoredirect:
   redirect: wiki.scalesoffate.com
   sslname: miraheze-origin-cert
   url: scalesoffate.miraheze.org
+scrapbooksagawiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-09-14T13:30:15.598063+00:00'
+  redirect: scs.wiki
+  sslname: miraheze-origin-cert
+  url: scrapbooksaga.miraheze.org
 scribblepediawiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
