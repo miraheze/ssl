@@ -4241,6 +4241,11 @@ amicalwiki_autoredirect:
   redirect: wiki.wikimedia.cat
   ca: Cloudflare
   sslname: miraheze-origin-cert
+withoutrecoursewiki_autoredirect:
+  url: withoutrecourse.miraheze.org
+  redirect: wiki.withoutrecourse.net
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 rwbmodswiki_autoredirect:
   url: rwbmods.miraheze.org
   redirect: wiki.worldbuilding.network
