@@ -2141,6 +2141,11 @@ scribblepediawiki_autoredirect:
   redirect: scribblepedia.ink
   ca: Cloudflare
   sslname: miraheze-origin-cert
+scrapbooksagawiki_autoredirect:
+  url: scrapbooksaga.miraheze.org
+  redirect: scs.wiki
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 sdpwiki_autoredirect:
   url: sdp.miraheze.org
   redirect: sd.phila.space
