@@ -1962,6 +1962,12 @@ gymislandwiki_autoredirect:
   redirect: gt2.ugwiki.org
   sslname: miraheze-origin-cert
   url: gymisland.miraheze.org
+ham5teakwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-09-15T23:00:17.459603+00:00'
+  redirect: wiki.ham5teak.net
+  sslname: miraheze-origin-cert
+  url: ham5teak.miraheze.org
 hamuddaolihumanlinewikiwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
