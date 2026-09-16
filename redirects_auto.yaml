@@ -4584,6 +4584,12 @@ touhouplushwiki_autoredirect:
   redirect: fumo.wiki
   sslname: miraheze-origin-cert
   url: touhouplush.miraheze.org
+tprrwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-09-16T00:30:18.477514+00:00'
+  redirect: wiki.thepizzeriaroleplay.com
+  sslname: miraheze-origin-cert
+  url: tprr.miraheze.org
 transgenderwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
