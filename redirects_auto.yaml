@@ -4422,6 +4422,12 @@ thebattleforfallonwiki_autoredirect:
   redirect: thebattleforfallon.com
   sslname: miraheze-origin-cert
   url: thebattleforfallon.miraheze.org
+thebigdoozywiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-09-16T21:00:19.923115+00:00'
+  redirect: wiki.thebigdoozy.com
+  sslname: miraheze-origin-cert
+  url: thebigdoozy.miraheze.org
 thebunyipwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
