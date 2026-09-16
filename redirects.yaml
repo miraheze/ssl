@@ -3266,6 +3266,11 @@ gushankawiki_autoredirect:
   redirect: wiki.gushanka.uk
   ca: Cloudflare
   sslname: miraheze-origin-cert
+ham5teakwiki_autoredirect:
+  url: ham5teak.miraheze.org
+  redirect: wiki.ham5teak.net
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 harlonserverwiki_autoredirect:
   url: harlonserver.miraheze.org
   redirect: wiki.harlonserver.net
