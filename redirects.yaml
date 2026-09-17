@@ -4096,6 +4096,11 @@ luxuryelevatorwiki_autoredirect:
   redirect: wiki.theluxuryelevator.com
   ca: Cloudflare
   sslname: miraheze-origin-cert
+tprrwiki_autoredirect:
+  url: tprr.miraheze.org
+  redirect: wiki.thepizzeriaroleplay.com
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 thethaotocdowiki_autoredirect:
   url: thethaotocdo.miraheze.org
   redirect: wiki.thethaotocdo.vn
