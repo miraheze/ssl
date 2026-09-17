@@ -4076,6 +4076,11 @@ theaxolotlsunwiki_autoredirect:
   redirect: wiki.theaxolotlsun.com
   ca: Cloudflare
   sslname: miraheze-origin-cert
+thebigdoozywiki_autoredirect:
+  url: thebigdoozy.miraheze.org
+  redirect: wiki.thebigdoozy.com
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 thebunyipwiki_autoredirect:
   url: thebunyip.miraheze.org
   redirect: wiki.thebunyip.uk
