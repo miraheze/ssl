@@ -1426,11 +1426,6 @@ kalonsreveriewiki_autoredirect:
   redirect: kalons-reverie.com
   ca: Cloudflare
   sslname: miraheze-origin-cert
-kaoruhanawiki_autoredirect:
-  url: kaoruhana.miraheze.org
-  redirect: kaoruhana.wiki
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
 nenawikiwiki_autoredirect:
   url: nenawiki.miraheze.org
   redirect: kb.nena.org
@@ -1884,11 +1879,6 @@ purrfectapawcalypsewiki_autoredirect:
 projectbutterflywiki_autoredirect:
   url: projectbutterfly.miraheze.org
   redirect: pb.maciejcreates.com
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
-pdswiki_autoredirect:
-  url: pds.miraheze.org
-  redirect: pds.wiki.gd
   ca: Cloudflare
   sslname: miraheze-origin-cert
 peakipediawiki_autoredirect:

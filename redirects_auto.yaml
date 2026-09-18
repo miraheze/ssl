@@ -2298,12 +2298,6 @@ kamuiwiki_autoredirect:
   redirect: wiki.kamui.at
   sslname: miraheze-origin-cert
   url: kamui.miraheze.org
-kaoruhanawiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-08-20T01:29:15.436093+00:00'
-  redirect: kaoruhana.wiki
-  sslname: miraheze-origin-cert
-  url: kaoruhana.miraheze.org
 keinebezahlkartewiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
@@ -3288,12 +3282,6 @@ paxhistoriawiki_autoredirect:
   redirect: wiki.paxhistoria.co
   sslname: miraheze-origin-cert
   url: paxhistoria.miraheze.org
-pdswiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-07-17T13:23:06.331041+00:00'
-  redirect: pds.wiki.gd
-  sslname: miraheze-origin-cert
-  url: pds.miraheze.org
 peacefulvanillaclubwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
