@@ -3360,6 +3360,12 @@ pittsburghmusicianwiki_autoredirect:
   redirect: www.pittsburghmusician.org
   sslname: miraheze-origin-cert
   url: pittsburghmusician.miraheze.org
+pixelbladewiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-09-18T13:30:17.771780+00:00'
+  redirect: pixelblade.wiki
+  sslname: miraheze-origin-cert
+  url: pixelblade.miraheze.org
 pixeldungeonwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
