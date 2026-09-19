@@ -1911,6 +1911,11 @@ pickaxegamewiki_autoredirect:
   redirect: pickaxe.showierdata.xyz
   ca: Cloudflare
   sslname: miraheze-origin-cert
+pixelbladewiki_autoredirect:
+  url: pixelblade.miraheze.org
+  redirect: pixelblade.wiki
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 pixeldungeonwiki_autoredirect:
   url: pixeldungeon.miraheze.org
   redirect: pixeldungeon.wiki
