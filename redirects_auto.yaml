@@ -306,6 +306,12 @@ arrelwiki_autoredirect:
   redirect: arrel.wiki
   sslname: miraheze-origin-cert
   url: arrel.miraheze.org
+asteraonlinewiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-09-19T09:30:17.565391+00:00'
+  redirect: wiki.asteraonline.com
+  sslname: miraheze-origin-cert
+  url: asteraonline.miraheze.org
 astralindustrieswiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
