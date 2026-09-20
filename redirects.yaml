@@ -2651,6 +2651,11 @@ arditiwiki_autoredirect:
   redirect: wiki.arditi.pt
   ca: Cloudflare
   sslname: miraheze-origin-cert
+asteraonlinewiki_autoredirect:
+  url: asteraonline.miraheze.org
+  redirect: wiki.asteraonline.com
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 astralindustrieswiki_autoredirect:
   url: astralindustries.miraheze.org
   redirect: wiki.astralindustries.dev
