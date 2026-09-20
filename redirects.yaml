@@ -2386,6 +2386,11 @@ trollpastawiki_autoredirect:
   redirect: trollpasta.com
   ca: Cloudflare
   sslname: miraheze-origin-cert
+trotywikiwiki_autoredirect:
+  url: trotywiki.miraheze.org
+  redirect: troty.wiki
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 truworldswiki_autoredirect:
   url: truworlds.miraheze.org
   redirect: truworlds.wiki
