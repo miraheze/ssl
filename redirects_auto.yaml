@@ -3690,6 +3690,12 @@ raveriswiki_autoredirect:
   redirect: wiki.raveris.cc
   sslname: miraheze-origin-cert
   url: raveris.miraheze.org
+rayelmwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-09-21T15:30:16.614161+00:00'
+  redirect: kb.rayelm.ir
+  sslname: miraheze-origin-cert
+  url: rayelm.miraheze.org
 rbwrwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
