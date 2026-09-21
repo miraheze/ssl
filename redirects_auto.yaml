@@ -2430,6 +2430,12 @@ landofliberoswiki_autoredirect:
   redirect: landofliberos.com
   sslname: miraheze-origin-cert
   url: landofliberos.miraheze.org
+lannapediawiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-09-21T14:00:19.781620+00:00'
+  redirect: lannapedia.online
+  sslname: miraheze-origin-cert
+  url: lannapedia.miraheze.org
 larnwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-08-20T01:29:15.436093+00:00'
