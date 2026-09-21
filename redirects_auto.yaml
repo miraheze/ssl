@@ -2940,6 +2940,12 @@ ndgwiki_autoredirect:
   redirect: ndgkb.nena.org
   sslname: miraheze-origin-cert
   url: ndg.miraheze.org
+nebulouswiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-09-21T14:30:20.092916+00:00'
+  redirect: nebulous.nrmu.eu
+  sslname: miraheze-origin-cert
+  url: nebulous.miraheze.org
 nenawikiwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
