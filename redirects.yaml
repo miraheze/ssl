@@ -4621,6 +4621,11 @@ ouvragedartwiki_autoredirect:
   redirect: www.ouvragedart.net
   ca: Cloudflare
   sslname: miraheze-origin-cert
+piravazhwiki_autoredirect:
+  url: piravazh.miraheze.org
+  redirect: www.piravazh.ir
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 pittsburghmusicianwiki_autoredirect:
   url: pittsburghmusician.miraheze.org
   redirect: www.pittsburghmusician.org
