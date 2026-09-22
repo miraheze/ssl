@@ -203,11 +203,6 @@ mappingwikiorg:
   redirect: en.mappingwiki.org
   ca: Cloudflare
   sslname: miraheze-origin-cert
-wwwlibertaslegioncom:
-  url: www.libertaslegion.com
-  redirect: libertaslegion.com
-  sslname: miraheze-origin-cert
-  ca: Cloudflare
 wwwjrpstudioswiki:
   url: www.jrpstudios.wiki
   redirect: jrpstudios.wiki
@@ -1429,6 +1424,11 @@ kalonsreveriewiki_autoredirect:
 nenawikiwiki_autoredirect:
   url: nenawiki.miraheze.org
   redirect: kb.nena.org
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
+rayelmwiki_autoredirect:
+  url: rayelm.miraheze.org
+  redirect: kb.rayelm.ir
   ca: Cloudflare
   sslname: miraheze-origin-cert
 kenpendiumwiki_autoredirect:

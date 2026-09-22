@@ -2508,6 +2508,12 @@ lhmnwiki_autoredirect:
   redirect: lophocmatngu.wiki
   sslname: miraheze-origin-cert
   url: lhmn.miraheze.org
+libertaslegionwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-09-22T16:00:21.305060+00:00'
+  redirect: libertaslegion.com
+  sslname: miraheze-origin-cert
+  url: libertaslegion.miraheze.org
 liliswiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-09-09T19:00:17.442245+00:00'
