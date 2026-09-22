@@ -1731,6 +1731,11 @@ ndgwiki_autoredirect:
   redirect: ndgkb.nena.org
   ca: Cloudflare
   sslname: miraheze-origin-cert
+nebulouswiki_autoredirect:
+  url: nebulous.miraheze.org
+  redirect: nebulous.nrmu.eu
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 neurowiki_autoredirect:
   url: neuro.miraheze.org
   redirect: neurologiahpm.com
