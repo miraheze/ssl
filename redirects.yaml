@@ -1491,6 +1491,11 @@ landofliberoswiki_autoredirect:
   redirect: landofliberos.com
   ca: Cloudflare
   sslname: miraheze-origin-cert
+lannapediawiki_autoredirect:
+  url: lannapedia.miraheze.org
+  redirect: lannapedia.online
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 laststopwikiwiki_autoredirect:
   url: laststopwiki.miraheze.org
   redirect: laststopwiki.com
