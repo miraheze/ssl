@@ -36,12 +36,6 @@
   redirect: wiki.3c3u.info
   sslname: miraheze-origin-cert
   url: 3c3u.miraheze.org
-3dfwiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-09-12T14:30:15.409085+00:00'
-  redirect: df.deipdc.cn
-  sslname: miraheze-origin-cert
-  url: 3df.miraheze.org
 48pluswiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
@@ -1152,6 +1146,12 @@ demondealswiki_autoredirect:
   redirect: wiki.demondeals.org
   sslname: miraheze-origin-cert
   url: demondeals.miraheze.org
+dfwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-09-22T19:00:20.689530+00:00'
+  redirect: df.deipdc.cn
+  sslname: miraheze-origin-cert
+  url: df.miraheze.org
 dglobalwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
