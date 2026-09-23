@@ -1722,6 +1722,12 @@ forecastingwiki_autoredirect:
   redirect: forecasting.wiki
   sslname: miraheze-origin-cert
   url: forecasting.miraheze.org
+formzerowiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-09-23T07:30:17.468894+00:00'
+  redirect: wiki.formzero.org
+  sslname: miraheze-origin-cert
+  url: formzero.miraheze.org
 forsakenzhwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
