@@ -834,12 +834,6 @@ clockupwikiwiki_autoredirect:
   redirect: en.clockup.wiki
   sslname: miraheze-origin-cert
   url: clockupwiki.miraheze.org
-clovermtrwiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-07-17T13:23:06.331041+00:00'
-  redirect: wiki.clovermtr.xyz
-  sslname: miraheze-origin-cert
-  url: clovermtr.miraheze.org
 clubpenguinmusicwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
@@ -870,12 +864,6 @@ comprehensibleinputwiki_autoredirect:
   redirect: comprehensibleinputwiki.org
   sslname: miraheze-origin-cert
   url: comprehensibleinput.miraheze.org
-compsmpwiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-07-17T13:23:06.331041+00:00'
-  redirect: wiki.comps.mp
-  sslname: miraheze-origin-cert
-  url: compsmp.miraheze.org
 connorjwatwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
@@ -3120,12 +3108,6 @@ nrcwiki_autoredirect:
   redirect: www.rocopedia.org
   sslname: miraheze-origin-cert
   url: nrc.miraheze.org
-nukucraftwikiwiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-07-17T13:23:06.331041+00:00'
-  redirect: nukucraft-wiki.rurimaru.net
-  sslname: miraheze-origin-cert
-  url: nukucraftwiki.miraheze.org
 nullscapewiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-08-20T01:29:15.436093+00:00'
@@ -3672,12 +3654,6 @@ quanvotwiki_autoredirect:
   redirect: quanvot.vn
   sslname: miraheze-origin-cert
   url: quanvot.miraheze.org
-r6danceswiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-08-20T01:29:15.436093+00:00'
-  redirect: r6dances.wiki
-  sslname: miraheze-origin-cert
-  url: r6dances.miraheze.org
 racearchivewiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-08-20T01:29:15.436093+00:00'
@@ -4008,12 +3984,6 @@ secretuniversewikiwiki_autoredirect:
   redirect: www.secretuniverse.wiki
   sslname: miraheze-origin-cert
   url: secretuniversewiki.miraheze.org
-securecraftprotectwiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-07-17T13:23:06.331041+00:00'
-  redirect: scp.clockwork.wiki
-  sslname: miraheze-origin-cert
-  url: securecraftprotect.miraheze.org
 seildirectorywiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
@@ -4122,12 +4092,6 @@ skryabinwiki_autoredirect:
   redirect: wiki.skryab.in.ua
   sslname: miraheze-origin-cert
   url: skryabin.miraheze.org
-slimevillewiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-07-19T19:42:29.662280+00:00'
-  redirect: slimeville.wiki
-  sslname: miraheze-origin-cert
-  url: slimeville.miraheze.org
 slymodswiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'

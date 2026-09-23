@@ -1791,11 +1791,6 @@ norvalerepublicwiki_autoredirect:
   redirect: norvalerepublic.wiki
   ca: Cloudflare
   sslname: miraheze-origin-cert
-nukucraftwikiwiki_autoredirect:
-  url: nukucraftwiki.miraheze.org
-  redirect: nukucraft-wiki.rurimaru.net
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
 nullscapewiki_autoredirect:
   url: nullscape.miraheze.org
   redirect: nullscape.wiki
@@ -2036,11 +2031,6 @@ quanvotwiki_autoredirect:
   redirect: quanvot.vn
   ca: Cloudflare
   sslname: miraheze-origin-cert
-r6danceswiki_autoredirect:
-  url: r6dances.miraheze.org
-  redirect: r6dances.wiki
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
 rainversewiki_autoredirect:
   url: rainverse.miraheze.org
   redirect: rainverse.wiki
@@ -2141,11 +2131,6 @@ superblox64wiki_autoredirect:
   redirect: sb64.conecorp.cc
   ca: Cloudflare
   sslname: miraheze-origin-cert
-securecraftprotectwiki_autoredirect:
-  url: securecraftprotect.miraheze.org
-  redirect: scp.clockwork.wiki
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
 scribblepediawiki_autoredirect:
   url: scribblepedia.miraheze.org
   redirect: scribblepedia.ink
@@ -2194,11 +2179,6 @@ shikimoriwiki_autoredirect:
 signoffswiki_autoredirect:
   url: signoffs.miraheze.org
   redirect: signoffs.giize.com
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
-slimevillewiki_autoredirect:
-  url: slimeville.miraheze.org
-  redirect: slimeville.wiki
   ca: Cloudflare
   sslname: miraheze-origin-cert
 slymodswiki_autoredirect:
@@ -2856,19 +2836,9 @@ climatetestwiki_autoredirect:
   redirect: wiki.climatechange.ai
   ca: Cloudflare
   sslname: miraheze-origin-cert
-clovermtrwiki_autoredirect:
-  url: clovermtr.miraheze.org
-  redirect: wiki.clovermtr.xyz
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
 col6wiki_autoredirect:
   url: col6.miraheze.org
   redirect: wiki.col6.de
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
-compsmpwiki_autoredirect:
-  url: compsmp.miraheze.org
-  redirect: wiki.comps.mp
   ca: Cloudflare
   sslname: miraheze-origin-cert
 complementarysmpwiki_autoredirect:
