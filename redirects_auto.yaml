@@ -3312,6 +3312,12 @@ pastportwiki_autoredirect:
   redirect: annapolishistorywiki.org
   sslname: miraheze-origin-cert
   url: pastport.miraheze.org
+paxbritwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-09-23T17:30:19.921840+00:00'
+  redirect: paxbritannica.wiki
+  sslname: miraheze-origin-cert
+  url: paxbrit.miraheze.org
 paxhistoriawiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
