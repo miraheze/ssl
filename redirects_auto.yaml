@@ -618,6 +618,12 @@ bpwiki_autoredirect:
   redirect: bebaskanpengetahuan.id
   sslname: miraheze-origin-cert
   url: bp.miraheze.org
+bqwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-09-23T11:30:17.093263+00:00'
+  redirect: archives.basquisimento.net
+  sslname: miraheze-origin-cert
+  url: bq.miraheze.org
 brazosvalleygeocacherswiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
