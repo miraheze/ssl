@@ -3111,6 +3111,11 @@ fogwiki_autoredirect:
   redirect: wiki.fog.org.nz
   ca: Cloudflare
   sslname: miraheze-origin-cert
+formzerowiki_autoredirect:
+  url: formzero.miraheze.org
+  redirect: wiki.formzero.org
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 fracturedfranchisewiki_autoredirect:
   url: fracturedfranchise.miraheze.org
   redirect: wiki.fracturedfranchise.com
