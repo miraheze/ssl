@@ -1871,6 +1871,11 @@ purrfectapawcalypsewiki_autoredirect:
   redirect: pawiki.90percentstudios.com
   ca: Cloudflare
   sslname: miraheze-origin-cert
+paxbritwiki_autoredirect:
+  url: paxbrit.miraheze.org
+  redirect: paxbritannica.wiki
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 projectbutterflywiki_autoredirect:
   url: projectbutterfly.miraheze.org
   redirect: pb.maciejcreates.com
