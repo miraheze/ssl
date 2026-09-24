@@ -536,6 +536,11 @@ alathramcwiki_autoredirect:
   redirect: archive.wiki.alathra.com
   ca: Cloudflare
   sslname: miraheze-origin-cert
+bqwiki_autoredirect:
+  url: bq.miraheze.org
+  redirect: archives.basquisimento.net
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 armlessdetectivewiki_autoredirect:
   url: armlessdetective.miraheze.org
   redirect: armlessdetective.wiki
