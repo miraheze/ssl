@@ -776,11 +776,6 @@ tucsonemwiki_autoredirect:
   redirect: crustypedia.org
   ca: Cloudflare
   sslname: miraheze-origin-cert
-crystallizationculturewiki_autoredirect:
-  url: crystallizationculture.miraheze.org
-  redirect: cryst.wiki
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
 cornerstonearcadewiki_autoredirect:
   url: cornerstonearcade.miraheze.org
   redirect: csarcade.wiki
@@ -1521,11 +1516,6 @@ legitimoosewiki_autoredirect:
   redirect: legitimoose.wiki
   ca: Cloudflare
   sslname: miraheze-origin-cert
-libertaslegionwiki_autoredirect:
-  url: libertaslegion.miraheze.org
-  redirect: libertaslegion.com
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
 longnightdawningwiki_autoredirect:
   url: longnightdawning.miraheze.org
   redirect: long-night-dawning.tach.eu.org
@@ -1539,11 +1529,6 @@ longlivethecallwiki_autoredirect:
 looneypyramidswiki_autoredirect:
   url: looneypyramids.miraheze.org
   redirect: looneypyramids.wiki
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
-lopercraftwiki_autoredirect:
-  url: lopercraft.miraheze.org
-  redirect: lopercraft-wiki.testerpester.xyz
   ca: Cloudflare
   sslname: miraheze-origin-cert
 lhmnwiki_autoredirect:
@@ -1861,11 +1846,6 @@ overfreightwiki_autoredirect:
   redirect: overfreight.wiki
   ca: Cloudflare
   sslname: miraheze-origin-cert
-theoverseerprojectwiki_autoredirect:
-  url: theoverseerproject.miraheze.org
-  redirect: overseer.maxrealm.cc
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
 parkourrebornwiki_autoredirect:
   url: parkourreborn.miraheze.org
   redirect: parkourreborn.wiki
@@ -1999,11 +1979,6 @@ psaltictheorywiki_autoredirect:
 psychiatryhubwiki_autoredirect:
   url: psychiatryhub.miraheze.org
   redirect: psychiatrywiki.com
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
-pmaticwiki_autoredirect:
-  url: pmatic.miraheze.org
-  redirect: psychopragmatics.org
   ca: Cloudflare
   sslname: miraheze-origin-cert
 ptbrdoorswiki_autoredirect:
@@ -2339,11 +2314,6 @@ theomegaparadoxwiki_autoredirect:
 campaignlabwiki_autoredirect:
   url: campaignlab.miraheze.org
   redirect: thepolicyhub.org.uk
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
-thethaotrituewiki_autoredirect:
-  url: thethaotritue.miraheze.org
-  redirect: thethaotritue.vn
   ca: Cloudflare
   sslname: miraheze-origin-cert
 theutopiawiki_autoredirect:
@@ -3279,11 +3249,6 @@ wikiheraldwiki_autoredirect:
 hexagonwiki_autoredirect:
   url: hexagon.miraheze.org
   redirect: wiki.hexagon.pw
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
-hexiumwiki_autoredirect:
-  url: hexium.miraheze.org
-  redirect: wiki.hexiumapps.com
   ca: Cloudflare
   sslname: miraheze-origin-cert
 histolauncherwiki_autoredirect:

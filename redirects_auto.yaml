@@ -1008,12 +1008,6 @@ crystalcorewiki_autoredirect:
   redirect: wiki.crystalcore.cc
   sslname: miraheze-origin-cert
   url: crystalcore.miraheze.org
-crystallizationculturewiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-07-17T13:23:06.331041+00:00'
-  redirect: cryst.wiki
-  sslname: miraheze-origin-cert
-  url: crystallizationculture.miraheze.org
 cubedefensewiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-08-20T01:29:15.436093+00:00'
@@ -2034,12 +2028,6 @@ hexagonwiki_autoredirect:
   redirect: wiki.hexagon.pw
   sslname: miraheze-origin-cert
   url: hexagon.miraheze.org
-hexiumwiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-07-17T13:23:06.331041+00:00'
-  redirect: wiki.hexiumapps.com
-  sslname: miraheze-origin-cert
-  url: hexium.miraheze.org
 histolauncherwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
@@ -2508,12 +2496,6 @@ lhmnwiki_autoredirect:
   redirect: lophocmatngu.wiki
   sslname: miraheze-origin-cert
   url: lhmn.miraheze.org
-libertaslegionwiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-09-22T16:00:21.305060+00:00'
-  redirect: libertaslegion.com
-  sslname: miraheze-origin-cert
-  url: libertaslegion.miraheze.org
 liliswiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-09-09T19:00:17.442245+00:00'
@@ -2556,12 +2538,6 @@ looneypyramidswiki_autoredirect:
   redirect: looneypyramids.wiki
   sslname: miraheze-origin-cert
   url: looneypyramids.miraheze.org
-lopercraftwiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-07-17T13:23:06.331041+00:00'
-  redirect: lopercraft-wiki.testerpester.xyz
-  sslname: miraheze-origin-cert
-  url: lopercraft.miraheze.org
 lopezsanzhistoriawiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
@@ -3420,12 +3396,6 @@ playtimewithpercywiki_autoredirect:
   redirect: playtimewithpercy.wiki
   sslname: miraheze-origin-cert
   url: playtimewithpercy.miraheze.org
-pmaticwiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-07-17T13:23:06.331041+00:00'
-  redirect: psychopragmatics.org
-  sslname: miraheze-origin-cert
-  url: pmatic.miraheze.org
 pmodwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
@@ -4500,12 +4470,6 @@ theomegaparadoxwiki_autoredirect:
   redirect: theomegaparadox.com
   sslname: miraheze-origin-cert
   url: theomegaparadox.miraheze.org
-theoverseerprojectwiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-07-17T13:23:06.331041+00:00'
-  redirect: overseer.maxrealm.cc
-  sslname: miraheze-origin-cert
-  url: theoverseerproject.miraheze.org
 thesohnlandwikiwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
@@ -4518,12 +4482,6 @@ thethaotocdowiki_autoredirect:
   redirect: wiki.thethaotocdo.vn
   sslname: miraheze-origin-cert
   url: thethaotocdo.miraheze.org
-thethaotrituewiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-07-17T13:23:06.331041+00:00'
-  redirect: thethaotritue.vn
-  sslname: miraheze-origin-cert
-  url: thethaotritue.miraheze.org
 theutopiawiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
