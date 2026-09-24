@@ -1728,7 +1728,7 @@ ndgwiki_autoredirect:
   sslname: miraheze-origin-cert
 nebulouswiki_autoredirect:
   url: nebulous.miraheze.org
-  redirect: nebulous.nrmu.eu
+  redirect: nebulous.latentstate.eu
   ca: Cloudflare
   sslname: miraheze-origin-cert
 neurowiki_autoredirect:

@@ -2925,7 +2925,7 @@ ndgwiki_autoredirect:
 nebulouswiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-09-21T14:30:20.092916+00:00'
-  redirect: nebulous.nrmu.eu
+  redirect: nebulous.latentstate.eu
   sslname: miraheze-origin-cert
   url: nebulous.miraheze.org
 nenawikiwiki_autoredirect:
