@@ -252,6 +252,12 @@ arcadiamcwiki_autoredirect:
   redirect: wiki.arcadia-mc.eu
   sslname: miraheze-origin-cert
   url: arcadiamc.miraheze.org
+arceniawiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-09-25T18:30:17.525707+00:00'
+  redirect: arceniawiki.doughhearts.com
+  sslname: miraheze-origin-cert
+  url: arcenia.miraheze.org
 archaeomysticismwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
