@@ -2580,6 +2580,12 @@ lswwiki_autoredirect:
   redirect: wiki.lewisgill.com
   sslname: miraheze-origin-cert
   url: lsw.miraheze.org
+lumbertycoon2wiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-09-25T13:00:19.863658+00:00'
+  redirect: lt2.wiki
+  sslname: miraheze-origin-cert
+  url: lumbertycoon2.miraheze.org
 lumenflamewiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-08-20T01:29:15.436093+00:00'
