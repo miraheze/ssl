@@ -3288,6 +3288,12 @@ paxhistoriawiki_autoredirect:
   redirect: wiki.paxhistoria.co
   sslname: miraheze-origin-cert
   url: paxhistoria.miraheze.org
+payloadwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-09-25T15:00:19.689568+00:00'
+  redirect: www.payload.wiki
+  sslname: miraheze-origin-cert
+  url: payload.miraheze.org
 peacefulvanillaclubwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
