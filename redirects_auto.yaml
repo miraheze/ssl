@@ -4194,6 +4194,12 @@ steamelephantswiki_autoredirect:
   redirect: elephants.ggreig.com
   sslname: miraheze-origin-cert
   url: steamelephants.miraheze.org
+steamhardwarewiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-09-25T06:30:13.084875+00:00'
+  redirect: steamhardware.wiki
+  sslname: miraheze-origin-cert
+  url: steamhardware.miraheze.org
 steemwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
