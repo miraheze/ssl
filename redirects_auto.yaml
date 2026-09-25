@@ -3900,6 +3900,12 @@ scalesoffatewiki_autoredirect:
   redirect: wiki.scalesoffate.com
   sslname: miraheze-origin-cert
   url: scalesoffate.miraheze.org
+scpfoundationwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-09-25T12:30:14.288613+00:00'
+  redirect: wiki.scpzh.org
+  sslname: miraheze-origin-cert
+  url: scpfoundation.miraheze.org
 scrapbooksagawiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-09-14T13:30:15.598063+00:00'
