@@ -2201,6 +2201,11 @@ criticalstasiswiki_autoredirect:
   redirect: stasis.dae-vinity.dev
   ca: Cloudflare
   sslname: miraheze-origin-cert
+steamhardwarewiki_autoredirect:
+  url: steamhardware.miraheze.org
+  redirect: steamhardware.wiki
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 steemwiki_autoredirect:
   url: steem.miraheze.org
   redirect: steem.wiki
