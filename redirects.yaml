@@ -4601,6 +4601,11 @@ ouvragedartwiki_autoredirect:
   redirect: www.ouvragedart.net
   ca: Cloudflare
   sslname: miraheze-origin-cert
+payloadwiki_autoredirect:
+  url: payload.miraheze.org
+  redirect: www.payload.wiki
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 piravazhwiki_autoredirect:
   url: piravazh.miraheze.org
   redirect: www.piravazh.ir
