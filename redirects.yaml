@@ -3871,6 +3871,11 @@ scalesoffatewiki_autoredirect:
   redirect: wiki.scalesoffate.com
   ca: Cloudflare
   sslname: miraheze-origin-cert
+scpfoundationwiki_autoredirect:
+  url: scpfoundation.miraheze.org
+  redirect: wiki.scpzh.org
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 seamlywiki_autoredirect:
   url: seamly.miraheze.org
   redirect: wiki.seamly.io
