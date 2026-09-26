@@ -1556,6 +1556,11 @@ lovebulletwiki_autoredirect:
   redirect: lovebullet.wiki
   ca: Cloudflare
   sslname: miraheze-origin-cert
+lumbertycoon2wiki_autoredirect:
+  url: lumbertycoon2.miraheze.org
+  redirect: lt2.wiki
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 macwrenchwiki_autoredirect:
   url: macwrench.miraheze.org
   redirect: macwrench.de
