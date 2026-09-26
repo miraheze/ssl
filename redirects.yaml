@@ -531,6 +531,11 @@ antipsywiki_autoredirect:
   redirect: antipsywiki.org
   ca: Cloudflare
   sslname: miraheze-origin-cert
+arceniawiki_autoredirect:
+  url: arcenia.miraheze.org
+  redirect: arceniawiki.doughhearts.com
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 alathramcwiki_autoredirect:
   url: alathramc.miraheze.org
   redirect: archive.wiki.alathra.com
@@ -4524,11 +4529,6 @@ isocasgwiki_autoredirect:
 taswinwiki_autoredirect:
   url: taswin.miraheze.org
   redirect: www.istpcomputing.com
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
-jasperacademiaonlinewiki_autoredirect:
-  url: jasperacademiaonline.miraheze.org
-  redirect: www.jasperacademiaonline.com
   ca: Cloudflare
   sslname: miraheze-origin-cert
 journeythewordwiki_autoredirect:
