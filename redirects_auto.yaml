@@ -3495,7 +3495,7 @@ pravschoolwiki_autoredirect:
 prismawiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
-  redirect: wiki.prismaearth.com
+  redirect: pwiki.loonietick.com
   sslname: miraheze-origin-cert
   url: prisma.miraheze.org
 prisonmcwiki_autoredirect:

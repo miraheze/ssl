@@ -2016,6 +2016,11 @@ pwikiwiki_autoredirect:
   redirect: pwiki.arkcls.com
   ca: Cloudflare
   sslname: miraheze-origin-cert
+prismawiki_autoredirect:
+  url: prisma.miraheze.org
+  redirect: pwiki.loonietick.com
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 quantumcraftwiki_autoredirect:
   url: quantumcraft.miraheze.org
   redirect: quantum-craft.info
@@ -3739,11 +3744,6 @@ ptawiki_autoredirect:
 podilwiki_autoredirect:
   url: podil.miraheze.org
   redirect: wiki.prekols.com
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
-prismawiki_autoredirect:
-  url: prisma.miraheze.org
-  redirect: wiki.prismaearth.com
   ca: Cloudflare
   sslname: miraheze-origin-cert
 prisonmcwiki_autoredirect:
