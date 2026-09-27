@@ -1524,6 +1524,12 @@ evilgeniuswiki_autoredirect:
   redirect: evilgeniuswiki.com
   sslname: miraheze-origin-cert
   url: evilgenius.miraheze.org
+evillabraenwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-09-27T23:30:12.752327+00:00'
+  redirect: wiki.evillabraen.com
+  sslname: miraheze-origin-cert
+  url: evillabraen.miraheze.org
 evilwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
