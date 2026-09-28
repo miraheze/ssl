@@ -3081,6 +3081,11 @@ evadeswiki_autoredirect:
   redirect: wiki.evades.io
   ca: Cloudflare
   sslname: miraheze-origin-cert
+evillabraenwiki_autoredirect:
+  url: evillabraen.miraheze.org
+  redirect: wiki.evillabraen.com
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 evscopewiki_autoredirect:
   url: evscope.miraheze.org
   redirect: wiki.evscope.org
