@@ -3864,6 +3864,12 @@ s0urceiowiki_autoredirect:
   redirect: wiki.s0urce.io
   sslname: miraheze-origin-cert
   url: s0urceio.miraheze.org
+s1blaigameswiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-09-28T17:00:21.854878+00:00'
+  redirect: wiki.blaigames.xyz
+  sslname: miraheze-origin-cert
+  url: s1blaigames.miraheze.org
 s23wiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
