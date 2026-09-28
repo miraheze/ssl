@@ -4362,6 +4362,12 @@ talumnwiki_autoredirect:
   redirect: talumn.neptune.wiki
   sslname: miraheze-origin-cert
   url: talumn.miraheze.org
+talypediawiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-09-28T22:30:20.447134+00:00'
+  redirect: wiki.talyllyn.co.uk
+  sslname: miraheze-origin-cert
+  url: talypedia.miraheze.org
 tanukipediawiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-08-20T01:29:15.436093+00:00'
@@ -4536,6 +4542,12 @@ thewhiteroomwiki_autoredirect:
   redirect: wiki.chevrine.com
   sslname: miraheze-origin-cert
   url: thewhiteroom.miraheze.org
+thewolfwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-09-28T22:30:20.447134+00:00'
+  redirect: wordandfang.com
+  sslname: miraheze-origin-cert
+  url: thewolf.miraheze.org
 thisisbattlewiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-08-20T01:29:15.436093+00:00'
