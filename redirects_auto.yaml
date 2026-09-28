@@ -2586,6 +2586,12 @@ lswwiki_autoredirect:
   redirect: wiki.lewisgill.com
   sslname: miraheze-origin-cert
   url: lsw.miraheze.org
+ludopediawiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-09-28T18:00:18.494353+00:00'
+  redirect: wiki.ludopedia.pl
+  sslname: miraheze-origin-cert
+  url: ludopedia.miraheze.org
 lumbertycoon2wiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-09-25T13:00:19.863658+00:00'
