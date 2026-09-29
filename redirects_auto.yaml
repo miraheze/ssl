@@ -3762,6 +3762,12 @@ republikindomaretwiki_autoredirect:
   redirect: perpusnas.republikindomaret.com
   sslname: miraheze-origin-cert
   url: republikindomaret.miraheze.org
+restorywiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-09-29T20:30:16.526607+00:00'
+  redirect: restory.wiki
+  sslname: miraheze-origin-cert
+  url: restory.miraheze.org
 revolvershowdownwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
