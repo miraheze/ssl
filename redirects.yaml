@@ -3461,6 +3461,11 @@ lotrminecraftmodwiki_autoredirect:
   redirect: wiki.lotrmc.ru
   ca: Cloudflare
   sslname: miraheze-origin-cert
+ludopediawiki_autoredirect:
+  url: ludopedia.miraheze.org
+  redirect: wiki.ludopedia.pl
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 lumenflamewiki_autoredirect:
   url: lumenflame.miraheze.org
   redirect: wiki.lumenflame.com
