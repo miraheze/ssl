@@ -1824,6 +1824,12 @@ garamondresearchfacilitywiki_autoredirect:
   redirect: grfwiki.intellixcorp.net
   sslname: miraheze-origin-cert
   url: garamondresearchfacility.miraheze.org
+garcoonwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-09-29T03:00:19.782592+00:00'
+  redirect: wiki.thegarcoon.com
+  sslname: miraheze-origin-cert
+  url: garcoon.miraheze.org
 gdlywiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-19T19:42:29.662280+00:00'
