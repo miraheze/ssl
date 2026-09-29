@@ -2741,6 +2741,11 @@ blackorchestrawiki_autoredirect:
   redirect: wiki.blackorchestra.net
   ca: Cloudflare
   sslname: miraheze-origin-cert
+s1blaigameswiki_autoredirect:
+  url: s1blaigames.miraheze.org
+  redirect: wiki.blaigames.xyz
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 blakullawiki_autoredirect:
   url: blakulla.miraheze.org
   redirect: wiki.blakullalajv.com
