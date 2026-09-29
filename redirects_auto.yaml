@@ -4962,6 +4962,12 @@ webkinzguidewiki_autoredirect:
   redirect: webkinzguide.com
   sslname: miraheze-origin-cert
   url: webkinzguide.miraheze.org
+webosinternalswiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-09-29T04:30:16.443798+00:00'
+  redirect: wiki.webos-internals.org
+  sslname: miraheze-origin-cert
+  url: webosinternals.miraheze.org
 weirdfriendswiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
