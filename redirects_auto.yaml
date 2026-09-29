@@ -4968,6 +4968,12 @@ webosinternalswiki_autoredirect:
   redirect: wiki.webos-internals.org
   sslname: miraheze-origin-cert
   url: webosinternals.miraheze.org
+webosportswiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-09-29T05:30:17.058441+00:00'
+  redirect: wiki.webos-ports.org
+  sslname: miraheze-origin-cert
+  url: webosports.miraheze.org
 weirdfriendswiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
