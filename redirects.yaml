@@ -4056,6 +4056,11 @@ taeswiki_autoredirect:
   redirect: wiki.taes.com.br
   ca: Cloudflare
   sslname: miraheze-origin-cert
+talypediawiki_autoredirect:
+  url: talypedia.miraheze.org
+  redirect: wiki.talyllyn.co.uk
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 tdutrwiki_autoredirect:
   url: tdutr.miraheze.org
   redirect: wiki.tdutr.xyz
@@ -4394,6 +4399,11 @@ rrfwiki_autoredirect:
 wombictionarywiki_autoredirect:
   url: wombictionary.miraheze.org
   redirect: wombictionary.wiki.gd
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
+thewolfwiki_autoredirect:
+  url: thewolf.miraheze.org
+  redirect: wordandfang.com
   ca: Cloudflare
   sslname: miraheze-origin-cert
 worldlesswiki_autoredirect:
