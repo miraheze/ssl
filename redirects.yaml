@@ -2066,6 +2066,11 @@ removededmsongswiki_autoredirect:
   redirect: removededm.com
   ca: Cloudflare
   sslname: miraheze-origin-cert
+restorywiki_autoredirect:
+  url: restory.miraheze.org
+  redirect: restory.wiki
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 joshreviewswiki_autoredirect:
   url: joshreviews.miraheze.org
   redirect: reviews.thejoshmeister.com
