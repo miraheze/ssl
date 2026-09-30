@@ -4246,6 +4246,11 @@ weatherwatchwiki_autoredirect:
   redirect: wiki.weather-watch.com
   ca: Cloudflare
   sslname: miraheze-origin-cert
+webosinternalswiki_autoredirect:
+  url: webosinternals.miraheze.org
+  redirect: wiki.webos-internals.org
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 weirdfriendswiki_autoredirect:
   url: weirdfriends.miraheze.org
   redirect: wiki.weirdfriendsdotgov.com
