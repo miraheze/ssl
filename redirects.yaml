@@ -4096,6 +4096,11 @@ thebunyipwiki_autoredirect:
   redirect: wiki.thebunyip.uk
   ca: Cloudflare
   sslname: miraheze-origin-cert
+garcoonwiki_autoredirect:
+  url: garcoon.miraheze.org
+  redirect: wiki.thegarcoon.com
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 theheartrootvalewiki_autoredirect:
   url: theheartrootvale.miraheze.org
   redirect: wiki.theheartrootvale.com
