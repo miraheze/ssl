@@ -4251,6 +4251,11 @@ webosinternalswiki_autoredirect:
   redirect: wiki.webos-internals.org
   ca: Cloudflare
   sslname: miraheze-origin-cert
+webosportswiki_autoredirect:
+  url: webosports.miraheze.org
+  redirect: wiki.webos-ports.org
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 weirdfriendswiki_autoredirect:
   url: weirdfriends.miraheze.org
   redirect: wiki.weirdfriendsdotgov.com
