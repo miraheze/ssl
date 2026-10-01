@@ -882,6 +882,12 @@ conquerorsofthecraftwiki_autoredirect:
   redirect: wiki.conquerorsofthecraft.com
   sslname: miraheze-origin-cert
   url: conquerorsofthecraft.miraheze.org
+contentcreatorwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-10-01T06:30:14.449324+00:00'
+  redirect: www.contentcreatorwiki.org
+  sslname: miraheze-origin-cert
+  url: contentcreator.miraheze.org
 continentalmcwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
