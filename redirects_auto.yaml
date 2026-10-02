@@ -3438,6 +3438,12 @@ playtimewithpercywiki_autoredirect:
   redirect: playtimewithpercy.wiki
   sslname: miraheze-origin-cert
   url: playtimewithpercy.miraheze.org
+pldoorswiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-10-02T16:30:20.440797+00:00'
+  redirect: pl.doorsgame.wiki
+  sslname: miraheze-origin-cert
+  url: pldoors.miraheze.org
 pmodwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
