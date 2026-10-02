@@ -2532,6 +2532,12 @@ limaruwiki_autoredirect:
   redirect: wiki.limaru.net
   sslname: miraheze-origin-cert
   url: limaru.miraheze.org
+limitlesssmpwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-10-02T18:00:19.810705+00:00'
+  redirect: www.limitlesssmp.online
+  sslname: miraheze-origin-cert
+  url: limitlesssmp.miraheze.org
 lindyuniversewiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
