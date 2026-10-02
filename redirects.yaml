@@ -1401,6 +1401,11 @@ jackboxgameswiki_autoredirect:
   redirect: jackbox.wiki
   ca: Cloudflare
   sslname: miraheze-origin-cert
+jetlagwiki_autoredirect:
+  url: jetlag.miraheze.org
+  redirect: jetlag.wiki
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 jigwikiwiki_autoredirect:
   url: jigwiki.miraheze.org
   redirect: jigwiki.com
