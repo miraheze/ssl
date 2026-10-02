@@ -4496,6 +4496,11 @@ connorjwatwiki_autoredirect:
   redirect: www.cgradegames.net
   ca: Cloudflare
   sslname: miraheze-origin-cert
+contentcreatorwiki_autoredirect:
+  url: contentcreator.miraheze.org
+  redirect: www.contentcreatorwiki.org
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 crunktropoliswiki_autoredirect:
   url: crunktropolis.miraheze.org
   redirect: www.crunktropolis.com
