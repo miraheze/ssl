@@ -220,6 +220,11 @@ wwwburnoutwiki:
   redirect: 'burnout.wiki'
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
+wwwmwcosmoscom:
+  url: 'www.mwcosmos.com'
+  redirect: 'mwcosmos.com'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
 # *.miraheze.org/*.wikitide.org to wiki custom domains redirects
 # Removed due to T15283
 # Entries that involve wikitide.org or has other manual redirect entries (e.g. www) are kept
