@@ -218,6 +218,11 @@ wwwburnoutwiki:
   redirect: burnout.wiki
   sslname: miraheze-origin-cert
   ca: Cloudflare
+wwwmwcosmoscom:
+  url: www.mwcosmos.com
+  redirect: mwcosmos.com
+  sslname: miraheze-origin-cert
+  ca: Cloudflare
 rippaversewiki:
   url: rippaverse.wikitide.org
   redirect: rippaversewiki.com
