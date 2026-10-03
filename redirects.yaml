@@ -1946,6 +1946,11 @@ pizzatowerwiki_autoredirect:
   redirect: pizzatower.wiki
   ca: Cloudflare
   sslname: miraheze-origin-cert
+pldoorswiki_autoredirect:
+  url: pldoors.miraheze.org
+  redirect: pl.doorsgame.wiki
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 kpopdemonhuntersplwiki_autoredirect:
   url: kpopdemonhunterspl.miraheze.org
   redirect: pl.kpopdemonhunters.wiki
