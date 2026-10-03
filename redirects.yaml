@@ -4631,6 +4631,11 @@ liliswiki_autoredirect:
   redirect: www.lilis.it
   ca: Cloudflare
   sslname: miraheze-origin-cert
+limitlesssmpwiki_autoredirect:
+  url: limitlesssmp.miraheze.org
+  redirect: www.limitlesssmp.online
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 lindyuniversewiki_autoredirect:
   url: lindyuniverse.miraheze.org
   redirect: www.lindyuniverse.org
