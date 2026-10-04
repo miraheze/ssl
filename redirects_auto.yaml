@@ -924,6 +924,12 @@ corruwiki_autoredirect:
   redirect: corru.wiki
   sslname: miraheze-origin-cert
   url: corru.miraheze.org
+cosmoswiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-10-04T00:30:14.860499+00:00'
+  redirect: private.mwcosmos.com
+  sslname: miraheze-origin-cert
+  url: cosmos.miraheze.org
 cotcwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-09-01T23:30:14.904327+00:00'
