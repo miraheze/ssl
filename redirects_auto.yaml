@@ -828,12 +828,6 @@ climatetestwiki_autoredirect:
   redirect: wiki.climatechange.ai
   sslname: miraheze-origin-cert
   url: climatetest.miraheze.org
-cllauncherwikiwiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-07-17T13:23:06.331041+00:00'
-  redirect: wiki.cl-launcher.app
-  sslname: miraheze-origin-cert
-  url: cllauncherwiki.miraheze.org
 clockupwikiwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
@@ -4008,12 +4002,6 @@ sdiywikiwiki_autoredirect:
   redirect: sdiy.info
   sslname: miraheze-origin-cert
   url: sdiywiki.miraheze.org
-sdpwiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-07-17T13:23:06.331041+00:00'
-  redirect: sd.phila.space
-  sslname: miraheze-origin-cert
-  url: sdp.miraheze.org
 seamlywiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
@@ -4782,12 +4770,6 @@ umemorywiki_autoredirect:
   redirect: umemory.maastrichtuniversity.nl
   sslname: miraheze-origin-cert
   url: umemory.miraheze.org
-unifiedrealmswiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-07-17T13:23:06.331041+00:00'
-  redirect: wiki.unifiedrealms.org
-  sslname: miraheze-origin-cert
-  url: unifiedrealms.miraheze.org
 unitedlandswiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'

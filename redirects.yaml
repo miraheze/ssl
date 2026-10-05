@@ -2166,11 +2166,6 @@ scrapbooksagawiki_autoredirect:
   redirect: scs.wiki
   ca: Cloudflare
   sslname: miraheze-origin-cert
-sdpwiki_autoredirect:
-  url: sdp.miraheze.org
-  redirect: sd.phila.space
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
 sdiywikiwiki_autoredirect:
   url: sdiywiki.miraheze.org
   redirect: sdiy.info
@@ -2854,11 +2849,6 @@ cinderspirewiki_autoredirect:
 ciptamediawiki_autoredirect:
   url: ciptamedia.miraheze.org
   redirect: wiki.ciptamedia.org
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
-cllauncherwikiwiki_autoredirect:
-  url: cllauncherwiki.miraheze.org
-  redirect: wiki.cl-launcher.app
   ca: Cloudflare
   sslname: miraheze-origin-cert
 climatetestwiki_autoredirect:
@@ -4194,11 +4184,6 @@ triplescriptswiki_autoredirect:
 tulpawiki_autoredirect:
   url: tulpa.miraheze.org
   redirect: wiki.tulpa.info
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
-unifiedrealmswiki_autoredirect:
-  url: unifiedrealms.miraheze.org
-  redirect: wiki.unifiedrealms.org
   ca: Cloudflare
   sslname: miraheze-origin-cert
 unitedlandswiki_autoredirect:
