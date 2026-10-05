@@ -1996,6 +1996,11 @@ dougwikiwiki_autoredirect:
   redirect: private.doug.mehus.ca
   ca: Cloudflare
   sslname: miraheze-origin-cert
+cosmoswiki_autoredirect:
+  url: cosmos.miraheze.org
+  redirect: private.mwcosmos.com
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 projectrusherwiki_autoredirect:
   url: projectrusher.miraheze.org
   redirect: project-rusher.org
