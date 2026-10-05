@@ -2406,6 +2406,12 @@ kodiakwiki_autoredirect:
   redirect: kodiak.wiki
   sslname: miraheze-origin-cert
   url: kodiak.miraheze.org
+kontrauwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-10-05T14:30:19.242205+00:00'
+  redirect: wiki.kontrau.com
+  sslname: miraheze-origin-cert
+  url: kontrau.miraheze.org
 kororoawiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
