@@ -3983,7 +3983,7 @@ unleashedspeedrunningwiki_autoredirect:
   sslname: miraheze-origin-cert
 soulframeruwiki_autoredirect:
   url: soulframeru.miraheze.org
-  redirect: wiki.soulframeru.com
+  redirect: wiki.soul-frame.ru
   ca: Cloudflare
   sslname: miraheze-origin-cert
 ss13plwiki_autoredirect:
