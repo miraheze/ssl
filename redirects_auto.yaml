@@ -5172,6 +5172,12 @@ wubbypediawiki_autoredirect:
   redirect: wiki.wubbygame.com
   sslname: miraheze-origin-cert
   url: wubbypedia.miraheze.org
+wudangpaiwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-10-06T12:30:23.549698+00:00'
+  redirect: wiki.wudang-pai.es
+  sslname: miraheze-origin-cert
+  url: wudangpai.miraheze.org
 xomniwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
