@@ -4179,7 +4179,7 @@ sonaponawiki_autoredirect:
 soulframeruwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-31T04:00:18.807261+00:00'
-  redirect: wiki.soul-frame.ru
+  redirect: wiki.soulframeru.com
   sslname: miraheze-origin-cert
   url: soulframeru.miraheze.org
 soulframewiki_autoredirect:
