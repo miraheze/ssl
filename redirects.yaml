@@ -3421,6 +3421,11 @@ knowledgerevolutionwiki_autoredirect:
   redirect: wiki.knowledgerevolution.eu
   ca: Cloudflare
   sslname: miraheze-origin-cert
+kontrauwiki_autoredirect:
+  url: kontrau.miraheze.org
+  redirect: wiki.kontrau.com
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 krameriawiki_autoredirect:
   url: krameria.miraheze.org
   redirect: wiki.krameria.xyz
