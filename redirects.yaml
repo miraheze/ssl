@@ -866,6 +866,11 @@ doorswiki_autoredirect:
   redirect: doorsgame.wiki
   ca: Cloudflare
   sslname: miraheze-origin-cert
+doorsroomsfloor2fangameofficialwiki_autoredirect:
+  url: doorsroomsfloor2fangameofficial.miraheze.org
+  redirect: doorsroomsfloor2.wiki
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 dragdownwiki_autoredirect:
   url: dragdown.miraheze.org
   redirect: dragdown.wiki
