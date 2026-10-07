@@ -2456,11 +2456,6 @@ umemorywiki_autoredirect:
   redirect: umemory.maastrichtuniversity.nl
   ca: Cloudflare
   sslname: miraheze-origin-cert
-universalunionwiki_autoredirect:
-  url: universalunion.miraheze.org
-  redirect: universalunion.wiki
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
 upgradexwiki_autoredirect:
   url: upgradex.miraheze.org
   redirect: upgxwiki.com

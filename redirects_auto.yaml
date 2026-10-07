@@ -4788,12 +4788,6 @@ unitedlandswiki_autoredirect:
   redirect: wiki.unitedlands.net
   sslname: miraheze-origin-cert
   url: unitedlands.miraheze.org
-universalunionwiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-08-20T01:29:15.436093+00:00'
-  redirect: universalunion.wiki
-  sslname: miraheze-origin-cert
-  url: universalunion.miraheze.org
 unleashedspeedrunningwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-08-02T03:30:13.441969+00:00'
