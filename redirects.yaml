@@ -4326,6 +4326,11 @@ wubbypediawiki_autoredirect:
   redirect: wiki.wubbygame.com
   ca: Cloudflare
   sslname: miraheze-origin-cert
+wudangpaiwiki_autoredirect:
+  url: wudangpai.miraheze.org
+  redirect: wiki.wudang-pai.es
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 spielzeugwinkelwiki_autoredirect:
   url: spielzeugwinkel.miraheze.org
   redirect: wiki.xn--mnnelpedia-q5a.de
