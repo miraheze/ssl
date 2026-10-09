@@ -851,6 +851,11 @@ ben3coderwiki_autoredirect:
   redirect: docs.ben3coder.dev
   ca: Cloudflare
   sslname: miraheze-origin-cert
+dogonlinedotnetwikiwiki_autoredirect:
+  url: dogonlinedotnetwiki.miraheze.org
+  redirect: dogonline.wiki
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 dokidokimoddingwiki_autoredirect:
   url: dokidokimodding.miraheze.org
   redirect: dokimodwiki.com
