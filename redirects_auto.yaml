@@ -3102,6 +3102,12 @@ nonciclopediawiki_autoredirect:
   redirect: nonciclopedia.org
   sslname: miraheze-origin-cert
   url: nonciclopedia.miraheze.org
+nonerevwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-10-09T14:30:22.137654+00:00'
+  redirect: wiki.nonerev.de
+  sslname: miraheze-origin-cert
+  url: nonerev.miraheze.org
 noobcraftwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-09-01T17:00:18.963029+00:00'
