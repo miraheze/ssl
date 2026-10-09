@@ -4671,6 +4671,11 @@ notgeldwiki_autoredirect:
   redirect: www.notgeld-cn.net
   ca: Cloudflare
   sslname: miraheze-origin-cert
+oleanderwiki_autoredirect:
+  url: oleander.miraheze.org
+  redirect: www.oleander.wiki
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 ouvragedartwiki_autoredirect:
   url: ouvragedart.miraheze.org
   redirect: www.ouvragedart.net
