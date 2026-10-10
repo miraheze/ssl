@@ -4212,12 +4212,6 @@ spacecraftwiki_autoredirect:
   redirect: spacecraft.wiki
   sslname: miraheze-origin-cert
   url: spacecraft.miraheze.org
-spacewiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-07-17T13:23:06.331041+00:00'
-  redirect: hster.wiki.gd
-  sslname: miraheze-origin-cert
-  url: space.miraheze.org
 spellpowderwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'

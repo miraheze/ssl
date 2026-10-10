@@ -1341,11 +1341,6 @@ recaptimesquadwiki_autoredirect:
   redirect: hq.recaptime.dev
   ca: Cloudflare
   sslname: miraheze-origin-cert
-spacewiki_autoredirect:
-  url: space.miraheze.org
-  redirect: hster.wiki.gd
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
 icclopediawiki_autoredirect:
   url: icclopedia.miraheze.org
   redirect: icclopedia.org
