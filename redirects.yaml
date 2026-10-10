@@ -3641,6 +3641,11 @@ chroniiwiki_autoredirect:
   redirect: wiki.nojufe.de
   ca: Cloudflare
   sslname: miraheze-origin-cert
+nonerevwiki_autoredirect:
+  url: nonerev.miraheze.org
+  redirect: wiki.nonerev.de
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 noobcraftwiki_autoredirect:
   url: noobcraft.miraheze.org
   redirect: wiki.noobteam.xyz
