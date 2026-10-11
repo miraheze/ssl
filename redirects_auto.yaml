@@ -1818,6 +1818,12 @@ funkeywiki_autoredirect:
   redirect: wiki.funkey-project.com
   sslname: miraheze-origin-cert
   url: funkey.miraheze.org
+furrywiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-10-11T16:30:21.089131+00:00'
+  redirect: wiki.ffurry.com
+  sslname: miraheze-origin-cert
+  url: furry.miraheze.org
 galacticwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
@@ -2874,6 +2880,12 @@ moldavicawiki_autoredirect:
   redirect: moldavica.org
   sslname: miraheze-origin-cert
   url: moldavica.miraheze.org
+monarquiawiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-10-11T16:30:21.089131+00:00'
+  redirect: monarquiawiki.org
+  sslname: miraheze-origin-cert
+  url: monarquia.miraheze.org
 moncubwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
