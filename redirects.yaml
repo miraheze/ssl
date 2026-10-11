@@ -1746,11 +1746,6 @@ najmipediawiki_autoredirect:
   redirect: najmipedia.org
   ca: Cloudflare
   sslname: miraheze-origin-cert
-ndgwiki_autoredirect:
-  url: ndg.miraheze.org
-  redirect: ndgkb.nena.org
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
 nebulouswiki_autoredirect:
   url: nebulous.miraheze.org
   redirect: nebulous.latentstate.eu
@@ -2249,11 +2244,6 @@ steamhardwarewiki_autoredirect:
 steemwiki_autoredirect:
   url: steem.miraheze.org
   redirect: steem.wiki
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
-storytimewiki_autoredirect:
-  url: storytime.miraheze.org
-  redirect: storytime.jdstroy.cf
   ca: Cloudflare
   sslname: miraheze-origin-cert
 strinovawiki_autoredirect:
@@ -3356,11 +3346,6 @@ interbellumwiki_autoredirect:
   redirect: wiki.interbellum.xyz
   ca: Cloudflare
   sslname: miraheze-origin-cert
-irisstationwiki_autoredirect:
-  url: irisstation.miraheze.org
-  redirect: wiki.irisstation.lol
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
 ivycombwiki_autoredirect:
   url: ivycomb.miraheze.org
   redirect: wiki.ivy.cm
@@ -3586,11 +3571,6 @@ ehswiki_autoredirect:
   redirect: wiki.myehs.eu
   ca: Cloudflare
   sslname: miraheze-origin-cert
-thefoundationrobloxwiki_autoredirect:
-  url: thefoundationroblox.miraheze.org
-  redirect: wiki.namegames.dev
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
 namowiki_autoredirect:
   url: namo.miraheze.org
   redirect: wiki.namoalliance.org
@@ -3759,11 +3739,6 @@ ppcwiki_autoredirect:
 pohjolamcwiki_autoredirect:
   url: pohjolamc.miraheze.org
   redirect: wiki.pohjolamc.fi
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
-pokefieldswiki_autoredirect:
-  url: pokefields.miraheze.org
-  redirect: wiki.pokefields.com
   ca: Cloudflare
   sslname: miraheze-origin-cert
 ponovowiki_autoredirect:
@@ -4321,11 +4296,6 @@ worlduniversityandschoolwiki_autoredirect:
   redirect: wiki.worlduniversityandschool.org
   ca: Cloudflare
   sslname: miraheze-origin-cert
-wubbypediawiki_autoredirect:
-  url: wubbypedia.miraheze.org
-  redirect: wiki.wubbygame.com
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
 wudangpaiwiki_autoredirect:
   url: wudangpai.miraheze.org
   redirect: wiki.wudang-pai.es
@@ -4401,11 +4371,6 @@ wildterra2wiki_autoredirect:
   redirect: wikiru.wildterra2.com
   ca: Cloudflare
   sslname: miraheze-origin-cert
-wikitoyswiki_autoredirect:
-  url: wikitoys.miraheze.org
-  redirect: wikitoys.net
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
 wikitransportwiki_autoredirect:
   url: wikitransport.miraheze.org
   redirect: wikitransport.org
@@ -4424,11 +4389,6 @@ wilderlorewiki_autoredirect:
 windgatewiki_autoredirect:
   url: windgate.miraheze.org
   redirect: windgate.wiki
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
-witchypediawiki_autoredirect:
-  url: witchypedia.miraheze.org
-  redirect: witchypedia.online
   ca: Cloudflare
   sslname: miraheze-origin-cert
 rrfwiki_autoredirect:
