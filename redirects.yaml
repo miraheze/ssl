@@ -1706,6 +1706,11 @@ moldavicawiki_autoredirect:
   redirect: moldavica.org
   ca: Cloudflare
   sslname: miraheze-origin-cert
+monarquiawiki_autoredirect:
+  url: monarquia.miraheze.org
+  redirect: monarquiawiki.org
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 monsterboundwiki_autoredirect:
   url: monsterbound.miraheze.org
   redirect: monsterboundwiki.com
@@ -3124,6 +3129,11 @@ fatcatfablabwiki_autoredirect:
 worldscollidewikiwiki_autoredirect:
   url: worldscollidewiki.miraheze.org
   redirect: wiki.ff6worldscollide.com
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
+furrywiki_autoredirect:
+  url: furry.miraheze.org
+  redirect: wiki.ffurry.com
   ca: Cloudflare
   sslname: miraheze-origin-cert
 fictionaltechwiki_autoredirect:
