@@ -3582,6 +3582,12 @@ projectbutterflywiki_autoredirect:
   redirect: pb.maciejcreates.com
   sslname: miraheze-origin-cert
   url: projectbutterfly.miraheze.org
+projectcolumbiawiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-10-12T04:00:20.138434+00:00'
+  redirect: wiki.projc.cc
+  sslname: miraheze-origin-cert
+  url: projectcolumbia.miraheze.org
 projectcqcwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
