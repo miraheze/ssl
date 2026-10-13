@@ -3776,6 +3776,11 @@ prisonmcwiki_autoredirect:
   redirect: wiki.prison-mc.com
   ca: Cloudflare
   sslname: miraheze-origin-cert
+projectcolumbiawiki_autoredirect:
+  url: projectcolumbia.miraheze.org
+  redirect: wiki.projc.cc
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 projectdiablo2wiki_autoredirect:
   url: projectdiablo2.miraheze.org
   redirect: wiki.projectdiablo2.com
