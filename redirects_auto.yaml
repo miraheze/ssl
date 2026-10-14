@@ -2970,6 +2970,12 @@ namowiki_autoredirect:
   redirect: wiki.namoalliance.org
   sslname: miraheze-origin-cert
   url: namo.miraheze.org
+narutodestinationwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-10-14T14:00:26.090898+00:00'
+  redirect: wiki.naruto-destination.de
+  sslname: miraheze-origin-cert
+  url: narutodestination.miraheze.org
 natowawiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
