@@ -966,11 +966,6 @@ emcchurchwiki_autoredirect:
   redirect: emc-church.org
   ca: Cloudflare
   sslname: miraheze-origin-cert
-emergencyalertsystemwikiwiki_autoredirect:
-  url: emergencyalertsystemwiki.miraheze.org
-  redirect: emergencyalertsystem.wiki
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
 emmytherobotwiki_autoredirect:
   url: emmytherobot.miraheze.org
   redirect: emmytherobot.wiki
@@ -3744,11 +3739,6 @@ pixiehollowrewrittenwiki_autoredirect:
 ppcwiki_autoredirect:
   url: ppc.miraheze.org
   redirect: wiki.plotprotectors.org
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
-pohjolamcwiki_autoredirect:
-  url: pohjolamc.miraheze.org
-  redirect: wiki.pohjolamc.fi
   ca: Cloudflare
   sslname: miraheze-origin-cert
 ponovowiki_autoredirect:
