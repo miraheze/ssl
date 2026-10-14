@@ -4608,6 +4608,12 @@ thuniswiki_autoredirect:
   redirect: wiki.thunis.eu
   sslname: miraheze-origin-cert
   url: thunis.miraheze.org
+tigertalesclemsonwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-10-14T17:30:22.970206+00:00'
+  redirect: tigertalesclemson.com
+  sslname: miraheze-origin-cert
+  url: tigertalesclemson.miraheze.org
 tintinpediawiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-08-20T01:29:15.436093+00:00'
