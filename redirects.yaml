@@ -2366,6 +2366,11 @@ theutopiawiki_autoredirect:
   redirect: theutopia.wiki
   ca: Cloudflare
   sslname: miraheze-origin-cert
+tigertalesclemsonwiki_autoredirect:
+  url: tigertalesclemson.miraheze.org
+  redirect: tigertalesclemson.com
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 tkowiki_autoredirect:
   url: tko.miraheze.org
   redirect: tko.jyeridley.dev
