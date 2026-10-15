@@ -3581,6 +3581,11 @@ namowiki_autoredirect:
   redirect: wiki.namoalliance.org
   ca: Cloudflare
   sslname: miraheze-origin-cert
+narutodestinationwiki_autoredirect:
+  url: narutodestination.miraheze.org
+  redirect: wiki.naruto-destination.de
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 natowawiki_autoredirect:
   url: natowa.miraheze.org
   redirect: wiki.natowa.org
