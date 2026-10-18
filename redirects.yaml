@@ -1156,6 +1156,11 @@ forecastingwiki_autoredirect:
   redirect: forecasting.wiki
   ca: Cloudflare
   sslname: miraheze-origin-cert
+theforesterswiki_autoredirect:
+  url: theforesters.miraheze.org
+  redirect: foresterswiki.com
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 theforgewiki_autoredirect:
   url: theforge.miraheze.org
   redirect: forgewiki.org
