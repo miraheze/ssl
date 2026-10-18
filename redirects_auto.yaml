@@ -2118,6 +2118,12 @@ hrlwiki_autoredirect:
   redirect: wiki.historicracing.cc
   sslname: miraheze-origin-cert
   url: hrl.miraheze.org
+hsckwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-10-18T08:30:16.667165+00:00'
+  redirect: hsck.lophocmatngu.wiki
+  sslname: miraheze-origin-cert
+  url: hsck.miraheze.org
 huddlewiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
@@ -4140,6 +4146,12 @@ signoffswiki_autoredirect:
   redirect: signoffs.giize.com
   sslname: miraheze-origin-cert
   url: signoffs.miraheze.org
+sillycorpresearchwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-10-18T08:30:16.667165+00:00'
+  redirect: wiki.sillycorp.online
+  sslname: miraheze-origin-cert
+  url: sillycorpresearch.miraheze.org
 site97wiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
