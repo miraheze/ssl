@@ -5292,6 +5292,12 @@ zhtgwiki_autoredirect:
   redirect: tgwiki.uk
   sslname: miraheze-origin-cert
   url: zhtg.miraheze.org
+ziomkiwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-10-18T12:00:18.362575+00:00'
+  redirect: wiki.ziomki.org
+  sslname: miraheze-origin-cert
+  url: ziomki.miraheze.org
 zoarialmovieswiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
