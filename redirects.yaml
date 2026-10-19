@@ -1341,6 +1341,11 @@ recaptimesquadwiki_autoredirect:
   redirect: hq.recaptime.dev
   ca: Cloudflare
   sslname: miraheze-origin-cert
+hsckwiki_autoredirect:
+  url: hsck.miraheze.org
+  redirect: hsck.lophocmatngu.wiki
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 icclopediawiki_autoredirect:
   url: icclopedia.miraheze.org
   redirect: icclopedia.org
@@ -3949,6 +3954,11 @@ shippinglaneswiki_autoredirect:
 seocaawiki_autoredirect:
   url: seocaa.miraheze.org
   redirect: wiki.sigmaepsilonomega.org
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
+sillycorpresearchwiki_autoredirect:
+  url: sillycorpresearch.miraheze.org
+  redirect: wiki.sillycorp.online
   ca: Cloudflare
   sslname: miraheze-origin-cert
 site97wiki_autoredirect:
