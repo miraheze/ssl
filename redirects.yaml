@@ -4361,6 +4361,11 @@ zamnhackingwiki_autoredirect:
   redirect: wiki.zamnhacking.net
   ca: Cloudflare
   sslname: miraheze-origin-cert
+ziomkiwiki_autoredirect:
+  url: ziomki.miraheze.org
+  redirect: wiki.ziomki.org
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 zonacerowikiwiki_autoredirect:
   url: zonacerowiki.miraheze.org
   redirect: wiki.zonacero.me
