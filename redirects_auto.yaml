@@ -1140,6 +1140,12 @@ deepwokenwiki_autoredirect:
   redirect: wiki.deepwoken.net
   sslname: miraheze-origin-cert
   url: deepwoken.miraheze.org
+deltarunetopicwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-10-20T03:30:20.678378+00:00'
+  redirect: deltarunetopic.gvyoutube.net
+  sslname: miraheze-origin-cert
+  url: deltarunetopic.miraheze.org
 demondealswiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
