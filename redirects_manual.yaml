@@ -396,6 +396,12 @@ robloxblocktaleswiki_redirect:
   sslname: 'miraheze-origin-cert'
   ca: 'Cloudflare'
   hsts: 'strict'
+infinitecultivationworldwiki_redirect:
+  url: 'infinitecultivationworld.miraheze.org'
+  redirect: 'cultivationworld.miraheze.org'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
+  hsts: 'strict'
 # orain.org to miraheze.org wiki redirects
 allthetropesorain:
   url: 'allthetropes.orain.org'
