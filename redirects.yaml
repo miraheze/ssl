@@ -842,6 +842,11 @@ deanzacollegewiki_autoredirect:
   redirect: deanza.wiki
   ca: Cloudflare
   sslname: miraheze-origin-cert
+deltarunetopicwiki_autoredirect:
+  url: deltarunetopic.miraheze.org
+  redirect: deltarunetopic.gvyoutube.net
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 dfwiki_autoredirect:
   url: df.miraheze.org
   redirect: df.deipdc.cn
@@ -3860,6 +3865,11 @@ robloxbroadcastingcorpwiki_autoredirect:
 rbwrwiki_autoredirect:
   url: rbwr.miraheze.org
   redirect: wiki.rbwrcommunity.org
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
+jafawiki_autoredirect:
+  url: jafa.miraheze.org
+  redirect: wiki.redzombie.net
   ca: Cloudflare
   sslname: miraheze-origin-cert
 refinedvanillawiki_autoredirect:
