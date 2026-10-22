@@ -3906,6 +3906,12 @@ rrfwiki_autoredirect:
   redirect: with.cpt-ra.bid
   sslname: miraheze-origin-cert
   url: rrf.miraheze.org
+rt2wiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-10-22T18:00:20.952127+00:00'
+  redirect: rt2.ugwiki.org
+  sslname: miraheze-origin-cert
+  url: rt2.miraheze.org
 rt3wiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-08-20T01:29:15.436093+00:00'
