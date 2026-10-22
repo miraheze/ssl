@@ -32,8 +32,8 @@ wwwwikitideredirect:
 dpl3wiki:
   url: 'dpl3.wikitide.org'
   redirect: 'dpl4.wikitide.org'
-  sslname: 'wikitide.org'
-  ca: 'LetsEncrypt'
+  ca: 'Cloudflare'
+  sslname: 'miraheze-origin-cert'
 wwwallthetropes:
   url: 'www.allthetropes.org'
   redirect: 'allthetropes.org'
