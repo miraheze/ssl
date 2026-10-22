@@ -20,8 +20,8 @@ mirahezewiki:
 wikitideredirect:
   url: wikitide.org
   redirect: miraheze.org
-  sslname: wikitide.org
-  ca: LetsEncrypt
+  sslname: miraheze-origin-cert
+  ca: Cloudflare
 wwwwikitideredirect:
   url: www.wikitide.org
   redirect: miraheze.org
@@ -30,8 +30,8 @@ wwwwikitideredirect:
 dpl3wiki:
   url: dpl3.wikitide.org
   redirect: dpl4.wikitide.org
-  sslname: wikitide.org
-  ca: LetsEncrypt
+  sslname: miraheze-origin-cert
+  ca: Cloudflare
 wwwallthetropes:
   url: www.allthetropes.org
   redirect: allthetropes.org
