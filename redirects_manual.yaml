@@ -229,11 +229,6 @@ wwwmwcosmoscom:
 # Removed due to T15283
 # Entries that involve wikitide.org or has other manual redirect entries (e.g. www) are kept
 # because the bot does not auto-generate them.
-rippaversewiki:
-  url: 'rippaverse.wikitide.org'
-  redirect: 'rippaversewiki.com'
-  sslname: 'wikitide.org'
-  ca: 'LetsEncrypt'
 allthetropeswiki:
   url: 'allthetropes.miraheze.org'
   redirect: 'allthetropes.org'
