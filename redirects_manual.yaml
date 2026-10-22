@@ -150,11 +150,6 @@ wwwrosettacodeorg:
   redirect: 'rosettacode.org'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
-iewikiaurovilleorg:
-  url: 'iewiki.auroville.org'
-  redirect: 'iewiki.purnamcommunity.in'
-  ca: 'Cloudflare'
-  sslname: 'miraheze-origin-cert'
 acuralegendredirect:
   url: 'www.acuralegendwiki.org'
   redirect: 'acuralegendwiki.org'
