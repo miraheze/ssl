@@ -2142,6 +2142,12 @@ icclopediawiki_autoredirect:
   redirect: icclopedia.org
   sslname: miraheze-origin-cert
   url: icclopedia.miraheze.org
+iewikiwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-10-22T21:00:26.868655+00:00'
+  redirect: iewiki.purnamcommunity.in
+  sslname: miraheze-origin-cert
+  url: iewiki.miraheze.org
 immerlandwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'

@@ -148,11 +148,6 @@ wwwrosettacodeorg:
   redirect: rosettacode.org
   ca: Cloudflare
   sslname: miraheze-origin-cert
-iewikiaurovilleorg:
-  url: iewiki.auroville.org
-  redirect: iewiki.purnamcommunity.in
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
 acuralegendredirect:
   url: www.acuralegendwiki.org
   redirect: acuralegendwiki.org
@@ -223,11 +218,6 @@ wwwmwcosmoscom:
   redirect: mwcosmos.com
   sslname: miraheze-origin-cert
   ca: Cloudflare
-rippaversewiki:
-  url: rippaverse.wikitide.org
-  redirect: rippaversewiki.com
-  sslname: wikitide.org
-  ca: LetsEncrypt
 allthetropeswiki:
   url: allthetropes.miraheze.org
   redirect: allthetropes.org
