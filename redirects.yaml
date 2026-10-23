@@ -2142,6 +2142,11 @@ rodzinkaplwiki_autoredirect:
   redirect: rodzinka.wiki
   ca: Cloudflare
   sslname: miraheze-origin-cert
+rt2wiki_autoredirect:
+  url: rt2.miraheze.org
+  redirect: rt2.ugwiki.org
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 rt3wiki_autoredirect:
   url: rt3.miraheze.org
   redirect: rt3.ugwiki.org
