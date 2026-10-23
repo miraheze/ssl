@@ -23,5 +23,5 @@ wikitidenet:
   ca: 'LetsEncrypt'
 wikitideorg:
   url: '*.wikitide.org'
-  sslname: 'wikitide.org'
-  ca: 'LetsEncrypt'
+  sslname: 'miraheze-origin-cert'
+  ca: 'Cloudflare'
