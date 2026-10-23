@@ -1352,6 +1352,11 @@ icclopediawiki_autoredirect:
   redirect: icclopedia.org
   ca: Cloudflare
   sslname: miraheze-origin-cert
+iewikiwiki_autoredirect:
+  url: iewiki.miraheze.org
+  redirect: iewiki.purnamcommunity.in
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 indrawiki_autoredirect:
   url: indra.miraheze.org
   redirect: indramegha.xyz
