@@ -720,6 +720,12 @@ celestewiki_autoredirect:
   redirect: celeste.ink
   sslname: miraheze-origin-cert
   url: celeste.miraheze.org
+centralmacatubawiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-10-24T01:30:18.994821+00:00'
+  redirect: wiki.servicos.centralmacatuba.dpdns.org
+  sslname: miraheze-origin-cert
+  url: centralmacatuba.miraheze.org
 cgwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
