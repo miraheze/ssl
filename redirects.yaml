@@ -2352,11 +2352,6 @@ zhtgwiki_autoredirect:
   redirect: tgwiki.uk
   ca: Cloudflare
   sslname: miraheze-origin-cert
-thebattleforfallonwiki_autoredirect:
-  url: thebattleforfallon.miraheze.org
-  redirect: thebattleforfallon.com
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
 theenglishlakeswiki_autoredirect:
   url: theenglishlakes.miraheze.org
   redirect: theenglishlakes.uk
@@ -4145,6 +4140,11 @@ the1776orgwiki_autoredirect:
 theaxolotlsunwiki_autoredirect:
   url: theaxolotlsun.miraheze.org
   redirect: wiki.theaxolotlsun.com
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
+thebattleforfallonwiki_autoredirect:
+  url: thebattleforfallon.miraheze.org
+  redirect: wiki.thebattleforfallon.com
   ca: Cloudflare
   sslname: miraheze-origin-cert
 thebigdoozywiki_autoredirect:
