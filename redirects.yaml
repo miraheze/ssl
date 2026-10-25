@@ -3957,6 +3957,11 @@ sequoiafabricawiki_autoredirect:
   redirect: wiki.sequoiafabrica.org
   ca: Cloudflare
   sslname: miraheze-origin-cert
+centralmacatubawiki_autoredirect:
+  url: centralmacatuba.miraheze.org
+  redirect: wiki.servicos.centralmacatuba.dpdns.org
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 sfothrwiki_autoredirect:
   url: sfothr.miraheze.org
   redirect: wiki.sfothr.com
