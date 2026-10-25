@@ -2607,6 +2607,11 @@ whynotwiki_autoredirect:
   redirect: wiki.9b6t.eu
   ca: Cloudflare
   sslname: miraheze-origin-cert
+absurdwiki_autoredirect:
+  url: absurd.miraheze.org
+  redirect: wiki.absurd.lat
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 albrusmusicwiki_autoredirect:
   url: albrusmusic.miraheze.org
   redirect: wiki.albrusmusic.ru
