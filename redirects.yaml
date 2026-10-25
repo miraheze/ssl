@@ -3492,6 +3492,11 @@ liophexwiki_autoredirect:
   redirect: wiki.liophex.net
   ca: Cloudflare
   sslname: miraheze-origin-cert
+newworldswiki_autoredirect:
+  url: newworlds.miraheze.org
+  redirect: wiki.loonietick.com
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 lotrminecraftmodwiki_autoredirect:
   url: lotrminecraftmod.miraheze.org
   redirect: wiki.lotrmc.ru
