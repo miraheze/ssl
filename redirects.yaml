@@ -235,12 +235,6 @@ andrewvanweywiki:
   sslname: miraheze-origin-cert
   ca: Cloudflare
   hsts: strict
-skibiditoiletwiki:
-  url: skibiditoilet.miraheze.org
-  redirect: skibidi-toilet.wiki
-  sslname: miraheze-origin-cert
-  ca: Cloudflare
-  hsts: strict
 itemasylumwiki:
   url: itemasylum.miraheze.org
   redirect: itemasylum.wiki
