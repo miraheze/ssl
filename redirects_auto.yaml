@@ -3966,6 +3966,12 @@ runawiki_autoredirect:
   redirect: abydos-jk.kro.kr
   sslname: miraheze-origin-cert
   url: runa.miraheze.org
+russianmappingwikiwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-10-30T23:30:13.388831+00:00'
+  redirect: ru.mappingwiki.org
+  sslname: miraheze-origin-cert
+  url: russianmappingwiki.miraheze.org
 rvbuilderswiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
