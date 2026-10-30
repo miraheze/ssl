@@ -2196,6 +2196,12 @@ infomediawiki_autoredirect:
   redirect: wiki.infomedia.co.uk
   sslname: miraheze-origin-cert
   url: infomedia.miraheze.org
+inochiwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-10-30T19:30:14.458510+00:00'
+  redirect: wiki.order.life
+  sslname: miraheze-origin-cert
+  url: inochi.miraheze.org
 insideearthwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
