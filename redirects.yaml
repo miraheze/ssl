@@ -3706,6 +3706,11 @@ birthdayserverwiki_autoredirect:
   redirect: wiki.orcate.ch
   ca: Cloudflare
   sslname: miraheze-origin-cert
+inochiwiki_autoredirect:
+  url: inochi.miraheze.org
+  redirect: wiki.order.life
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 projectcqcwiki_autoredirect:
   url: projectcqc.miraheze.org
   redirect: wiki.originsreimagined.com
