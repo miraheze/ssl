@@ -2156,6 +2156,11 @@ countryhumanswikiruwiki_autoredirect:
   redirect: ru.countryhumans.polandball.wiki
   ca: Cloudflare
   sslname: miraheze-origin-cert
+russianmappingwikiwiki_autoredirect:
+  url: russianmappingwiki.miraheze.org
+  redirect: ru.mappingwiki.org
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 ruanimalroyalewiki_autoredirect:
   url: ruanimalroyale.miraheze.org
   redirect: ru.wiki.animalroyale.com
