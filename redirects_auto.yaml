@@ -1530,6 +1530,12 @@ eupharoswiki_autoredirect:
   redirect: wiki.eupharos.com
   sslname: miraheze-origin-cert
   url: eupharos.miraheze.org
+euzinjcwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-11-01T18:30:14.003618+00:00'
+  redirect: wiki.euzinjc.com.br
+  sslname: miraheze-origin-cert
+  url: euzinjc.miraheze.org
 evadeswiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-08-26T06:00:13.951035+00:00'
