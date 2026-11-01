@@ -1614,6 +1614,12 @@ falcomwiki_autoredirect:
   redirect: falcom.wiki
   sslname: miraheze-origin-cert
   url: falcom.miraheze.org
+falkreachwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-11-01T17:30:15.074184+00:00'
+  redirect: wiki.falkreach.com
+  sslname: miraheze-origin-cert
+  url: falkreach.miraheze.org
 fanfikwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
