@@ -5148,6 +5148,12 @@ wikitubewiki_autoredirect:
   redirect: wikitube.giize.com
   sslname: miraheze-origin-cert
   url: wikitube.miraheze.org
+wikivadewiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-11-01T16:30:14.953832+00:00'
+  redirect: wikivade.cc
+  sslname: miraheze-origin-cert
+  url: wikivade.miraheze.org
 wilderlorewiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-08-20T01:29:15.436093+00:00'
