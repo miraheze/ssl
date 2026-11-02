@@ -3131,6 +3131,11 @@ eyeversewiki_autoredirect:
   redirect: wiki.eyeverse.world
   ca: Cloudflare
   sslname: miraheze-origin-cert
+falkreachwiki_autoredirect:
+  url: falkreach.miraheze.org
+  redirect: wiki.falkreach.com
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 fatcatfablabwiki_autoredirect:
   url: fatcatfablab.miraheze.org
   redirect: wiki.fatcatfablab.org
