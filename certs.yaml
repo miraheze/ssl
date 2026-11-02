@@ -10,10 +10,6 @@ nexttide:
   additional_domain: '*.nexttide.org'
   sslname: 'nexttide-origin-cert'
   ca: 'Cloudflare'
-bluemoon:
-  url: 'bluemoon.rhinosf1.com'
-  sslname: 'mirabeta-origin-cert'
-  ca: 'Cloudflare'
 # Production
 orainorg:
   url: 'orain.org'
