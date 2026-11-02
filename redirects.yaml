@@ -956,11 +956,6 @@ embryologywiki_autoredirect:
   redirect: embryologywiki.org
   ca: Cloudflare
   sslname: miraheze-origin-cert
-emcchurchwiki_autoredirect:
-  url: emcchurch.miraheze.org
-  redirect: emc-church.org
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
 emmytherobotwiki_autoredirect:
   url: emmytherobot.miraheze.org
   redirect: emmytherobot.wiki
@@ -1374,11 +1369,6 @@ domainswiki_autoredirect:
 intersexwiki_autoredirect:
   url: intersex.miraheze.org
   redirect: intersex.wiki
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
-iradwiki_autoredirect:
-  url: irad.miraheze.org
-  redirect: irad.wiki
   ca: Cloudflare
   sslname: miraheze-origin-cert
 irfwiki_autoredirect:
@@ -2049,11 +2039,6 @@ pwikiwiki_autoredirect:
 prismawiki_autoredirect:
   url: prisma.miraheze.org
   redirect: pwiki.loonietick.com
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
-quantumcraftwiki_autoredirect:
-  url: quantumcraft.miraheze.org
-  redirect: quantum-craft.info
   ca: Cloudflare
   sslname: miraheze-origin-cert
 quanvotwiki_autoredirect:
@@ -3246,11 +3231,6 @@ genzmarocwiki_autoredirect:
   redirect: wiki.genzmaroc.com
   ca: Cloudflare
   sslname: miraheze-origin-cert
-glenwichwiki_autoredirect:
-  url: glenwich.miraheze.org
-  redirect: wiki.glenwich.com
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
 globasawiki_autoredirect:
   url: globasa.miraheze.org
   redirect: wiki.globasa.net
@@ -3849,11 +3829,6 @@ puucraftwiki_autoredirect:
 sufiwikiwiki_autoredirect:
   url: sufiwiki.miraheze.org
   redirect: wiki.qadrishattari.xyz
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
-quantumsciencewiki_autoredirect:
-  url: quantumscience.miraheze.org
-  redirect: wiki.quantum-science.net
   ca: Cloudflare
   sslname: miraheze-origin-cert
 railannouncementswiki_autoredirect:
@@ -4726,11 +4701,6 @@ piravazhwiki_autoredirect:
   redirect: www.piravazh.ir
   ca: Cloudflare
   sslname: miraheze-origin-cert
-pittsburghmusicianwiki_autoredirect:
-  url: pittsburghmusician.miraheze.org
-  redirect: www.pittsburghmusician.org
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
 potmwiki_autoredirect:
   url: potm.miraheze.org
   redirect: www.potmwiki.top
@@ -4789,11 +4759,6 @@ twistwoodtaleswiki_autoredirect:
 uebusaitowiki_autoredirect:
   url: uebusaito.miraheze.org
   redirect: www.uebusaito.wiki
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
-rvbuilderswiki_autoredirect:
-  url: rvbuilders.miraheze.org
-  redirect: www.vans.builders
   ca: Cloudflare
   sslname: miraheze-origin-cert
 vazhsinwiki_autoredirect:

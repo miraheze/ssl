@@ -1446,12 +1446,6 @@ embryologywiki_autoredirect:
   redirect: embryologywiki.org
   sslname: miraheze-origin-cert
   url: embryology.miraheze.org
-emcchurchwiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-07-17T13:23:06.331041+00:00'
-  redirect: emc-church.org
-  sslname: miraheze-origin-cert
-  url: emcchurch.miraheze.org
 emmytherobotwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
@@ -1932,12 +1926,6 @@ gincanawiki_autoredirect:
   redirect: gincana.wiki
   sslname: miraheze-origin-cert
   url: gincana.miraheze.org
-glenwichwiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-07-17T13:23:06.331041+00:00'
-  redirect: wiki.glenwich.com
-  sslname: miraheze-origin-cert
-  url: glenwich.miraheze.org
 glitchpediawiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
@@ -2244,12 +2232,6 @@ intersexwiki_autoredirect:
   redirect: intersex.wiki
   sslname: miraheze-origin-cert
   url: intersex.miraheze.org
-iradwiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-07-17T13:23:06.331041+00:00'
-  redirect: irad.wiki
-  sslname: miraheze-origin-cert
-  url: irad.miraheze.org
 irfwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
@@ -3498,12 +3480,6 @@ piravazhwiki_autoredirect:
   redirect: www.piravazh.ir
   sslname: miraheze-origin-cert
   url: piravazh.miraheze.org
-pittsburghmusicianwiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-07-17T13:23:06.331041+00:00'
-  redirect: www.pittsburghmusician.org
-  sslname: miraheze-origin-cert
-  url: pittsburghmusician.miraheze.org
 pixelbladewiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-09-18T13:30:17.771780+00:00'
@@ -3756,18 +3732,6 @@ pwikiwiki_autoredirect:
   redirect: pwiki.arkcls.com
   sslname: miraheze-origin-cert
   url: pwiki.miraheze.org
-quantumcraftwiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-07-17T13:23:06.331041+00:00'
-  redirect: quantum-craft.info
-  sslname: miraheze-origin-cert
-  url: quantumcraft.miraheze.org
-quantumsciencewiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-08-20T01:29:15.436093+00:00'
-  redirect: wiki.quantum-science.net
-  sslname: miraheze-origin-cert
-  url: quantumscience.miraheze.org
 quanvotwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
@@ -3996,12 +3960,6 @@ russianmappingwikiwiki_autoredirect:
   redirect: ru.mappingwiki.org
   sslname: miraheze-origin-cert
   url: russianmappingwiki.miraheze.org
-rvbuilderswiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-07-17T13:23:06.331041+00:00'
-  redirect: www.vans.builders
-  sslname: miraheze-origin-cert
-  url: rvbuilders.miraheze.org
 rwbmodswiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
