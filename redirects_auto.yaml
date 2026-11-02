@@ -558,6 +558,12 @@ blockatewiki_autoredirect:
   redirect: wiki.blockate.com
   sslname: miraheze-origin-cert
   url: blockate.miraheze.org
+blockboundgamewiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-11-02T02:00:16.086829+00:00'
+  redirect: blockbound.dev
+  sslname: miraheze-origin-cert
+  url: blockboundgame.miraheze.org
 blokotowiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'

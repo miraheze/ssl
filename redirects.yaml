@@ -2306,6 +2306,11 @@ tanukipediawiki_autoredirect:
   redirect: tanuki.iml.menhera.org
   ca: Cloudflare
   sslname: miraheze-origin-cert
+tarheeltalesuncwiki_autoredirect:
+  url: tarheeltalesunc.miraheze.org
+  redirect: tarheeltalesunc.com
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 tdrwikiwiki_autoredirect:
   url: tdrwiki.miraheze.org
   redirect: tdr.wiki
