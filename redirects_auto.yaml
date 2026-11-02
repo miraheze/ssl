@@ -480,6 +480,12 @@ betonogradwiki_autoredirect:
   redirect: wiki.betonograd.org
   sslname: miraheze-origin-cert
   url: betonograd.miraheze.org
+betterwebwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-11-02T01:00:13.630156+00:00'
+  redirect: wiki.forbetterweb.org
+  sslname: miraheze-origin-cert
+  url: betterweb.miraheze.org
 beyond40wiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-09-05T16:30:12.825622+00:00'
