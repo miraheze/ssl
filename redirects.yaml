@@ -3101,6 +3101,11 @@ eupharoswiki_autoredirect:
   redirect: wiki.eupharos.com
   ca: Cloudflare
   sslname: miraheze-origin-cert
+euzinjcwiki_autoredirect:
+  url: euzinjc.miraheze.org
+  redirect: wiki.euzinjc.com.br
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 evadeswiki_autoredirect:
   url: evades.miraheze.org
   redirect: wiki.evades.io
