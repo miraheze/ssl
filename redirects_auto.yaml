@@ -1146,6 +1146,12 @@ ddnetwiki_autoredirect:
   redirect: wiki.ddnet.org
   sslname: miraheze-origin-cert
   url: ddnet.miraheze.org
+deadmau5wiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-11-03T07:30:17.595483+00:00'
+  redirect: deadmau5.wiki
+  sslname: miraheze-origin-cert
+  url: deadmau5.miraheze.org
 deanzacollegewiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
