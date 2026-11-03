@@ -96,6 +96,12 @@ agorawiki_autoredirect:
   redirect: elovillo.org
   sslname: miraheze-origin-cert
   url: agora.miraheze.org
+aistatehubwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-11-03T14:30:18.321501+00:00'
+  redirect: www.aistatehub.eu
+  sslname: miraheze-origin-cert
+  url: aistatehub.miraheze.org
 alathramcwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
