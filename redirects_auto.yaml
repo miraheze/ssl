@@ -4326,6 +4326,12 @@ starbasiswiki_autoredirect:
   redirect: wiki.starbasis.com
   sslname: miraheze-origin-cert
   url: starbasis.miraheze.org
+starcompasswiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-11-03T19:00:17.777337+00:00'
+  redirect: starcompass.tomeofmara.org
+  sslname: miraheze-origin-cert
+  url: starcompass.miraheze.org
 starfaywiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
