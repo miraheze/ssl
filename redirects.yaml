@@ -611,6 +611,11 @@ binrayarchiveswiki_autoredirect:
   redirect: binrayarchives.org
   ca: Cloudflare
   sslname: miraheze-origin-cert
+blockboundgamewiki_autoredirect:
+  url: blockboundgame.miraheze.org
+  redirect: blockbound.dev
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 blokotowiki_autoredirect:
   url: blokoto.miraheze.org
   redirect: blokoto.wiki
