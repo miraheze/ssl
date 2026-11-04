@@ -4511,6 +4511,11 @@ agnwwwiki_autoredirect:
   redirect: www.agnww.at
   ca: Cloudflare
   sslname: miraheze-origin-cert
+aistatehubwiki_autoredirect:
+  url: aistatehub.miraheze.org
+  redirect: www.aistatehub.eu
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 amusementparkarchiveswiki_autoredirect:
   url: amusementparkarchives.miraheze.org
   redirect: www.amusementparkarchives.com
