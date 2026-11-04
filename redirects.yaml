@@ -2246,6 +2246,11 @@ stablestatewiki_autoredirect:
   redirect: stablestate.org
   ca: Cloudflare
   sslname: miraheze-origin-cert
+starcompasswiki_autoredirect:
+  url: starcompass.miraheze.org
+  redirect: starcompass.tomeofmara.org
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 criticalstasiswiki_autoredirect:
   url: criticalstasis.miraheze.org
   redirect: stasis.dae-vinity.dev
