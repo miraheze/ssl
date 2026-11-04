@@ -826,6 +826,11 @@ dataforaiwiki_autoredirect:
   redirect: datasharingwiki.ceimia.org
   ca: Cloudflare
   sslname: miraheze-origin-cert
+deadmau5wiki_autoredirect:
+  url: deadmau5.miraheze.org
+  redirect: deadmau5.wiki
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 deanzacollegewiki_autoredirect:
   url: deanzacollege.miraheze.org
   redirect: deanza.wiki
