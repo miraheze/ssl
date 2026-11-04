@@ -4260,6 +4260,12 @@ soulframewiki_autoredirect:
   redirect: wiki.avakot.org
   sslname: miraheze-origin-cert
   url: soulframe.miraheze.org
+spacecatswiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-11-04T00:30:15.108895+00:00'
+  redirect: space-cats.eu
+  sslname: miraheze-origin-cert
+  url: spacecats.miraheze.org
 spacecraftwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
