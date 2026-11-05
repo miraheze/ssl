@@ -135,11 +135,6 @@ wwwglitchcity:
   redirect: 'glitchcity.wiki'
   ca: 'Cloudflare'
   sslname: 'miraheze-origin-cert'
-simswikicom:
-  url: 'thesimswiki.com'
-  redirect: 'www.thesimswiki.com'
-  ca: 'Cloudflare'
-  sslname: 'miraheze-origin-cert'
 wwwlgbtqiawiki:
   url: 'www.lgbtqia.wiki'
   redirect: 'lgbtqia.wiki'
