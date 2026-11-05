@@ -2226,6 +2226,11 @@ sonaponawiki_autoredirect:
   redirect: sona.pona.la
   ca: Cloudflare
   sslname: miraheze-origin-cert
+spacecatswiki_autoredirect:
+  url: spacecats.miraheze.org
+  redirect: space-cats.eu
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 spacecraftwiki_autoredirect:
   url: spacecraft.miraheze.org
   redirect: spacecraft.wiki
