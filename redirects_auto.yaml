@@ -4398,6 +4398,12 @@ stopxwiki_autoredirect:
   redirect: tekannabrand.org
   sslname: miraheze-origin-cert
   url: stopx.miraheze.org
+storytimewiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-11-07T22:00:21.906238+00:00'
+  redirect: storytime.jdstroy.yi.org
+  sslname: miraheze-origin-cert
+  url: storytime.miraheze.org
 strangereonswiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
