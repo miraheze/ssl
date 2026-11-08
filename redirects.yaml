@@ -3711,6 +3711,11 @@ ohmenwiki_autoredirect:
   redirect: wiki.ohmen.online
   ca: Cloudflare
   sslname: miraheze-origin-cert
+omniblockswiki_autoredirect:
+  url: omniblocks.miraheze.org
+  redirect: wiki.omniblocks.org
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 omnicodexwiki_autoredirect:
   url: omnicodex.miraheze.org
   redirect: wiki.omnicodex.net
