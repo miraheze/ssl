@@ -2266,6 +2266,11 @@ steemwiki_autoredirect:
   redirect: steem.wiki
   ca: Cloudflare
   sslname: miraheze-origin-cert
+storytimewiki_autoredirect:
+  url: storytime.miraheze.org
+  redirect: storytime.jdstroy.yi.org
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 strinovawiki_autoredirect:
   url: strinova.miraheze.org
   redirect: strinova.org
