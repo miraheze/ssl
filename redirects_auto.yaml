@@ -1350,6 +1350,12 @@ earthsupremacywiki_autoredirect:
   redirect: wiki.earthsupremacy.com
   sslname: miraheze-origin-cert
   url: earthsupremacy.miraheze.org
+eastbunnyhopwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-11-08T05:00:13.741756+00:00'
+  redirect: wiki.bunnyscouts.net
+  sslname: miraheze-origin-cert
+  url: eastbunnyhop.miraheze.org
 eatonrecoverywiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
