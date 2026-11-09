@@ -1326,6 +1326,12 @@ duaxewiki_autoredirect:
   redirect: duaxe.vn
   sslname: miraheze-origin-cert
   url: duaxe.miraheze.org
+duetnightabysswiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-11-09T17:30:19.038400+00:00'
+  redirect: phoxhunters.com
+  sslname: miraheze-origin-cert
+  url: duetnightabyss.miraheze.org
 dunepediawiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
