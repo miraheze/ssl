@@ -3192,6 +3192,12 @@ northgardwiki_autoredirect:
   redirect: northgard.wiki
   sslname: miraheze-origin-cert
   url: northgard.miraheze.org
+northmistwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-11-09T15:30:23.902874+00:00'
+  redirect: northmist.wiki
+  sslname: miraheze-origin-cert
+  url: northmist.miraheze.org
 norvalerepublicwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-08-01T21:00:14.309997+00:00'
