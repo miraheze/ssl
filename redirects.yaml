@@ -1936,6 +1936,11 @@ phightingwiki_autoredirect:
   redirect: phighting.wiki
   ca: Cloudflare
   sslname: miraheze-origin-cert
+duetnightabysswiki_autoredirect:
+  url: duetnightabyss.miraheze.org
+  redirect: phoxhunters.com
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 pickaxegamewiki_autoredirect:
   url: pickaxegame.miraheze.org
   redirect: pickaxe.showierdata.xyz
