@@ -4626,6 +4626,12 @@ theenglishlakeswiki_autoredirect:
   redirect: theenglishlakes.uk
   sslname: miraheze-origin-cert
   url: theenglishlakes.miraheze.org
+thefallwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-11-12T10:00:27.867898+00:00'
+  redirect: wiki.namesriley.com
+  sslname: miraheze-origin-cert
+  url: thefall.miraheze.org
 theforesterswiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-10-17T14:00:20.586987+00:00'
