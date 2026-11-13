@@ -690,12 +690,6 @@ buocwiki_autoredirect:
   redirect: buoc.f5.si
   sslname: miraheze-origin-cert
   url: buoc.miraheze.org
-campaignlabwiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-07-17T13:23:06.331041+00:00'
-  redirect: thepolicyhub.org.uk
-  sslname: miraheze-origin-cert
-  url: campaignlab.miraheze.org
 capoeirawiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-08-20T01:29:15.436093+00:00'

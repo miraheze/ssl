@@ -2391,11 +2391,6 @@ theomegaparadoxwiki_autoredirect:
   redirect: theomegaparadox.com
   ca: Cloudflare
   sslname: miraheze-origin-cert
-campaignlabwiki_autoredirect:
-  url: campaignlab.miraheze.org
-  redirect: thepolicyhub.org.uk
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
 theutopiawiki_autoredirect:
   url: theutopia.miraheze.org
   redirect: theutopia.wiki
