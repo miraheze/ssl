@@ -3641,6 +3641,11 @@ ehswiki_autoredirect:
   redirect: wiki.myehs.eu
   ca: Cloudflare
   sslname: miraheze-origin-cert
+thefallwiki_autoredirect:
+  url: thefall.miraheze.org
+  redirect: wiki.namesriley.com
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 namowiki_autoredirect:
   url: namo.miraheze.org
   redirect: wiki.namoalliance.org
