@@ -3258,6 +3258,12 @@ nwwiki_autoredirect:
   redirect: neurowide.cc.cd
   sslname: miraheze-origin-cert
   url: nw.miraheze.org
+ocmcomicwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-11-14T21:30:18.036714+00:00'
+  redirect: ocmwiki.badbunsen.com
+  sslname: miraheze-origin-cert
+  url: ocmcomic.miraheze.org
 oculiswiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
