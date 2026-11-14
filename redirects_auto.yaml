@@ -3150,6 +3150,12 @@ nirminiwiki_autoredirect:
   redirect: wiki.nirmini.dev
   sslname: miraheze-origin-cert
   url: nirmini.miraheze.org
+nlnojwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-11-14T05:00:20.825378+00:00'
+  redirect: help.nlnoj.top
+  sslname: miraheze-origin-cert
+  url: nlnoj.miraheze.org
 nlxlivingwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
