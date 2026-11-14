@@ -2148,6 +2148,12 @@ homelandwikiwiki_autoredirect:
   redirect: wiki.homelandsurvival.pp.ua
   sslname: miraheze-origin-cert
   url: homelandwiki.miraheze.org
+hookedwikiwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-11-14T12:30:20.085539+00:00'
+  redirect: hookedwiki.org
+  sslname: miraheze-origin-cert
+  url: hookedwiki.miraheze.org
 hoolehistoryheritagesocietywiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
