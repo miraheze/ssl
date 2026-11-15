@@ -4914,6 +4914,12 @@ umemorywiki_autoredirect:
   redirect: umemory.maastrichtuniversity.nl
   sslname: miraheze-origin-cert
   url: umemory.miraheze.org
+undergroundvictoriawiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-11-15T04:00:19.710702+00:00'
+  redirect: victoriawiki.com
+  sslname: miraheze-origin-cert
+  url: undergroundvictoria.miraheze.org
 unitedlandswiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
