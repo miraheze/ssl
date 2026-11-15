@@ -1336,6 +1336,11 @@ hololivewiki_autoredirect:
   redirect: hololive.wiki
   ca: Cloudflare
   sslname: miraheze-origin-cert
+hookedwikiwiki_autoredirect:
+  url: hookedwiki.miraheze.org
+  redirect: hookedwiki.org
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 recaptimesquadwiki_autoredirect:
   url: recaptimesquad.miraheze.org
   redirect: hq.recaptime.dev
