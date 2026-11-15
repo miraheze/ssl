@@ -2933,7 +2933,7 @@ cclwiki_autoredirect:
   sslname: miraheze-origin-cert
 cowglwiki_autoredirect:
   url: cowgl.miraheze.org
-  redirect: wiki.cowgl.tech
+  redirect: wiki.cowgl.de
   ca: Cloudflare
   sslname: miraheze-origin-cert
 cphorizonwiki_autoredirect:
