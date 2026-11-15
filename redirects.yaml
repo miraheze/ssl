@@ -1836,6 +1836,11 @@ yumekawiki_autoredirect:
   redirect: oc.yumeka.xyz
   ca: Cloudflare
   sslname: miraheze-origin-cert
+ocmcomicwiki_autoredirect:
+  url: ocmcomic.miraheze.org
+  redirect: ocmwiki.badbunsen.com
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 officialbetrayedwiki_autoredirect:
   url: officialbetrayed.miraheze.org
   redirect: officialbetrayed.com
