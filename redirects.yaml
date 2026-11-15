@@ -1311,6 +1311,11 @@ hccwiwiki_autoredirect:
   redirect: hccwi.deipdc.cn
   ca: Cloudflare
   sslname: miraheze-origin-cert
+nlnojwiki_autoredirect:
+  url: nlnoj.miraheze.org
+  redirect: help.nlnoj.top
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 waldronhistorywiki_autoredirect:
   url: waldronhistory.miraheze.org
   redirect: history.waldronarkansas.com
