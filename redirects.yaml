@@ -2546,6 +2546,11 @@ heraldofspringwiki_autoredirect:
   redirect: verdrenna.fans
   ca: Cloudflare
   sslname: miraheze-origin-cert
+undergroundvictoriawiki_autoredirect:
+  url: undergroundvictoria.miraheze.org
+  redirect: victoriawiki.com
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 visewiki_autoredirect:
   url: vise.miraheze.org
   redirect: vise.dayid.org
