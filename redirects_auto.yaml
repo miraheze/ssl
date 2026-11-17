@@ -4872,6 +4872,12 @@ twistwoodtaleswiki_autoredirect:
   redirect: www.twistwoodtales.wiki
   sslname: miraheze-origin-cert
   url: twistwoodtales.miraheze.org
+typeswiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-11-17T19:00:23.831986+00:00'
+  redirect: typedia.org
+  sslname: miraheze-origin-cert
+  url: types.miraheze.org
 uavolunteerresourceswiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
@@ -5280,6 +5286,12 @@ wotwiki_autoredirect:
   redirect: fans.wot.wiki
   sslname: miraheze-origin-cert
   url: wot.miraheze.org
+wplacewiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-11-17T19:00:23.831986+00:00'
+  redirect: wikiplace.live
+  sslname: miraheze-origin-cert
+  url: wplace.miraheze.org
 wthwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
