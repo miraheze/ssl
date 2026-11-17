@@ -4806,11 +4806,6 @@ nrcwiki_autoredirect:
   redirect: www.rocopedia.org
   ca: Cloudflare
   sslname: miraheze-origin-cert
-secretuniversewikiwiki_autoredirect:
-  url: secretuniversewiki.miraheze.org
-  redirect: www.secretuniverse.wiki
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
 projectsekaiwiki_autoredirect:
   url: projectsekai.miraheze.org
   redirect: www.sekaipedia.org

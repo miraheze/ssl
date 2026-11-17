@@ -4128,12 +4128,6 @@ secondrenaissancewiki_autoredirect:
   redirect: wiki.secondrenaissance.net
   sslname: miraheze-origin-cert
   url: secondrenaissance.miraheze.org
-secretuniversewikiwiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-07-17T13:23:06.331041+00:00'
-  redirect: www.secretuniverse.wiki
-  sslname: miraheze-origin-cert
-  url: secretuniversewiki.miraheze.org
 seildirectorywiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
