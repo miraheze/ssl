@@ -4866,6 +4866,12 @@ tulpawiki_autoredirect:
   redirect: wiki.tulpa.info
   sslname: miraheze-origin-cert
   url: tulpa.miraheze.org
+turkishmappingwikiwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-11-18T23:00:17.993663+00:00'
+  redirect: tr.mappingwiki.org
+  sslname: miraheze-origin-cert
+  url: turkishmappingwiki.miraheze.org
 tuscriaturaswiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
