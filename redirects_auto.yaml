@@ -1446,6 +1446,12 @@ elgeiswiki_autoredirect:
   redirect: wiki.elgeis.com
   sslname: miraheze-origin-cert
   url: elgeis.miraheze.org
+elricpediawiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-11-18T19:00:21.939964+00:00'
+  redirect: elricpedia.sbs
+  sslname: miraheze-origin-cert
+  url: elricpedia.miraheze.org
 elsterclopediewiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
