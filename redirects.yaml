@@ -901,6 +901,11 @@ duaxedapwiki_autoredirect:
   redirect: duaxedap.vn
   ca: Cloudflare
   sslname: miraheze-origin-cert
+duckcreekwikiwiki_autoredirect:
+  url: duckcreekwiki.miraheze.org
+  redirect: duckwiki.kaatz.co.uk
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 dunepediawiki_autoredirect:
   url: dunepedia.miraheze.org
   redirect: dunepedia.net
