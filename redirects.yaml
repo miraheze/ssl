@@ -2471,6 +2471,11 @@ twilightstrugglewiki_autoredirect:
   redirect: twilightstruggle.wiki
   ca: Cloudflare
   sslname: miraheze-origin-cert
+typeswiki_autoredirect:
+  url: types.miraheze.org
+  redirect: typedia.org
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 mskradcuwiki_autoredirect:
   url: mskradcu.miraheze.org
   redirect: ucmskrad.com
@@ -4489,6 +4494,11 @@ fishwikiwiki_autoredirect:
 mortiawiki_autoredirect:
   url: mortia.miraheze.org
   redirect: wikiofmortia.powerikun.com
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
+wplacewiki_autoredirect:
+  url: wplace.miraheze.org
+  redirect: wikiplace.live
   ca: Cloudflare
   sslname: miraheze-origin-cert
 wildterra2wiki_autoredirect:
