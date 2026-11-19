@@ -2441,6 +2441,11 @@ toucanywiki_autoredirect:
   redirect: toucany.info
   ca: Cloudflare
   sslname: miraheze-origin-cert
+turkishmappingwikiwiki_autoredirect:
+  url: turkishmappingwiki.miraheze.org
+  redirect: tr.mappingwiki.org
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 transgenderwiki_autoredirect:
   url: transgender.miraheze.org
   redirect: transgender.wiki
