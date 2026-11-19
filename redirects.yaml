@@ -956,6 +956,11 @@ agorawiki_autoredirect:
   redirect: elovillo.org
   ca: Cloudflare
   sslname: miraheze-origin-cert
+elricpediawiki_autoredirect:
+  url: elricpedia.miraheze.org
+  redirect: elricpedia.sbs
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 elsterclopediewiki_autoredirect:
   url: elsterclopedie.miraheze.org
   redirect: elsterclopedie.marithaime.nl
