@@ -5427,7 +5427,7 @@ zhdoorswiki_autoredirect:
 zhsoulframewiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-11-18T07:30:17.790704+00:00'
-  redirect: wiki.soulframe.com.cn
+  redirect: wiki.cathal.cn
   sslname: miraheze-origin-cert
   url: zhsoulframe.miraheze.org
 zhtardiswiki_autoredirect:

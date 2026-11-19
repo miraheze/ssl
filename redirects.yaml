@@ -2881,6 +2881,11 @@ caspergamingwiki_autoredirect:
   redirect: wiki.caspergaming.com
   ca: Cloudflare
   sslname: miraheze-origin-cert
+zhsoulframewiki_autoredirect:
+  url: zhsoulframe.miraheze.org
+  redirect: wiki.cathal.cn
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 cdntenniswiki_autoredirect:
   url: cdntennis.miraheze.org
   redirect: wiki.cdntennis.ca
@@ -4089,11 +4094,6 @@ solarconquestwiki_autoredirect:
 unleashedspeedrunningwiki_autoredirect:
   url: unleashedspeedrunning.miraheze.org
   redirect: wiki.sonicunleashed.org
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
-zhsoulframewiki_autoredirect:
-  url: zhsoulframe.miraheze.org
-  redirect: wiki.soulframe.com.cn
   ca: Cloudflare
   sslname: miraheze-origin-cert
 soulframeruwiki_autoredirect:
