@@ -4091,6 +4091,11 @@ unleashedspeedrunningwiki_autoredirect:
   redirect: wiki.sonicunleashed.org
   ca: Cloudflare
   sslname: miraheze-origin-cert
+zhsoulframewiki_autoredirect:
+  url: zhsoulframe.miraheze.org
+  redirect: wiki.soulframe.com.cn
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 soulframeruwiki_autoredirect:
   url: soulframeru.miraheze.org
   redirect: wiki.soulframeru.com
