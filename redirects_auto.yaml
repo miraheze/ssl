@@ -3840,12 +3840,6 @@ rayelmwiki_autoredirect:
   redirect: kb.rayelm.ir
   sslname: miraheze-origin-cert
   url: rayelm.miraheze.org
-rbwrwiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-07-17T13:23:06.331041+00:00'
-  redirect: wiki.rbwrcommunity.org
-  sslname: miraheze-origin-cert
-  url: rbwr.miraheze.org
 realitycompromisedwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-08-20T01:29:15.436093+00:00'

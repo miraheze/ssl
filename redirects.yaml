@@ -3951,11 +3951,6 @@ robloxbroadcastingcorpwiki_autoredirect:
   redirect: wiki.rbctelevision.org
   ca: Cloudflare
   sslname: miraheze-origin-cert
-rbwrwiki_autoredirect:
-  url: rbwr.miraheze.org
-  redirect: wiki.rbwrcommunity.org
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
 jafawiki_autoredirect:
   url: jafa.miraheze.org
   redirect: wiki.redzombie.net
