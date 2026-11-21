@@ -420,12 +420,6 @@ bangunwiki_autoredirect:
   redirect: wiki.dwx.my.id
   sslname: miraheze-origin-cert
   url: bangun.miraheze.org
-barperversewiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-07-17T13:23:06.331041+00:00'
-  redirect: wiki.dessie.xyz
-  sslname: miraheze-origin-cert
-  url: barperverse.miraheze.org
 basealterhumainewiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
@@ -750,12 +744,6 @@ cgwiki_autoredirect:
   redirect: cg.songngu.xyz
   sslname: miraheze-origin-cert
   url: cg.miraheze.org
-chalacowiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-08-20T01:29:15.436093+00:00'
-  redirect: wiki.chalaco.org
-  sslname: miraheze-origin-cert
-  url: chalaco.miraheze.org
 charliebearswiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
@@ -1128,12 +1116,6 @@ darflenwiki_autoredirect:
   redirect: wiki.darflen.com
   sslname: miraheze-origin-cert
   url: darflen.miraheze.org
-darkwaterswiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-07-17T13:23:06.331041+00:00'
-  redirect: darkwaterswiki.com
-  sslname: miraheze-origin-cert
-  url: darkwaters.miraheze.org
 dataforaiwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
@@ -1536,12 +1518,6 @@ esmappingwikiwiki_autoredirect:
   redirect: es.mappingwiki.org
   sslname: miraheze-origin-cert
   url: esmappingwiki.miraheze.org
-esotronicswiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-07-17T13:23:06.331041+00:00'
-  redirect: wiki.esotronics.org
-  sslname: miraheze-origin-cert
-  url: esotronics.miraheze.org
 esporowiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
@@ -2106,12 +2082,6 @@ hebammenwikiwiki_autoredirect:
   redirect: www.hebammenwiki.de
   sslname: miraheze-origin-cert
   url: hebammenwiki.miraheze.org
-hellmarchwiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-07-17T13:23:06.331041+00:00'
-  redirect: wiki.anabasisrpg.com
-  sslname: miraheze-origin-cert
-  url: hellmarch.miraheze.org
 heraldofspringwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
@@ -3486,12 +3456,6 @@ peakipediawiki_autoredirect:
   redirect: peakipedia.com
   sslname: miraheze-origin-cert
   url: peakipedia.miraheze.org
-peanutvillemcrpwiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-07-17T13:23:06.331041+00:00'
-  redirect: wiki.peanutville.xyz
-  sslname: miraheze-origin-cert
-  url: peanutvillemcrp.miraheze.org
 pedalhidrograficowiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
@@ -3882,12 +3846,6 @@ religiononfirewiki_autoredirect:
   redirect: uk.religiononfire.mar.in.ua
   sslname: miraheze-origin-cert
   url: religiononfire.miraheze.org
-removededmsongswiki_autoredirect:
-  ca: Cloudflare
-  first_seen: '2026-08-20T01:29:15.436093+00:00'
-  redirect: removededm.com
-  sslname: miraheze-origin-cert
-  url: removededmsongs.miraheze.org
 renegadesquirrelwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'

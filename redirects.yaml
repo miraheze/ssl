@@ -806,11 +806,6 @@ cyberlawwiki_autoredirect:
   redirect: cyberlaw.ccdcoe.org
   ca: Cloudflare
   sslname: miraheze-origin-cert
-darkwaterswiki_autoredirect:
-  url: darkwaters.miraheze.org
-  redirect: darkwaterswiki.com
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
 nbdbwiki_autoredirect:
   url: nbdb.miraheze.org
   redirect: data.nonbinary.wiki
@@ -2116,11 +2111,6 @@ crazynoisyremixtreewiki_autoredirect:
   redirect: remix.shards.blue
   ca: Cloudflare
   sslname: miraheze-origin-cert
-removededmsongswiki_autoredirect:
-  url: removededmsongs.miraheze.org
-  redirect: removededm.com
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
 restorywiki_autoredirect:
   url: restory.miraheze.org
   redirect: restory.wiki
@@ -2701,11 +2691,6 @@ amplicitywiki_autoredirect:
   redirect: wiki.amplicity.fr
   ca: Cloudflare
   sslname: miraheze-origin-cert
-hellmarchwiki_autoredirect:
-  url: hellmarch.miraheze.org
-  redirect: wiki.anabasisrpg.com
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
 animelegacywiki_autoredirect:
   url: animelegacy.miraheze.org
   redirect: wiki.anime-legacy.com
@@ -2906,11 +2891,6 @@ celaronmcwiki_autoredirect:
   redirect: wiki.celarionmc.com
   ca: Cloudflare
   sslname: miraheze-origin-cert
-chalacowiki_autoredirect:
-  url: chalaco.miraheze.org
-  redirect: wiki.chalaco.org
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
 thewhiteroomwiki_autoredirect:
   url: thewhiteroom.miraheze.org
   redirect: wiki.chevrine.com
@@ -3051,11 +3031,6 @@ demondealswiki_autoredirect:
   redirect: wiki.demondeals.org
   ca: Cloudflare
   sslname: miraheze-origin-cert
-barperversewiki_autoredirect:
-  url: barperverse.miraheze.org
-  redirect: wiki.dessie.xyz
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
 diamondfirewiki_autoredirect:
   url: diamondfire.miraheze.org
   redirect: wiki.dfonline.dev
@@ -3154,11 +3129,6 @@ epikijetesantakaluwiki_autoredirect:
 ercavawiki_autoredirect:
   url: ercava.miraheze.org
   redirect: wiki.erc.my.id
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
-esotronicswiki_autoredirect:
-  url: esotronics.miraheze.org
-  redirect: wiki.esotronics.org
   ca: Cloudflare
   sslname: miraheze-origin-cert
 estforwiki_autoredirect:
@@ -3834,11 +3804,6 @@ havenwiki_autoredirect:
 peacefulvanillaclubwiki_autoredirect:
   url: peacefulvanillaclub.miraheze.org
   redirect: wiki.peacefulvanilla.club
-  ca: Cloudflare
-  sslname: miraheze-origin-cert
-peanutvillemcrpwiki_autoredirect:
-  url: peanutvillemcrp.miraheze.org
-  redirect: wiki.peanutville.xyz
   ca: Cloudflare
   sslname: miraheze-origin-cert
 pmodwiki_autoredirect:
