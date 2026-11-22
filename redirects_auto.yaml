@@ -1920,6 +1920,12 @@ gielinorgameswiki_autoredirect:
   redirect: gielinorgames.wiki
   sslname: miraheze-origin-cert
   url: gielinorgames.miraheze.org
+gildrookwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-11-22T17:30:17.519541+00:00'
+  redirect: wiki.gildrook.com
+  sslname: miraheze-origin-cert
+  url: gildrook.miraheze.org
 gimkitwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-08-20T01:29:15.436093+00:00'
