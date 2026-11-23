@@ -1962,6 +1962,12 @@ goldennationsremasteredwiki_autoredirect:
   redirect: wiki.goldennations.xyz
   sslname: miraheze-origin-cert
   url: goldennationsremastered.miraheze.org
+goliathretwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-11-23T01:30:15.807326+00:00'
+  redirect: wiki.goliathret.dev
+  sslname: miraheze-origin-cert
+  url: goliathret.miraheze.org
 googleballswikiwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
