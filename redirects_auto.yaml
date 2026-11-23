@@ -2292,6 +2292,12 @@ ivycombwiki_autoredirect:
   redirect: wiki.ivy.cm
   sslname: miraheze-origin-cert
   url: ivycomb.miraheze.org
+jabronibrawlwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-11-23T05:30:16.549961+00:00'
+  redirect: fartcops.com
+  sslname: miraheze-origin-cert
+  url: jabronibrawl.miraheze.org
 jackboxgameswiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
