@@ -5022,6 +5022,12 @@ velorenwiki_autoredirect:
   redirect: wiki.veloren.net
   sslname: miraheze-origin-cert
   url: veloren.miraheze.org
+verditewiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-11-23T16:30:19.463499+00:00'
+  redirect: wiki.verdite.org
+  sslname: miraheze-origin-cert
+  url: verdite.miraheze.org
 visewiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
