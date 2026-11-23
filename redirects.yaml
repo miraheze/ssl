@@ -3291,6 +3291,11 @@ genzmarocwiki_autoredirect:
   redirect: wiki.genzmaroc.com
   ca: Cloudflare
   sslname: miraheze-origin-cert
+gildrookwiki_autoredirect:
+  url: gildrook.miraheze.org
+  redirect: wiki.gildrook.com
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 globasawiki_autoredirect:
   url: globasa.miraheze.org
   redirect: wiki.globasa.net
