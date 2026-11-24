@@ -1101,6 +1101,11 @@ fareverwiki_autoredirect:
   redirect: farever.wiki
   ca: Cloudflare
   sslname: miraheze-origin-cert
+jabronibrawlwiki_autoredirect:
+  url: jabronibrawl.miraheze.org
+  redirect: fartcops.com
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 farthestfrontierwiki_autoredirect:
   url: farthestfrontier.miraheze.org
   redirect: farthestfrontier.wiki
