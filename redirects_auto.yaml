@@ -2700,6 +2700,12 @@ ludopediawiki_autoredirect:
   redirect: wiki.ludopedia.pl
   sslname: miraheze-origin-cert
   url: ludopedia.miraheze.org
+lumapediawiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-11-24T15:30:23.305525+00:00'
+  redirect: lumapedia.net
+  sslname: miraheze-origin-cert
+  url: lumapedia.miraheze.org
 lumbertycoon2wiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-09-25T13:00:19.863658+00:00'
