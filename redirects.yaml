@@ -4331,6 +4331,11 @@ velorenwiki_autoredirect:
   redirect: wiki.veloren.net
   ca: Cloudflare
   sslname: miraheze-origin-cert
+verditewiki_autoredirect:
+  url: verdite.miraheze.org
+  redirect: wiki.verdite.org
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 snowvalleywiki_autoredirect:
   url: snowvalley.miraheze.org
   redirect: wiki.voltsec.xyz
