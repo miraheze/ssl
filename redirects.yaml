@@ -1601,6 +1601,11 @@ lumbertycoon2wiki_autoredirect:
   redirect: lt2.wiki
   ca: Cloudflare
   sslname: miraheze-origin-cert
+lumapediawiki_autoredirect:
+  url: lumapedia.miraheze.org
+  redirect: lumapedia.net
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 macwrenchwiki_autoredirect:
   url: macwrench.miraheze.org
   redirect: macwrench.de
