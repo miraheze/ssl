@@ -3252,6 +3252,12 @@ nullscapewiki_autoredirect:
   redirect: nullscape.wiki
   sslname: miraheze-origin-cert
   url: nullscape.miraheze.org
+numinalarpwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-11-25T19:30:21.743053+00:00'
+  redirect: numinalarpwiki.com
+  sslname: miraheze-origin-cert
+  url: numinalarp.miraheze.org
 nuredwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
