@@ -1841,6 +1841,11 @@ nullscapewiki_autoredirect:
   redirect: nullscape.wiki
   ca: Cloudflare
   sslname: miraheze-origin-cert
+numinalarpwiki_autoredirect:
+  url: numinalarp.miraheze.org
+  redirect: numinalarpwiki.com
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 nuredwiki_autoredirect:
   url: nured.miraheze.org
   redirect: nured.org
