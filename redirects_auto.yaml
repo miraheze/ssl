@@ -3564,6 +3564,12 @@ placewikiwiki_autoredirect:
   redirect: place-wiki.stefanocoding.me
   sslname: miraheze-origin-cert
   url: placewiki.miraheze.org
+planetabeisbolwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-11-26T22:30:14.807313+00:00'
+  redirect: wiki.planetabeisbol.com
+  sslname: miraheze-origin-cert
+  url: planetabeisbol.miraheze.org
 playentrywiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
