@@ -3851,6 +3851,11 @@ pixiehollowrewrittenwiki_autoredirect:
   redirect: wiki.pixiehollowrewritten.com
   ca: Cloudflare
   sslname: miraheze-origin-cert
+planetabeisbolwiki_autoredirect:
+  url: planetabeisbol.miraheze.org
+  redirect: wiki.planetabeisbol.com
+  ca: Cloudflare
+  sslname: miraheze-origin-cert
 ppcwiki_autoredirect:
   url: ppc.miraheze.org
   redirect: wiki.plotprotectors.org
