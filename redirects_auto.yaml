@@ -3030,6 +3030,12 @@ mysticawikiwiki_autoredirect:
   redirect: mysticawiki.org
   sslname: miraheze-origin-cert
   url: mysticawiki.miraheze.org
+mythologenyawiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-11-28T06:30:18.764165+00:00'
+  redirect: mythologenya.org
+  sslname: miraheze-origin-cert
+  url: mythologenya.miraheze.org
 n64wiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-07-17T13:23:06.331041+00:00'
