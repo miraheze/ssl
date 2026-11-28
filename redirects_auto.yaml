@@ -1110,6 +1110,12 @@ danvswiki_autoredirect:
   redirect: wiki.danvs.net
   sslname: miraheze-origin-cert
   url: danvs.miraheze.org
+daranniwiki_autoredirect:
+  ca: Cloudflare
+  first_seen: '2026-11-28T01:00:20.245098+00:00'
+  redirect: daranni.shivaswolke.de
+  sslname: miraheze-origin-cert
+  url: daranni.miraheze.org
 darflenwiki_autoredirect:
   ca: Cloudflare
   first_seen: '2026-08-20T01:29:15.436093+00:00'
